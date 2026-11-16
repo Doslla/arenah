@@ -1,0 +1,761 @@
+achat_id,date,libelle_cahier,produit_fr,nom_malagasy,categorie,sous_categorie,quantite,quantite_val,quantite_unite,quantite_estimee,prix_ar,prix_unitaire_ar,prix_ref_unitaire_ar,ecart_prix_ref,prix_anormal,lot_origine,montant_ventile_estime,date_estimee,valeur_corrigee,ligne_estimee,reglement_fournisseur,hors_ingredients,a_verifier,certitude_libelle,remarque,source
+1,2026-04-08,Whisky,Whisky,,boissons,alcool,,,,False,150000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+2,2026-04-08,"Lot : gingembre 0,5 kg, oignon 5 kg, pomme de terre, persil, oignon vert, céleri, basilic, blanc de poulet 3 kg",Gingembre,Sakamalao,legumes_herbes,condiment,,0.5,kg,False,5100,10200.0,10000.0,1.02,False,"Lot : gingembre 0,5 kg, oignon 5 kg, pomme de terre, persil, oignon vert, céleri, basilic, blanc de poulet 3 kg",True,False,False,False,False,False,False,utilisateur,un seul montant pour le lot,reel_cahier_ventile
+3,2026-04-08,"Lot : gingembre 0,5 kg, oignon 5 kg, pomme de terre, persil, oignon vert, céleri, basilic, blanc de poulet 3 kg",Oignon,Tongolo,legumes_herbes,légume,,5.0,kg,False,30900,6180.0,6000.0,1.03,False,"Lot : gingembre 0,5 kg, oignon 5 kg, pomme de terre, persil, oignon vert, céleri, basilic, blanc de poulet 3 kg",True,False,False,False,False,False,False,utilisateur,un seul montant pour le lot,reel_cahier_ventile
+4,2026-04-08,"Lot : gingembre 0,5 kg, oignon 5 kg, pomme de terre, persil, oignon vert, céleri, basilic, blanc de poulet 3 kg",Pomme de terre,Ovy,legumes_herbes,féculent,,10.0,kg,False,36000,3600.0,3500.0,1.03,False,"Lot : gingembre 0,5 kg, oignon 5 kg, pomme de terre, persil, oignon vert, céleri, basilic, blanc de poulet 3 kg",True,False,False,False,False,False,False,utilisateur,un seul montant pour le lot,reel_cahier_ventile
+5,2026-04-08,"Lot : gingembre 0,5 kg, oignon 5 kg, pomme de terre, persil, oignon vert, céleri, basilic, blanc de poulet 3 kg",Persil,,legumes_herbes,herbe aromatique,,1.0,botte,False,1000,1000.0,,,False,"Lot : gingembre 0,5 kg, oignon 5 kg, pomme de terre, persil, oignon vert, céleri, basilic, blanc de poulet 3 kg",True,False,False,False,False,False,False,utilisateur,un seul montant pour le lot,reel_cahier_ventile
+6,2026-04-08,"Lot : gingembre 0,5 kg, oignon 5 kg, pomme de terre, persil, oignon vert, céleri, basilic, blanc de poulet 3 kg",Oignon vert,Tongolo maintso,legumes_herbes,herbe aromatique,,1.0,botte,False,2100,2100.0,,,False,"Lot : gingembre 0,5 kg, oignon 5 kg, pomme de terre, persil, oignon vert, céleri, basilic, blanc de poulet 3 kg",True,False,False,False,False,False,False,utilisateur,un seul montant pour le lot,reel_cahier_ventile
+7,2026-04-08,"Lot : gingembre 0,5 kg, oignon 5 kg, pomme de terre, persil, oignon vert, céleri, basilic, blanc de poulet 3 kg",Céleri,,legumes_herbes,herbe aromatique,,1.0,botte,False,1000,1000.0,,,False,"Lot : gingembre 0,5 kg, oignon 5 kg, pomme de terre, persil, oignon vert, céleri, basilic, blanc de poulet 3 kg",True,False,False,False,False,False,False,utilisateur,un seul montant pour le lot,reel_cahier_ventile
+8,2026-04-08,"Lot : gingembre 0,5 kg, oignon 5 kg, pomme de terre, persil, oignon vert, céleri, basilic, blanc de poulet 3 kg",Basilic,,legumes_herbes,herbe aromatique,,1.0,botte,False,2100,2100.0,,,False,"Lot : gingembre 0,5 kg, oignon 5 kg, pomme de terre, persil, oignon vert, céleri, basilic, blanc de poulet 3 kg",True,False,False,False,False,False,False,utilisateur,un seul montant pour le lot,reel_cahier_ventile
+9,2026-04-08,"Lot : gingembre 0,5 kg, oignon 5 kg, pomme de terre, persil, oignon vert, céleri, basilic, blanc de poulet 3 kg",Blanc de poulet,,viande_poisson,volaille,,3.0,kg,False,61800,20600.0,,,False,"Lot : gingembre 0,5 kg, oignon 5 kg, pomme de terre, persil, oignon vert, céleri, basilic, blanc de poulet 3 kg",True,False,False,False,False,False,False,utilisateur,un seul montant pour le lot,reel_cahier_ventile
+10,2026-04-10,Sachet,Sachet,,emballage,sachet,5 pcs,5.0,pièce,False,5000,1000.0,1000.0,1.0,False,,False,False,False,False,False,True,False,utilisateur,,reel_cahier
+11,2026-04-10,Yaourt nature,Yaourt nature,,laitier_oeufs,yaourt,2,2.0,pièce,False,2400,1200.0,1200.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+12,2026-04-10,Lohan'akoho,Tête de poulet,Lohan'akoho,viande_poisson,volaille,,,,False,14000,,,,False,,False,False,False,False,False,False,False,utilisateur,total du jour noté 21400,reel_cahier
+13,2026-04-11,Petit pois,Petit pois,,legumes_herbes,légume,,9.09,kapoaka,True,10000,1100.0,1100.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+14,2026-04-11,Anana,Brèdes (feuilles vertes),Anana,legumes_herbes,légume feuille,,,,False,1500,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+15,2026-04-11,Tsaramaso,Haricot (sec),Tsaramaso,epicerie,légumineuse,"2,5 kp",2.5,kapoaka,False,4000,1600.0,1550.0,1.03,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+16,2026-04-12,Courgette,Courgette,,legumes_herbes,légume,,0.5,kg,True,1000,2000.0,2000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+17,2026-04-12,Salade,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+18,2026-04-12,Beurre,Beurre,,laitier_oeufs,beurre,1,1.0,pièce,False,3000,3000.0,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+19,2026-04-12,Salade,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+20,2026-04-14,Kotomila,Kotomila (non traduit),Kotomila,legumes_herbes,inconnu,,,,False,1000,,,,False,,False,False,False,False,False,False,True,inconnu,"salade 2000 barrée, non reprise",reel_cahier
+21,2026-04-14,Tongolo maintso,Oignon vert,Tongolo maintso,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+22,2026-04-14,Persil,Persil,,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+23,2026-04-14,Tongolo gasy,Ail,Tongolo gasy,legumes_herbes,condiment,,0.33,kg,True,1000,3030.0,3000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+24,2026-04-14,Anamalao,Brède mafane,Anamalao,legumes_herbes,légume feuille,,,,False,500,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+25,2026-04-15,Beurre,Beurre,,laitier_oeufs,beurre,,,,False,3000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+26,2026-04-18,Tomate,Tomate,Voatabia,legumes_herbes,légume,,1.0,kg,True,3000,3000.0,3000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+27,2026-04-18,Karoty,Carotte,Karoty,legumes_herbes,légume,,1.0,kg,True,3000,3000.0,3000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+28,2026-04-18,Anana,Brèdes (feuilles vertes),Anana,legumes_herbes,légume feuille,,,,False,700,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+29,2026-04-18,Ananas,Ananas,,fruits,fruit,1 pc,1.0,pièce,False,2000,2000.0,3000.0,0.67,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+30,2026-04-19,Salade,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,3000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+31,2026-04-19,Voatavo,Courge / citrouille,Voatavo,legumes_herbes,légume,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+32,2026-04-19,Beurre,Beurre,,laitier_oeufs,beurre,,,,False,3000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+33,2026-04-19,Blanc de poulet,Blanc de poulet,,viande_poisson,volaille,,,,False,60000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+34,2026-04-21,Tomate,Tomate,Voatabia,legumes_herbes,légume,,1.0,kg,True,3000,3000.0,3000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+35,2026-04-21,Salade,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,3000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+36,2026-04-21,Salade verte,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,5000,,,,False,,False,False,False,False,False,False,False,utilisateur,"date 22/04 barrée, remplacée par 21/04",reel_cahier
+37,2026-04-21,Pomme de terre,Pomme de terre,Ovy,legumes_herbes,féculent,,10.0,kg,True,35000,3500.0,3500.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+38,2026-04-21,Oignon,Oignon,Tongolo,legumes_herbes,légume,,4.17,kg,True,25000,5995.0,6000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+39,2026-04-21,Oignon vert,Oignon vert,Tongolo maintso,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+40,2026-04-21,Coriandre,Coriandre,,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+41,2026-04-21,Carottes,Carotte,Karoty,legumes_herbes,légume,,2.0,kg,True,6000,3000.0,3000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+42,2026-04-21,Courgettes,Courgette,,legumes_herbes,légume,,2.0,kg,True,4000,2000.0,2000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+43,2026-04-21,Tomates,Tomate,Voatabia,legumes_herbes,légume,,2.0,kg,True,6000,3000.0,3000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+44,2026-04-21,Concombre,Concombre,,legumes_herbes,légume,,2.0,kg,True,4000,2000.0,2000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+45,2026-04-21,Ail,Ail,Tongolo gasy,legumes_herbes,condiment,,3.0,kg,True,9000,3000.0,3000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+46,2026-04-21,Gingembre,Gingembre,Sakamalao,legumes_herbes,condiment,,1.0,kg,True,10000,10000.0,10000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+47,2026-04-21,Chou blanc,Chou blanc,,legumes_herbes,légume,,,,False,2000,,2000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+48,2026-04-21,Persil,Persil,,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+49,2026-04-21,Frais,Frais de transport,,frais_transport,transport marché,,,,False,2000,,,,False,,False,False,False,False,False,True,False,utilisateur,total noté 113000 (111000 + frais 2000),reel_cahier
+50,2026-04-22,Atody (oeufs),Oeuf,Atody,laitier_oeufs,oeuf,90,90.0,pièce,False,63000,700.0,800.0,0.88,False,,False,False,False,False,False,False,False,utilisateur,noté « Vola 22 avril »,reel_cahier
+51,2026-04-23,Beurre,Beurre,,laitier_oeufs,beurre,1,1.0,pièce,False,2500,2500.0,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+52,2026-04-24,ORO,ORO (produit non identifié),,epicerie,inconnu,1,1.0,pièce,False,12000,12000.0,12000.0,1.0,False,,False,False,False,False,False,False,True,inconnu,,reel_cahier
+53,2026-04-24,Yaourt,Yaourt,,laitier_oeufs,yaourt,1,1.0,pièce,False,1100,1100.0,1100.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+54,2026-04-25,Mofo,Pain,Mofo,epicerie,boulangerie,2,2.0,pièce,False,1200,600.0,600.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+55,2026-04-25,Anana,Brèdes (feuilles vertes),Anana,legumes_herbes,légume feuille,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+56,2026-04-25,Patsa mena,Petites crevettes séchées (rouges),Patsa mena,viande_poisson,fruits de mer séchés,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+57,2026-04-25,Yaourt,Yaourt,,laitier_oeufs,yaourt,,,,False,2200,,1100.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+58,2026-04-25,Blanc de poulet,Blanc de poulet,,viande_poisson,volaille,,,,False,60000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+59,2026-04-25,Retrait Madame,Retrait de caisse (Madame),,retrait_caisse,retrait responsable,,,,False,10000,,,,False,,False,False,True,False,False,True,False,utilisateur,"retrait d'argent de la caisse par la responsable « Madame » (corrigé par l'utilisateur le 03/11, auparavant classé cadeau)",reel_cahier
+60,2026-04-26,Beurre,Beurre,,laitier_oeufs,beurre,2,2.0,pièce,False,6000,3000.0,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+61,2026-04-26,Tongolo gasy,Ail,Tongolo gasy,legumes_herbes,condiment,,1.67,kg,True,5000,2994.0,3000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+62,2026-04-26,Voatabia,Tomate,Voatabia,legumes_herbes,légume,,1.0,kg,True,3000,3000.0,3000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+63,2026-04-26,Salade,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,5800,,,,False,,False,False,False,False,False,False,False,utilisateur,confirmé 5800 par l'utilisateur,reel_cahier
+64,2026-04-26,Tongolo maintso,Oignon vert,Tongolo maintso,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+65,2026-04-26,Kotomila,Kotomila (non traduit),Kotomila,legumes_herbes,inconnu,,,,False,1000,,,,False,,False,False,False,False,False,False,True,inconnu,,reel_cahier
+66,2026-04-26,Ail,Ail,Tongolo gasy,legumes_herbes,condiment,,0.67,kg,True,2000,2985.0,3000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+67,2026-04-28,Tsaramaso,Haricot (sec),Tsaramaso,epicerie,légumineuse,5 kp,5.0,kapoaka,False,7500,1500.0,1550.0,0.97,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+68,2026-04-28,Beurre,Beurre,,laitier_oeufs,beurre,1,1.0,pièce,False,3000,3000.0,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+69,2026-04-28,Garana,Grenadelle,Garana,fruits,fruit,,1.11,kg,True,5000,4505.0,4500.0,,False,,False,False,False,False,False,False,False,utilisateur,garana = grenadelle (glossaire) / total du jour 15500,reel_cahier
+70,2026-04-29,"Lot : tongotra akoho 1 kg, lohan'akoho 1 kg",Pattes de poulet,Tongotr'akoho,viande_poisson,volaille,,1.0,kg,False,1900,1900.0,,,False,"Lot : tongotra akoho 1 kg, lohan'akoho 1 kg",True,False,False,False,False,False,False,utilisateur,un seul montant pour le lot,reel_cahier_ventile
+71,2026-04-29,"Lot : tongotra akoho 1 kg, lohan'akoho 1 kg",Tête de poulet,Lohan'akoho,viande_poisson,volaille,,1.0,kg,False,26100,26100.0,,,False,"Lot : tongotra akoho 1 kg, lohan'akoho 1 kg",True,False,False,False,False,False,False,utilisateur,un seul montant pour le lot,reel_cahier_ventile
+72,2026-05-02,Vary,Riz,Vary,epicerie,féculent,2 kp,2.0,kapoaka,False,1800,900.0,900.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,confirmé par l'utilisateur,reel_cahier
+73,2026-05-02,Anana,Brèdes (feuilles vertes),Anana,legumes_herbes,légume feuille,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+74,2026-05-02,Patsa mena,Petites crevettes séchées (rouges),Patsa mena,viande_poisson,fruits de mer séchés,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+75,2026-05-02,Goavy,Goyave,Goavy,fruits,fruit,,,,False,1200,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+76,2026-05-02,Goavy,Goyave,Goavy,fruits,fruit,,,,False,2000,,,,False,,False,True,False,False,False,False,True,utilisateur,"bloc sans date après le 02/05, rattaché au 02/05 (à confirmer)",reel_cahier
+77,2026-05-02,Oignon,Oignon,Tongolo,legumes_herbes,légume,1 kg,1.0,kg,False,3000,3000.0,6000.0,0.5,True,,False,True,False,False,False,False,False,utilisateur,bloc sans date / prix bas expliqué par la saison (utilisateur),reel_cahier
+78,2026-05-02,Coriandre,Coriandre,,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,True,False,False,False,False,True,utilisateur,"bloc sans date, à confirmer",reel_cahier
+79,2026-05-02,Tomates,Tomate,Voatabia,legumes_herbes,légume,,1.0,kg,True,3000,3000.0,3000.0,,False,,False,True,False,False,False,False,True,utilisateur,"bloc sans date, à confirmer",reel_cahier
+80,2026-05-02,Salade,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,5000,,,,False,,False,True,False,False,False,False,True,utilisateur,"bloc sans date, à confirmer",reel_cahier
+81,2026-05-02,Beurre,Beurre,,laitier_oeufs,beurre,2,2.0,pièce,False,6000,3000.0,,,False,,False,True,False,False,False,False,True,utilisateur,"bloc sans date, total 21000, à confirmer",reel_cahier
+82,2026-05-06,Ovy,Pomme de terre,Ovy,legumes_herbes,féculent,10 kg,10.0,kg,False,35000,3500.0,3500.0,1.0,False,,False,True,True,False,False,False,False,utilisateur,"bloc sans date avant le 07/05, date estimée / relu « Ovy » (pomme de terre), lu « Vary » en v1",reel_cahier
+83,2026-05-06,Oignon,Oignon,Tongolo,legumes_herbes,légume,5 kg,5.0,kg,False,30000,6000.0,6000.0,1.0,False,,False,True,False,False,False,False,False,utilisateur,date estimée,reel_cahier
+84,2026-05-06,Oignon vert,Oignon vert,Tongolo maintso,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,True,False,False,False,False,False,utilisateur,date estimée,reel_cahier
+85,2026-05-06,Coriandre,Coriandre,,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,True,False,False,False,False,False,utilisateur,date estimée,reel_cahier
+86,2026-05-06,Persil,Persil,,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,True,False,False,False,False,False,utilisateur,date estimée,reel_cahier
+87,2026-05-07,Voanjobory,Pois bambara,Voanjobory,epicerie,légumineuse,5 kp,5.0,kapoaka,False,7000,1400.0,1400.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+88,2026-05-07,Blanc de poulet,Blanc de poulet,,viande_poisson,volaille,3,3.0,pièce,False,60000,20000.0,,,False,,False,False,True,False,False,False,False,utilisateur,"écrit 600000, corrigé par le total du jour 78000",reel_cahier
+89,2026-05-07,Totokena,Viande hachée,Totokena,viande_poisson,boeuf,,0.52,kg,True,11000,21154.0,21000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+90,2026-05-08,Pâte nem,Pâte à nem,,epicerie,pâte,15 sachets,15.0,paquet,False,15000,1000.0,1000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+91,2026-05-08,Oignon vert,Oignon vert,Tongolo maintso,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+92,2026-05-08,Coriandre,Coriandre,,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+93,2026-05-08,Céleri,Céleri,,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+94,2026-05-08,Menthe,Menthe,,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+95,2026-05-08,Carotte,Carotte,Karoty,legumes_herbes,légume,2 kg,2.0,kg,False,6000,3000.0,3000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+96,2026-05-08,Concombre,Concombre,,legumes_herbes,légume,2 kg,2.0,kg,False,6000,3000.0,2000.0,1.5,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+97,2026-05-08,Tomates,Tomate,Voatabia,legumes_herbes,légume,2 kg,2.0,kg,False,6000,3000.0,3000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+98,2026-05-08,Salade verte,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,3000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+99,2026-05-08,Garana,Grenadelle,Garana,fruits,fruit,5 kg,5.0,kg,False,20000,4000.0,4500.0,0.89,False,,False,False,False,False,False,False,False,utilisateur,garana = grenadelle (glossaire),reel_cahier
+100,2026-05-09,Cahier,Cahier,,fournitures,papeterie,,,,False,5000,,,,False,,False,False,False,False,False,True,False,utilisateur,"fourniture, hors ingrédients",reel_cahier
+101,2026-05-09,Mofo,Pain,Mofo,epicerie,boulangerie,1,1.0,pièce,False,600,600.0,600.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+102,2026-05-09,"Ananas, salade",Ananas,,fruits,fruit,,1.0,pièce,False,2500,2500.0,3000.0,0.83,False,"Ananas, salade",True,False,False,False,False,False,False,utilisateur,,reel_cahier_ventile
+103,2026-05-09,"Ananas, salade",Salade (feuilles),,legumes_herbes,légume feuille,,1.0,botte,False,2500,2500.0,,,False,"Ananas, salade",True,False,False,False,False,False,False,utilisateur,,reel_cahier_ventile
+104,2026-05-10,Beurre,Beurre,,laitier_oeufs,beurre,2,2.0,pièce,False,6000,3000.0,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+105,2026-05-13,Anamalao,Brède mafane,Anamalao,legumes_herbes,légume feuille,,,,False,500,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+106,2026-05-14,Salade,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,3000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+107,2026-05-14,Mofo,Pain,Mofo,epicerie,boulangerie,1,1.0,pièce,False,600,600.0,600.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+108,2026-05-14,Cuisse de poulet,Cuisse de poulet,,viande_poisson,volaille,,,,False,60000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+109,2026-05-14,Totokena,Viande hachée,Totokena,viande_poisson,boeuf,,1.0,kg,True,21000,21000.0,21000.0,,False,,False,False,False,False,False,False,False,utilisateur,confirmé par l'utilisateur,reel_cahier
+110,2026-05-16,Anatsonga,Brède anatsonga (non traduit),Anatsonga,legumes_herbes,légume feuille,,,,False,500,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+111,2026-05-16,Karoty,Carotte,Karoty,legumes_herbes,légume,,0.67,kg,True,2000,2985.0,3000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+112,2026-05-16,Tomate,Tomate,Voatabia,legumes_herbes,légume,,0.33,kg,True,1000,3030.0,3000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+113,2026-05-16,Pomme de terre,Pomme de terre,Ovy,legumes_herbes,féculent,10 kg,10.0,kg,False,35000,3500.0,3500.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+114,2026-05-16,Carotte,Carotte,Karoty,legumes_herbes,légume,2 kg,2.0,kg,False,6000,3000.0,3000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+115,2026-05-16,Haricot vert,Haricot vert,Tsaramaso maintso,legumes_herbes,légume,1 kg,1.0,kg,False,4000,4000.0,4000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+116,2026-05-16,Gingembre,Gingembre,Sakamalao,legumes_herbes,condiment,1 kg,1.0,kg,False,10000,10000.0,10000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+117,2026-05-16,Tomates,Tomate,Voatabia,legumes_herbes,légume,2 kg,2.0,kg,False,6000,3000.0,3000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,suite page suivante,reel_cahier
+118,2026-05-16,Poivron,Poivron,,legumes_herbes,légume,1 kg,1.0,kg,False,4000,4000.0,4000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+119,2026-05-16,Salade verte,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,5000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+120,2026-05-16,Citron,Citron,,fruits,agrume,,0.62,kg,True,5000,8065.0,8000.0,,False,,False,False,False,False,False,False,False,utilisateur,total noté 81500 (écart de 3000 : frais non écrits ?),reel_cahier
+121,2026-05-17,Beurre,Beurre,,laitier_oeufs,beurre,1,1.0,pièce,False,3000,3000.0,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+122,2026-05-17,Anana,Brèdes (feuilles vertes),Anana,legumes_herbes,légume feuille,,,,False,500,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+123,2026-05-17,Mofo,Pain,Mofo,epicerie,boulangerie,1,1.0,pièce,False,600,600.0,600.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+124,2026-05-17,Blanc de poulet,Blanc de poulet,,viande_poisson,volaille,1,1.0,pièce,False,60000,60000.0,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+125,2026-05-19,Kofehy,Ficelle,Kofehy,fournitures,ficelle,,,,False,500,,,,False,,False,False,False,False,False,True,False,utilisateur,,reel_cahier
+126,2026-05-19,Céleri,Céleri,,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+127,2026-05-19,Poireau,Poireau,,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,total 2500,reel_cahier
+128,2026-05-21,Thé sahambavy,Thé Sahambavy,,boissons,thé,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+129,2026-05-21,Tongolo maintso,Oignon vert,Tongolo maintso,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+130,2026-05-21,Tongolo,Oignon,Tongolo,legumes_herbes,légume,500 g,0.5,kg,False,3500,7000.0,6000.0,1.17,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+131,2026-05-21,Anguy,Petite aubergine,Angivy,legumes_herbes,légume,,,,False,500,,,,False,,False,False,False,False,False,False,False,utilisateur,suite page suivante,reel_cahier
+132,2026-05-21,Anamalao,Brède mafane,Anamalao,legumes_herbes,légume feuille,,,,False,500,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+133,2026-05-21,Anana,Brèdes (feuilles vertes),Anana,legumes_herbes,légume feuille,,,,False,500,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+134,2026-05-21,Retrait Madame,Retrait de caisse (Madame),,retrait_caisse,retrait responsable,,,,False,5000,,,,False,,False,False,True,False,False,True,False,utilisateur,"retrait d'argent de la caisse par la responsable « Madame » (corrigé par l'utilisateur le 03/11, auparavant classé cadeau)",reel_cahier
+135,2026-05-21,Oignon vert,Oignon vert,Tongolo maintso,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+136,2026-05-21,Coriandre,Coriandre,,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+137,2026-05-21,Pâte nem,Pâte à nem,,epicerie,pâte,,,,False,15000,,1000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+138,2026-05-21,Salade verte,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,5000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+139,2026-05-21,Haricot vert,Haricot vert,Tsaramaso maintso,legumes_herbes,légume,,1.0,kg,True,4000,4000.0,4000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+140,2026-05-21,Grenadelle,Grenadelle,Garana,fruits,fruit,,3.33,kg,True,15000,4505.0,4500.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+141,2026-05-21,Tomate,Tomate,Voatabia,legumes_herbes,légume,,2.0,kg,True,6000,3000.0,3000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+142,2026-05-21,Gingembre,Gingembre,Sakamalao,legumes_herbes,condiment,,1.0,kg,True,10000,10000.0,10000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+143,2026-05-21,Anamalao,Brède mafane,Anamalao,legumes_herbes,légume feuille,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+144,2026-05-21,Carotte,Carotte,Karoty,legumes_herbes,légume,,2.0,kg,True,6000,3000.0,3000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+145,2026-05-21,Courgette,Courgette,,legumes_herbes,légume,,2.0,kg,True,4000,2000.0,2000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+146,2026-05-21,Céleri,Céleri,,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+147,2026-05-21,Poireau,Poireau,,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+148,2026-05-21,Menthe,Menthe,,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+149,2026-05-21,Thym,Thym,,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+150,2026-05-21,Basilic,Basilic,,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+151,2026-05-21,Frais,Frais de transport,,frais_transport,transport marché,,,,False,2000,,,,False,,False,False,False,False,False,True,False,utilisateur,total noté 78000,reel_cahier
+152,2026-05-24,Salade,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,5000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+153,2026-05-24,Tongolo,Oignon,Tongolo,legumes_herbes,légume,,0.58,kg,True,3500,6034.0,6000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+154,2026-05-24,Tongolo maintso,Oignon vert,Tongolo maintso,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+155,2026-05-24,Courgette,Courgette,,legumes_herbes,légume,,0.5,kg,True,1000,2000.0,2000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+156,2026-05-24,Oeufs,Oeuf,Atody,laitier_oeufs,oeuf,100,100.0,pièce,False,70000,700.0,800.0,0.88,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+157,2026-05-24,Tongolo gasy,Ail,Tongolo gasy,legumes_herbes,condiment,,1.0,kg,True,3000,3000.0,3000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+158,2026-05-24,Céleri,Céleri,,legumes_herbes,herbe aromatique,,,,False,500,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+159,2026-05-24,Poireau,Poireau,,legumes_herbes,herbe aromatique,,,,False,500,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+160,2026-05-24,Sachet,Sachet,,emballage,sachet,,,,False,5000,,1000.0,,False,,False,False,False,False,False,True,False,utilisateur,,reel_cahier
+161,2026-05-24,Sachet,Sachet,,emballage,sachet,,,,False,10000,,1000.0,,False,,False,False,False,False,False,True,False,utilisateur,total noté 99500,reel_cahier
+162,2026-05-24,Pomme de terre,Pomme de terre,Ovy,legumes_herbes,féculent,10 kg,10.0,kg,False,35000,3500.0,3500.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,second bloc du 24/05,reel_cahier
+163,2026-05-24,Oignon,Oignon,Tongolo,legumes_herbes,légume,5 kg,5.0,kg,False,30000,6000.0,6000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+164,2026-05-24,Ail,Ail,Tongolo gasy,legumes_herbes,condiment,2 kg,2.0,kg,False,6000,3000.0,3000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+165,2026-05-24,Courgettes,Courgette,,legumes_herbes,légume,2 kg,2.0,kg,False,4000,2000.0,2000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+166,2026-05-24,Tomates,Tomate,Voatabia,legumes_herbes,légume,2 kg,2.0,kg,False,6000,3000.0,3000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+167,2026-05-24,Oignon vert,Oignon vert,Tongolo maintso,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+168,2026-05-24,Coriandre,Coriandre,,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+169,2026-05-24,Grenadelle,Grenadelle,Garana,fruits,fruit,,5.56,kg,True,25000,4496.0,4500.0,,False,,False,False,False,False,False,False,False,utilisateur,total du bloc 113000 (résolu : frais 3000 estimés ajoutés),reel_cahier
+170,2026-05-25,Anana,Brèdes (feuilles vertes),Anana,legumes_herbes,légume feuille,,,,False,500,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+171,2026-05-25,Salade,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,3000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+172,2026-05-25,Mofo gasy,Galette de riz,Mofo gasy,epicerie,boulangerie,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+173,2026-05-27,Salade,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,3000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+174,2026-05-27,Céleri,Céleri,,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+175,2026-05-27,Oignon vert,Oignon vert,Tongolo maintso,legumes_herbes,herbe aromatique,,,,False,4000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+176,2026-05-27,Pomme de terre,Pomme de terre,Ovy,legumes_herbes,féculent,,10.0,kg,True,35000,3500.0,3500.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+177,2026-05-27,Coriandre,Coriandre,,legumes_herbes,herbe aromatique,,,,False,3000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+178,2026-05-27,Poireau,Poireau,,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+179,2026-05-27,Menthe,Menthe,,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+180,2026-05-27,Ail,Ail,Tongolo gasy,legumes_herbes,condiment,,2.0,kg,True,6000,3000.0,3000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+181,2026-05-27,Pâte nem,Pâte à nem,,epicerie,pâte,,,,False,15000,,1000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+182,2026-05-27,Champignon noir,Champignon noir,,epicerie,champignon,,2.0,kapoaka,True,6000,3000.0,3000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+183,2026-05-27,Tomates,Tomate,Voatabia,legumes_herbes,légume,,2.0,kg,True,6000,3000.0,3000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+184,2026-05-27,Frais,Frais de transport,,frais_transport,transport marché,,,,False,3000,,,,False,,False,False,False,False,False,True,False,utilisateur,total noté 85000,reel_cahier
+185,2026-05-28,Fécule de manioc,Fécule de manioc,,epicerie,féculent,,,,False,3000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+186,2026-05-29,Anana,Brèdes (feuilles vertes),Anana,legumes_herbes,légume feuille,,,,False,1400,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+187,2026-05-29,"Lot : lohan'akoho, tongotr'akoho",Pattes de poulet,Tongotr'akoho,viande_poisson,volaille,,1.0,kg,False,1900,1900.0,,,False,"Lot : lohan'akoho, tongotr'akoho",True,False,False,False,False,False,False,utilisateur,total 29400,reel_cahier_ventile
+188,2026-05-29,"Lot : lohan'akoho, tongotr'akoho",Tête de poulet,Lohan'akoho,viande_poisson,volaille,,1.0,kg,False,26100,26100.0,,,False,"Lot : lohan'akoho, tongotr'akoho",True,False,False,False,False,False,False,utilisateur,total 29400,reel_cahier_ventile
+189,2026-05-30,Pomme de terre,Pomme de terre,Ovy,legumes_herbes,féculent,,10.0,kg,True,35000,3500.0,3500.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+190,2026-05-30,Ail,Ail,Tongolo gasy,legumes_herbes,condiment,,2.0,kg,True,6000,3000.0,3000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+191,2026-05-30,Haricot vert,Haricot vert,Tsaramaso maintso,legumes_herbes,légume,,1.0,kg,True,4000,4000.0,4000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+192,2026-05-30,Frais,Frais de transport,,frais_transport,transport marché,,,,False,3000,,,,False,,False,False,False,False,False,True,False,utilisateur,total 48000,reel_cahier
+193,2026-05-31,Petit pois,Petit pois,,legumes_herbes,légume,5 kp,5.0,kapoaka,False,6500,1300.0,1100.0,1.18,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+194,2026-06-02,Salade,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,3000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+195,2026-06-02,Oignon vert,Oignon vert,Tongolo maintso,legumes_herbes,herbe aromatique,,,,False,3000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+196,2026-06-02,Coriandre,Coriandre,,legumes_herbes,herbe aromatique,,,,False,3000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+197,2026-06-02,Céleri,Céleri,,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+198,2026-06-02,Poireau,Poireau,,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,suite page suivante,reel_cahier
+199,2026-06-02,Menthe,Menthe,,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+200,2026-06-02,Pâte nem,Pâte à nem,,epicerie,pâte,,,,False,15000,,1000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+201,2026-06-02,Ail,Ail,Tongolo gasy,legumes_herbes,condiment,,2.0,kg,True,6000,3000.0,3000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+202,2026-06-02,Gingembre,Gingembre,Sakamalao,legumes_herbes,condiment,,1.0,kg,True,10000,10000.0,10000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+203,2026-06-02,Concombre,Concombre,,legumes_herbes,légume,,3.0,kg,True,6000,2000.0,2000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+204,2026-06-02,Courgette,Courgette,,legumes_herbes,légume,,2.0,kg,True,4000,2000.0,2000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+205,2026-06-02,Carotte,Carotte,Karoty,legumes_herbes,légume,,2.0,kg,True,6000,3000.0,3000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+206,2026-06-02,Tomate,Tomate,Voatabia,legumes_herbes,légume,,2.0,kg,True,6000,3000.0,3000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+207,2026-06-02,Salade verte,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,3000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+208,2026-06-02,Frais,Frais de transport,,frais_transport,transport marché,,,,False,3000,,,,False,,False,False,False,False,False,True,True,utilisateur,"noté 65000 + frais 3000 = 68000 (somme des lignes 71000, à vérifier)",reel_cahier
+209,2026-06-03,Oignon,Oignon,Tongolo,legumes_herbes,légume,,1.17,kg,True,7000,5983.0,6000.0,,False,,False,False,False,False,False,False,False,utilisateur,confirmé 7000 par l'utilisateur (lu 1000 ou 7000),reel_cahier
+210,2026-06-03,Anana,Brèdes (feuilles vertes),Anana,legumes_herbes,légume feuille,,,,False,500,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+211,2026-06-06,Citron,Citron,,fruits,agrume,,0.19,kg,True,1500,7895.0,8000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+212,2026-06-06,Oignon,Oignon,Tongolo,legumes_herbes,légume,5 kg,5.0,kg,False,30000,6000.0,6000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+213,2026-06-06,Citron,Citron,,fruits,agrume,,0.62,kg,True,5000,8065.0,8000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+214,2026-06-06,Ail,Ail,Tongolo gasy,legumes_herbes,condiment,,3.0,kg,True,9000,3000.0,3000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+215,2026-06-06,Carottes,Carotte,Karoty,legumes_herbes,légume,,2.0,kg,True,6000,3000.0,3000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+216,2026-06-06,Tomates,Tomate,Voatabia,legumes_herbes,légume,,2.0,kg,True,6000,3000.0,3000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+217,2026-06-06,Salade,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,3000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+218,2026-06-06,Brocoli,Brocoli,,legumes_herbes,légume,,,,False,3000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+219,2026-06-06,Basilic,Basilic,,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+220,2026-06-06,Frais,Frais de transport,,frais_transport,transport marché,,,,False,3000,,,,False,,False,False,False,False,False,True,False,utilisateur,,reel_cahier
+221,2026-06-06,Céleri,Céleri,,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,total noté 69500,reel_cahier
+222,2026-06-07,Beurre,Beurre,,laitier_oeufs,beurre,2,2.0,pièce,False,5000,2500.0,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+223,2026-06-09,Garana,Grenadelle,Garana,fruits,fruit,,5.56,kg,True,25000,4496.0,4500.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+224,2026-06-09,Oignon vert,Oignon vert,Tongolo maintso,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+225,2026-06-09,Coriandre,Coriandre,,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+226,2026-06-09,Salade,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,3000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+227,2026-06-09,Frais,Frais de transport,,frais_transport,transport marché,,,,False,3000,,,,False,,False,False,False,False,False,True,False,utilisateur,total noté 35000,reel_cahier
+228,2026-06-10,Beurre,Beurre,,laitier_oeufs,beurre,,,,False,3000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+229,2026-06-10,Sachet,Sachet,,emballage,sachet,,,,False,500,,1000.0,,False,,False,False,False,False,False,True,False,utilisateur,,reel_cahier
+230,2026-06-10,Tripy (tripes),Tripes,Tripy,viande_poisson,abats,,3.0,kg,True,36000,12000.0,12000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+231,2026-06-10,Blanc de poulet,Blanc de poulet,,viande_poisson,volaille,,,,False,60000,,,,False,,False,False,False,False,False,False,False,utilisateur,total 99500,reel_cahier
+232,2026-06-14,Salade,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+233,2026-06-14,Carottes,Carotte,Karoty,legumes_herbes,légume,2 kg,2.0,kg,False,6000,3000.0,3000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+234,2026-06-14,Haricot vert,Haricot vert,Tsaramaso maintso,legumes_herbes,légume,1 kg,1.0,kg,False,4000,4000.0,4000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+235,2026-06-14,Courgette,Courgette,,legumes_herbes,légume,2 kg,2.0,kg,False,5000,2500.0,2000.0,1.25,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+236,2026-06-14,Tomates,Tomate,Voatabia,legumes_herbes,légume,2 kg,2.0,kg,False,6000,3000.0,3000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+237,2026-06-14,Chou chinois,Chou chinois,,legumes_herbes,légume,1 pc,1.0,pièce,False,1500,1500.0,1500.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+238,2026-06-14,Ail,Ail,Tongolo gasy,legumes_herbes,condiment,3 kg,3.0,kg,False,9000,3000.0,3000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+239,2026-06-14,Oignon vert,Oignon vert,Tongolo maintso,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+240,2026-06-14,Coriandre,Coriandre,,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+241,2026-06-14,Basilic,Basilic,,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+242,2026-06-14,Thym,Thym,,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+243,2026-06-14,Concombre,Concombre,,legumes_herbes,légume,3 kg,3.0,kg,False,6000,2000.0,2000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+244,2026-06-14,Chou blanc,Chou blanc,,legumes_herbes,légume,1 pc,1.0,pièce,False,2000,2000.0,2000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+245,2026-06-14,Chou rouge,Chou rouge,,legumes_herbes,légume,1 pc,1.0,pièce,False,5000,5000.0,5000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+246,2026-06-14,Frais,Frais de transport,,frais_transport,transport marché,,,,False,3000,,,,False,,False,False,False,False,False,True,False,utilisateur,total 57500,reel_cahier
+247,2026-06-16,Sachet,Sachet,,emballage,sachet,,,,False,2000,,1000.0,,False,,False,False,False,False,False,True,False,utilisateur,,reel_cahier
+248,2026-06-16,Beurre,Beurre,,laitier_oeufs,beurre,,,,False,6000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+249,2026-06-18,Akondro,Banane,Akondro,fruits,fruit,,,,False,1500,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+250,2026-06-18,Anamalao,Brède mafane,Anamalao,legumes_herbes,légume feuille,,,,False,500,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+251,2026-06-18,Anguy,Petite aubergine,Angivy,legumes_herbes,légume,,,,False,500,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+252,2026-06-19,Insecticide,Insecticide,,entretien,insecticide,,,,False,13000,,,,False,,False,False,False,False,False,True,False,utilisateur,hors ingrédients,reel_cahier
+253,2026-06-20,Beurre,Beurre,,laitier_oeufs,beurre,1,1.0,pièce,False,3000,3000.0,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+254,2026-06-20,Ovy,Pomme de terre,Ovy,legumes_herbes,féculent,,0.57,kg,True,2000,3509.0,3500.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+255,2026-06-21,Salade,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,3000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+256,2026-06-23,Beurre,Beurre,,laitier_oeufs,beurre,1,1.0,pièce,False,3000,3000.0,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+257,2026-06-23,Insecticide,Insecticide,,entretien,insecticide,,,,False,12000,,,,False,,False,False,False,False,False,True,False,utilisateur,hors ingrédients,reel_cahier
+258,2026-06-24,Anana,Brèdes (feuilles vertes),Anana,legumes_herbes,légume feuille,,,,False,500,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+259,2026-06-24,Poireau,Poireau,,legumes_herbes,herbe aromatique,,,,False,500,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+260,2026-06-24,Voatabia,Tomate,Voatabia,legumes_herbes,légume,,1.0,kg,True,3000,3000.0,3000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+261,2026-06-24,Céleri,Céleri,,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+262,2026-06-24,Champignon de Paris,Champignon de Paris,,legumes_herbes,champignon,,,,False,4500,,,,False,,False,False,False,False,False,False,False,utilisateur,total 9500,reel_cahier
+263,2026-06-25,Persil,Persil,,legumes_herbes,herbe aromatique,,,,False,500,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+264,2026-06-26,Sakamalao,Gingembre,Sakamalao,legumes_herbes,condiment,,0.35,kg,True,3500,10000.0,10000.0,,False,,False,False,True,False,False,False,False,utilisateur,"relu : « Sakamalao » (gingembre), premières lettres raturées, lu « Anamalao » en v1",reel_cahier
+265,2026-06-26,Vary,Riz,Vary,epicerie,féculent,,3.33,kapoaka,True,3000,901.0,900.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+266,2026-06-26,Ananas,Ananas,,fruits,fruit,,,,False,1000,,3000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+267,2026-06-26,Ovy,Pomme de terre,Ovy,legumes_herbes,féculent,,0.43,kg,True,1500,3488.0,3500.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+268,2026-06-26,Voatavo,Courge / citrouille,Voatavo,legumes_herbes,légume,,,,False,500,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+269,2026-06-26,Coriandre,Coriandre,,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+270,2026-06-26,Oignon vert,Oignon vert,Tongolo maintso,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+271,2026-06-26,Carotte,Carotte,Karoty,legumes_herbes,légume,,1.33,kg,True,4000,3008.0,3000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+272,2026-06-26,Persil,Persil,,legumes_herbes,herbe aromatique,,,,False,500,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+273,2026-06-26,Oignon,Oignon,Tongolo,legumes_herbes,légume,,0.42,kg,True,2500,5952.0,6000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+274,2026-06-26,Tomate,Tomate,Voatabia,legumes_herbes,légume,1 kg,1.0,kg,False,3500,3500.0,3000.0,1.17,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+275,2026-06-27,Beurre,Beurre,,laitier_oeufs,beurre,1,1.0,pièce,False,2800,2800.0,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+276,2026-06-27,Sachet,Sachet,,emballage,sachet,,,,False,2000,,1000.0,,False,,False,False,False,False,False,True,False,utilisateur,,reel_cahier
+277,2026-06-27,Salade,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,3000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+278,2026-06-27,Insecticide,Insecticide,,entretien,insecticide,,,,False,11000,,,,False,,False,False,False,False,False,True,False,utilisateur,hors ingrédients,reel_cahier
+279,2026-06-27,Blanc de poulet,Blanc de poulet,,viande_poisson,volaille,,,,False,60000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+280,2026-06-28,Céleri,Céleri,,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+281,2026-06-28,Coriandre,Coriandre,,legumes_herbes,herbe aromatique,,,,False,1500,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+282,2026-06-28,Poireau,Poireau,,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+283,2026-06-28,Salade,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,3000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+284,2026-06-28,Oignon vert,Oignon vert,Tongolo maintso,legumes_herbes,herbe aromatique,,,,False,1500,,,,False,,False,False,False,False,False,False,False,utilisateur,total 9000,reel_cahier
+285,2026-06-30,Beurre,Beurre,,laitier_oeufs,beurre,2,2.0,pièce,False,5400,2700.0,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+286,2026-07-01,Nofony (viande),Viande de boeuf,Nofony,viande_poisson,boeuf,1 kg,1.0,kg,False,21000,21000.0,19000.0,1.11,False,,False,False,False,False,True,False,False,utilisateur,paiement fournisseur « vola semaine du 30/06 au 03/07 »,reel_cahier
+287,2026-07-01,Totokena,Viande hachée,Totokena,viande_poisson,boeuf,1 kg,1.0,kg,False,21000,21000.0,21000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,idem,reel_cahier
+288,2026-07-01,Filet,Filet (viande),,viande_poisson,boeuf,"1,25 kg",1.25,kg,False,28700,22960.0,22960.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,"idem, sous-total 70700",reel_cahier
+289,2026-07-01,Atody (oeufs),Oeuf,Atody,laitier_oeufs,oeuf,100,100.0,pièce,False,76000,760.0,800.0,0.95,False,,False,False,False,False,False,False,False,utilisateur,confirmé 76000 par l'utilisateur,reel_cahier
+290,2026-07-01,Boissons,Boissons (réapprovisionnement),,boissons,boissons,,,,False,849600,,,,False,,False,False,False,False,False,False,False,utilisateur,"réapprovisionnement boissons, montant exceptionnel",reel_cahier
+291,2026-07-01,Insecticide,Insecticide,,entretien,insecticide,,,,False,12000,,,,False,,False,False,False,False,False,True,False,utilisateur,"hors ingrédients / page photographiée deux fois, comptée une seule fois",reel_cahier
+292,2026-07-02,Beurre,Beurre,,laitier_oeufs,beurre,,,,False,2700,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+293,2026-07-02,La craie,Craie (tableau du restaurant),,fournitures,papeterie,,,,False,2500,,,,False,,False,False,False,False,False,True,False,utilisateur,craie pour le tableau du restaurant (confirmé par l'utilisateur),reel_cahier
+294,2026-07-02,Pomme de terre,Pomme de terre,Ovy,legumes_herbes,féculent,,10.0,kg,True,35000,3500.0,3500.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+295,2026-07-02,Haricot vert,Haricot vert,Tsaramaso maintso,legumes_herbes,légume,,1.0,kg,True,4000,4000.0,4000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+296,2026-07-02,Tomates,Tomate,Voatabia,legumes_herbes,légume,,2.0,kg,True,6000,3000.0,3000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+297,2026-07-02,Oignon vert,Oignon vert,Tongolo maintso,legumes_herbes,herbe aromatique,,,,False,4000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+298,2026-07-02,Coriandre,Coriandre,,legumes_herbes,herbe aromatique,,,,False,4000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+299,2026-07-02,Céleri,Céleri,,legumes_herbes,herbe aromatique,,,,False,3000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+300,2026-07-02,Menthe,Menthe,,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+301,2026-07-02,Poireau,Poireau,,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+302,2026-07-02,Carottes,Carotte,Karoty,legumes_herbes,légume,,2.0,kg,True,6000,3000.0,3000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+303,2026-07-02,Chou blanc,Chou blanc,,legumes_herbes,légume,,,,False,4000,,2000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+304,2026-07-02,Concombre,Concombre,,legumes_herbes,légume,,3.0,kg,True,6000,2000.0,2000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+305,2026-07-02,Poivron,Poivron,,legumes_herbes,légume,,2.0,kg,True,8000,4000.0,4000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+306,2026-07-02,Gingembre,Gingembre,Sakamalao,legumes_herbes,condiment,,1.0,kg,True,10000,10000.0,10000.0,,False,,False,False,True,False,False,False,False,utilisateur,"lu 1000, corrigé à 10000 : le sous-total noté 102200 ne tombe juste qu'avec 10000",reel_cahier
+307,2026-07-02,Basilic,Basilic,,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+308,2026-07-02,Frais,Frais de transport,,frais_transport,transport marché,,,,False,3000,,,,False,,False,False,True,False,False,True,False,utilisateur,sous-total noté 102200 (résolu : gingembre corrigé à 10000),reel_cahier
+309,2026-07-02,Pâte nem,Pâte à nem,,epicerie,pâte,,,,False,15000,,1000.0,,False,,False,False,False,False,False,False,False,utilisateur,total noté 117200,reel_cahier
+310,2026-07-03,Sachet,Sachet,,emballage,sachet,,,,False,3000,,1000.0,,False,,False,False,False,False,False,True,False,utilisateur,,reel_cahier
+311,2026-07-04,Tomate,Tomate,Voatabia,legumes_herbes,légume,,1.33,kg,True,4000,3008.0,3000.0,,False,,False,False,False,False,True,False,False,utilisateur,« vola semaine du 23/06 au 04/07 » (règlement fournisseur),reel_cahier
+312,2026-07-04,Voanjo,Arachide,Voanjo,epicerie,légumineuse,,,,False,9000,,,,False,,False,False,False,False,False,False,False,utilisateur,idem,reel_cahier
+313,2026-07-04,Kotomila,Kotomila (non traduit),Kotomila,legumes_herbes,inconnu,,,,False,2500,,,,False,,False,False,False,False,False,False,True,inconnu,idem,reel_cahier
+314,2026-07-04,Tongolo maintso,Oignon vert,Tongolo maintso,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,idem,reel_cahier
+315,2026-07-05,Totokena,Viande hachée,Totokena,viande_poisson,boeuf,2 kg,2.0,kg,False,42000,21000.0,21000.0,1.0,False,,False,False,False,False,True,False,False,utilisateur,« vola semaine du 23/06 au 05/07 » (règlement fournisseur),reel_cahier
+316,2026-07-05,Tranches fines,Tranche fine (viande),,viande_poisson,boeuf,5 kg,5.0,kg,False,105000,21000.0,21000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,idem,reel_cahier
+317,2026-07-05,Hena (loka mpanakanto),Viande (pour plat d'accompagnement),Hena,viande_poisson,boeuf,,,,False,30000,,,,False,,False,False,False,False,False,False,False,utilisateur,idem,reel_cahier
+318,2026-07-05,Akoho,Poulet,Akoho,viande_poisson,volaille,,,,False,190000,,,,False,,False,False,False,False,False,False,False,utilisateur,idem,reel_cahier
+319,2026-07-04,Salade,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,5000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+320,2026-07-04,Beurre,Beurre,,laitier_oeufs,beurre,,,,False,2700,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+321,2026-07-04,Oignon,Oignon,Tongolo,legumes_herbes,légume,,0.75,kg,True,4500,6000.0,6000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+322,2026-07-04,Anamalao,Brède mafane,Anamalao,legumes_herbes,légume feuille,,,,False,500,,,,False,,False,False,False,False,False,False,False,utilisateur,total 12700,reel_cahier
+323,2026-07-05,Ovy,Pomme de terre,Ovy,legumes_herbes,féculent,,0.57,kg,True,2000,3509.0,3500.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+324,2026-07-05,Voatavo,Courge / citrouille,Voatavo,legumes_herbes,légume,,,,False,500,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+325,2026-07-05,Blanc de poulet,Blanc de poulet,,viande_poisson,volaille,,,,False,60000,,,,False,,False,False,False,False,False,False,False,utilisateur,total 62500,reel_cahier
+326,2026-07-07,Oignon,Oignon,Tongolo,legumes_herbes,légume,,0.83,kg,True,5000,6024.0,6000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+327,2026-07-07,Salade,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,3000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+328,2026-07-07,Oignon vert,Oignon vert,Tongolo maintso,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+329,2026-07-07,Coriandre,Coriandre,,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+330,2026-07-07,Insecticide,Insecticide,,entretien,insecticide,,,,False,11000,,,,False,,False,False,False,False,False,True,False,utilisateur,hors ingrédients,reel_cahier
+331,2026-07-07,Ovy,Pomme de terre,Ovy,legumes_herbes,féculent,,0.29,kg,True,1000,3448.0,3500.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+332,2026-07-07,Sachet,Sachet,,emballage,sachet,,,,False,400,,1000.0,,False,,False,False,False,False,False,True,False,utilisateur,,reel_cahier
+333,2026-07-07,"Lot : tongotr'akoho, lohan'akoho",Pattes de poulet,Tongotr'akoho,viande_poisson,volaille,,1.0,kg,False,1900,1900.0,,,False,"Lot : tongotr'akoho, lohan'akoho",True,False,False,False,False,False,False,utilisateur,,reel_cahier_ventile
+334,2026-07-07,"Lot : tongotr'akoho, lohan'akoho",Tête de poulet,Lohan'akoho,viande_poisson,volaille,,1.0,kg,False,26100,26100.0,,,False,"Lot : tongotr'akoho, lohan'akoho",True,False,False,False,False,False,False,utilisateur,,reel_cahier_ventile
+335,2026-07-07,Danika bleu,Fromage bleu (Danica bleu),,laitier_oeufs,fromage,,,,False,40000,,20000.0,,False,,False,False,False,False,False,False,False,utilisateur,total 90400,reel_cahier
+336,2026-07-08,Champignon noir,Champignon noir,,epicerie,champignon,,1.67,kapoaka,True,5000,2994.0,3000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+337,2026-07-08,Tomate,Tomate,Voatabia,legumes_herbes,légume,,1.0,kg,True,3000,3000.0,3000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+338,2026-07-08,Persil,Persil,,legumes_herbes,herbe aromatique,,,,False,500,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+339,2026-07-08,"Lot : coriandre, oignon vert",Coriandre,,legumes_herbes,herbe aromatique,,1.0,botte,False,700,700.0,,,False,"Lot : coriandre, oignon vert",True,False,False,False,False,False,False,utilisateur,total 10000,reel_cahier_ventile
+340,2026-07-08,"Lot : coriandre, oignon vert",Oignon vert,Tongolo maintso,legumes_herbes,herbe aromatique,,1.0,botte,False,800,800.0,,,False,"Lot : coriandre, oignon vert",True,False,False,False,False,False,False,utilisateur,total 10000,reel_cahier_ventile
+341,2026-07-09,Mozzarella (Babou),Mozzarella,,laitier_oeufs,fromage,"3,4 kg",3.4,kg,False,139000,40882.0,40882.0,1.0,False,,False,False,False,False,True,False,False,utilisateur,« vola semaine du 23/06 au 09/07 »,reel_cahier
+342,2026-07-09,Chou chinois,Chou chinois,,legumes_herbes,légume,,,,False,1500,,1500.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+343,2026-07-09,Courgettes,Courgette,,legumes_herbes,légume,,0.5,kg,True,1000,2000.0,2000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+344,2026-07-09,Beurre,Beurre,,laitier_oeufs,beurre,2,2.0,pièce,False,5400,2700.0,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+345,2026-07-09,Tomate,Tomate,Voatabia,legumes_herbes,légume,1 kg,1.0,kg,False,3000,3000.0,3000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+346,2026-07-09,Oignon,Oignon,Tongolo,legumes_herbes,légume,1 kg,1.0,kg,False,4500,4500.0,6000.0,0.75,False,,False,False,False,False,False,False,False,utilisateur,total 15400,reel_cahier
+347,2026-07-09,Calmar,Calmar,,viande_poisson,fruits de mer,5 kg,5.0,kg,False,215000,43000.0,43000.0,1.0,False,,False,False,False,False,True,False,False,utilisateur,« vola semaine du 30/06 au 09/07 »,reel_cahier
+348,2026-07-09,Charcuterie,Charcuterie,,viande_poisson,charcuterie,2,2.0,pièce,False,120000,60000.0,60000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,idem / reste à payer noté 22300,reel_cahier
+349,2026-07-09,Oignon,Oignon,Tongolo,legumes_herbes,légume,5 kg,5.0,kg,False,25000,5000.0,6000.0,0.83,False,,False,False,False,False,False,False,False,utilisateur,« 9 juillet suite »,reel_cahier
+350,2026-07-09,Oignon vert,Oignon vert,Tongolo maintso,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+351,2026-07-09,Coriandre,Coriandre,,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+352,2026-07-09,Carottes,Carotte,Karoty,legumes_herbes,légume,,2.0,kg,True,6000,3000.0,3000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+353,2026-07-09,Courgettes,Courgette,,legumes_herbes,légume,,3.0,kg,True,6000,2000.0,2000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+354,2026-07-09,Pomme de terre,Pomme de terre,Ovy,legumes_herbes,féculent,,8.57,kg,True,30000,3501.0,3500.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+355,2026-07-09,Basilic,Basilic,,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+356,2026-07-09,Chou blanc,Chou blanc,,legumes_herbes,légume,,,,False,2000,,2000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+357,2026-07-09,Thym,Thym,,legumes_herbes,herbe aromatique,,,,False,3000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+358,2026-07-09,Frais,Frais de transport,,frais_transport,transport marché,,,,False,3000,,,,False,,False,False,False,False,False,True,False,utilisateur,total 81000,reel_cahier
+359,2026-07-12,Salade,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,3000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+360,2026-07-12,Anguy,Petite aubergine,Angivy,legumes_herbes,légume,,,,False,500,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+361,2026-07-12,Anamalao,Brède mafane,Anamalao,legumes_herbes,légume feuille,,,,False,500,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+362,2026-07-12,Mofo,Pain,Mofo,epicerie,boulangerie,,,,False,600,,600.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+363,2026-07-12,Blanc de poulet,Blanc de poulet,,viande_poisson,volaille,,,,False,60000,,,,False,,False,False,False,False,False,False,False,utilisateur,total 64600,reel_cahier
+364,2026-07-14,Tolana,Os de boeuf,Taolana,viande_poisson,boeuf,1 kg,1.0,kg,False,16000,16000.0,16000.0,1.0,False,,False,False,False,False,True,False,False,utilisateur,« vola semaine du 7 juillet »,reel_cahier
+365,2026-07-14,Odiny,Peau de boeuf,Odiny,viande_poisson,abats,"0,5 kg",0.5,kg,False,7500,15000.0,15000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,idem,reel_cahier
+366,2026-07-14,Nofon-kisoa,Viande de porc,Nofon-kisoa,viande_poisson,porc,2 kg,2.0,kg,False,42000,21000.0,19000.0,1.11,False,,False,False,False,False,False,False,False,utilisateur,idem,reel_cahier
+367,2026-07-14,Totokena,Viande hachée,Totokena,viande_poisson,boeuf,,1.0,kg,True,21000,21000.0,21000.0,,False,,False,False,False,False,False,False,False,utilisateur,"idem, total 86500",reel_cahier
+368,2026-07-14,Beurre,Beurre,,laitier_oeufs,beurre,2,2.0,pièce,False,5400,2700.0,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+369,2026-07-14,Céleri,Céleri,,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+370,2026-07-14,Salade,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,3000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+371,2026-07-14,Patsa mena,Petites crevettes séchées (rouges),Patsa mena,viande_poisson,fruits de mer séchés,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+372,2026-07-14,Sachet,Sachet,,emballage,sachet,,,,False,400,,1000.0,,False,,False,False,False,False,False,True,False,utilisateur,,reel_cahier
+373,2026-07-15,Beurre,Beurre,,laitier_oeufs,beurre,2,2.0,pièce,False,5400,2700.0,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+374,2026-07-15,Atody (oeufs),Oeuf,Atody,laitier_oeufs,oeuf,30,30.0,pièce,False,24000,800.0,800.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+375,2026-07-15,Anatsonga,Brède anatsonga (non traduit),Anatsonga,legumes_herbes,légume feuille,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+376,2026-07-15,Anguy,Petite aubergine,Angivy,legumes_herbes,légume,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,total 31400,reel_cahier
+377,2026-07-16,Tomate,Tomate,Voatabia,legumes_herbes,légume,,1.0,kg,True,3000,3000.0,3000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+378,2026-07-16,Sachet,Sachet,,emballage,sachet,,,,False,2000,,1000.0,,False,,False,False,False,False,False,True,False,utilisateur,,reel_cahier
+379,2026-07-16,Oignon vert,Oignon vert,Tongolo maintso,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+380,2026-07-16,Coriandre,Coriandre,,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+381,2026-07-16,Céleri,Céleri,,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+382,2026-07-16,Haricot vert,Haricot vert,Tsaramaso maintso,legumes_herbes,légume,2 kg,2.0,kg,False,3000,1500.0,4000.0,0.38,True,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+383,2026-07-16,Tomates,Tomate,Voatabia,legumes_herbes,légume,2 kg,2.0,kg,False,6000,3000.0,3000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+384,2026-07-16,Pomme de terre,Pomme de terre,Ovy,legumes_herbes,féculent,10 kg,10.0,kg,False,35000,3500.0,3500.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+385,2026-07-16,Frais,Frais de transport,,frais_transport,transport marché,,,,False,3000,,,,False,,False,False,False,False,False,True,False,utilisateur,,reel_cahier
+386,2026-07-16,Beurre,Beurre,,laitier_oeufs,beurre,1,1.0,pièce,False,2700,2700.0,,,False,,False,False,False,False,False,False,False,utilisateur,total 59700,reel_cahier
+387,2026-07-17,Beurre,Beurre,,laitier_oeufs,beurre,2,2.0,pièce,False,5400,2700.0,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+388,2026-07-17,Gaz,Gaz (bouteille),,energie,combustible,1,1.0,pièce,False,100000,100000.0,,,False,,False,False,False,False,False,True,False,utilisateur,hors ingrédients (énergie),reel_cahier
+389,2026-07-18,Anatsonga,Brède anatsonga (non traduit),Anatsonga,legumes_herbes,légume feuille,,,,False,500,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+390,2026-07-18,Anguy,Petite aubergine,Angivy,legumes_herbes,légume,,,,False,500,,,,False,,False,False,False,False,False,False,False,utilisateur,"tomate 1 kg 3000 barrée, non reprise",reel_cahier
+391,2026-07-18,Whisky,Whisky,,boissons,alcool,,,,False,200000,,,,False,,False,False,False,False,False,False,False,utilisateur,« suite 18 juillet »,reel_cahier
+392,2026-07-18,Trondro (poisson),Poisson,Trondro,viande_poisson,poisson,,,,False,88000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+393,2026-07-19,Tomate,Tomate,Voatabia,legumes_herbes,légume,1 kg,1.0,kg,False,3000,3000.0,3000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+394,2026-07-19,Carotte,Carotte,Karoty,legumes_herbes,légume,1 kg,1.0,kg,False,3000,3000.0,3000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+395,2026-07-19,Oignon vert,Oignon vert,Tongolo maintso,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+396,2026-07-19,Coriandre,Coriandre,,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+397,2026-07-19,Salade,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,3000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+398,2026-07-19,Ail,Ail,Tongolo gasy,legumes_herbes,condiment,1 kp,1.0,kapoaka,False,2000,2000.0,3000.0,0.67,False,,False,False,False,False,False,False,False,utilisateur,gingembre 1/2 kg barré,reel_cahier
+399,2026-07-19,Atody (oeufs),Oeuf,Atody,laitier_oeufs,oeuf,10,10.0,pièce,False,8000,800.0,800.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,total 23000,reel_cahier
+400,2026-07-20,Carottes,Carotte,Karoty,legumes_herbes,légume,2 kg,2.0,kg,False,6000,3000.0,3000.0,1.0,False,,False,True,False,False,False,False,False,utilisateur,"page sans date entre le 19 et le 21/07, date estimée",reel_cahier
+401,2026-07-20,Tomates,Tomate,Voatabia,legumes_herbes,légume,2 kg,2.0,kg,False,6000,3000.0,3000.0,1.0,False,,False,True,False,False,False,False,False,utilisateur,date estimée,reel_cahier
+402,2026-07-20,Courgette,Courgette,,legumes_herbes,légume,,3.0,kg,True,6000,2000.0,2000.0,,False,,False,True,False,False,False,False,False,utilisateur,date estimée,reel_cahier
+403,2026-07-20,Pomme de terre,Pomme de terre,Ovy,legumes_herbes,féculent,,10.0,kg,True,35000,3500.0,3500.0,,False,,False,True,False,False,False,False,False,utilisateur,date estimée,reel_cahier
+404,2026-07-20,Oignon,Oignon,Tongolo,legumes_herbes,légume,,3.33,kg,True,20000,6006.0,6000.0,,False,,False,True,False,False,False,False,False,utilisateur,date estimée,reel_cahier
+405,2026-07-20,Oignon vert,Oignon vert,Tongolo maintso,legumes_herbes,herbe aromatique,,,,False,3000,,,,False,,False,True,False,False,False,False,False,utilisateur,date estimée,reel_cahier
+406,2026-07-20,Coriandre,Coriandre,,legumes_herbes,herbe aromatique,,,,False,3000,,,,False,,False,True,False,False,False,False,False,utilisateur,date estimée,reel_cahier
+407,2026-07-20,Céleri,Céleri,,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,True,False,False,False,False,False,utilisateur,date estimée,reel_cahier
+408,2026-07-20,Menthe,Menthe,,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,True,False,False,False,False,False,utilisateur,date estimée,reel_cahier
+409,2026-07-20,Ail,Ail,Tongolo gasy,legumes_herbes,condiment,,2.0,kg,True,6000,3000.0,3000.0,,False,,False,True,False,False,False,False,False,utilisateur,date estimée,reel_cahier
+410,2026-07-20,Gingembre,Gingembre,Sakamalao,legumes_herbes,condiment,,1.0,kg,True,10000,10000.0,10000.0,,False,,False,True,False,False,False,False,False,utilisateur,date estimée,reel_cahier
+411,2026-07-20,Poireau,Poireau,,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,True,False,False,False,False,False,utilisateur,date estimée,reel_cahier
+412,2026-07-20,Salade,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,3000,,,,False,,False,True,False,False,False,False,False,utilisateur,date estimée,reel_cahier
+413,2026-07-20,Pâte nem,Pâte à nem,,epicerie,pâte,,,,False,15000,,1000.0,,False,,False,True,False,False,False,False,False,utilisateur,date estimée,reel_cahier
+414,2026-07-20,Basilic,Basilic,,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,True,False,False,False,False,False,utilisateur,date estimée,reel_cahier
+415,2026-07-20,Frais,Frais de transport,,frais_transport,transport marché,,,,False,3000,,,,False,,False,True,False,False,False,True,False,utilisateur,date estimée,reel_cahier
+416,2026-07-20,Citron,Citron,,fruits,agrume,1 kg,1.0,kg,False,8000,8000.0,8000.0,1.0,False,,False,True,False,False,False,False,False,utilisateur,date estimée,reel_cahier
+417,2026-07-20,Petit pois,Petit pois,,legumes_herbes,légume,5 kp,5.0,kapoaka,False,6000,1200.0,1100.0,1.09,False,,False,True,False,False,False,False,False,utilisateur,"date estimée, total noté 136000",reel_cahier
+418,2026-07-21,Anamalao,Brède mafane,Anamalao,legumes_herbes,légume feuille,,,,False,500,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+419,2026-07-21,Anguy,Petite aubergine,Angivy,legumes_herbes,légume,,,,False,500,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+420,2026-07-21,Atody (oeufs),Oeuf,Atody,laitier_oeufs,oeuf,5,5.0,pièce,False,4000,800.0,800.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+421,2026-07-21,Sachet,Sachet,,emballage,sachet,,,,False,3000,,1000.0,,False,,False,False,False,False,False,True,False,utilisateur,total 8000,reel_cahier
+422,2026-07-22,Atody (oeufs),Oeuf,Atody,laitier_oeufs,oeuf,50,50.0,pièce,False,40000,800.0,800.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+423,2026-07-23,Oignon vert,Oignon vert,Tongolo maintso,legumes_herbes,herbe aromatique,,,,False,3000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+424,2026-07-23,Coriandre,Coriandre,,legumes_herbes,herbe aromatique,,,,False,3000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+425,2026-07-23,Céleri,Céleri,,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+426,2026-07-23,Poireau,Poireau,,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+427,2026-07-23,Menthe,Menthe,,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+428,2026-07-23,Pâte nem,Pâte à nem,,epicerie,pâte,,,,False,15000,,1000.0,,False,,False,False,False,False,False,False,False,utilisateur,total 25000,reel_cahier
+429,2026-07-25,Sachet,Sachet,,emballage,sachet,,,,False,3000,,1000.0,,False,,False,False,False,False,False,True,False,utilisateur,,reel_cahier
+430,2026-07-25,Carotte,Carotte,Karoty,legumes_herbes,légume,,1.0,kg,True,3000,3000.0,3000.0,,False,,False,False,False,False,False,False,False,utilisateur,lecture 3000 ou 3800,reel_cahier
+431,2026-07-25,Salade,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,3800,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+432,2026-07-25,Beurre,Beurre,,laitier_oeufs,beurre,,,,False,2700,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+433,2026-07-25,Coriandre,Coriandre,,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+434,2026-07-25,Oignon vert,Oignon vert,Tongolo maintso,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,total noté 14500,reel_cahier
+435,2026-07-26,Insecticide,Insecticide,,entretien,insecticide,,,,False,12000,,,,False,,False,False,False,False,False,True,False,utilisateur,hors ingrédients,reel_cahier
+436,2026-07-26,Banane,Banane,Akondro,fruits,fruit,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+437,2026-07-26,Anana,Brèdes (feuilles vertes),Anana,legumes_herbes,légume feuille,,,,False,500,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+438,2026-07-26,Vary,Riz,Vary,epicerie,féculent,,1.78,kapoaka,True,1600,899.0,900.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+439,2026-07-26,Salade,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,3000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+440,2026-07-26,Blanc de poulet,Blanc de poulet,,viande_poisson,volaille,,,,False,60000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+441,2026-07-28,Salade,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,3000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+442,2026-07-28,Haricot vert,Haricot vert,Tsaramaso maintso,legumes_herbes,légume,,0.45,kg,True,1800,4000.0,4000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+443,2026-07-28,Ananas,Ananas,,fruits,fruit,,,,False,2500,,3000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+444,2026-07-28,Coriandre,Coriandre,,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+445,2026-07-28,Persil,Persil,,legumes_herbes,herbe aromatique,,,,False,500,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+446,2026-07-28,Anana,Brèdes (feuilles vertes),Anana,legumes_herbes,légume feuille,,,,False,1500,,,,False,,False,False,False,False,False,False,False,utilisateur,total 10300,reel_cahier
+447,2026-07-29,Pomme de terre,Pomme de terre,Ovy,legumes_herbes,féculent,10 kg,10.0,kg,False,35000,3500.0,3500.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+448,2026-07-29,Oignon,Oignon,Tongolo,legumes_herbes,légume,5 kg,5.0,kg,False,20000,4000.0,6000.0,0.67,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+449,2026-07-29,Ail,Ail,Tongolo gasy,legumes_herbes,condiment,2 kg,2.0,kg,False,6000,3000.0,3000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,gingembre 1 kg barré,reel_cahier
+450,2026-07-29,Carottes,Carotte,Karoty,legumes_herbes,légume,,2.0,kg,True,6000,3000.0,3000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+451,2026-07-29,Courgette,Courgette,,legumes_herbes,légume,,3.0,kg,True,6000,2000.0,2000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+452,2026-07-29,Oignon vert,Oignon vert,Tongolo maintso,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+453,2026-07-29,Coriandre,Coriandre,,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+454,2026-07-29,Tomates,Tomate,Voatabia,legumes_herbes,légume,2 kg,2.0,kg,False,6000,3000.0,3000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+455,2026-07-29,Frais,Frais de transport,,frais_transport,transport marché,,,,False,3000,,,,False,,False,False,False,False,False,True,False,utilisateur,total 86000,reel_cahier
+456,2026-08-01,Beurre,Beurre,,laitier_oeufs,beurre,2,2.0,pièce,False,5400,2700.0,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+457,2026-08-01,Salade,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,3000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+458,2026-08-01,Pâte nem,Pâte à nem,,epicerie,pâte,,,,False,15000,,1000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+459,2026-08-01,Oignon vert,Oignon vert,Tongolo maintso,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+460,2026-08-01,Coriandre,Coriandre,,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+461,2026-08-01,Céleri,Céleri,,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+462,2026-08-01,Menthe,Menthe,,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+463,2026-08-01,Basilic,Basilic,,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+464,2026-08-01,Carotte,Carotte,Karoty,legumes_herbes,légume,2 kg,2.0,kg,False,6000,3000.0,3000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,suite du 01/08,reel_cahier
+465,2026-08-01,Haricot vert,Haricot vert,Tsaramaso maintso,legumes_herbes,légume,1 kg,1.0,kg,False,4000,4000.0,4000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+466,2026-08-01,Chou rouge,Chou rouge,,legumes_herbes,légume,1 kg,1.0,kg,False,3000,3000.0,5000.0,0.6,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+467,2026-08-01,Tsaramaso mena,Haricot rouge,Tsaramaso mena,epicerie,légumineuse,,,,False,7500,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+468,2026-08-01,Frais,Frais de transport,,frais_transport,transport marché,,,,False,500,,,,False,,False,False,False,False,False,True,False,utilisateur,sous-total noté 46500,reel_cahier
+469,2026-08-01,Anguy,Petite aubergine,Angivy,legumes_herbes,légume,,,,False,500,,,,False,,False,False,False,False,False,False,True,utilisateur,lecture à confirmer (frais 500 / anguy),reel_cahier
+470,2026-08-01,Blanc de poulet,Blanc de poulet,,viande_poisson,volaille,,,,False,60000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+471,2026-08-02,Atody (oeufs),Oeuf,Atody,laitier_oeufs,oeuf,20,20.0,pièce,False,16000,800.0,800.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+472,2026-08-02,Sachet,Sachet,,emballage,sachet,,,,False,1000,,1000.0,,False,,False,False,False,False,False,True,False,utilisateur,,reel_cahier
+473,2026-08-02,Insecticide,Insecticide,,entretien,insecticide,,,,False,13000,,,,False,,False,False,False,False,False,True,False,utilisateur,hors ingrédients,reel_cahier
+474,2026-08-04,Salade,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,3000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+475,2026-08-04,Anana,Brèdes (feuilles vertes),Anana,legumes_herbes,légume feuille,,,,False,500,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+476,2026-08-06,Insecticide,Insecticide,,entretien,insecticide,,,,False,13000,,,,False,,False,False,False,False,False,True,False,utilisateur,hors ingrédients,reel_cahier
+477,2026-08-06,Oignon vert,Oignon vert,Tongolo maintso,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+478,2026-08-06,Coriandre,Coriandre,,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+479,2026-08-06,Céleri,Céleri,,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+480,2026-08-06,Menthe,Menthe,,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+481,2026-08-06,Pomme de terre,Pomme de terre,Ovy,legumes_herbes,féculent,,10.0,kg,True,35000,3500.0,3500.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+482,2026-08-06,Tomate,Tomate,Voatabia,legumes_herbes,légume,,2.0,kg,True,6000,3000.0,3000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+483,2026-08-06,Carottes,Carotte,Karoty,legumes_herbes,légume,,2.0,kg,True,6000,3000.0,3000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+484,2026-08-06,Grenadelle,Grenadelle,Garana,fruits,fruit,,6.67,kg,True,30000,4498.0,4500.0,,False,,False,False,True,False,False,False,False,utilisateur,"lu 3000, corrigé à 30000 : le total noté 94000 (hors insecticide) ne tombe juste qu'avec 30000",reel_cahier
+485,2026-08-06,Citron,Citron,,fruits,agrume,,1.0,kg,True,8000,8000.0,8000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+486,2026-08-06,Frais,Frais de transport,,frais_transport,transport marché,,,,False,3000,,,,False,,False,False,True,False,False,True,False,utilisateur,total noté 94000 hors insecticide (résolu : grenadelle corrigée à 30000),reel_cahier
+487,2026-08-07,Rambin'omby,Queue de boeuf,Rambin'omby,viande_poisson,boeuf,,,,False,10500,,,,False,,False,False,False,False,True,False,False,utilisateur,« vola semaine du 28/07 au 02/08 »,reel_cahier
+488,2026-08-07,Totokena,Viande hachée,Totokena,viande_poisson,boeuf,,1.0,kg,True,21000,21000.0,21000.0,,False,,False,False,False,False,False,False,False,utilisateur,idem,reel_cahier
+489,2026-08-07,Nofokena,Viande de boeuf,Nofon-kena,viande_poisson,boeuf,,2.21,kg,True,42000,19005.0,19000.0,,False,,False,False,False,False,False,False,False,utilisateur,"idem, total 73500",reel_cahier
+490,2026-08-07,Beurre,Beurre,,laitier_oeufs,beurre,2,2.0,pièce,False,5400,2700.0,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+491,2026-08-07,Sachet,Sachet,,emballage,sachet,,,,False,4000,,1000.0,,False,,False,False,False,False,False,True,False,utilisateur,,reel_cahier
+492,2026-08-07,Atody (oeufs),Oeuf,Atody,laitier_oeufs,oeuf,100,100.0,pièce,False,80000,800.0,800.0,1.0,False,,False,False,False,False,True,False,False,utilisateur,« vola semaine 28 juillet »,reel_cahier
+493,2026-08-07,Kitay (charbon),Bois de chauffage,Kitay,energie,combustible,,,,False,200000,,,,False,,False,False,False,False,True,True,False,utilisateur,"« vola semaine 28 juillet » / énergie, hors ingrédients",reel_cahier
+494,2026-08-08,Blanc de poulet,Blanc de poulet,,viande_poisson,volaille,,,,False,60000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+495,2026-08-08,Garana,Grenadelle,Garana,fruits,fruit,,0.89,kg,True,4000,4494.0,4500.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+496,2026-08-09,Salade,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,5000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+497,2026-08-09,Patsa,Petites crevettes séchées,Patsa fotsy,viande_poisson,fruits de mer séchés,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+498,2026-08-09,Anamalao,Brède mafane,Anamalao,legumes_herbes,légume feuille,,,,False,500,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+499,2026-08-09,Pomme de terre,Pomme de terre,Ovy,legumes_herbes,féculent,10 kg,10.0,kg,False,35000,3500.0,3500.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+500,2026-08-09,Courgettes,Courgette,,legumes_herbes,légume,3 kg,3.0,kg,False,6000,2000.0,2000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+501,2026-08-09,Oignon vert,Oignon vert,Tongolo maintso,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+502,2026-08-09,Coriandre,Coriandre,,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+503,2026-08-09,Persil,Persil,,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+504,2026-08-09,Basilic,Basilic,,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+505,2026-08-09,Papaye,Papaye,,fruits,fruit,1,1.0,pièce,False,5000,5000.0,5000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+506,2026-08-09,Ananas,Ananas,,fruits,fruit,1,1.0,pièce,False,3000,3000.0,3000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+507,2026-08-09,Pastèque,Pastèque,,fruits,fruit,1,1.0,pièce,False,5000,5000.0,5000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+508,2026-08-09,Voatango,Voatango (fruit non traduit),Voatango,fruits,fruit,1,1.0,pièce,False,3000,3000.0,3000.0,1.0,False,,False,False,False,False,False,False,True,inconnu,,reel_cahier
+509,2026-08-09,Fraise,Fraise,,fruits,fruit,"0,5 kg",0.5,kg,False,3000,6000.0,6000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+510,2026-08-09,Tomates,Tomate,Voatabia,legumes_herbes,légume,2 kg,2.0,kg,False,6000,3000.0,3000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+511,2026-08-09,Frais,Frais de transport,,frais_transport,transport marché,,,,False,3000,,,,False,,False,False,False,False,False,True,False,utilisateur,total 82500,reel_cahier
+512,2026-08-11,Insecticide,Insecticide,,entretien,insecticide,,,,False,13000,,,,False,,False,False,False,False,False,True,False,utilisateur,hors ingrédients,reel_cahier
+513,2026-08-11,Voatavo,Courge / citrouille,Voatavo,legumes_herbes,légume,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+514,2026-08-11,Poireau,Poireau,,legumes_herbes,herbe aromatique,,,,False,500,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+515,2026-08-11,"Lot : tongotr'akoho, lohan'akoho",Pattes de poulet,Tongotr'akoho,viande_poisson,volaille,,1.0,kg,False,1900,1900.0,,,False,"Lot : tongotr'akoho, lohan'akoho",True,False,False,False,False,False,False,utilisateur,total 42500,reel_cahier_ventile
+516,2026-08-11,"Lot : tongotr'akoho, lohan'akoho",Tête de poulet,Lohan'akoho,viande_poisson,volaille,,1.0,kg,False,26100,26100.0,,,False,"Lot : tongotr'akoho, lohan'akoho",True,False,False,False,False,False,False,utilisateur,total 42500,reel_cahier_ventile
+517,2026-08-14,Sachet,Sachet,,emballage,sachet,,,,False,2000,,1000.0,,False,,False,False,False,False,False,True,False,utilisateur,,reel_cahier
+518,2026-08-14,Tomates,Tomate,Voatabia,legumes_herbes,légume,2 kg,2.0,kg,False,6000,3000.0,3000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+519,2026-08-14,Carottes,Carotte,Karoty,legumes_herbes,légume,2 kg,2.0,kg,False,6000,3000.0,3000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+520,2026-08-14,Haricot vert,Haricot vert,Tsaramaso maintso,legumes_herbes,légume,1 kg,1.0,kg,False,4000,4000.0,4000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+521,2026-08-14,Chou chinois,Chou chinois,,legumes_herbes,légume,1,1.0,pièce,False,1500,1500.0,1500.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+522,2026-08-14,Tripes,Tripes,Tripy,viande_poisson,abats,3 kg,3.0,kg,False,36000,12000.0,12000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+523,2026-08-14,Concombre,Concombre,,legumes_herbes,légume,2 kg,2.0,kg,False,4000,2000.0,2000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+524,2026-08-14,Frais,Frais de transport,,frais_transport,transport marché,,,,False,3000,,,,False,,False,False,False,False,False,True,False,utilisateur,total 62500,reel_cahier
+525,2026-08-14,Ail,Ail,Tongolo gasy,legumes_herbes,condiment,,2.0,kg,True,6000,3000.0,3000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+526,2026-08-14,Petit pois,Petit pois,,legumes_herbes,légume,,4.55,kapoaka,True,5000,1099.0,1100.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+527,2026-08-15,Ovy,Pomme de terre,Ovy,legumes_herbes,féculent,3 kg,3.0,kg,False,8000,2667.0,3500.0,0.76,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+528,2026-08-15,Salade,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,3000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+529,2026-08-15,Beurre,Beurre,,laitier_oeufs,beurre,1,1.0,pièce,False,2700,2700.0,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+530,2026-08-15,Levure boulangère,Levure boulangère,,epicerie,boulangerie,1,1.0,pièce,False,13000,13000.0,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+531,2026-08-15,Pomme de terre,Pomme de terre,Ovy,legumes_herbes,féculent,10 kg,10.0,kg,False,35000,3500.0,3500.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+532,2026-08-15,Oignon vert,Oignon vert,Tongolo maintso,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+533,2026-08-15,Coriandre,Coriandre,,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+534,2026-08-15,Frais,Frais de transport,,frais_transport,transport marché,,,,False,2000,,,,False,,False,False,False,False,False,True,False,utilisateur,,reel_cahier
+535,2026-08-16,Salade,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,3000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+536,2026-08-16,Cuvée blanche,Cuvée blanche (vin),,boissons,alcool,4,4.0,pièce,False,32000,8000.0,,,False,,False,False,False,False,False,False,False,utilisateur,"confirmé par l'utilisateur : 4 bouteilles de Cuvée blanche (boisson alcoolique), lu « Cuisse blanche » en v1",reel_cahier
+537,2026-08-16,Blanc de poulet,Blanc de poulet,,viande_poisson,volaille,,,,False,60000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+538,2026-08-16,Pâte nem,Pâte à nem,,epicerie,pâte,,,,False,15000,,1000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+539,2026-08-16,Coriandre,Coriandre,,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+540,2026-08-16,Oignon vert,Oignon vert,Tongolo maintso,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+541,2026-08-16,Céleri,Céleri,,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+542,2026-08-16,Menthe,Menthe,,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+543,2026-08-16,Thym,Thym,,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+544,2026-08-16,Frais,Frais de transport,,frais_transport,transport marché,,,,False,2000,,,,False,,False,False,False,False,False,True,False,utilisateur,,reel_cahier
+545,2026-08-19,Pomme de terre,Pomme de terre,Ovy,legumes_herbes,féculent,,10.0,kg,True,35000,3500.0,3500.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+546,2026-08-19,Tomate,Tomate,Voatabia,legumes_herbes,légume,,2.0,kg,True,6000,3000.0,3000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+547,2026-08-19,Courgette,Courgette,,legumes_herbes,légume,,3.0,kg,True,6000,2000.0,2000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+548,2026-08-19,Ail,Ail,Tongolo gasy,legumes_herbes,condiment,,2.0,kg,True,6000,3000.0,3000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+549,2026-08-19,Côte d'agneau,Côte d'agneau,,viande_poisson,agneau,,,,False,50000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+550,2026-08-19,Frais,Frais de transport,,frais_transport,transport marché,,,,False,2000,,,,False,,False,False,False,False,False,True,False,utilisateur,total 105000,reel_cahier
+551,2026-08-19,Salade,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,3000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+552,2026-08-21,Anamalao,Brède mafane,Anamalao,legumes_herbes,légume feuille,,,,False,500,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+553,2026-08-22,Beurre,Beurre,,laitier_oeufs,beurre,2,2.0,pièce,False,5400,2700.0,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+554,2026-08-22,Salade,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,3000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+555,2026-08-22,Anguy,Petite aubergine,Angivy,legumes_herbes,légume,,,,False,500,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+556,2026-08-23,Anana mifangaro,Brèdes mélangées,Anana mifangaro,legumes_herbes,légume feuille,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+557,2026-08-23,Salade,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,3000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+558,2026-08-23,Totokena,Viande hachée,Totokena,viande_poisson,boeuf,2 kg,2.0,kg,False,42000,21000.0,21000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+559,2026-08-23,Nofon-kisoa,Viande de porc,Nofon-kisoa,viande_poisson,porc,2 kg,2.0,kg,False,42000,21000.0,19000.0,1.11,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+560,2026-08-23,Hena kisoa,Viande de porc,Hena kisoa,viande_poisson,porc,3 kg,3.0,kg,False,51000,17000.0,19000.0,0.89,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+561,2026-08-23,Jambon,Jambon,,viande_poisson,charcuterie,3 kg,3.0,kg,False,48000,16000.0,16000.0,1.0,False,,False,True,False,False,False,False,False,utilisateur,"page suivante, rattaché au 23/08",reel_cahier
+562,2026-08-25,Pomme de terre,Pomme de terre,Ovy,legumes_herbes,féculent,10 kg,10.0,kg,False,35000,3500.0,3500.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+563,2026-08-25,Oignon vert,Oignon vert,Tongolo maintso,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+564,2026-08-25,Carotte,Carotte,Karoty,legumes_herbes,légume,,2.0,kg,True,6000,3000.0,3000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+565,2026-08-25,Concombre,Concombre,,legumes_herbes,légume,,3.0,kg,True,6000,2000.0,2000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+566,2026-08-25,Coriandre,Coriandre,,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+567,2026-08-25,Haricot vert,Haricot vert,Tsaramaso maintso,legumes_herbes,légume,,0.75,kg,True,3000,4000.0,4000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+568,2026-08-25,Basilic,Basilic,,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+569,2026-08-25,Céleri,Céleri,,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,confirmé par l'utilisateur,reel_cahier
+570,2026-08-25,Poireau,Poireau,,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+571,2026-08-25,Ravitoto,Feuilles de manioc pilées,Ravitoto,legumes_herbes,légume feuille,,,,False,5000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+572,2026-08-25,Voanjobory,Pois bambara,Voanjobory,epicerie,légumineuse,,7.14,kapoaka,True,10000,1401.0,1400.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+573,2026-08-25,Frais,Frais de transport,,frais_transport,transport marché,,,,False,2000,,,,False,,False,False,False,False,False,True,False,utilisateur,total noté 75000,reel_cahier
+574,2026-08-25,Céleri,Céleri,,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,confirmé par l'utilisateur,reel_cahier
+575,2026-08-28,Beurre,Beurre,,laitier_oeufs,beurre,2,2.0,pièce,False,6000,3000.0,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+576,2026-08-28,Salade,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,3000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+577,2026-08-28,Blanc de poulet,Blanc de poulet,,viande_poisson,volaille,,,,False,60000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+578,2026-08-29,Langue,Langue de boeuf,Lelan'omby,viande_poisson,abats,3 kg,3.0,kg,False,60000,20000.0,20000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+579,2026-08-29,Tomates,Tomate,Voatabia,legumes_herbes,légume,2 kg,2.0,kg,False,6000,3000.0,3000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+580,2026-08-29,Ail,Ail,Tongolo gasy,legumes_herbes,condiment,3 kp,3.0,kapoaka,False,6000,2000.0,3000.0,0.67,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+581,2026-08-29,Gingembre,Gingembre,Sakamalao,legumes_herbes,condiment,1 kg,1.0,kg,False,10000,10000.0,10000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+582,2026-08-29,Pomme de terre,Pomme de terre,Ovy,legumes_herbes,féculent,10 kg,10.0,kg,False,35000,3500.0,3500.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+583,2026-08-29,Kitapo kafé,Café (paquet),Kitapo kafé,boissons,café,1 pc,1.0,pièce,False,1500,1500.0,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+584,2026-08-29,Oignon vert,Oignon vert,Tongolo maintso,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+585,2026-08-29,Coriandre,Coriandre,,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+586,2026-08-29,Persil,Persil,,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+587,2026-08-29,Frais,Frais de transport,,frais_transport,transport marché,,,,False,2000,,,,False,,False,False,False,False,False,True,False,utilisateur,total 125500,reel_cahier
+588,2026-08-30,Petit pois,Petit pois,,legumes_herbes,légume,5 kp,5.0,kapoaka,False,5000,1000.0,1100.0,0.91,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+589,2026-08-30,Salade,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,3000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+590,2026-08-30,Sachet,Sachet,,emballage,sachet,,,,False,3000,,1000.0,,False,,False,False,False,False,False,True,False,utilisateur,,reel_cahier
+591,2026-08-30,Chocolat noir,Chocolat noir,,epicerie,sucré,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+592,2026-08-30,Retrait Mireille,Retrait de caisse (Mireille),,retrait_caisse,retrait responsable,,,,False,150000,,,,False,,False,False,True,False,False,True,False,utilisateur,"retrait d'argent de la caisse par Mireille (corrigé par l'utilisateur le 03/11), mention « gravillon » dans le cahier",reel_cahier
+593,2026-09-01,Carottes,Carotte,Karoty,legumes_herbes,légume,2 kg,2.0,kg,False,6000,3000.0,3000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+594,2026-09-01,Tomates,Tomate,Voatabia,legumes_herbes,légume,2 kg,2.0,kg,False,6000,3000.0,3000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+595,2026-09-01,Citron,Citron,,fruits,agrume,1 kg,1.0,kg,False,8000,8000.0,8000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+596,2026-09-01,Pâte nem,Pâte à nem,,epicerie,pâte,,,,False,15000,,1000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+597,2026-09-01,Oignon vert,Oignon vert,Tongolo maintso,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+598,2026-09-01,Coriandre,Coriandre,,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+599,2026-09-01,Menthe,Menthe,,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+600,2026-09-01,Céleri,Céleri,,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+601,2026-09-01,Champignon de Paris,Champignon de Paris,,legumes_herbes,champignon,2,2.0,pièce,False,10000,5000.0,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+602,2026-09-01,Chapelure,Chapelure,,epicerie,épicerie sèche,,,,False,5000,,,,False,,False,False,False,False,False,False,False,utilisateur,garana 5 kg 30000 barré,reel_cahier
+603,2026-09-01,Corossol,Corossol,,fruits,fruit,2 kg,2.0,kg,False,10000,5000.0,5000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+604,2026-09-01,Papaye,Papaye,,fruits,fruit,1 pc,1.0,pièce,False,5000,5000.0,5000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+605,2026-09-01,Voatango,Voatango (fruit non traduit),Voatango,fruits,fruit,1 pc,1.0,pièce,False,3000,3000.0,3000.0,1.0,False,,False,False,False,False,False,False,True,inconnu,,reel_cahier
+606,2026-09-01,Frais,Frais de transport,,frais_transport,transport marché,,,,False,2000,,,,False,,False,False,True,False,False,True,False,utilisateur,total corrigé 76000,reel_cahier
+607,2026-09-01,Hen'omby,Viande de boeuf,Hen'omby,viande_poisson,boeuf,3 kg,3.0,kg,False,57000,19000.0,19000.0,1.0,False,,False,False,False,False,True,False,False,utilisateur,« vola semaine du 25 août »,reel_cahier
+608,2026-09-01,Totokena,Viande hachée,Totokena,viande_poisson,boeuf,3 kg,3.0,kg,False,63000,21000.0,21000.0,1.0,False,,False,False,True,False,False,False,False,utilisateur,"lu « Loton-kena » en v1, relu Totokena (21000 Ar/kg comme les autres achats de totokena) / total 120000",reel_cahier
+609,2026-09-02,Beurre,Beurre,,laitier_oeufs,beurre,1,1.0,pièce,False,2700,2700.0,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+610,2026-09-02,Sachet,Sachet,,emballage,sachet,,,,False,500,,1000.0,,False,,False,False,False,False,False,True,False,utilisateur,,reel_cahier
+611,2026-09-04,Blanc de poulet,Blanc de poulet,,viande_poisson,volaille,,,,False,60000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+612,2026-09-05,Salade,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,3000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+613,2026-09-05,Chocolat,Chocolat,,epicerie,sucré,2,2.0,pièce,False,800,400.0,400.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+614,2026-09-05,Fraise,Fraise,,fruits,fruit,,0.08,kg,True,500,6250.0,6000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+615,2026-09-05,Ovy,Pomme de terre,Ovy,legumes_herbes,féculent,,10.0,kg,True,35000,3500.0,3500.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+616,2026-09-05,Retrait Mireille,Retrait de caisse (Mireille),,retrait_caisse,retrait responsable,,,,False,1000000,,,,False,,False,False,True,False,False,True,False,utilisateur,"retrait d'argent de la caisse par Mireille (corrigé par l'utilisateur le 03/11), mention « gravillon » dans le cahier",reel_cahier
+617,2026-09-06,Sachet kely,Sachet (petit),Sachet kely,emballage,sachet,,,,False,1000,,,,False,,False,False,False,False,False,True,False,utilisateur,,reel_cahier
+618,2026-09-06,Sachet be,Sachet (grand),Sachet be,emballage,sachet,,,,False,7500,,,,False,,False,False,False,False,False,True,False,utilisateur,,reel_cahier
+619,2026-09-06,Anamalao,Brède mafane,Anamalao,legumes_herbes,légume feuille,,,,False,500,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+620,2026-09-08,Anana,Brèdes (feuilles vertes),Anana,legumes_herbes,légume feuille,,,,False,500,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+621,2026-09-09,Chou chinois,Chou chinois,,legumes_herbes,légume,,,,False,1500,,1500.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+622,2026-09-09,Ail,Ail,Tongolo gasy,legumes_herbes,condiment,,0.67,kg,True,2000,2985.0,3000.0,,False,,False,False,False,False,False,False,False,utilisateur,sous-total 3500,reel_cahier
+623,2026-09-09,Carottes,Carotte,Karoty,legumes_herbes,légume,2 kg,2.0,kg,False,6000,3000.0,3000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+624,2026-09-09,Courgettes,Courgette,,legumes_herbes,légume,2 kg,2.0,kg,False,6000,3000.0,2000.0,1.5,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+625,2026-09-09,Ail,Ail,Tongolo gasy,legumes_herbes,condiment,3 kp,3.0,kapoaka,False,6000,2000.0,3000.0,0.67,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+626,2026-09-09,Gingembre,Gingembre,Sakamalao,legumes_herbes,condiment,1 kg,1.0,kg,False,10000,10000.0,10000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+627,2026-09-09,Basilic,Basilic,,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+628,2026-09-09,Oignon vert,Oignon vert,Tongolo maintso,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+629,2026-09-09,Coriandre,Coriandre,,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+630,2026-09-09,Tomates,Tomate,Voatabia,legumes_herbes,légume,2 kg,2.0,kg,False,6000,3000.0,3000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+631,2026-09-09,Danika bleu,Fromage bleu (Danica bleu),,laitier_oeufs,fromage,1,1.0,pièce,False,20000,20000.0,20000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+632,2026-09-09,Champignon de Paris,Champignon de Paris,,legumes_herbes,champignon,2,2.0,pièce,False,10000,5000.0,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+633,2026-09-09,Frais,Frais de transport,,frais_transport,transport marché,,,,False,2000,,,,False,,False,False,False,False,False,True,False,utilisateur,total 75500,reel_cahier
+634,2026-09-11,Salade,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,3000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+635,2026-09-13,Insecticide,Insecticide,,entretien,insecticide,,,,False,13000,,,,False,,False,False,False,False,False,True,False,utilisateur,hors ingrédients,reel_cahier
+636,2026-09-15,Salade,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,3000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+637,2026-09-15,Haricot vert,Haricot vert,Tsaramaso maintso,legumes_herbes,légume,"0,5 kg",0.5,kg,False,2000,4000.0,4000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+638,2026-09-15,Beurre,Beurre,,laitier_oeufs,beurre,1,1.0,pièce,False,2700,2700.0,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+639,2026-09-15,Carotte,Carotte,Karoty,legumes_herbes,légume,2 kg,2.0,kg,False,6000,3000.0,3000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+640,2026-09-15,Haricot vert,Haricot vert,Tsaramaso maintso,legumes_herbes,légume,1 kg,1.0,kg,False,4000,4000.0,4000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+641,2026-09-15,Concombre,Concombre,,legumes_herbes,légume,3 kg,3.0,kg,False,6000,2000.0,2000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+642,2026-09-15,Tomates,Tomate,Voatabia,legumes_herbes,légume,2 kg,2.0,kg,False,6000,3000.0,3000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+643,2026-09-15,Pomme de terre,Pomme de terre,Ovy,legumes_herbes,féculent,10 kg,10.0,kg,False,35000,3500.0,3500.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+644,2026-09-15,Poivron,Poivron,,legumes_herbes,légume,1 kg,1.0,kg,False,4000,4000.0,4000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+645,2026-09-15,Courgette,Courgette,,legumes_herbes,légume,3 kg,3.0,kg,False,6000,2000.0,2000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+646,2026-09-15,Frais,Frais de transport,,frais_transport,transport marché,,,,False,2000,,,,False,,False,False,False,False,False,True,False,utilisateur,total 76700,reel_cahier
+647,2026-09-16,Chocolat,Chocolat,,epicerie,sucré,2,2.0,pièce,False,800,400.0,400.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+648,2026-09-16,Sachet,Sachet,,emballage,sachet,2,2.0,pièce,False,2000,1000.0,1000.0,1.0,False,,False,False,False,False,False,True,False,utilisateur,,reel_cahier
+649,2026-09-16,Blanc de poulet,Blanc de poulet,,viande_poisson,volaille,,,,False,60000,,,,False,,False,False,False,False,False,False,False,utilisateur,total 62800,reel_cahier
+650,2026-09-19,Salade,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,3000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+651,2026-09-19,Kitay (charbon),Bois de chauffage,Kitay,energie,combustible,,,,False,30000,,,,False,,False,False,False,False,False,True,False,utilisateur,"énergie, hors ingrédients",reel_cahier
+652,2026-09-19,Cuisse de poulet,Cuisse de poulet,,viande_poisson,volaille,,,,False,60000,,,,False,,False,False,False,False,False,False,False,utilisateur,total 93000,reel_cahier
+653,2026-09-20,Salade,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+654,2026-09-22,Coriandre,Coriandre,,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+655,2026-09-22,Oignon vert,Oignon vert,Tongolo maintso,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+656,2026-09-22,Beurre,Beurre,,laitier_oeufs,beurre,,,,False,2700,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+657,2026-09-22,Tomates,Tomate,Voatabia,legumes_herbes,légume,2 kg,2.0,kg,False,6000,3000.0,3000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+658,2026-09-22,Carottes,Carotte,Karoty,legumes_herbes,légume,2 kg,2.0,kg,False,6000,3000.0,3000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+659,2026-09-22,Gingembre,Gingembre,Sakamalao,legumes_herbes,condiment,1 kg,1.0,kg,False,14000,14000.0,10000.0,1.4,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+660,2026-09-22,Oignon vert,Oignon vert,Tongolo maintso,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+661,2026-09-22,Coriandre,Coriandre,,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+662,2026-09-22,Céleri,Céleri,,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+663,2026-09-22,Poireau,Poireau,,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+664,2026-09-22,Basilic,Basilic,,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+665,2026-09-22,Persil,Persil,,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+666,2026-09-22,Concombre,Concombre,,legumes_herbes,légume,3 kg,3.0,kg,False,6000,2000.0,2000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+667,2026-09-22,Ail,Ail,Tongolo gasy,legumes_herbes,condiment,,2.0,kg,True,6000,3000.0,3000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+668,2026-09-22,Frais,Frais de transport,,frais_transport,transport marché,,,,False,3000,,,,False,,False,False,False,False,False,True,False,utilisateur,total 50000,reel_cahier
+669,2026-09-24,Pâte nem,Pâte à nem,,epicerie,pâte,,,,False,15000,,1000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+670,2026-09-24,Coriandre,Coriandre,,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+671,2026-09-24,Oignon vert,Oignon vert,Tongolo maintso,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+672,2026-09-24,Menthe,Menthe,,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+673,2026-09-24,Céleri,Céleri,,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+674,2026-09-24,Tomates,Tomate,Voatabia,legumes_herbes,légume,2 kg,2.0,kg,False,6000,3000.0,3000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+675,2026-09-24,Poivron,Poivron,,legumes_herbes,légume,2 kg,2.0,kg,False,8000,4000.0,4000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+676,2026-09-24,Chou blanc,Chou blanc,,legumes_herbes,légume,2 pcs,2.0,pièce,False,4000,2000.0,2000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+677,2026-09-24,Carottes,Carotte,Karoty,legumes_herbes,légume,2 kg,2.0,kg,False,6000,3000.0,3000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+678,2026-09-24,Concombre,Concombre,,legumes_herbes,légume,3 kg,3.0,kg,False,6000,2000.0,2000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+679,2026-09-24,Frais,Frais de transport,,frais_transport,transport marché,,,,False,2000,,,,False,,False,False,False,False,False,True,False,utilisateur,total 53000,reel_cahier
+680,2026-09-24,Sachet,Sachet,,emballage,sachet,,,,False,2000,,1000.0,,False,,False,False,False,False,False,True,False,utilisateur,,reel_cahier
+681,2026-09-25,Chou-fleur,Chou-fleur,,legumes_herbes,légume,,,,False,1500,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+682,2026-09-25,Salade,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,3000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+683,2026-09-25,Anana,Brèdes (feuilles vertes),Anana,legumes_herbes,légume feuille,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,total 4500,reel_cahier
+684,2026-09-26,Anana,Brèdes (feuilles vertes),Anana,legumes_herbes,légume feuille,,,,False,1500,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+685,2026-09-26,Salade,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,3000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+686,2026-09-26,Tomate,Tomate,Voatabia,legumes_herbes,légume,,1.0,kg,True,3000,3000.0,3000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+687,2026-09-26,Anamalao,Brède mafane,Anamalao,legumes_herbes,légume feuille,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+688,2026-09-26,Blanc de poulet,Blanc de poulet,,viande_poisson,volaille,,,,False,60000,,,,False,,False,False,False,False,False,False,False,utilisateur,total 68500,reel_cahier
+689,2026-09-27,Karoty,Carotte,Karoty,legumes_herbes,légume,,0.67,kg,True,2000,2985.0,3000.0,,False,,False,True,False,False,False,False,False,utilisateur,"bloc sans date entre le 26 et le 29/09, date estimée / kitay 30000 barré",reel_cahier
+690,2026-09-27,Ail,Ail,Tongolo gasy,legumes_herbes,condiment,,0.67,kg,True,2000,2985.0,3000.0,,False,,False,True,False,False,False,False,False,utilisateur,date estimée,reel_cahier
+691,2026-09-27,Tongolo maintso,Oignon vert,Tongolo maintso,legumes_herbes,herbe aromatique,,,,False,1500,,,,False,,False,True,False,False,False,False,False,utilisateur,date estimée,reel_cahier
+692,2026-09-27,Kotomila,Kotomila (non traduit),Kotomila,legumes_herbes,inconnu,,,,False,500,,,,False,,False,True,False,False,False,False,True,inconnu,date estimée,reel_cahier
+693,2026-09-27,Concombre,Concombre,,legumes_herbes,légume,,0.7,kg,True,1400,2000.0,2000.0,,False,,False,True,False,False,False,False,False,utilisateur,"date estimée, total 7400",reel_cahier
+694,2026-09-29,Kitay (charbon),Bois de chauffage,Kitay,energie,combustible,,,,False,30000,,,,False,,False,False,False,False,True,True,False,utilisateur,« vola semaine du 22 septembre » / énergie,reel_cahier
+695,2026-10-01,Carotte,Carotte,Karoty,legumes_herbes,légume,2 kg,2.0,kg,False,6000,3000.0,3000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+696,2026-10-01,Haricot vert,Haricot vert,Tsaramaso maintso,legumes_herbes,légume,1 kg,1.0,kg,False,4000,4000.0,4000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+697,2026-10-01,Courgette,Courgette,,legumes_herbes,légume,3 kg,3.0,kg,False,6000,2000.0,2000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+698,2026-10-01,Tomate,Tomate,Voatabia,legumes_herbes,légume,2 kg,2.0,kg,False,6000,3000.0,3000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+699,2026-10-01,Concombre,Concombre,,legumes_herbes,légume,3 kg,3.0,kg,False,6000,2000.0,2000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+700,2026-10-01,Oignon vert,Oignon vert,Tongolo maintso,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+701,2026-10-01,Coriandre,Coriandre,,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+702,2026-10-01,Persil,Persil,,legumes_herbes,herbe aromatique,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+703,2026-10-01,Basilic,Basilic,,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+704,2026-10-01,Citron,Citron,,fruits,agrume,1 kg,1.0,kg,False,8000,8000.0,8000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+705,2026-10-01,Gingembre,Gingembre,Sakamalao,legumes_herbes,condiment,,0.7,kg,True,7000,10000.0,10000.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+706,2026-10-01,Frais,Frais de transport,,frais_transport,transport marché,,,,False,3000,,,,False,,False,False,False,False,False,True,False,utilisateur,total 53000,reel_cahier
+707,2026-10-01,Salade,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,3000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+708,2026-10-02,Filet,Filet (viande),,viande_poisson,boeuf,,1.0,kg,True,23000,23000.0,22960.0,,False,,False,False,False,False,True,False,False,utilisateur,« semaine du 22 septembre »,reel_cahier
+709,2026-10-02,Nofon-kisoa,Viande de porc,Nofon-kisoa,viande_poisson,porc,,2.21,kg,True,42000,19005.0,19000.0,,False,,False,False,False,False,False,False,False,utilisateur,idem,reel_cahier
+710,2026-10-02,Totokena,Viande hachée,Totokena,viande_poisson,boeuf,,1.0,kg,True,21000,21000.0,21000.0,,False,,False,False,False,False,False,False,False,utilisateur,"idem, total 86000",reel_cahier
+711,2026-10-03,Kitay (charbon),Bois de chauffage,Kitay,energie,combustible,,,,False,30000,,,,False,,False,False,False,False,False,True,False,utilisateur,énergie,reel_cahier
+712,2026-10-03,Beurre,Beurre,,laitier_oeufs,beurre,1,1.0,pièce,False,2700,2700.0,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+713,2026-10-03,Ovy,Pomme de terre,Ovy,legumes_herbes,féculent,,8.57,kg,True,30000,3501.0,3500.0,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+714,2026-10-03,Frais,Frais de transport,,frais_transport,transport marché,,,,False,2000,,,,False,,False,False,False,False,False,True,False,utilisateur,,reel_cahier
+715,2026-10-04,Sachet,Sachet,,emballage,sachet,2,2.0,pièce,False,2000,1000.0,1000.0,1.0,False,,False,False,False,False,False,True,False,utilisateur,,reel_cahier
+716,2026-10-04,Blanc de poulet,Blanc de poulet,,viande_poisson,volaille,,,,False,60000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+717,2026-10-04,Salade,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,3000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+718,2026-10-07,Beurre,Beurre,,laitier_oeufs,beurre,1,1.0,pièce,False,2700,2700.0,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+719,2026-10-08,Kitay (charbon),Bois de chauffage,Kitay,energie,combustible,,,,False,30000,,,,False,,False,False,False,False,False,True,False,utilisateur,énergie,reel_cahier
+720,2026-10-10,Tomates,Tomate,Voatabia,legumes_herbes,légume,1 kg,1.0,kg,False,2500,2500.0,3000.0,0.83,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+721,2026-10-10,Salade,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,3000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+722,2026-10-10,Penne,Penne,,epicerie,pâte,,,,False,3200,,,,False,,False,False,True,False,False,False,False,utilisateur,déplacé du 11/10 au 10/10 : avec lui le total noté du 11/10 (65000) ne tombe pas juste,reel_cahier
+723,2026-10-11,Carotte,Carotte,Karoty,legumes_herbes,légume,2 kg,2.0,kg,False,6000,3000.0,3000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+724,2026-10-11,Poivron,Poivron,,legumes_herbes,légume,1 kg,1.0,kg,False,4000,4000.0,4000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+725,2026-10-11,Tomate,Tomate,Voatabia,legumes_herbes,légume,2 kg,2.0,kg,False,6000,3000.0,3000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+726,2026-10-11,Ail,Ail,Tongolo gasy,legumes_herbes,condiment,2 kg,2.0,kg,False,6000,3000.0,3000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+727,2026-10-11,Gingembre,Gingembre,Sakamalao,legumes_herbes,condiment,1 kg,1.0,kg,False,18000,18000.0,10000.0,1.8,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+728,2026-10-11,Coriandre,Coriandre,,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+729,2026-10-11,Oignon vert,Oignon vert,Tongolo maintso,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+730,2026-10-11,Anamalao,Brède mafane,Anamalao,legumes_herbes,légume feuille,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+731,2026-10-11,Anguy,Petite aubergine,Angivy,legumes_herbes,légume,,,,False,1000,,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+732,2026-10-11,Petit pois,Petit pois,,legumes_herbes,légume,5 kp,5.0,kapoaka,False,5000,1000.0,1100.0,0.91,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+733,2026-10-11,Patsa mena,Petites crevettes séchées (rouges),Patsa mena,viande_poisson,fruits de mer séchés,1 kg,1.0,kg,False,5000,5000.0,,,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+734,2026-10-11,Champignon noir,Champignon noir,,epicerie,champignon,2 kp,2.0,kapoaka,False,6000,3000.0,3000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,,reel_cahier
+735,2026-10-11,Frais,Frais de transport,,frais_transport,transport marché,,,,False,3000,,,,False,,False,False,True,False,False,True,False,utilisateur,total noté 65000 (résolu : penne déplacé au 10/10),reel_cahier
+736,2026-10-13,Kitay (charbon),Bois de chauffage,Kitay,energie,combustible,,,,False,30000,,,,False,,False,False,False,False,False,True,False,utilisateur,énergie,reel_cahier
+737,2026-10-15,Hena kisoa,Viande de porc,Hena kisoa,viande_poisson,porc,3 kg,3.0,kg,False,51000,17000.0,19000.0,0.89,False,,False,False,False,False,True,False,False,utilisateur,« semaine du 06 au 11 octobre »,reel_cahier
+738,2026-10-15,Hen'omby,Viande de boeuf,Hen'omby,viande_poisson,boeuf,3 kg,3.0,kg,False,57000,19000.0,19000.0,1.0,False,,False,False,False,False,False,False,False,utilisateur,idem,reel_cahier
+739,2026-10-15,Tranche fine,Tranche fine (viande),,viande_poisson,boeuf,,1.0,kg,True,21000,21000.0,21000.0,,False,,False,False,False,False,False,False,False,utilisateur,lu « Transfina » = tranche fine (glossaire) / total 129000,reel_cahier
+740,2026-10-16,Beurre,Beurre,,laitier_oeufs,beurre,,,,False,2700,,,,False,,False,True,False,False,False,False,False,utilisateur,"bloc sans date après le 15/10, date estimée",reel_cahier
+741,2026-10-16,Salade,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,3000,,,,False,,False,True,False,False,False,False,False,utilisateur,date estimée,reel_cahier
+742,2026-10-16,Sachet,Sachet,,emballage,sachet,,,,False,2000,,1000.0,,False,,False,True,False,False,False,True,False,utilisateur,date estimée,reel_cahier
+743,2026-10-16,Salade,Salade (feuilles),,legumes_herbes,légume feuille,,,,False,2000,,,,False,,False,True,False,False,False,False,False,utilisateur,date estimée,reel_cahier
+744,2026-10-16,Retour M. Vola,Retour d'argent à M. Vola,,hors_restaurant,remboursement,,,,False,256000,,,,False,,False,False,False,False,False,True,False,utilisateur,"HORS ACHAT : compté dans le total de page 404000 (2000 + 256000 + 146000), dépense complémentaire (utilisateur), hors coût matière",reel_cahier
+745,2026-10-17,Pomme de terre,Pomme de terre,Ovy,legumes_herbes,féculent,10 kg,10.0,kg,False,35000,3500.0,3500.0,1.0,False,,False,True,False,False,False,False,False,utilisateur,"dernière page sans date, date estimée",reel_cahier
+746,2026-10-17,Carottes,Carotte,Karoty,legumes_herbes,légume,2 kg,2.0,kg,False,6000,3000.0,3000.0,1.0,False,,False,True,False,False,False,False,False,utilisateur,date estimée,reel_cahier
+747,2026-10-17,Courgettes,Courgette,,legumes_herbes,légume,2 kg,2.0,kg,False,6000,3000.0,2000.0,1.5,False,,False,True,False,False,False,False,False,utilisateur,date estimée,reel_cahier
+748,2026-10-17,Oignon,Oignon,Tongolo,legumes_herbes,légume,5 kg,5.0,kg,False,30000,6000.0,6000.0,1.0,False,,False,True,False,False,False,False,False,utilisateur,date estimée,reel_cahier
+749,2026-10-17,Gingembre,Gingembre,Sakamalao,legumes_herbes,condiment,1 kg,1.0,kg,False,10000,10000.0,10000.0,1.0,False,,False,True,False,False,False,False,False,utilisateur,date estimée,reel_cahier
+750,2026-10-17,Tomate,Tomate,Voatabia,legumes_herbes,légume,2 kg,2.0,kg,False,6000,3000.0,3000.0,1.0,False,,False,True,False,False,False,False,False,utilisateur,date estimée,reel_cahier
+751,2026-10-17,Grenadelle,Grenadelle,Garana,fruits,fruit,5 kg,5.0,kg,False,25000,5000.0,4500.0,1.11,False,,False,True,False,False,False,False,False,utilisateur,date estimée,reel_cahier
+752,2026-10-17,Corossol,Corossol,,fruits,fruit,2 pcs,2.0,pièce,False,10000,5000.0,5000.0,1.0,False,,False,True,False,False,False,False,False,utilisateur,date estimée,reel_cahier
+753,2026-10-17,Ananas,Ananas,,fruits,fruit,1 pc,1.0,pièce,False,3000,3000.0,3000.0,1.0,False,,False,True,False,False,False,False,False,utilisateur,date estimée,reel_cahier
+754,2026-10-17,Oignon vert,Oignon vert,Tongolo maintso,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,True,False,False,False,False,False,utilisateur,date estimée,reel_cahier
+755,2026-10-17,Coriandre,Coriandre,,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,True,False,False,False,False,False,utilisateur,date estimée,reel_cahier
+756,2026-10-17,Citron,Citron,,fruits,agrume,1 kg,1.0,kg,False,6000,6000.0,8000.0,0.75,False,,False,True,False,False,False,False,False,utilisateur,date estimée,reel_cahier
+757,2026-10-17,Basilic,Basilic,,legumes_herbes,herbe aromatique,,,,False,2000,,,,False,,False,True,False,False,False,False,False,utilisateur,date estimée,reel_cahier
+758,2026-10-17,Frais,Frais de transport,,frais_transport,transport marché,,,,False,3000,,,,False,,False,True,False,False,False,True,False,utilisateur,date estimée / total de page confirmé par l'utilisateur : 404000 (le 425000 écrit est faux),reel_cahier
+759,2026-05-16,Frais,Frais de transport,,frais_transport,transport marché,,,,False,3000,,,,False,,False,False,False,True,False,True,False,utilisateur,LIGNE ESTIMÉE : écart de 3000 entre le total noté 81500 et la somme des lignes,estime
+760,2026-05-24,Frais,Frais de transport,,frais_transport,transport marché,,,,False,3000,,,,False,,False,False,False,True,False,True,False,utilisateur,LIGNE ESTIMÉE : écart de 3000 entre le total noté 113000 et la somme des lignes,estime

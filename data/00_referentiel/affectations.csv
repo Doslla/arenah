@@ -1,0 +1,30 @@
+affectation_id,employe_id,employe,poste_id,poste,date_debut,date_fin,est_interim
+1,1,Narindra,1,PDG – Direction générale,2026-10-09,,False
+2,2,Amboara,2,Conseiller – Direction générale,2026-10-09,,True
+3,2,Amboara,4,Directeur – Direction de l'Administration Générale,2026-10-09,,True
+4,2,Amboara,5,Directeur – Ressources humaines,2026-10-09,,True
+5,2,Amboara,7,Directeur – Finance et comptabilité,2026-10-09,,True
+6,3,Mireille,13,Directeur – Achats et logistique,2026-10-09,,True
+7,2,Amboara,16,Directeur – Informatique et technologie,2026-10-09,,True
+8,3,Mireille,19,Directrice – Direction d'Exploitation,2026-10-09,,True
+9,4,Njaka,20,Chef – Restaurant,2026-10-09,,False
+10,5,Nirina,21,Aide cuisinier – Restaurant,2026-10-09,,False
+11,6,Faneva,22,Caissier – Restaurant,2026-10-09,,False
+12,7,Mi,23,Serveur – Restaurant,2026-10-09,,False
+13,8,Nomace,24,Gérant – Hôtel,2026-10-09,,False
+14,3,Mireille,28,Gérant – Événementiel,2026-10-09,,True
+15,3,Mireille,30,Logistique – Événementiel,2026-10-09,,True
+16,9,Mampionona,31,Responsable – Piscine,2026-10-09,,False
+17,8,Nomace,33,Responsable – Accueil,2026-10-09,,False
+18,10,Aina,34,Assistant – Accueil,2026-10-09,,False
+19,8,Nomace,35,Caissier – Accueil,2026-10-09,,False
+20,11,Dada Jean,36,Gardien de jour – Sécurité et entretien,2026-10-09,,False
+21,12,Faustin,37,Gardien de nuit – Sécurité et entretien,2026-10-09,,False
+22,12,Faustin,38,Entretien – Sécurité et entretien,2026-10-09,,False
+23,11,Dada Jean,39,Logistique – Sécurité et entretien,2026-10-09,,False
+24,13,Tsiory,40,Responsable – Ménage et cuisine,2026-10-09,,False
+25,14,Tahiry,41,Ménagère – Ménage et cuisine,2026-10-09,,False
+26,15,Iris,42,Ménagère – Ménage et cuisine,2026-10-09,,False
+27,16,Nondy,43,Responsable – Cyber,2026-10-09,,False
+28,16,Nondy,44,Caissier – Cyber,2026-10-09,,False
+29,17,Luanah,46,Coiffeur – Coiffure,2026-10-09,,False

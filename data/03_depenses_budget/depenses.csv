@@ -1,0 +1,1597 @@
+depense_id,date,unite,categorie,objet,montant_ar,statut,anomalie_injectee,source,validation_pdg_requise
+1,2025-11-01,Ménage et cuisine,Ingrédients,Courses repas du personnel,101000,payée,False,synthetique,False
+2,2025-11-01,Ménage et cuisine,Ingrédients,Courses repas du personnel,144500,payée,False,synthetique,False
+3,2025-11-02,Secrétariat,Fournitures,Fournitures de bureau,108500,payée,False,synthetique,False
+4,2025-11-04,Achats et logistique,Transport,Carburant et transport,102500,payée,False,synthetique,False
+5,2025-11-05,Piscine,Entretien,Nettoyage bassin,78000,payée,False,synthetique,False
+6,2025-11-08,Ménage et cuisine,Ingrédients,Courses repas du personnel,108500,payée,False,synthetique,False
+7,2025-11-08,Piscine,Produits,Chlore et produits de traitement,200500,payée,False,synthetique,False
+8,2025-11-08,Sécurité et entretien,Matériel,Outillage,69000,payée,False,synthetique,False
+9,2025-11-09,Coiffure,Énergie,Électricité (quote-part),52500,payée,False,synthetique,False
+10,2025-11-09,Ménage et cuisine,Ingrédients,Courses repas du personnel,112500,payée,False,synthetique,False
+11,2025-11-09,Ménage et cuisine,Ingrédients,Courses repas du personnel,107000,payée,False,synthetique,False
+12,2025-11-10,Accueil,Entretien,Produits d'entretien,55000,payée,False,synthetique,False
+13,2025-11-12,Accueil,Énergie,Électricité JIRAMA (quote-part),140000,payée,False,synthetique,False
+14,2025-11-12,Ménage et cuisine,Entretien,Produits ménagers,73000,payée,False,synthetique,False
+15,2025-11-13,Ménage et cuisine,Ingrédients,Courses repas du personnel,103000,payée,False,synthetique,False
+16,2025-11-13,Piscine,Énergie,Électricité pompes,477500,refusée,False,synthetique,False
+17,2025-11-15,Coiffure,Matériel,Petit matériel,42000,payée,False,synthetique,False
+18,2025-11-15,Ménage et cuisine,Ingrédients,Courses repas du personnel,90000,payée,False,synthetique,False
+19,2025-11-15,Sécurité et entretien,Entretien,Réparations et maintenance,154000,payée,False,synthetique,False
+20,2025-11-15,Sécurité et entretien,Entretien,Réparations et maintenance,202500,payée,False,synthetique,False
+21,2025-11-16,Accueil,Entretien,Produits d'entretien,37500,payée,False,synthetique,False
+22,2025-11-16,Coiffure,Produits,Produits capillaires,83500,payée,False,synthetique,False
+23,2025-11-16,Cyber,Fournitures,Papier et encre,100000,payée,False,synthetique,False
+24,2025-11-16,Ménage et cuisine,Entretien,Produits ménagers,81500,payée,False,synthetique,False
+25,2025-11-17,Coiffure,Produits,Produits capillaires,124000,payée,False,synthetique,False
+26,2025-11-21,Ménage et cuisine,Ingrédients,Courses repas du personnel,95500,payée,False,synthetique,False
+27,2025-11-21,Piscine,Produits,Chlore et produits de traitement,223000,payée,False,synthetique,False
+28,2025-11-23,Cyber,Fournitures,Papier et encre,81500,payée,False,synthetique,False
+29,2025-11-24,Achats et logistique,Transport,Carburant et transport,67000,payée,False,synthetique,False
+30,2025-11-25,Cyber,Communication,Abonnement internet,426000,payée,False,synthetique,False
+31,2025-11-25,Piscine,Entretien,Nettoyage bassin,65500,refusée,False,synthetique,False
+32,2025-11-26,Achats et logistique,Transport,Carburant et transport,110000,payée,False,synthetique,False
+33,2025-11-27,Direction générale,Frais généraux,Frais de représentation,350000,payée,False,synthetique,False
+34,2025-11-27,Informatique et technologie,Communication,Internet bureau et téléphone,257500,payée,False,synthetique,False
+35,2025-11-30,Accueil,Fournitures,Tickets et carnets,59000,payée,False,synthetique,False
+36,2025-11-30,Achats et logistique,Transport,Carburant et transport,68500,payée,False,synthetique,False
+37,2025-11-30,Cyber,Énergie,Électricité (quote-part),153000,payée,False,synthetique,False
+38,2025-12-01,Cyber,Énergie,Électricité (quote-part),154000,payée,False,synthetique,False
+39,2025-12-01,Piscine,Produits,Chlore et produits de traitement,402500,payée,False,synthetique,False
+40,2025-12-02,Accueil,Entretien,Produits d'entretien,122500,payée,True,synthetique,False
+41,2025-12-03,Direction générale,Frais généraux,Frais de représentation,305000,payée,False,synthetique,False
+42,2025-12-03,Ménage et cuisine,Ingrédients,Courses repas du personnel,124500,payée,False,synthetique,False
+43,2025-12-03,Sécurité et entretien,Entretien,Réparations et maintenance,150000,payée,False,synthetique,False
+44,2025-12-05,Coiffure,Produits,Produits capillaires,131500,payée,False,synthetique,False
+45,2025-12-06,Achats et logistique,Transport,Carburant et transport,93000,payée,False,synthetique,False
+46,2025-12-08,Cyber,Fournitures,Papier et encre,79000,payée,False,synthetique,False
+47,2025-12-08,Sécurité et entretien,Entretien,Réparations et maintenance,115500,payée,False,synthetique,False
+48,2025-12-11,Achats et logistique,Transport,Carburant et transport,72000,payée,False,synthetique,False
+49,2025-12-11,Cyber,Matériel,Pièces informatiques,138000,payée,False,synthetique,False
+50,2025-12-12,Achats et logistique,Transport,Carburant et transport,86500,payée,False,synthetique,False
+51,2025-12-12,Coiffure,Produits,Produits capillaires,150000,payée,False,synthetique,False
+52,2025-12-14,Achats et logistique,Transport,Carburant et transport,98500,payée,False,synthetique,False
+53,2025-12-15,Piscine,Entretien,Nettoyage bassin,93000,payée,False,synthetique,False
+54,2025-12-17,Ménage et cuisine,Ingrédients,Courses repas du personnel,163500,payée,False,synthetique,False
+55,2025-12-18,Ménage et cuisine,Ingrédients,Courses repas du personnel,130000,payée,False,synthetique,False
+56,2025-12-18,Ménage et cuisine,Entretien,Produits ménagers,115500,payée,False,synthetique,False
+57,2025-12-18,Piscine,Énergie,Électricité pompes,301500,payée,False,synthetique,False
+58,2025-12-19,Ménage et cuisine,Entretien,Produits ménagers,82500,payée,False,synthetique,False
+59,2025-12-19,Piscine,Entretien,Nettoyage bassin,87500,payée,False,synthetique,False
+60,2025-12-20,Secrétariat,Fournitures,Fournitures de bureau,75500,payée,False,synthetique,False
+61,2025-12-22,Accueil,Entretien,Produits d'entretien,41500,payée,False,synthetique,False
+62,2025-12-24,Cyber,Fournitures,Papier et encre,91500,payée,False,synthetique,False
+63,2025-12-25,Coiffure,Énergie,Électricité (quote-part),312500,payée,True,synthetique,False
+64,2025-12-25,Ménage et cuisine,Ingrédients,Courses repas du personnel,97000,payée,False,synthetique,False
+65,2025-12-25,Ménage et cuisine,Ingrédients,Courses repas du personnel,125500,payée,False,synthetique,False
+66,2025-12-26,Ménage et cuisine,Ingrédients,Courses repas du personnel,102500,payée,False,synthetique,False
+67,2025-12-27,Accueil,Fournitures,Tickets et carnets,59500,payée,False,synthetique,False
+68,2025-12-27,Informatique et technologie,Communication,Internet bureau et téléphone,245000,payée,False,synthetique,False
+69,2025-12-28,Cyber,Communication,Abonnement internet,313000,payée,False,synthetique,False
+70,2025-12-28,Ménage et cuisine,Ingrédients,Courses repas du personnel,80500,payée,False,synthetique,False
+71,2025-12-28,Ménage et cuisine,Ingrédients,Courses repas du personnel,154000,payée,False,synthetique,False
+72,2025-12-28,Piscine,Produits,Chlore et produits de traitement,312000,payée,False,synthetique,False
+73,2025-12-30,Accueil,Énergie,Électricité JIRAMA (quote-part),115500,payée,False,synthetique,False
+74,2025-12-30,Cyber,Matériel,Pièces informatiques,299500,payée,False,synthetique,False
+75,2026-01-01,Coiffure,Matériel,Petit matériel,58000,payée,False,synthetique,False
+76,2026-01-01,Ménage et cuisine,Ingrédients,Courses repas du personnel,87000,payée,False,synthetique,False
+77,2026-01-02,Accueil,Fournitures,Tickets et carnets,55500,payée,False,synthetique,False
+78,2026-01-02,Achats et logistique,Transport,Carburant et transport,83500,payée,False,synthetique,False
+79,2026-01-02,Informatique et technologie,Communication,Internet bureau et téléphone,231000,payée,False,synthetique,False
+80,2026-01-03,Ménage et cuisine,Entretien,Produits ménagers,70500,payée,False,synthetique,False
+81,2026-01-07,Coiffure,Énergie,Électricité (quote-part),66500,payée,False,synthetique,False
+82,2026-01-07,Piscine,Entretien,Nettoyage bassin,55500,payée,False,synthetique,False
+83,2026-01-08,Sécurité et entretien,Entretien,Réparations et maintenance,174500,payée,False,synthetique,False
+84,2026-01-10,Coiffure,Matériel,Petit matériel,70000,refusée,False,synthetique,False
+85,2026-01-11,Piscine,Produits,Chlore et produits de traitement,229000,payée,False,synthetique,False
+86,2026-01-12,Achats et logistique,Transport,Carburant et transport,81000,payée,False,synthetique,False
+87,2026-01-12,Ménage et cuisine,Ingrédients,Courses repas du personnel,128000,payée,False,synthetique,False
+88,2026-01-13,Cyber,Matériel,Pièces informatiques,192000,payée,False,synthetique,False
+89,2026-01-13,Ménage et cuisine,Ingrédients,Courses repas du personnel,114000,payée,False,synthetique,False
+90,2026-01-15,Ménage et cuisine,Ingrédients,Courses repas du personnel,115000,payée,False,synthetique,False
+91,2026-01-15,Ménage et cuisine,Ingrédients,Courses repas du personnel,92500,payée,False,synthetique,False
+92,2026-01-16,Ménage et cuisine,Ingrédients,Courses repas du personnel,131000,payée,False,synthetique,False
+93,2026-01-17,Accueil,Énergie,Électricité JIRAMA (quote-part),207000,payée,False,synthetique,False
+94,2026-01-18,Accueil,Entretien,Produits d'entretien,36000,payée,False,synthetique,False
+95,2026-01-20,Direction générale,Frais généraux,Frais de représentation,360500,payée,False,synthetique,False
+96,2026-01-21,Achats et logistique,Transport,Carburant et transport,82000,payée,False,synthetique,False
+97,2026-01-22,Ménage et cuisine,Ingrédients,Courses repas du personnel,148000,payée,False,synthetique,False
+98,2026-01-23,Coiffure,Produits,Produits capillaires,77500,payée,False,synthetique,False
+99,2026-01-23,Cyber,Fournitures,Papier et encre,107500,payée,False,synthetique,False
+100,2026-01-23,Ménage et cuisine,Ingrédients,Courses repas du personnel,131000,payée,False,synthetique,False
+101,2026-01-23,Piscine,Énergie,Électricité pompes,401500,payée,False,synthetique,False
+102,2026-01-24,Cyber,Énergie,Électricité (quote-part),157500,payée,False,synthetique,False
+103,2026-01-24,Sécurité et entretien,Entretien,Réparations et maintenance,115500,payée,False,synthetique,False
+104,2026-01-26,Ménage et cuisine,Entretien,Produits ménagers,92500,payée,False,synthetique,False
+105,2026-01-26,Secrétariat,Fournitures,Fournitures de bureau,106000,payée,False,synthetique,False
+106,2026-01-27,Achats et logistique,Transport,Carburant et transport,68000,payée,False,synthetique,False
+107,2026-01-27,Cyber,Communication,Abonnement internet,205000,refusée,False,synthetique,False
+108,2026-01-27,Cyber,Fournitures,Papier et encre,64500,payée,False,synthetique,False
+109,2026-01-28,Accueil,Entretien,Produits d'entretien,37500,payée,False,synthetique,False
+110,2026-01-28,Piscine,Entretien,Nettoyage bassin,78500,payée,False,synthetique,False
+111,2026-01-31,Coiffure,Produits,Produits capillaires,106000,payée,False,synthetique,False
+112,2026-01-31,Piscine,Produits,Chlore et produits de traitement,270500,payée,False,synthetique,False
+113,2026-02-01,Ménage et cuisine,Ingrédients,Courses repas du personnel,178500,payée,False,synthetique,False
+114,2026-02-01,Ménage et cuisine,Ingrédients,Courses repas du personnel,82500,payée,False,synthetique,False
+115,2026-02-01,Piscine,Matériel,Matériel de sécurité,81000,payée,False,synthetique,False
+116,2026-02-02,Cyber,Fournitures,Papier et encre,98500,payée,False,synthetique,False
+117,2026-02-02,Ménage et cuisine,Ingrédients,Courses repas du personnel,98500,payée,False,synthetique,False
+118,2026-02-02,Sécurité et entretien,Entretien,Réparations et maintenance,129000,payée,False,synthetique,False
+119,2026-02-03,Achats et logistique,Transport,Carburant et transport,101500,payée,False,synthetique,False
+120,2026-02-03,Ménage et cuisine,Entretien,Produits ménagers,75000,payée,False,synthetique,False
+121,2026-02-04,Achats et logistique,Transport,Carburant et transport,82000,payée,False,synthetique,False
+122,2026-02-04,Piscine,Entretien,Nettoyage bassin,102000,payée,False,synthetique,False
+123,2026-02-05,Achats et logistique,Transport,Carburant et transport,77500,payée,False,synthetique,False
+124,2026-02-05,Ménage et cuisine,Ingrédients,Courses repas du personnel,82000,payée,False,synthetique,False
+125,2026-02-09,Piscine,Produits,Chlore et produits de traitement,356000,payée,False,synthetique,False
+126,2026-02-10,Direction générale,Frais généraux,Frais de représentation,212500,payée,False,synthetique,False
+127,2026-02-10,Ménage et cuisine,Ingrédients,Courses repas du personnel,155500,payée,False,synthetique,False
+128,2026-02-10,Piscine,Produits,Chlore et produits de traitement,296500,payée,False,synthetique,False
+129,2026-02-10,Piscine,Énergie,Électricité pompes,361000,payée,False,synthetique,False
+130,2026-02-11,Cyber,Matériel,Pièces informatiques,160000,payée,False,synthetique,False
+131,2026-02-12,Accueil,Entretien,Produits d'entretien,36000,payée,False,synthetique,False
+132,2026-02-12,Cyber,Énergie,Électricité (quote-part),161500,payée,False,synthetique,False
+133,2026-02-13,Piscine,Entretien,Nettoyage bassin,68000,payée,False,synthetique,False
+134,2026-02-14,Accueil,Énergie,Électricité JIRAMA (quote-part),119000,payée,False,synthetique,False
+135,2026-02-14,Coiffure,Produits,Produits capillaires,129500,payée,False,synthetique,False
+136,2026-02-14,Coiffure,Énergie,Électricité (quote-part),65000,payée,False,synthetique,False
+137,2026-02-14,Ménage et cuisine,Entretien,Produits ménagers,84500,payée,False,synthetique,False
+138,2026-02-16,Coiffure,Produits,Produits capillaires,135500,payée,False,synthetique,False
+139,2026-02-17,Secrétariat,Fournitures,Fournitures de bureau,112500,refusée,False,synthetique,False
+140,2026-02-19,Achats et logistique,Transport,Carburant et transport,131000,payée,False,synthetique,False
+141,2026-02-20,Informatique et technologie,Communication,Internet bureau et téléphone,230500,payée,False,synthetique,False
+142,2026-02-21,Accueil,Entretien,Produits d'entretien,38000,payée,False,synthetique,False
+143,2026-02-21,Cyber,Communication,Abonnement internet,201500,payée,False,synthetique,False
+144,2026-02-22,Accueil,Fournitures,Tickets et carnets,77000,refusée,False,synthetique,False
+145,2026-02-22,Sécurité et entretien,Entretien,Réparations et maintenance,142000,payée,False,synthetique,False
+146,2026-02-23,Cyber,Fournitures,Papier et encre,91000,payée,False,synthetique,False
+147,2026-02-23,Ménage et cuisine,Ingrédients,Courses repas du personnel,145500,payée,False,synthetique,False
+148,2026-02-26,Ménage et cuisine,Ingrédients,Courses repas du personnel,91500,payée,False,synthetique,False
+149,2026-03-01,Accueil,Entretien,Produits d'entretien,28000,payée,False,synthetique,False
+150,2026-03-01,Achats et logistique,Transport,Carburant et transport,77500,payée,False,synthetique,False
+151,2026-03-01,Restaurant,Boissons,"Lipton pêche 1,5 ml",30000,payée,False,reel_quantite_prix_estime,False
+152,2026-03-01,Restaurant,Boissons,"Lipton citron 1,5 ml",30000,payée,False,reel_quantite_prix_estime,False
+153,2026-03-01,Restaurant,Boissons,THB ?,78000,payée,False,reel_quantite_prix_reference,False
+154,2026-03-01,Restaurant,Boissons,THB GM,78000,payée,False,reel_quantite_prix_reference,False
+155,2026-03-02,Coiffure,Produits,Produits capillaires,69500,payée,False,synthetique,False
+156,2026-03-04,Cyber,Communication,Abonnement internet,396000,payée,False,synthetique,False
+157,2026-03-04,Ménage et cuisine,Entretien,Produits ménagers,58500,payée,False,synthetique,False
+158,2026-03-05,Accueil,Entretien,Produits d'entretien,31000,payée,False,synthetique,False
+159,2026-03-05,Achats et logistique,Transport,Carburant et transport,98500,payée,False,synthetique,False
+160,2026-03-05,Informatique et technologie,Communication,Internet bureau et téléphone,287500,payée,False,synthetique,False
+161,2026-03-06,Sécurité et entretien,Entretien,Réparations et maintenance,104500,payée,False,synthetique,False
+162,2026-03-07,Piscine,Énergie,Électricité pompes,389500,payée,False,synthetique,False
+163,2026-03-07,Restaurant,Boissons,Fresh 33cl,40300,payée,False,reel_quantite_prix_estime,False
+164,2026-03-07,Restaurant,Boissons,Gold rose 33cl,52700,payée,False,reel_quantite_prix_reference,False
+165,2026-03-07,Restaurant,Boissons,Marco 35cl,40000,payée,False,reel_quantite_prix_estime,False
+166,2026-03-07,Restaurant,Boissons,Marco 70cl,75000,payée,False,reel_quantite_prix_estime,False
+167,2026-03-08,Accueil,Énergie,Électricité JIRAMA (quote-part),103500,payée,False,synthetique,False
+168,2026-03-08,Cyber,Fournitures,Papier et encre,95500,payée,False,synthetique,False
+169,2026-03-08,Ménage et cuisine,Entretien,Produits ménagers,71500,payée,False,synthetique,False
+170,2026-03-08,Piscine,Produits,Chlore et produits de traitement,222500,payée,False,synthetique,False
+171,2026-03-11,Cyber,Énergie,Électricité (quote-part),94000,payée,False,synthetique,False
+172,2026-03-11,Restaurant,Ingrédients,Fromage (by ba ?),195000,payée,False,reel_quantite_prix_estime,False
+173,2026-03-11,Restaurant,Boissons,Classiko lemon,6000,payée,False,reel_quantite_prix_estime,False
+174,2026-03-11,Restaurant,Boissons,Olympiko,4000,payée,False,reel_quantite_prix_estime,False
+175,2026-03-11,Restaurant,Ingrédients,Beurre (donga ?),27000,payée,False,reel_quantite_prix_reference,False
+176,2026-03-11,Restaurant,Ingrédients,Yaourt pot,44000,payée,False,reel_quantite_prix_reference,False
+177,2026-03-12,Coiffure,Énergie,Électricité (quote-part),53000,payée,False,synthetique,False
+178,2026-03-13,Ménage et cuisine,Ingrédients,Courses repas du personnel,209000,payée,False,synthetique,False
+179,2026-03-13,Ménage et cuisine,Ingrédients,Courses repas du personnel,112500,payée,False,synthetique,False
+180,2026-03-13,Piscine,Entretien,Nettoyage bassin,58500,payée,False,synthetique,False
+181,2026-03-14,Ménage et cuisine,Ingrédients,Courses repas du personnel,115000,payée,False,synthetique,False
+182,2026-03-14,Ménage et cuisine,Ingrédients,Courses repas du personnel,149500,payée,False,synthetique,False
+183,2026-03-14,Sécurité et entretien,Matériel,Outillage,119500,payée,False,synthetique,False
+184,2026-03-17,Secrétariat,Fournitures,Fournitures de bureau,90000,payée,False,synthetique,False
+185,2026-03-17,Sécurité et entretien,Entretien,Réparations et maintenance,116500,payée,False,synthetique,False
+186,2026-03-19,Ménage et cuisine,Ingrédients,Courses repas du personnel,119000,payée,False,synthetique,False
+187,2026-03-20,Coiffure,Produits,Produits capillaires,95500,payée,False,synthetique,False
+188,2026-03-20,Restaurant,Boissons,Gold 50cl,154000,payée,False,reel_quantite_prix_reference,False
+189,2026-03-20,Restaurant,Boissons,Booster 50cl,78000,payée,False,reel_quantite_prix_estime,False
+190,2026-03-20,Restaurant,Boissons,Fresh 65cl,78000,payée,False,reel_quantite_prix_estime,False
+191,2026-03-20,Restaurant,Boissons,Fresh 33cl,74400,payée,False,reel_quantite_prix_estime,False
+192,2026-03-20,Restaurant,Boissons,Gold 33cl,148800,payée,False,reel_quantite_prix_reference,False
+193,2026-03-20,Restaurant,Boissons,Coca cola 150cl,54000,payée,False,reel_quantite_prix_reference,False
+194,2026-03-20,Restaurant,Boissons,Jus 150cl (Caprice ananas),54000,payée,False,reel_quantite_prix_reference,False
+195,2026-03-20,Restaurant,Boissons,Eau vive 150cl,72000,payée,False,reel_quantite_prix_reference,False
+196,2026-03-20,Restaurant,Boissons,Le Fruit 100cl,60000,payée,False,reel_quantite_prix_reference,False
+197,2026-03-20,Restaurant,Boissons,Canette Gold 50cl,388800,payée,False,reel_quantite_prix_reference,False
+198,2026-03-20,Restaurant,Boissons,Canette THB 50cl,331200,payée,False,reel_quantite_prix_reference,False
+199,2026-03-20,Restaurant,Tabac (revente),Cigarettes Boston vert,960000,payée,False,reel_quantite_prix_reference,False
+200,2026-03-20,Restaurant,Tabac (revente),Cigarettes Good look vert,960000,payée,False,reel_quantite_prix_reference,False
+201,2026-03-20,Restaurant,Tabac (revente),Cigarettes Boston bleu,480000,payée,False,reel_quantite_prix_reference,False
+202,2026-03-20,Restaurant,Tabac (revente),Cigarettes Good look bleu,480000,payée,False,reel_quantite_prix_reference,False
+203,2026-03-21,Restaurant,Ingrédients,Mokomaizy (?),5000,payée,False,reel_quantite_prix_estime,False
+204,2026-03-21,Restaurant,Ingrédients,Fitsa (?),5000,payée,False,reel_quantite_prix_estime,False
+205,2026-03-21,Restaurant,Boissons,Toka gasy,20000,payée,False,reel_quantite_prix_estime,False
+206,2026-03-21,Restaurant,Entretien,Savony (savon ?),36000,payée,False,reel_quantite_prix_estime,False
+207,2026-03-23,Direction générale,Frais généraux,Frais de représentation,277000,payée,False,synthetique,False
+208,2026-03-24,Informatique et technologie,Matériel,Matériel informatique,374500,payée,False,synthetique,False
+209,2026-03-24,Piscine,Produits,Chlore et produits de traitement,195500,payée,False,synthetique,False
+210,2026-03-25,Accueil,Fournitures,Tickets et carnets,51500,payée,False,synthetique,False
+211,2026-03-25,Achats et logistique,Transport,Carburant et transport,89500,payée,False,synthetique,False
+212,2026-03-27,Achats et logistique,Transport,Carburant et transport,83000,payée,False,synthetique,False
+213,2026-03-27,Ménage et cuisine,Ingrédients,Courses repas du personnel,132000,payée,False,synthetique,False
+214,2026-03-28,Cyber,Fournitures,Papier et encre,76000,payée,False,synthetique,False
+215,2026-03-29,Ménage et cuisine,Ingrédients,Courses repas du personnel,105000,payée,False,synthetique,False
+216,2026-03-29,Piscine,Entretien,Nettoyage bassin,114500,payée,False,synthetique,False
+217,2026-03-29,Restaurant,Ingrédients,Fromage,624000,payée,False,reel_quantite_prix_estime,False
+218,2026-03-30,Ménage et cuisine,Ingrédients,Courses repas du personnel,80500,refusée,False,synthetique,False
+219,2026-04-01,Sécurité et entretien,Matériel,Outillage,131500,payée,False,synthetique,False
+220,2026-04-02,Restaurant,Boissons,THB canette,220800,payée,False,reel_quantite_prix_reference,False
+221,2026-04-02,Restaurant,Boissons,Gold blanche,184800,payée,False,reel_quantite_prix_reference,False
+222,2026-04-02,Restaurant,Boissons,Gold canette,129600,payée,False,reel_quantite_prix_reference,False
+223,2026-04-02,Restaurant,Boissons,Dzama Freeze,60000,payée,False,reel_quantite_prix_estime,False
+224,2026-04-02,Restaurant,Boissons,Fresh canette,110400,payée,False,reel_quantite_prix_estime,False
+225,2026-04-02,Restaurant,Boissons,Nosy Be 35cl,160000,payée,False,reel_quantite_prix_estime,False
+226,2026-04-02,Restaurant,Boissons,V.C 35cl,280000,payée,False,reel_quantite_prix_estime,False
+227,2026-04-02,Restaurant,Boissons,Cuvée blanche 35cl,63700,payée,False,reel_quantite_prix_reference,False
+228,2026-04-02,Restaurant,Boissons,Le Fruit,90000,payée,False,reel_quantite_prix_reference,False
+229,2026-04-02,Restaurant,Boissons,Dzama 1 litre,500000,payée,False,reel_quantite_prix_estime,False
+230,2026-04-03,Achats et logistique,Transport,Carburant et transport,69500,payée,False,synthetique,False
+231,2026-04-05,Ménage et cuisine,Ingrédients,Courses repas du personnel,141000,payée,False,synthetique,False
+232,2026-04-06,Piscine,Énergie,Électricité pompes,381000,payée,False,synthetique,False
+233,2026-04-06,Restaurant,Tabac (revente),Cigarettes Melia rouge,48000,payée,False,reel_quantite_prix_reference,False
+234,2026-04-06,Restaurant,Tabac (revente),Cigarettes Good look vert,48000,payée,False,reel_quantite_prix_reference,False
+235,2026-04-06,Restaurant,Tabac (revente),Cigarettes Boston,48000,payée,False,reel_quantite_prix_reference,False
+236,2026-04-06,Restaurant,Tabac (revente),Cigarettes Good look rouge,48000,payée,False,reel_quantite_prix_reference,False
+237,2026-04-06,Restaurant,Tabac (revente),Cigarettes News rouge,48000,payée,False,reel_quantite_prix_reference,False
+238,2026-04-06,Restaurant,Tabac (revente),Cigarettes News vert,48000,payée,False,reel_quantite_prix_reference,False
+239,2026-04-06,Restaurant,Emballages,Top 3,72000,payée,False,reel_quantite_prix_estime,False
+240,2026-04-06,Restaurant,Ingrédients,Candia,42000,payée,False,reel_quantite_prix_estime,False
+241,2026-04-06,Restaurant,Boissons,THB GM,312000,payée,False,reel_quantite_prix_reference,False
+242,2026-04-06,Restaurant,Boissons,THB PM,297600,payée,False,reel_quantite_prix_estime,False
+243,2026-04-06,Restaurant,Boissons,Caprice bonbon anglais,54000,payée,False,reel_quantite_prix_reference,False
+244,2026-04-06,Restaurant,Boissons,Caprice PM,16500,payée,False,reel_quantite_prix_reference,False
+245,2026-04-06,Restaurant,Boissons,Coca cola GM,54000,payée,False,reel_quantite_prix_reference,False
+246,2026-04-06,Restaurant,Boissons,World cola,54000,payée,False,reel_quantite_prix_reference,False
+247,2026-04-06,Restaurant,Boissons,Caprice orange GM,54000,payée,False,reel_quantite_prix_reference,False
+248,2026-04-07,Sécurité et entretien,Entretien,Réparations et maintenance,149000,payée,False,synthetique,False
+249,2026-04-08,Restaurant,Boissons,Whisky,150000,payée,False,reel_cahier,False
+250,2026-04-08,Restaurant,Ingrédients,Gingembre,5100,payée,False,reel_cahier_ventile,False
+251,2026-04-08,Restaurant,Ingrédients,Oignon,30900,payée,False,reel_cahier_ventile,False
+252,2026-04-08,Restaurant,Ingrédients,Pomme de terre,36000,payée,False,reel_cahier_ventile,False
+253,2026-04-08,Restaurant,Ingrédients,Persil,1000,payée,False,reel_cahier_ventile,False
+254,2026-04-08,Restaurant,Ingrédients,Oignon vert,2100,payée,False,reel_cahier_ventile,False
+255,2026-04-08,Restaurant,Ingrédients,Céleri,1000,payée,False,reel_cahier_ventile,False
+256,2026-04-08,Restaurant,Ingrédients,Basilic,2100,payée,False,reel_cahier_ventile,False
+257,2026-04-08,Restaurant,Ingrédients,Blanc de poulet,61800,payée,False,reel_cahier_ventile,False
+258,2026-04-09,Restaurant,Emballages,Carton frites,25000,payée,False,reel_quantite_prix_estime,False
+259,2026-04-09,Restaurant,Ingrédients,Farine de blé,750000,payée,False,reel_quantite_prix_estime,False
+260,2026-04-09,Restaurant,Emballages,Verre à jeter,50000,payée,False,reel_quantite_prix_estime,False
+261,2026-04-09,Restaurant,Ingrédients,Corn flakes,120000,payée,False,reel_quantite_prix_estime,False
+262,2026-04-09,Restaurant,Ingrédients,Sauce soja,16000,payée,False,reel_quantite_prix_estime,False
+263,2026-04-09,Restaurant,Ingrédients,Huile,300000,payée,False,reel_quantite_prix_estime,False
+264,2026-04-09,Restaurant,Emballages,Papier film,75000,payée,False,reel_quantite_prix_estime,False
+265,2026-04-09,Restaurant,Boissons,Thé Sahambavy,1000,payée,False,reel_quantite_prix_reference,False
+266,2026-04-09,Restaurant,Ingrédients,Huile d'olive,140000,payée,False,reel_quantite_prix_estime,False
+267,2026-04-09,Restaurant,Ingrédients,Poudre de lait,30000,payée,False,reel_quantite_prix_estime,False
+268,2026-04-09,Restaurant,Ingrédients,Champignon de Paris,50000,payée,False,reel_quantite_prix_reference,False
+269,2026-04-09,Restaurant,Boissons,Coca canette,72000,payée,False,reel_quantite_prix_reference,False
+270,2026-04-09,Restaurant,Boissons,Ceres,72000,payée,False,reel_quantite_prix_reference,False
+271,2026-04-09,Restaurant,Ingrédients,Candia,72000,payée,False,reel_quantite_prix_estime,False
+272,2026-04-09,Restaurant,Boissons,Cristalline 1L,75000,payée,False,reel_quantite_prix_reference,False
+273,2026-04-09,Restaurant,Boissons,Cristalline 2L,77200,payée,False,reel_quantite_prix_reference,False
+274,2026-04-09,Restaurant,Ingrédients,Fécule de manioc,12000,payée,False,reel_quantite_prix_reference,False
+275,2026-04-09,Restaurant,Ingrédients,Katsaka popcorn,12000,payée,False,reel_quantite_prix_estime,False
+276,2026-04-09,Restaurant,Ingrédients,Huile Hina,120000,payée,False,reel_quantite_prix_estime,False
+277,2026-04-09,Restaurant,Ingrédients,Danika bleu,180000,payée,False,reel_quantite_prix_reference,False
+278,2026-04-09,Restaurant,Entretien,Lave-vitre,48000,payée,False,reel_quantite_prix_estime,False
+279,2026-04-09,Restaurant,Ingrédients,Sauce tsa-siou,30000,payée,False,reel_quantite_prix_estime,False
+280,2026-04-09,Restaurant,Ingrédients,Tomate ketchup,35000,payée,False,reel_quantite_prix_estime,False
+281,2026-04-09,Secrétariat,Fournitures,Fournitures de bureau,148500,payée,False,synthetique,False
+282,2026-04-10,Restaurant,Emballages,Sachet,5000,payée,False,reel_cahier,False
+283,2026-04-10,Restaurant,Ingrédients,Yaourt nature,2400,payée,False,reel_cahier,False
+284,2026-04-10,Restaurant,Ingrédients,Tête de poulet,14000,payée,False,reel_cahier,False
+285,2026-04-10,Restaurant,Boissons,Gold 50cl,154000,payée,False,reel_quantite_prix_reference,False
+286,2026-04-10,Restaurant,Boissons,Fresh 65cl,156000,payée,False,reel_quantite_prix_estime,False
+287,2026-04-10,Restaurant,Boissons,Fresh 33cl,74400,payée,False,reel_quantite_prix_estime,False
+288,2026-04-10,Restaurant,Boissons,Gold 33cl,148800,payée,False,reel_quantite_prix_reference,False
+289,2026-04-10,Restaurant,Boissons,Coca cola 35cl,33000,payée,False,reel_quantite_prix_reference,False
+290,2026-04-10,Restaurant,Boissons,Caprice can 33cl,54000,payée,False,reel_quantite_prix_reference,False
+291,2026-04-10,Restaurant,Boissons,Gold blanche canette,388800,payée,False,reel_quantite_prix_reference,False
+292,2026-04-11,Ménage et cuisine,Ingrédients,Courses repas du personnel,147000,payée,False,synthetique,False
+293,2026-04-11,Ménage et cuisine,Ingrédients,Courses repas du personnel,119000,payée,False,synthetique,False
+294,2026-04-11,Ménage et cuisine,Entretien,Produits ménagers,56500,payée,False,synthetique,False
+295,2026-04-11,Restaurant,Ingrédients,Petit pois,10000,payée,False,reel_cahier,False
+296,2026-04-11,Restaurant,Ingrédients,Brèdes (feuilles vertes),1500,payée,False,reel_cahier,False
+297,2026-04-11,Restaurant,Ingrédients,Haricot (sec),4000,payée,False,reel_cahier,False
+298,2026-04-12,Piscine,Produits,Chlore et produits de traitement,280000,payée,False,synthetique,False
+299,2026-04-12,Restaurant,Ingrédients,Courgette,1000,payée,False,reel_cahier,False
+300,2026-04-12,Restaurant,Ingrédients,Salade (feuilles),1000,payée,False,reel_cahier,False
+301,2026-04-12,Restaurant,Ingrédients,Beurre,3000,payée,False,reel_cahier,False
+302,2026-04-12,Restaurant,Ingrédients,Salade (feuilles),2000,payée,False,reel_cahier,False
+303,2026-04-14,Piscine,Entretien,Nettoyage bassin,76500,payée,False,synthetique,False
+304,2026-04-14,Restaurant,Ingrédients,Kotomila (non traduit),1000,payée,False,reel_cahier,False
+305,2026-04-14,Restaurant,Ingrédients,Oignon vert,1000,payée,False,reel_cahier,False
+306,2026-04-14,Restaurant,Ingrédients,Persil,1000,payée,False,reel_cahier,False
+307,2026-04-14,Restaurant,Ingrédients,Ail,1000,payée,False,reel_cahier,False
+308,2026-04-14,Restaurant,Ingrédients,Brède mafane,500,payée,False,reel_cahier,False
+309,2026-04-15,Accueil,Énergie,Électricité JIRAMA (quote-part),108000,payée,False,synthetique,False
+310,2026-04-15,Restaurant,Ingrédients,Beurre,3000,payée,False,reel_cahier,False
+311,2026-04-16,Informatique et technologie,Communication,Internet bureau et téléphone,232000,payée,False,synthetique,False
+312,2026-04-16,Sécurité et entretien,Entretien,Réparations et maintenance,166500,payée,False,synthetique,False
+313,2026-04-17,Cyber,Fournitures,Papier et encre,69500,payée,False,synthetique,False
+314,2026-04-17,Cyber,Énergie,Électricité (quote-part),121000,payée,False,synthetique,False
+315,2026-04-17,Ménage et cuisine,Ingrédients,Courses repas du personnel,207500,payée,False,synthetique,False
+316,2026-04-17,Ménage et cuisine,Ingrédients,Courses repas du personnel,160000,payée,False,synthetique,False
+317,2026-04-18,Coiffure,Produits,Produits capillaires,82500,payée,False,synthetique,False
+318,2026-04-18,Ménage et cuisine,Entretien,Produits ménagers,95000,payée,False,synthetique,False
+319,2026-04-18,Restaurant,Ingrédients,Tomate,3000,payée,False,reel_cahier,False
+320,2026-04-18,Restaurant,Ingrédients,Carotte,3000,payée,False,reel_cahier,False
+321,2026-04-18,Restaurant,Ingrédients,Brèdes (feuilles vertes),700,payée,False,reel_cahier,False
+322,2026-04-18,Restaurant,Ingrédients,Ananas,2000,payée,False,reel_cahier,False
+323,2026-04-19,Accueil,Entretien,Produits d'entretien,33000,payée,False,synthetique,False
+324,2026-04-19,Coiffure,Énergie,Électricité (quote-part),56000,payée,False,synthetique,False
+325,2026-04-19,Cyber,Matériel,Pièces informatiques,167000,payée,False,synthetique,False
+326,2026-04-19,Restaurant,Ingrédients,Salade (feuilles),3000,payée,False,reel_cahier,False
+327,2026-04-19,Restaurant,Ingrédients,Courge / citrouille,1000,payée,False,reel_cahier,False
+328,2026-04-19,Restaurant,Ingrédients,Beurre,3000,payée,False,reel_cahier,False
+329,2026-04-19,Restaurant,Ingrédients,Blanc de poulet,60000,payée,False,reel_cahier,False
+330,2026-04-20,Accueil,Fournitures,Tickets et carnets,47500,payée,False,synthetique,False
+331,2026-04-20,Piscine,Entretien,Nettoyage bassin,74500,payée,False,synthetique,False
+332,2026-04-21,Ménage et cuisine,Ingrédients,Courses repas du personnel,151500,payée,False,synthetique,False
+333,2026-04-21,Restaurant,Ingrédients,Tomate,3000,payée,False,reel_cahier,False
+334,2026-04-21,Restaurant,Ingrédients,Salade (feuilles),3000,payée,False,reel_cahier,False
+335,2026-04-21,Restaurant,Ingrédients,Salade (feuilles),5000,payée,False,reel_cahier,False
+336,2026-04-21,Restaurant,Ingrédients,Pomme de terre,35000,payée,False,reel_cahier,False
+337,2026-04-21,Restaurant,Ingrédients,Oignon,25000,payée,False,reel_cahier,False
+338,2026-04-21,Restaurant,Ingrédients,Oignon vert,2000,payée,False,reel_cahier,False
+339,2026-04-21,Restaurant,Ingrédients,Coriandre,2000,payée,False,reel_cahier,False
+340,2026-04-21,Restaurant,Ingrédients,Carotte,6000,payée,False,reel_cahier,False
+341,2026-04-21,Restaurant,Ingrédients,Courgette,4000,payée,False,reel_cahier,False
+342,2026-04-21,Restaurant,Ingrédients,Tomate,6000,payée,False,reel_cahier,False
+343,2026-04-21,Restaurant,Ingrédients,Concombre,4000,payée,False,reel_cahier,False
+344,2026-04-21,Restaurant,Ingrédients,Ail,9000,payée,False,reel_cahier,False
+345,2026-04-21,Restaurant,Ingrédients,Gingembre,10000,payée,False,reel_cahier,False
+346,2026-04-21,Restaurant,Ingrédients,Chou blanc,2000,payée,False,reel_cahier,False
+347,2026-04-21,Restaurant,Ingrédients,Persil,1000,payée,False,reel_cahier,False
+348,2026-04-21,Restaurant,Transport,Frais de transport,2000,payée,False,reel_cahier,False
+349,2026-04-22,Accueil,Entretien,Produits d'entretien,52000,payée,False,synthetique,False
+350,2026-04-22,Achats et logistique,Transport,Carburant et transport,79500,payée,False,synthetique,False
+351,2026-04-22,Achats et logistique,Transport,Carburant et transport,84000,payée,False,synthetique,False
+352,2026-04-22,Direction générale,Frais généraux,Frais de représentation,208000,payée,False,synthetique,False
+353,2026-04-22,Restaurant,Ingrédients,Oeuf,63000,payée,False,reel_cahier,False
+354,2026-04-23,Achats et logistique,Transport,Carburant et transport,89500,payée,False,synthetique,False
+355,2026-04-23,Cyber,Communication,Abonnement internet,359000,payée,False,synthetique,False
+356,2026-04-23,Restaurant,Ingrédients,Beurre,2500,payée,False,reel_cahier,False
+357,2026-04-24,Coiffure,Produits,Produits capillaires,390000,payée,True,synthetique,False
+358,2026-04-24,Restaurant,Ingrédients,ORO (produit non identifié),12000,payée,False,reel_cahier,False
+359,2026-04-24,Restaurant,Ingrédients,Yaourt,1100,payée,False,reel_cahier,False
+360,2026-04-25,Cyber,Fournitures,Papier et encre,92500,payée,False,synthetique,False
+361,2026-04-25,Ménage et cuisine,Ingrédients,Courses repas du personnel,86500,payée,False,synthetique,False
+362,2026-04-25,Piscine,Produits,Chlore et produits de traitement,284000,payée,False,synthetique,False
+363,2026-04-25,Restaurant,Ingrédients,Pain,1200,payée,False,reel_cahier,False
+364,2026-04-25,Restaurant,Ingrédients,Brèdes (feuilles vertes),1000,payée,False,reel_cahier,False
+365,2026-04-25,Restaurant,Ingrédients,Petites crevettes séchées (rouges),1000,payée,False,reel_cahier,False
+366,2026-04-25,Restaurant,Ingrédients,Yaourt,2200,payée,False,reel_cahier,False
+367,2026-04-25,Restaurant,Ingrédients,Blanc de poulet,60000,payée,False,reel_cahier,False
+368,2026-04-25,Restaurant,Boissons,Coca 300ml,33000,payée,False,reel_quantite_prix_reference,False
+369,2026-04-25,Restaurant,Entretien,Alba,9000,payée,False,reel_quantite_prix_estime,False
+370,2026-04-25,Restaurant,Entretien,Impec javel,5000,payée,False,reel_quantite_prix_estime,False
+371,2026-04-25,Restaurant,Ingrédients,Katsaka,12000,payée,False,reel_quantite_prix_estime,False
+372,2026-04-25,Restaurant,Entretien,Agarbati (encens),120000,payée,False,reel_quantite_prix_estime,False
+373,2026-04-25,Restaurant,Entretien,Ody lalitra (insecticide),12000,payée,False,reel_quantite_prix_estime,False
+374,2026-04-25,Restaurant,Emballages,Sac poubelle,13000,payée,False,reel_quantite_prix_estime,False
+375,2026-04-25,Restaurant,Ingrédients,Farine,300000,payée,False,reel_quantite_prix_estime,False
+376,2026-04-25,Restaurant,Ingrédients,Farine de riz,10000,payée,False,reel_quantite_prix_estime,False
+377,2026-04-25,Restaurant,Ingrédients,Danica,60000,payée,False,reel_quantite_prix_reference,False
+378,2026-04-25,Restaurant,Entretien,Papier hygiénique,60000,payée,False,reel_quantite_prix_estime,False
+379,2026-04-25,Restaurant,Ingrédients,Chilly,104000,payée,False,reel_quantite_prix_estime,False
+380,2026-04-25,Restaurant,Ingrédients,Brioche,10000,payée,False,reel_quantite_prix_estime,False
+381,2026-04-26,Ménage et cuisine,Ingrédients,Courses repas du personnel,94500,payée,False,synthetique,False
+382,2026-04-26,Restaurant,Ingrédients,Beurre,6000,payée,False,reel_cahier,False
+383,2026-04-26,Restaurant,Ingrédients,Ail,5000,payée,False,reel_cahier,False
+384,2026-04-26,Restaurant,Ingrédients,Tomate,3000,payée,False,reel_cahier,False
+385,2026-04-26,Restaurant,Ingrédients,Salade (feuilles),5800,payée,False,reel_cahier,False
+386,2026-04-26,Restaurant,Ingrédients,Oignon vert,1000,payée,False,reel_cahier,False
+387,2026-04-26,Restaurant,Ingrédients,Kotomila (non traduit),1000,payée,False,reel_cahier,False
+388,2026-04-26,Restaurant,Ingrédients,Ail,2000,payée,False,reel_cahier,False
+389,2026-04-28,Restaurant,Ingrédients,Haricot (sec),7500,payée,False,reel_cahier,False
+390,2026-04-28,Restaurant,Ingrédients,Beurre,3000,payée,False,reel_cahier,False
+391,2026-04-28,Restaurant,Ingrédients,Grenadelle,5000,payée,False,reel_cahier,False
+392,2026-04-28,Restaurant,Boissons,Gold 50cl (facture V6D28E0018),308000,payée,False,reel_facture,False
+393,2026-04-28,Restaurant,Boissons,THB 65cl (facture V6D28E0018),312000,payée,False,reel_facture,False
+394,2026-04-28,Restaurant,Boissons,Gold 33cl (facture V6D28E0018),223200,payée,False,reel_facture,False
+395,2026-04-28,Restaurant,Boissons,Jus 150cl (facture V6D28E0018),216000,payée,False,reel_facture,False
+396,2026-04-28,Restaurant,Boissons,Jus 50cl (facture V6D28E0018),42192,payée,False,reel_facture,False
+397,2026-04-28,Restaurant,Boissons,Canette Gold 50cl (facture V6D28E0018),388800,payée,False,reel_facture,False
+398,2026-04-28,Restaurant,Boissons,Caprice canette 33cl (facture V6D28E0018),108000,payée,False,reel_facture,False
+399,2026-04-29,Restaurant,Ingrédients,Pattes de poulet,1900,payée,False,reel_cahier_ventile,False
+400,2026-04-29,Restaurant,Ingrédients,Tête de poulet,26100,payée,False,reel_cahier_ventile,False
+401,2026-04-29,Restaurant,Emballages,Carton pizza,100000,payée,False,reel_quantite_prix_estime,False
+402,2026-04-29,Restaurant,Emballages,Gobelet plastique 250ml,10000,payée,False,reel_quantite_prix_estime,False
+403,2026-04-29,Restaurant,Emballages,Saucière 30ml,10000,payée,False,reel_quantite_prix_estime,False
+404,2026-04-29,Restaurant,Emballages,Saucière 50ml,10000,payée,False,reel_quantite_prix_estime,False
+405,2026-04-29,Restaurant,Emballages,Lot 3 bouteilles,10000,payée,False,reel_quantite_prix_estime,False
+406,2026-05-02,Restaurant,Ingrédients,Riz,1800,payée,False,reel_cahier,False
+407,2026-05-02,Restaurant,Ingrédients,Brèdes (feuilles vertes),1000,payée,False,reel_cahier,False
+408,2026-05-02,Restaurant,Ingrédients,Petites crevettes séchées (rouges),1000,payée,False,reel_cahier,False
+409,2026-05-02,Restaurant,Ingrédients,Goyave,1200,payée,False,reel_cahier,False
+410,2026-05-02,Restaurant,Ingrédients,Goyave,2000,payée,False,reel_cahier,False
+411,2026-05-02,Restaurant,Ingrédients,Oignon,3000,payée,False,reel_cahier,False
+412,2026-05-02,Restaurant,Ingrédients,Coriandre,2000,payée,False,reel_cahier,False
+413,2026-05-02,Restaurant,Ingrédients,Tomate,3000,payée,False,reel_cahier,False
+414,2026-05-02,Restaurant,Ingrédients,Salade (feuilles),5000,payée,False,reel_cahier,False
+415,2026-05-02,Restaurant,Ingrédients,Beurre,6000,payée,False,reel_cahier,False
+416,2026-05-03,Ménage et cuisine,Ingrédients,Courses repas du personnel,101500,payée,False,synthetique,False
+417,2026-05-03,Ménage et cuisine,Ingrédients,Courses repas du personnel,110500,payée,False,synthetique,False
+418,2026-05-04,Achats et logistique,Transport,Carburant et transport,68500,payée,False,synthetique,False
+419,2026-05-04,Direction générale,Frais généraux,Frais de représentation,244500,payée,False,synthetique,False
+420,2026-05-05,Ménage et cuisine,Entretien,Produits ménagers,78000,payée,False,synthetique,False
+421,2026-05-06,Ménage et cuisine,Entretien,Produits ménagers,111000,payée,False,synthetique,False
+422,2026-05-06,Restaurant,Ingrédients,Pomme de terre,35000,payée,False,reel_cahier,False
+423,2026-05-06,Restaurant,Ingrédients,Oignon,30000,payée,False,reel_cahier,False
+424,2026-05-06,Restaurant,Ingrédients,Oignon vert,2000,payée,False,reel_cahier,False
+425,2026-05-06,Restaurant,Ingrédients,Coriandre,2000,payée,False,reel_cahier,False
+426,2026-05-06,Restaurant,Ingrédients,Persil,1000,payée,False,reel_cahier,False
+427,2026-05-07,Restaurant,Ingrédients,Pois bambara,7000,payée,False,reel_cahier,False
+428,2026-05-07,Restaurant,Ingrédients,Blanc de poulet,60000,payée,False,reel_cahier,False
+429,2026-05-07,Restaurant,Ingrédients,Viande hachée,11000,payée,False,reel_cahier,False
+430,2026-05-08,Restaurant,Ingrédients,Pâte à nem,15000,payée,False,reel_cahier,False
+431,2026-05-08,Restaurant,Ingrédients,Oignon vert,2000,payée,False,reel_cahier,False
+432,2026-05-08,Restaurant,Ingrédients,Coriandre,2000,payée,False,reel_cahier,False
+433,2026-05-08,Restaurant,Ingrédients,Céleri,1000,payée,False,reel_cahier,False
+434,2026-05-08,Restaurant,Ingrédients,Menthe,1000,payée,False,reel_cahier,False
+435,2026-05-08,Restaurant,Ingrédients,Carotte,6000,payée,False,reel_cahier,False
+436,2026-05-08,Restaurant,Ingrédients,Concombre,6000,payée,False,reel_cahier,False
+437,2026-05-08,Restaurant,Ingrédients,Tomate,6000,payée,False,reel_cahier,False
+438,2026-05-08,Restaurant,Ingrédients,Salade (feuilles),3000,payée,False,reel_cahier,False
+439,2026-05-08,Restaurant,Ingrédients,Grenadelle,20000,payée,False,reel_cahier,False
+440,2026-05-08,Restaurant,Boissons,Cristalline,15000,payée,False,reel_quantite_prix_reference,False
+441,2026-05-08,Restaurant,Boissons,Caprice ananas,27000,payée,False,reel_quantite_prix_reference,False
+442,2026-05-08,Restaurant,Boissons,Gold blanche canette,129600,payée,False,reel_quantite_prix_reference,False
+443,2026-05-09,Ménage et cuisine,Ingrédients,Courses repas du personnel,145500,payée,False,synthetique,False
+444,2026-05-09,Restaurant,Fournitures,Cahier,5000,payée,False,reel_cahier,False
+445,2026-05-09,Restaurant,Ingrédients,Pain,600,payée,False,reel_cahier,False
+446,2026-05-09,Restaurant,Ingrédients,Ananas,2500,payée,False,reel_cahier_ventile,False
+447,2026-05-09,Restaurant,Ingrédients,Salade (feuilles),2500,payée,False,reel_cahier_ventile,False
+448,2026-05-10,Achats et logistique,Transport,Carburant et transport,98000,payée,False,synthetique,False
+449,2026-05-10,Achats et logistique,Transport,Carburant et transport,65500,payée,False,synthetique,False
+450,2026-05-10,Restaurant,Ingrédients,Beurre,6000,payée,False,reel_cahier,False
+451,2026-05-11,Ménage et cuisine,Ingrédients,Courses repas du personnel,116500,payée,False,synthetique,False
+452,2026-05-11,Piscine,Produits,Chlore et produits de traitement,300000,payée,False,synthetique,False
+453,2026-05-12,Achats et logistique,Transport,Carburant et transport,51500,payée,False,synthetique,False
+454,2026-05-12,Coiffure,Produits,Produits capillaires,112000,payée,False,synthetique,False
+455,2026-05-12,Informatique et technologie,Communication,Internet bureau et téléphone,243000,payée,False,synthetique,False
+456,2026-05-13,Cyber,Fournitures,Papier et encre,80500,payée,False,synthetique,False
+457,2026-05-13,Ménage et cuisine,Ingrédients,Courses repas du personnel,153500,payée,False,synthetique,False
+458,2026-05-13,Restaurant,Ingrédients,Brède mafane,500,payée,False,reel_cahier,False
+459,2026-05-13,Restaurant,Emballages,Sachet,10000,payée,False,reel_quantite_prix_estime,False
+460,2026-05-13,Restaurant,Boissons,Gold blanche canette,259200,payée,False,reel_quantite_prix_reference,False
+461,2026-05-13,Restaurant,Boissons,THB canette,220800,payée,False,reel_quantite_prix_reference,False
+462,2026-05-13,Restaurant,Boissons,Beaufort canette 33cl,50400,payée,False,reel_quantite_prix_reference,False
+463,2026-05-13,Restaurant,Ingrédients,Katsaka,15000,payée,False,reel_quantite_prix_estime,False
+464,2026-05-13,Restaurant,Ingrédients,Paprika,5000,payée,False,reel_quantite_prix_estime,False
+465,2026-05-13,Restaurant,Ingrédients,Esmeralda,5000,payée,False,reel_quantite_prix_estime,False
+466,2026-05-14,Accueil,Entretien,Produits d'entretien,28500,payée,False,synthetique,False
+467,2026-05-14,Restaurant,Ingrédients,Salade (feuilles),3000,payée,False,reel_cahier,False
+468,2026-05-14,Restaurant,Ingrédients,Pain,600,payée,False,reel_cahier,False
+469,2026-05-14,Restaurant,Ingrédients,Cuisse de poulet,60000,payée,False,reel_cahier,False
+470,2026-05-14,Restaurant,Ingrédients,Viande hachée,21000,payée,False,reel_cahier,False
+471,2026-05-15,Coiffure,Énergie,Électricité (quote-part),71000,payée,False,synthetique,False
+472,2026-05-16,Coiffure,Produits,Produits capillaires,139000,payée,False,synthetique,False
+473,2026-05-16,Cyber,Fournitures,Papier et encre,97000,payée,False,synthetique,False
+474,2026-05-16,Restaurant,Ingrédients,Brède anatsonga (non traduit),500,payée,False,reel_cahier,False
+475,2026-05-16,Restaurant,Ingrédients,Carotte,2000,payée,False,reel_cahier,False
+476,2026-05-16,Restaurant,Ingrédients,Tomate,1000,payée,False,reel_cahier,False
+477,2026-05-16,Restaurant,Ingrédients,Pomme de terre,35000,payée,False,reel_cahier,False
+478,2026-05-16,Restaurant,Ingrédients,Carotte,6000,payée,False,reel_cahier,False
+479,2026-05-16,Restaurant,Ingrédients,Haricot vert,4000,payée,False,reel_cahier,False
+480,2026-05-16,Restaurant,Ingrédients,Gingembre,10000,payée,False,reel_cahier,False
+481,2026-05-16,Restaurant,Ingrédients,Tomate,6000,payée,False,reel_cahier,False
+482,2026-05-16,Restaurant,Ingrédients,Poivron,4000,payée,False,reel_cahier,False
+483,2026-05-16,Restaurant,Ingrédients,Salade (feuilles),5000,payée,False,reel_cahier,False
+484,2026-05-16,Restaurant,Ingrédients,Citron,5000,payée,False,reel_cahier,False
+485,2026-05-16,Restaurant,Transport,Frais de transport,3000,payée,False,estime,False
+486,2026-05-17,Ménage et cuisine,Ingrédients,Courses repas du personnel,92000,payée,False,synthetique,False
+487,2026-05-17,Restaurant,Ingrédients,Beurre,3000,payée,False,reel_cahier,False
+488,2026-05-17,Restaurant,Ingrédients,Brèdes (feuilles vertes),500,payée,False,reel_cahier,False
+489,2026-05-17,Restaurant,Ingrédients,Pain,600,payée,False,reel_cahier,False
+490,2026-05-17,Restaurant,Ingrédients,Blanc de poulet,60000,payée,False,reel_cahier,False
+491,2026-05-18,Piscine,Énergie,Électricité pompes,315500,payée,False,synthetique,False
+492,2026-05-18,Sécurité et entretien,Entretien,Réparations et maintenance,125500,payée,False,synthetique,False
+493,2026-05-19,Cyber,Communication,Abonnement internet,416500,payée,False,synthetique,False
+494,2026-05-19,Restaurant,Fournitures,Ficelle,500,payée,False,reel_cahier,False
+495,2026-05-19,Restaurant,Ingrédients,Céleri,1000,payée,False,reel_cahier,False
+496,2026-05-19,Restaurant,Ingrédients,Poireau,1000,payée,False,reel_cahier,False
+497,2026-05-19,Secrétariat,Fournitures,Fournitures de bureau,100000,payée,False,synthetique,False
+498,2026-05-20,Accueil,Fournitures,Tickets et carnets,44500,payée,False,synthetique,False
+499,2026-05-20,Accueil,Entretien,Produits d'entretien,23000,payée,False,synthetique,False
+500,2026-05-20,Ménage et cuisine,Ingrédients,Courses repas du personnel,84000,payée,False,synthetique,False
+501,2026-05-21,Restaurant,Boissons,Thé Sahambavy,1000,payée,False,reel_cahier,False
+502,2026-05-21,Restaurant,Ingrédients,Oignon vert,1000,payée,False,reel_cahier,False
+503,2026-05-21,Restaurant,Ingrédients,Oignon,3500,payée,False,reel_cahier,False
+504,2026-05-21,Restaurant,Ingrédients,Petite aubergine,500,payée,False,reel_cahier,False
+505,2026-05-21,Restaurant,Ingrédients,Brède mafane,500,payée,False,reel_cahier,False
+506,2026-05-21,Restaurant,Ingrédients,Brèdes (feuilles vertes),500,payée,False,reel_cahier,False
+507,2026-05-21,Restaurant,Ingrédients,Oignon vert,2000,payée,False,reel_cahier,False
+508,2026-05-21,Restaurant,Ingrédients,Coriandre,2000,payée,False,reel_cahier,False
+509,2026-05-21,Restaurant,Ingrédients,Pâte à nem,15000,payée,False,reel_cahier,False
+510,2026-05-21,Restaurant,Ingrédients,Salade (feuilles),5000,payée,False,reel_cahier,False
+511,2026-05-21,Restaurant,Ingrédients,Haricot vert,4000,payée,False,reel_cahier,False
+512,2026-05-21,Restaurant,Ingrédients,Grenadelle,15000,payée,False,reel_cahier,False
+513,2026-05-21,Restaurant,Ingrédients,Tomate,6000,payée,False,reel_cahier,False
+514,2026-05-21,Restaurant,Ingrédients,Gingembre,10000,payée,False,reel_cahier,False
+515,2026-05-21,Restaurant,Ingrédients,Brède mafane,1000,payée,False,reel_cahier,False
+516,2026-05-21,Restaurant,Ingrédients,Carotte,6000,payée,False,reel_cahier,False
+517,2026-05-21,Restaurant,Ingrédients,Courgette,4000,payée,False,reel_cahier,False
+518,2026-05-21,Restaurant,Ingrédients,Céleri,1000,payée,False,reel_cahier,False
+519,2026-05-21,Restaurant,Ingrédients,Poireau,1000,payée,False,reel_cahier,False
+520,2026-05-21,Restaurant,Ingrédients,Menthe,1000,payée,False,reel_cahier,False
+521,2026-05-21,Restaurant,Ingrédients,Thym,1000,payée,False,reel_cahier,False
+522,2026-05-21,Restaurant,Ingrédients,Basilic,2000,payée,False,reel_cahier,False
+523,2026-05-21,Restaurant,Transport,Frais de transport,2000,payée,False,reel_cahier,False
+524,2026-05-21,Restaurant,Ingrédients,Fromage,195000,payée,False,reel_quantite_prix_estime,False
+525,2026-05-24,Piscine,Entretien,Nettoyage bassin,79500,payée,False,synthetique,False
+526,2026-05-24,Piscine,Entretien,Nettoyage bassin,64000,payée,False,synthetique,False
+527,2026-05-24,Restaurant,Ingrédients,Salade (feuilles),5000,payée,False,reel_cahier,False
+528,2026-05-24,Restaurant,Ingrédients,Oignon,3500,payée,False,reel_cahier,False
+529,2026-05-24,Restaurant,Ingrédients,Oignon vert,1000,payée,False,reel_cahier,False
+530,2026-05-24,Restaurant,Ingrédients,Courgette,1000,payée,False,reel_cahier,False
+531,2026-05-24,Restaurant,Ingrédients,Oeuf,70000,payée,False,reel_cahier,False
+532,2026-05-24,Restaurant,Ingrédients,Ail,3000,payée,False,reel_cahier,False
+533,2026-05-24,Restaurant,Ingrédients,Céleri,500,payée,False,reel_cahier,False
+534,2026-05-24,Restaurant,Ingrédients,Poireau,500,payée,False,reel_cahier,False
+535,2026-05-24,Restaurant,Emballages,Sachet,5000,payée,False,reel_cahier,False
+536,2026-05-24,Restaurant,Emballages,Sachet,10000,payée,False,reel_cahier,False
+537,2026-05-24,Restaurant,Ingrédients,Pomme de terre,35000,payée,False,reel_cahier,False
+538,2026-05-24,Restaurant,Ingrédients,Oignon,30000,payée,False,reel_cahier,False
+539,2026-05-24,Restaurant,Ingrédients,Ail,6000,payée,False,reel_cahier,False
+540,2026-05-24,Restaurant,Ingrédients,Courgette,4000,payée,False,reel_cahier,False
+541,2026-05-24,Restaurant,Ingrédients,Tomate,6000,payée,False,reel_cahier,False
+542,2026-05-24,Restaurant,Ingrédients,Oignon vert,2000,payée,False,reel_cahier,False
+543,2026-05-24,Restaurant,Ingrédients,Coriandre,2000,payée,False,reel_cahier,False
+544,2026-05-24,Restaurant,Ingrédients,Grenadelle,25000,payée,False,reel_cahier,False
+545,2026-05-24,Restaurant,Transport,Frais de transport,3000,payée,False,estime,False
+546,2026-05-25,Restaurant,Ingrédients,Brèdes (feuilles vertes),500,payée,False,reel_cahier,False
+547,2026-05-25,Restaurant,Ingrédients,Salade (feuilles),3000,payée,False,reel_cahier,False
+548,2026-05-25,Restaurant,Ingrédients,Galette de riz,2000,payée,False,reel_cahier,False
+549,2026-05-26,Cyber,Énergie,Électricité (quote-part),111000,payée,False,synthetique,False
+550,2026-05-26,Ménage et cuisine,Ingrédients,Courses repas du personnel,133500,payée,False,synthetique,False
+551,2026-05-27,Accueil,Énergie,Électricité JIRAMA (quote-part),90500,payée,False,synthetique,False
+552,2026-05-27,Piscine,Produits,Chlore et produits de traitement,157000,payée,False,synthetique,False
+553,2026-05-27,Restaurant,Ingrédients,Salade (feuilles),3000,payée,False,reel_cahier,False
+554,2026-05-27,Restaurant,Ingrédients,Céleri,2000,payée,False,reel_cahier,False
+555,2026-05-27,Restaurant,Ingrédients,Oignon vert,4000,payée,False,reel_cahier,False
+556,2026-05-27,Restaurant,Ingrédients,Pomme de terre,35000,payée,False,reel_cahier,False
+557,2026-05-27,Restaurant,Ingrédients,Coriandre,3000,payée,False,reel_cahier,False
+558,2026-05-27,Restaurant,Ingrédients,Poireau,1000,payée,False,reel_cahier,False
+559,2026-05-27,Restaurant,Ingrédients,Menthe,1000,payée,False,reel_cahier,False
+560,2026-05-27,Restaurant,Ingrédients,Ail,6000,payée,False,reel_cahier,False
+561,2026-05-27,Restaurant,Ingrédients,Pâte à nem,15000,payée,False,reel_cahier,False
+562,2026-05-27,Restaurant,Ingrédients,Champignon noir,6000,payée,False,reel_cahier,False
+563,2026-05-27,Restaurant,Ingrédients,Tomate,6000,payée,False,reel_cahier,False
+564,2026-05-27,Restaurant,Transport,Frais de transport,3000,payée,False,reel_cahier,False
+565,2026-05-28,Restaurant,Ingrédients,Fécule de manioc,3000,payée,False,reel_cahier,False
+566,2026-05-29,Restaurant,Ingrédients,Brèdes (feuilles vertes),1400,payée,False,reel_cahier,False
+567,2026-05-29,Restaurant,Ingrédients,Pattes de poulet,1900,payée,False,reel_cahier_ventile,False
+568,2026-05-29,Restaurant,Ingrédients,Tête de poulet,26100,payée,False,reel_cahier_ventile,False
+569,2026-05-29,Restaurant,Boissons,Martini,60000,payée,False,reel_quantite_prix_estime,False
+570,2026-05-29,Restaurant,Boissons,Absolut,120000,payée,False,reel_quantite_prix_estime,False
+571,2026-05-29,Restaurant,Boissons,Black (whisky),200000,payée,False,reel_quantite_prix_estime,False
+572,2026-05-29,Restaurant,Boissons,Jack Daniel's,400000,payée,False,reel_quantite_prix_estime,False
+573,2026-05-29,Restaurant,Boissons,Berlès (?),80000,payée,False,reel_quantite_prix_estime,False
+574,2026-05-29,Restaurant,Boissons,J.B,120000,payée,False,reel_quantite_prix_estime,False
+575,2026-05-29,Restaurant,Boissons,Green (label ?),300000,payée,False,reel_quantite_prix_estime,False
+576,2026-05-29,Restaurant,Boissons,Chivas,250000,payée,False,reel_quantite_prix_estime,False
+577,2026-05-30,Restaurant,Ingrédients,Pomme de terre,35000,payée,False,reel_cahier,False
+578,2026-05-30,Restaurant,Ingrédients,Ail,6000,payée,False,reel_cahier,False
+579,2026-05-30,Restaurant,Ingrédients,Haricot vert,4000,payée,False,reel_cahier,False
+580,2026-05-30,Restaurant,Transport,Frais de transport,3000,payée,False,reel_cahier,False
+581,2026-05-30,Sécurité et entretien,Entretien,Réparations et maintenance,184000,payée,False,synthetique,False
+582,2026-05-31,Restaurant,Ingrédients,Petit pois,6500,payée,False,reel_cahier,False
+583,2026-06-02,Accueil,Énergie,Électricité JIRAMA (quote-part),149500,payée,False,synthetique,False
+584,2026-06-02,Cyber,Fournitures,Papier et encre,278500,payée,True,synthetique,False
+585,2026-06-02,Restaurant,Ingrédients,Salade (feuilles),3000,payée,False,reel_cahier,False
+586,2026-06-02,Restaurant,Ingrédients,Oignon vert,3000,payée,False,reel_cahier,False
+587,2026-06-02,Restaurant,Ingrédients,Coriandre,3000,payée,False,reel_cahier,False
+588,2026-06-02,Restaurant,Ingrédients,Céleri,1000,payée,False,reel_cahier,False
+589,2026-06-02,Restaurant,Ingrédients,Poireau,1000,payée,False,reel_cahier,False
+590,2026-06-02,Restaurant,Ingrédients,Menthe,1000,payée,False,reel_cahier,False
+591,2026-06-02,Restaurant,Ingrédients,Pâte à nem,15000,payée,False,reel_cahier,False
+592,2026-06-02,Restaurant,Ingrédients,Ail,6000,payée,False,reel_cahier,False
+593,2026-06-02,Restaurant,Ingrédients,Gingembre,10000,payée,False,reel_cahier,False
+594,2026-06-02,Restaurant,Ingrédients,Concombre,6000,payée,False,reel_cahier,False
+595,2026-06-02,Restaurant,Ingrédients,Courgette,4000,payée,False,reel_cahier,False
+596,2026-06-02,Restaurant,Ingrédients,Carotte,6000,payée,False,reel_cahier,False
+597,2026-06-02,Restaurant,Ingrédients,Tomate,6000,payée,False,reel_cahier,False
+598,2026-06-02,Restaurant,Ingrédients,Salade (feuilles),3000,payée,False,reel_cahier,False
+599,2026-06-02,Restaurant,Transport,Frais de transport,3000,payée,False,reel_cahier,False
+600,2026-06-02,Restaurant,Ingrédients,Sauce soja light,40000,payée,False,reel_quantite_prix_estime,False
+601,2026-06-02,Restaurant,Ingrédients,Sauce soja claire,56000,payée,False,reel_quantite_prix_estime,False
+602,2026-06-02,Restaurant,Ingrédients,Sauce d'huître,70000,payée,False,reel_quantite_prix_estime,False
+603,2026-06-02,Restaurant,Ingrédients,Fécule de manioc,30000,payée,False,reel_quantite_prix_reference,False
+604,2026-06-02,Restaurant,Ingrédients,Oyster sauce,120000,payée,False,reel_quantite_prix_estime,False
+605,2026-06-03,Achats et logistique,Transport,Carburant et transport,105500,payée,False,synthetique,False
+606,2026-06-03,Achats et logistique,Transport,Carburant et transport,97500,payée,False,synthetique,False
+607,2026-06-03,Ménage et cuisine,Ingrédients,Courses repas du personnel,120000,payée,False,synthetique,False
+608,2026-06-03,Restaurant,Ingrédients,Oignon,7000,payée,False,reel_cahier,False
+609,2026-06-03,Restaurant,Ingrédients,Brèdes (feuilles vertes),500,payée,False,reel_cahier,False
+610,2026-06-04,Achats et logistique,Transport,Carburant et transport,63000,payée,False,synthetique,False
+611,2026-06-04,Ménage et cuisine,Entretien,Produits ménagers,75000,payée,False,synthetique,False
+612,2026-06-05,Direction générale,Frais généraux,Frais de représentation,307000,payée,False,synthetique,False
+613,2026-06-05,Ménage et cuisine,Ingrédients,Courses repas du personnel,104000,payée,False,synthetique,False
+614,2026-06-06,Restaurant,Ingrédients,Citron,1500,payée,False,reel_cahier,False
+615,2026-06-06,Restaurant,Ingrédients,Oignon,30000,payée,False,reel_cahier,False
+616,2026-06-06,Restaurant,Ingrédients,Citron,5000,payée,False,reel_cahier,False
+617,2026-06-06,Restaurant,Ingrédients,Ail,9000,payée,False,reel_cahier,False
+618,2026-06-06,Restaurant,Ingrédients,Carotte,6000,payée,False,reel_cahier,False
+619,2026-06-06,Restaurant,Ingrédients,Tomate,6000,payée,False,reel_cahier,False
+620,2026-06-06,Restaurant,Ingrédients,Salade (feuilles),3000,payée,False,reel_cahier,False
+621,2026-06-06,Restaurant,Ingrédients,Brocoli,3000,payée,False,reel_cahier,False
+622,2026-06-06,Restaurant,Ingrédients,Basilic,2000,payée,False,reel_cahier,False
+623,2026-06-06,Restaurant,Transport,Frais de transport,3000,payée,False,reel_cahier,False
+624,2026-06-06,Restaurant,Ingrédients,Céleri,1000,payée,False,reel_cahier,False
+625,2026-06-06,Restaurant,Boissons,Coca original 500ml,42200,payée,False,reel_quantite_prix_reference,False
+626,2026-06-06,Restaurant,Boissons,Coca canette,144000,payée,False,reel_quantite_prix_reference,False
+627,2026-06-06,Restaurant,Ingrédients,Candia lait,72000,payée,False,reel_quantite_prix_estime,False
+628,2026-06-06,Restaurant,Ingrédients,Corn flakes,240000,payée,False,reel_quantite_prix_estime,False
+629,2026-06-06,Restaurant,Ingrédients,Sauce tsa-siou,30000,payée,False,reel_quantite_prix_estime,False
+630,2026-06-06,Restaurant,Ingrédients,Tomate ketchup,35000,payée,False,reel_quantite_prix_estime,False
+631,2026-06-06,Restaurant,Entretien,Insecticide,39000,payée,False,reel_quantite_prix_reference,False
+632,2026-06-06,Restaurant,Entretien,Désodorisant,20000,payée,False,reel_quantite_prix_estime,False
+633,2026-06-06,Restaurant,Entretien,Bloc WC,5000,payée,False,reel_quantite_prix_estime,False
+634,2026-06-06,Restaurant,Ingrédients,Katsaka,12000,payée,False,reel_quantite_prix_estime,False
+635,2026-06-06,Restaurant,Ingrédients,Coriandre,3000,payée,False,reel_quantite_prix_reference,False
+636,2026-06-06,Restaurant,Boissons,Coca original 350ml,16500,payée,False,reel_quantite_prix_reference,False
+637,2026-06-07,Ménage et cuisine,Ingrédients,Courses repas du personnel,97000,payée,False,synthetique,False
+638,2026-06-07,Restaurant,Ingrédients,Beurre,5000,payée,False,reel_cahier,False
+639,2026-06-08,Ménage et cuisine,Ingrédients,Courses repas du personnel,87000,payée,False,synthetique,False
+640,2026-06-08,Piscine,Produits,Chlore et produits de traitement,94500,payée,False,synthetique,False
+641,2026-06-09,Cyber,Énergie,Électricité (quote-part),165000,payée,False,synthetique,False
+642,2026-06-09,Restaurant,Ingrédients,Grenadelle,25000,payée,False,reel_cahier,False
+643,2026-06-09,Restaurant,Ingrédients,Oignon vert,2000,payée,False,reel_cahier,False
+644,2026-06-09,Restaurant,Ingrédients,Coriandre,2000,payée,False,reel_cahier,False
+645,2026-06-09,Restaurant,Ingrédients,Salade (feuilles),3000,payée,False,reel_cahier,False
+646,2026-06-09,Restaurant,Transport,Frais de transport,3000,payée,False,reel_cahier,False
+647,2026-06-10,Achats et logistique,Transport,Carburant et transport,108500,payée,False,synthetique,False
+648,2026-06-10,Piscine,Entretien,Nettoyage bassin,86500,payée,False,synthetique,False
+649,2026-06-10,Restaurant,Ingrédients,Beurre,3000,payée,False,reel_cahier,False
+650,2026-06-10,Restaurant,Emballages,Sachet,500,payée,False,reel_cahier,False
+651,2026-06-10,Restaurant,Ingrédients,Tripes,36000,payée,False,reel_cahier,False
+652,2026-06-10,Restaurant,Ingrédients,Blanc de poulet,60000,payée,False,reel_cahier,False
+653,2026-06-10,Restaurant,Ingrédients,Danica bleu,140000,payée,False,reel_quantite_prix_reference,False
+654,2026-06-10,Restaurant,Ingrédients,Fromage pizza,397900,payée,False,reel_quantite_prix_estime,False
+655,2026-06-10,Restaurant,Ingrédients,Mozzarella,196300,payée,False,reel_quantite_prix_reference,False
+656,2026-06-11,Ménage et cuisine,Ingrédients,Courses repas du personnel,173000,payée,False,synthetique,False
+657,2026-06-13,Coiffure,Produits,Produits capillaires,107500,payée,False,synthetique,False
+658,2026-06-13,Sécurité et entretien,Entretien,Réparations et maintenance,111500,payée,False,synthetique,False
+659,2026-06-14,Accueil,Fournitures,Tickets et carnets,50500,payée,False,synthetique,False
+660,2026-06-14,Accueil,Entretien,Produits d'entretien,36000,payée,False,synthetique,False
+661,2026-06-14,Restaurant,Ingrédients,Salade (feuilles),2000,payée,False,reel_cahier,False
+662,2026-06-14,Restaurant,Ingrédients,Carotte,6000,payée,False,reel_cahier,False
+663,2026-06-14,Restaurant,Ingrédients,Haricot vert,4000,payée,False,reel_cahier,False
+664,2026-06-14,Restaurant,Ingrédients,Courgette,5000,payée,False,reel_cahier,False
+665,2026-06-14,Restaurant,Ingrédients,Tomate,6000,payée,False,reel_cahier,False
+666,2026-06-14,Restaurant,Ingrédients,Chou chinois,1500,payée,False,reel_cahier,False
+667,2026-06-14,Restaurant,Ingrédients,Ail,9000,payée,False,reel_cahier,False
+668,2026-06-14,Restaurant,Ingrédients,Oignon vert,2000,payée,False,reel_cahier,False
+669,2026-06-14,Restaurant,Ingrédients,Coriandre,2000,payée,False,reel_cahier,False
+670,2026-06-14,Restaurant,Ingrédients,Basilic,2000,payée,False,reel_cahier,False
+671,2026-06-14,Restaurant,Ingrédients,Thym,2000,payée,False,reel_cahier,False
+672,2026-06-14,Restaurant,Ingrédients,Concombre,6000,payée,False,reel_cahier,False
+673,2026-06-14,Restaurant,Ingrédients,Chou blanc,2000,payée,False,reel_cahier,False
+674,2026-06-14,Restaurant,Ingrédients,Chou rouge,5000,payée,False,reel_cahier,False
+675,2026-06-14,Restaurant,Transport,Frais de transport,3000,payée,False,reel_cahier,False
+676,2026-06-15,Piscine,Entretien,Nettoyage bassin,74500,payée,False,synthetique,False
+677,2026-06-16,Piscine,Matériel,Matériel de sécurité,100500,payée,False,synthetique,False
+678,2026-06-16,Restaurant,Emballages,Sachet,2000,payée,False,reel_cahier,False
+679,2026-06-16,Restaurant,Ingrédients,Beurre,6000,payée,False,reel_cahier,False
+680,2026-06-17,Ménage et cuisine,Ingrédients,Courses repas du personnel,68000,payée,False,synthetique,False
+681,2026-06-17,Restaurant,Boissons,"Coca original 1,5L",81000,payée,False,reel_quantite_prix_reference,False
+682,2026-06-17,Restaurant,Boissons,Cristalline 2L,38600,payée,False,reel_quantite_prix_reference,False
+683,2026-06-17,Restaurant,Boissons,Gold blanche canette,518400,payée,False,reel_quantite_prix_reference,False
+684,2026-06-18,Accueil,Entretien,Produits d'entretien,32500,payée,False,synthetique,False
+685,2026-06-18,Restaurant,Ingrédients,Banane,1500,payée,False,reel_cahier,False
+686,2026-06-18,Restaurant,Ingrédients,Brède mafane,500,payée,False,reel_cahier,False
+687,2026-06-18,Restaurant,Ingrédients,Petite aubergine,500,payée,False,reel_cahier,False
+688,2026-06-18,Secrétariat,Fournitures,Fournitures de bureau,127000,payée,False,synthetique,False
+689,2026-06-19,Cyber,Fournitures,Papier et encre,114000,payée,False,synthetique,False
+690,2026-06-19,Restaurant,Entretien,Insecticide,13000,payée,False,reel_cahier,False
+691,2026-06-20,Informatique et technologie,Communication,Internet bureau et téléphone,233000,payée,False,synthetique,False
+692,2026-06-20,Restaurant,Ingrédients,Beurre,3000,payée,False,reel_cahier,False
+693,2026-06-20,Restaurant,Ingrédients,Pomme de terre,2000,payée,False,reel_cahier,False
+694,2026-06-21,Restaurant,Ingrédients,Salade (feuilles),3000,payée,False,reel_cahier,False
+695,2026-06-21,Sécurité et entretien,Entretien,Réparations et maintenance,196500,payée,False,synthetique,False
+696,2026-06-23,Restaurant,Ingrédients,Beurre,3000,payée,False,reel_cahier,False
+697,2026-06-23,Restaurant,Entretien,Insecticide,12000,payée,False,reel_cahier,False
+698,2026-06-23,Restaurant,Boissons,Martini,240000,payée,False,reel_quantite_prix_estime,False
+699,2026-06-23,Restaurant,Boissons,Amarula,100000,payée,False,reel_quantite_prix_estime,False
+700,2026-06-23,Restaurant,Boissons,Gold label,350000,payée,False,reel_quantite_prix_estime,False
+701,2026-06-23,Restaurant,Boissons,Baileys,360000,payée,False,reel_quantite_prix_estime,False
+702,2026-06-23,Restaurant,Boissons,Delahaie (?),80000,payée,False,reel_quantite_prix_estime,False
+703,2026-06-23,Restaurant,Boissons,Black label,200000,payée,False,reel_quantite_prix_estime,False
+704,2026-06-24,Restaurant,Ingrédients,Brèdes (feuilles vertes),500,payée,False,reel_cahier,False
+705,2026-06-24,Restaurant,Ingrédients,Poireau,500,payée,False,reel_cahier,False
+706,2026-06-24,Restaurant,Ingrédients,Tomate,3000,payée,False,reel_cahier,False
+707,2026-06-24,Restaurant,Ingrédients,Céleri,1000,payée,False,reel_cahier,False
+708,2026-06-24,Restaurant,Ingrédients,Champignon de Paris,4500,payée,False,reel_cahier,False
+709,2026-06-25,Coiffure,Énergie,Électricité (quote-part),59500,payée,False,synthetique,False
+710,2026-06-25,Restaurant,Ingrédients,Persil,500,payée,False,reel_cahier,False
+711,2026-06-26,Coiffure,Produits,Produits capillaires,114500,payée,False,synthetique,False
+712,2026-06-26,Cyber,Communication,Abonnement internet,373500,payée,False,synthetique,False
+713,2026-06-26,Restaurant,Ingrédients,Gingembre,3500,payée,False,reel_cahier,False
+714,2026-06-26,Restaurant,Ingrédients,Riz,3000,payée,False,reel_cahier,False
+715,2026-06-26,Restaurant,Ingrédients,Ananas,1000,payée,False,reel_cahier,False
+716,2026-06-26,Restaurant,Ingrédients,Pomme de terre,1500,payée,False,reel_cahier,False
+717,2026-06-26,Restaurant,Ingrédients,Courge / citrouille,500,payée,False,reel_cahier,False
+718,2026-06-26,Restaurant,Ingrédients,Coriandre,1000,payée,False,reel_cahier,False
+719,2026-06-26,Restaurant,Ingrédients,Oignon vert,1000,payée,False,reel_cahier,False
+720,2026-06-26,Restaurant,Ingrédients,Carotte,4000,payée,False,reel_cahier,False
+721,2026-06-26,Restaurant,Ingrédients,Persil,500,payée,False,reel_cahier,False
+722,2026-06-26,Restaurant,Ingrédients,Oignon,2500,payée,False,reel_cahier,False
+723,2026-06-26,Restaurant,Ingrédients,Tomate,3500,payée,False,reel_cahier,False
+724,2026-06-26,Restaurant,Ingrédients,Champignon de Paris,25000,payée,False,reel_quantite_prix_reference,False
+725,2026-06-27,Ménage et cuisine,Ingrédients,Courses repas du personnel,110500,payée,False,synthetique,False
+726,2026-06-27,Piscine,Énergie,Électricité pompes,508000,payée,False,synthetique,False
+727,2026-06-27,Restaurant,Ingrédients,Beurre,2800,payée,False,reel_cahier,False
+728,2026-06-27,Restaurant,Emballages,Sachet,2000,payée,False,reel_cahier,False
+729,2026-06-27,Restaurant,Ingrédients,Salade (feuilles),3000,payée,False,reel_cahier,False
+730,2026-06-27,Restaurant,Entretien,Insecticide,11000,payée,False,reel_cahier,False
+731,2026-06-27,Restaurant,Ingrédients,Blanc de poulet,60000,payée,False,reel_cahier,False
+732,2026-06-28,Ménage et cuisine,Ingrédients,Courses repas du personnel,113500,payée,False,synthetique,False
+733,2026-06-28,Restaurant,Ingrédients,Céleri,2000,payée,False,reel_cahier,False
+734,2026-06-28,Restaurant,Ingrédients,Coriandre,1500,payée,False,reel_cahier,False
+735,2026-06-28,Restaurant,Ingrédients,Poireau,1000,payée,False,reel_cahier,False
+736,2026-06-28,Restaurant,Ingrédients,Salade (feuilles),3000,payée,False,reel_cahier,False
+737,2026-06-28,Restaurant,Ingrédients,Oignon vert,1500,payée,False,reel_cahier,False
+738,2026-06-30,Ménage et cuisine,Entretien,Produits ménagers,65500,payée,False,synthetique,False
+739,2026-06-30,Piscine,Produits,Chlore et produits de traitement,81000,payée,False,synthetique,False
+740,2026-06-30,Restaurant,Ingrédients,Beurre,5400,payée,False,reel_cahier,False
+741,2026-07-01,Accueil,Entretien,Produits d'entretien,42000,payée,False,synthetique,False
+742,2026-07-01,Restaurant,Ingrédients,Viande de boeuf,21000,payée,False,reel_cahier,False
+743,2026-07-01,Restaurant,Ingrédients,Viande hachée,21000,payée,False,reel_cahier,False
+744,2026-07-01,Restaurant,Ingrédients,Filet (viande),28700,payée,False,reel_cahier,False
+745,2026-07-01,Restaurant,Ingrédients,Oeuf,76000,payée,False,reel_cahier,False
+746,2026-07-01,Restaurant,Boissons,Boissons (réapprovisionnement),849600,payée,False,reel_cahier,False
+747,2026-07-01,Restaurant,Entretien,Insecticide,12000,payée,False,reel_cahier,False
+748,2026-07-02,Accueil,Fournitures,Tickets et carnets,37500,payée,False,synthetique,False
+749,2026-07-02,Accueil,Entretien,Produits d'entretien,38500,payée,False,synthetique,False
+750,2026-07-02,Restaurant,Ingrédients,Beurre,2700,payée,False,reel_cahier,False
+751,2026-07-02,Restaurant,Fournitures,Craie (tableau du restaurant),2500,payée,False,reel_cahier,False
+752,2026-07-02,Restaurant,Ingrédients,Pomme de terre,35000,payée,False,reel_cahier,False
+753,2026-07-02,Restaurant,Ingrédients,Haricot vert,4000,payée,False,reel_cahier,False
+754,2026-07-02,Restaurant,Ingrédients,Tomate,6000,payée,False,reel_cahier,False
+755,2026-07-02,Restaurant,Ingrédients,Oignon vert,4000,payée,False,reel_cahier,False
+756,2026-07-02,Restaurant,Ingrédients,Coriandre,4000,payée,False,reel_cahier,False
+757,2026-07-02,Restaurant,Ingrédients,Céleri,3000,payée,False,reel_cahier,False
+758,2026-07-02,Restaurant,Ingrédients,Menthe,1000,payée,False,reel_cahier,False
+759,2026-07-02,Restaurant,Ingrédients,Poireau,1000,payée,False,reel_cahier,False
+760,2026-07-02,Restaurant,Ingrédients,Carotte,6000,payée,False,reel_cahier,False
+761,2026-07-02,Restaurant,Ingrédients,Chou blanc,4000,payée,False,reel_cahier,False
+762,2026-07-02,Restaurant,Ingrédients,Concombre,6000,payée,False,reel_cahier,False
+763,2026-07-02,Restaurant,Ingrédients,Poivron,8000,payée,False,reel_cahier,False
+764,2026-07-02,Restaurant,Ingrédients,Gingembre,10000,payée,False,reel_cahier,False
+765,2026-07-02,Restaurant,Ingrédients,Basilic,2000,payée,False,reel_cahier,False
+766,2026-07-02,Restaurant,Transport,Frais de transport,3000,payée,False,reel_cahier,False
+767,2026-07-02,Restaurant,Ingrédients,Pâte à nem,15000,payée,False,reel_cahier,False
+768,2026-07-03,Restaurant,Emballages,Sachet,3000,payée,False,reel_cahier,False
+769,2026-07-03,Restaurant,Emballages,Top,2000,payée,False,reel_quantite_prix_estime,False
+770,2026-07-03,Restaurant,Emballages,Verre à jeter,25000,payée,False,reel_quantite_prix_estime,False
+771,2026-07-03,Restaurant,Ingrédients,Chilly,40000,payée,False,reel_quantite_prix_estime,False
+772,2026-07-03,Restaurant,Emballages,Carton frites,50000,payée,False,reel_quantite_prix_estime,False
+773,2026-07-03,Restaurant,Emballages,Carton popcorn,50000,payée,False,reel_quantite_prix_estime,False
+774,2026-07-04,Achats et logistique,Transport,Carburant et transport,329500,payée,True,synthetique,False
+775,2026-07-04,Coiffure,Énergie,Électricité (quote-part),55000,payée,False,synthetique,False
+776,2026-07-04,Ménage et cuisine,Ingrédients,Courses repas du personnel,135000,payée,False,synthetique,False
+777,2026-07-04,Restaurant,Ingrédients,Tomate,4000,payée,False,reel_cahier,False
+778,2026-07-04,Restaurant,Ingrédients,Arachide,9000,payée,False,reel_cahier,False
+779,2026-07-04,Restaurant,Ingrédients,Kotomila (non traduit),2500,payée,False,reel_cahier,False
+780,2026-07-04,Restaurant,Ingrédients,Oignon vert,1000,payée,False,reel_cahier,False
+781,2026-07-04,Restaurant,Ingrédients,Salade (feuilles),5000,payée,False,reel_cahier,False
+782,2026-07-04,Restaurant,Ingrédients,Beurre,2700,payée,False,reel_cahier,False
+783,2026-07-04,Restaurant,Ingrédients,Oignon,4500,payée,False,reel_cahier,False
+784,2026-07-04,Restaurant,Ingrédients,Brède mafane,500,payée,False,reel_cahier,False
+785,2026-07-04,Restaurant,Ingrédients,Fromage,63000,payée,False,reel_quantite_prix_estime,False
+786,2026-07-05,Restaurant,Ingrédients,Viande hachée,42000,payée,False,reel_cahier,False
+787,2026-07-05,Restaurant,Ingrédients,Tranche fine (viande),105000,payée,False,reel_cahier,False
+788,2026-07-05,Restaurant,Ingrédients,Viande (pour plat d'accompagnement),30000,payée,False,reel_cahier,False
+789,2026-07-05,Restaurant,Ingrédients,Poulet,190000,payée,False,reel_cahier,False
+790,2026-07-05,Restaurant,Ingrédients,Pomme de terre,2000,payée,False,reel_cahier,False
+791,2026-07-05,Restaurant,Ingrédients,Courge / citrouille,500,payée,False,reel_cahier,False
+792,2026-07-05,Restaurant,Ingrédients,Blanc de poulet,60000,payée,False,reel_cahier,False
+793,2026-07-07,Ménage et cuisine,Ingrédients,Courses repas du personnel,120000,payée,False,synthetique,False
+794,2026-07-07,Restaurant,Ingrédients,Oignon,5000,payée,False,reel_cahier,False
+795,2026-07-07,Restaurant,Ingrédients,Salade (feuilles),3000,payée,False,reel_cahier,False
+796,2026-07-07,Restaurant,Ingrédients,Oignon vert,1000,payée,False,reel_cahier,False
+797,2026-07-07,Restaurant,Ingrédients,Coriandre,1000,payée,False,reel_cahier,False
+798,2026-07-07,Restaurant,Entretien,Insecticide,11000,payée,False,reel_cahier,False
+799,2026-07-07,Restaurant,Ingrédients,Pomme de terre,1000,payée,False,reel_cahier,False
+800,2026-07-07,Restaurant,Emballages,Sachet,400,payée,False,reel_cahier,False
+801,2026-07-07,Restaurant,Ingrédients,Pattes de poulet,1900,payée,False,reel_cahier_ventile,False
+802,2026-07-07,Restaurant,Ingrédients,Tête de poulet,26100,payée,False,reel_cahier_ventile,False
+803,2026-07-07,Restaurant,Ingrédients,Fromage bleu (Danica bleu),40000,payée,False,reel_cahier,False
+804,2026-07-07,Sécurité et entretien,Entretien,Réparations et maintenance,111500,payée,False,synthetique,False
+805,2026-07-08,Achats et logistique,Transport,Carburant et transport,87000,payée,False,synthetique,False
+806,2026-07-08,Cyber,Communication,Abonnement internet,305000,payée,False,synthetique,False
+807,2026-07-08,Restaurant,Ingrédients,Champignon noir,5000,payée,False,reel_cahier,False
+808,2026-07-08,Restaurant,Ingrédients,Tomate,3000,payée,False,reel_cahier,False
+809,2026-07-08,Restaurant,Ingrédients,Persil,500,payée,False,reel_cahier,False
+810,2026-07-08,Restaurant,Ingrédients,Coriandre,700,payée,False,reel_cahier_ventile,False
+811,2026-07-08,Restaurant,Ingrédients,Oignon vert,800,payée,False,reel_cahier_ventile,False
+812,2026-07-09,Coiffure,Produits,Produits capillaires,131500,payée,False,synthetique,False
+813,2026-07-09,Ménage et cuisine,Ingrédients,Courses repas du personnel,109500,payée,False,synthetique,False
+814,2026-07-09,Restaurant,Ingrédients,Mozzarella,139000,payée,False,reel_cahier,False
+815,2026-07-09,Restaurant,Ingrédients,Chou chinois,1500,payée,False,reel_cahier,False
+816,2026-07-09,Restaurant,Ingrédients,Courgette,1000,payée,False,reel_cahier,False
+817,2026-07-09,Restaurant,Ingrédients,Beurre,5400,payée,False,reel_cahier,False
+818,2026-07-09,Restaurant,Ingrédients,Tomate,3000,payée,False,reel_cahier,False
+819,2026-07-09,Restaurant,Ingrédients,Oignon,4500,payée,False,reel_cahier,False
+820,2026-07-09,Restaurant,Ingrédients,Calmar,215000,payée,False,reel_cahier,False
+821,2026-07-09,Restaurant,Ingrédients,Charcuterie,120000,payée,False,reel_cahier,False
+822,2026-07-09,Restaurant,Ingrédients,Oignon,25000,payée,False,reel_cahier,False
+823,2026-07-09,Restaurant,Ingrédients,Oignon vert,2000,payée,False,reel_cahier,False
+824,2026-07-09,Restaurant,Ingrédients,Coriandre,2000,payée,False,reel_cahier,False
+825,2026-07-09,Restaurant,Ingrédients,Carotte,6000,payée,False,reel_cahier,False
+826,2026-07-09,Restaurant,Ingrédients,Courgette,6000,payée,False,reel_cahier,False
+827,2026-07-09,Restaurant,Ingrédients,Pomme de terre,30000,payée,False,reel_cahier,False
+828,2026-07-09,Restaurant,Ingrédients,Basilic,2000,payée,False,reel_cahier,False
+829,2026-07-09,Restaurant,Ingrédients,Chou blanc,2000,payée,False,reel_cahier,False
+830,2026-07-09,Restaurant,Ingrédients,Thym,3000,payée,False,reel_cahier,False
+831,2026-07-09,Restaurant,Transport,Frais de transport,3000,payée,False,reel_cahier,False
+832,2026-07-10,Piscine,Matériel,Matériel de sécurité,86000,payée,False,synthetique,False
+833,2026-07-12,Restaurant,Ingrédients,Salade (feuilles),3000,payée,False,reel_cahier,False
+834,2026-07-12,Restaurant,Ingrédients,Petite aubergine,500,payée,False,reel_cahier,False
+835,2026-07-12,Restaurant,Ingrédients,Brède mafane,500,payée,False,reel_cahier,False
+836,2026-07-12,Restaurant,Ingrédients,Pain,600,payée,False,reel_cahier,False
+837,2026-07-12,Restaurant,Ingrédients,Blanc de poulet,60000,payée,False,reel_cahier,False
+838,2026-07-14,Restaurant,Ingrédients,Os de boeuf,16000,payée,False,reel_cahier,False
+839,2026-07-14,Restaurant,Ingrédients,Peau de boeuf,7500,payée,False,reel_cahier,False
+840,2026-07-14,Restaurant,Ingrédients,Viande de porc,42000,payée,False,reel_cahier,False
+841,2026-07-14,Restaurant,Ingrédients,Viande hachée,21000,payée,False,reel_cahier,False
+842,2026-07-14,Restaurant,Ingrédients,Beurre,5400,payée,False,reel_cahier,False
+843,2026-07-14,Restaurant,Ingrédients,Céleri,1000,payée,False,reel_cahier,False
+844,2026-07-14,Restaurant,Ingrédients,Salade (feuilles),3000,payée,False,reel_cahier,False
+845,2026-07-14,Restaurant,Ingrédients,Petites crevettes séchées (rouges),1000,payée,False,reel_cahier,False
+846,2026-07-14,Restaurant,Emballages,Sachet,400,payée,False,reel_cahier,False
+847,2026-07-14,Sécurité et entretien,Entretien,Réparations et maintenance,106000,payée,False,synthetique,False
+848,2026-07-15,Restaurant,Ingrédients,Beurre,5400,payée,False,reel_cahier,False
+849,2026-07-15,Restaurant,Ingrédients,Oeuf,24000,payée,False,reel_cahier,False
+850,2026-07-15,Restaurant,Ingrédients,Brède anatsonga (non traduit),1000,payée,False,reel_cahier,False
+851,2026-07-15,Restaurant,Ingrédients,Petite aubergine,1000,payée,False,reel_cahier,False
+852,2026-07-15,Restaurant,Entretien,Savon,120000,payée,False,reel_quantite_prix_estime,False
+853,2026-07-15,Restaurant,Entretien,Vaseline,60000,payée,False,reel_quantite_prix_estime,False
+854,2026-07-15,Restaurant,Ingrédients,Huile (carte ?),240000,payée,False,reel_quantite_prix_estime,False
+855,2026-07-15,Restaurant,Entretien,Papier hygiénique,60000,payée,False,reel_quantite_prix_estime,False
+856,2026-07-15,Restaurant,Emballages,Verre à jeter,50000,payée,False,reel_quantite_prix_estime,False
+857,2026-07-15,Restaurant,Ingrédients,Huile,300000,payée,False,reel_quantite_prix_estime,False
+858,2026-07-15,Restaurant,Ingrédients,Cacao en poudre,16000,payée,False,reel_quantite_prix_estime,False
+859,2026-07-15,Restaurant,Emballages,Top,10000,payée,False,reel_quantite_prix_estime,False
+860,2026-07-15,Restaurant,Ingrédients,Pâte blanche (?),14000,payée,False,reel_quantite_prix_estime,False
+861,2026-07-15,Restaurant,Ingrédients,Spaghetti,35000,payée,False,reel_quantite_prix_estime,False
+862,2026-07-15,Restaurant,Entretien,Désodorisant,40000,payée,False,reel_quantite_prix_estime,False
+863,2026-07-15,Restaurant,Entretien,Insecticide,26000,payée,False,reel_quantite_prix_reference,False
+864,2026-07-15,Restaurant,Emballages,Papier film,75000,payée,False,reel_quantite_prix_estime,False
+865,2026-07-15,Restaurant,Ingrédients,Danika bleu,20000,payée,False,reel_quantite_prix_reference,False
+866,2026-07-15,Restaurant,Ingrédients,Champignon noir,6000,payée,False,reel_quantite_prix_reference,False
+867,2026-07-15,Restaurant,Boissons,Le Fruit,45000,payée,False,reel_quantite_prix_reference,False
+868,2026-07-15,Restaurant,Boissons,Ceres,84000,payée,False,reel_quantite_prix_reference,False
+869,2026-07-15,Restaurant,Ingrédients,Lithé (?),15000,payée,False,reel_quantite_prix_estime,False
+870,2026-07-15,Restaurant,Ingrédients,Sucre,175000,payée,False,reel_quantite_prix_estime,False
+871,2026-07-15,Restaurant,Ingrédients,Farine,300000,payée,False,reel_quantite_prix_estime,False
+872,2026-07-15,Restaurant,Ingrédients,Poudre de lait,60000,payée,False,reel_quantite_prix_estime,False
+873,2026-07-15,Restaurant,Ingrédients,Huile de sésame,30000,payée,False,reel_quantite_prix_estime,False
+874,2026-07-15,Restaurant,Entretien,Bloc WC,5000,payée,False,reel_quantite_prix_estime,False
+875,2026-07-16,Cyber,Fournitures,Papier et encre,81000,payée,False,synthetique,False
+876,2026-07-16,Ménage et cuisine,Entretien,Produits ménagers,87500,payée,False,synthetique,False
+877,2026-07-16,Piscine,Produits,Chlore et produits de traitement,82500,payée,False,synthetique,False
+878,2026-07-16,Restaurant,Ingrédients,Tomate,3000,payée,False,reel_cahier,False
+879,2026-07-16,Restaurant,Emballages,Sachet,2000,payée,False,reel_cahier,False
+880,2026-07-16,Restaurant,Ingrédients,Oignon vert,2000,payée,False,reel_cahier,False
+881,2026-07-16,Restaurant,Ingrédients,Coriandre,2000,payée,False,reel_cahier,False
+882,2026-07-16,Restaurant,Ingrédients,Céleri,1000,payée,False,reel_cahier,False
+883,2026-07-16,Restaurant,Ingrédients,Haricot vert,3000,payée,False,reel_cahier,False
+884,2026-07-16,Restaurant,Ingrédients,Tomate,6000,payée,False,reel_cahier,False
+885,2026-07-16,Restaurant,Ingrédients,Pomme de terre,35000,payée,False,reel_cahier,False
+886,2026-07-16,Restaurant,Transport,Frais de transport,3000,payée,False,reel_cahier,False
+887,2026-07-16,Restaurant,Ingrédients,Beurre,2700,payée,False,reel_cahier,False
+888,2026-07-16,Restaurant,Boissons,THB GM,312000,payée,False,reel_quantite_prix_reference,False
+889,2026-07-16,Restaurant,Boissons,Gold blanche PM,74400,payée,False,reel_quantite_prix_reference,False
+890,2026-07-16,Restaurant,Boissons,Caprice GM,270000,payée,False,reel_quantite_prix_reference,False
+891,2026-07-16,Restaurant,Boissons,Caprice canette,54000,payée,False,reel_quantite_prix_reference,False
+892,2026-07-16,Restaurant,Boissons,Coca cola PM,33000,payée,False,reel_quantite_prix_reference,False
+893,2026-07-16,Restaurant,Boissons,Eau vive GM,36000,payée,False,reel_quantite_prix_reference,False
+894,2026-07-17,Restaurant,Ingrédients,Beurre,5400,payée,False,reel_cahier,False
+895,2026-07-17,Restaurant,Énergie,Gaz (bouteille),100000,payée,False,reel_cahier,False
+896,2026-07-17,Restaurant,Ingrédients,Levure,39000,payée,False,reel_quantite_prix_reference,False
+897,2026-07-17,Restaurant,Emballages,Verre à jeter,15000,payée,False,reel_quantite_prix_estime,False
+898,2026-07-17,Restaurant,Ingrédients,Candia lait,144000,payée,False,reel_quantite_prix_estime,False
+899,2026-07-17,Restaurant,Ingrédients,Candia fromage,36000,payée,False,reel_quantite_prix_estime,False
+900,2026-07-17,Restaurant,Ingrédients,Vache qui rit,20000,payée,False,reel_quantite_prix_estime,False
+901,2026-07-17,Restaurant,Emballages,Barquette,25000,payée,False,reel_quantite_prix_estime,False
+902,2026-07-17,Restaurant,Boissons,World cola GM,27000,payée,False,reel_quantite_prix_reference,False
+903,2026-07-17,Restaurant,Boissons,Coca original GM,27000,payée,False,reel_quantite_prix_reference,False
+904,2026-07-17,Restaurant,Boissons,Coca original PM,16500,payée,False,reel_quantite_prix_reference,False
+905,2026-07-17,Restaurant,Ingrédients,Danica bleu,280000,payée,False,reel_quantite_prix_reference,False
+906,2026-07-17,Restaurant,Emballages,Papier film,15000,payée,False,reel_quantite_prix_estime,False
+907,2026-07-17,Restaurant,Ingrédients,Oignon semoule,10000,payée,False,reel_quantite_prix_estime,False
+908,2026-07-17,Restaurant,Ingrédients,Ail en poudre,10000,payée,False,reel_quantite_prix_estime,False
+909,2026-07-17,Restaurant,Ingrédients,Quatre-épices,3000,payée,False,reel_quantite_prix_estime,False
+910,2026-07-17,Restaurant,Ingrédients,Sésame blanc,5000,payée,False,reel_quantite_prix_estime,False
+911,2026-07-17,Restaurant,Ingrédients,Mozzarella,40900,payée,False,reel_quantite_prix_reference,False
+912,2026-07-17,Restaurant,Boissons,Café en grain,25000,payée,False,reel_quantite_prix_estime,False
+913,2026-07-17,Restaurant,Ingrédients,Corn flakes,360000,payée,False,reel_quantite_prix_estime,False
+914,2026-07-17,Restaurant,Ingrédients,Sauce chilly,40000,payée,False,reel_quantite_prix_estime,False
+915,2026-07-17,Restaurant,Ingrédients,Mayonnaise,30000,payée,False,reel_quantite_prix_estime,False
+916,2026-07-17,Restaurant,Ingrédients,Moutarde,20000,payée,False,reel_quantite_prix_estime,False
+917,2026-07-17,Restaurant,Ingrédients,Olive verte,20000,payée,False,reel_quantite_prix_estime,False
+918,2026-07-17,Restaurant,Ingrédients,Olive noire,10000,payée,False,reel_quantite_prix_estime,False
+919,2026-07-17,Restaurant,Ingrédients,Champignon,5000,payée,False,reel_quantite_prix_reference,False
+920,2026-07-17,Restaurant,Ingrédients,Sauce soja light,8000,payée,False,reel_quantite_prix_estime,False
+921,2026-07-17,Restaurant,Ingrédients,Huile d'olive,105000,payée,False,reel_quantite_prix_estime,False
+922,2026-07-17,Restaurant,Ingrédients,Sucre à table,10000,payée,False,reel_quantite_prix_estime,False
+923,2026-07-17,Restaurant,Ingrédients,Fromage burger,60000,payée,False,reel_quantite_prix_estime,False
+924,2026-07-17,Restaurant,Ingrédients,Spaghetti,3500,payée,False,reel_quantite_prix_estime,False
+925,2026-07-17,Restaurant,Ingrédients,Pâte,3500,payée,False,reel_quantite_prix_estime,False
+926,2026-07-18,Accueil,Énergie,Électricité JIRAMA (quote-part),76500,payée,False,synthetique,False
+927,2026-07-18,Achats et logistique,Transport,Carburant et transport,127000,payée,False,synthetique,False
+928,2026-07-18,Restaurant,Ingrédients,Brède anatsonga (non traduit),500,payée,False,reel_cahier,False
+929,2026-07-18,Restaurant,Ingrédients,Petite aubergine,500,payée,False,reel_cahier,False
+930,2026-07-18,Restaurant,Boissons,Whisky,200000,payée,False,reel_cahier,False
+931,2026-07-18,Restaurant,Ingrédients,Poisson,88000,payée,False,reel_cahier,False
+932,2026-07-18,Restaurant,Ingrédients,Fromage,195000,payée,False,reel_quantite_prix_estime,False
+933,2026-07-19,Ménage et cuisine,Ingrédients,Courses repas du personnel,78500,payée,False,synthetique,False
+934,2026-07-19,Piscine,Entretien,Nettoyage bassin,68000,payée,False,synthetique,False
+935,2026-07-19,Restaurant,Ingrédients,Tomate,3000,payée,False,reel_cahier,False
+936,2026-07-19,Restaurant,Ingrédients,Carotte,3000,payée,False,reel_cahier,False
+937,2026-07-19,Restaurant,Ingrédients,Oignon vert,2000,payée,False,reel_cahier,False
+938,2026-07-19,Restaurant,Ingrédients,Coriandre,2000,payée,False,reel_cahier,False
+939,2026-07-19,Restaurant,Ingrédients,Salade (feuilles),3000,payée,False,reel_cahier,False
+940,2026-07-19,Restaurant,Ingrédients,Ail,2000,payée,False,reel_cahier,False
+941,2026-07-19,Restaurant,Ingrédients,Oeuf,8000,payée,False,reel_cahier,False
+942,2026-07-20,Coiffure,Matériel,Petit matériel,55000,refusée,False,synthetique,False
+943,2026-07-20,Restaurant,Ingrédients,Carotte,6000,payée,False,reel_cahier,False
+944,2026-07-20,Restaurant,Ingrédients,Tomate,6000,payée,False,reel_cahier,False
+945,2026-07-20,Restaurant,Ingrédients,Courgette,6000,payée,False,reel_cahier,False
+946,2026-07-20,Restaurant,Ingrédients,Pomme de terre,35000,payée,False,reel_cahier,False
+947,2026-07-20,Restaurant,Ingrédients,Oignon,20000,payée,False,reel_cahier,False
+948,2026-07-20,Restaurant,Ingrédients,Oignon vert,3000,payée,False,reel_cahier,False
+949,2026-07-20,Restaurant,Ingrédients,Coriandre,3000,payée,False,reel_cahier,False
+950,2026-07-20,Restaurant,Ingrédients,Céleri,2000,payée,False,reel_cahier,False
+951,2026-07-20,Restaurant,Ingrédients,Menthe,1000,payée,False,reel_cahier,False
+952,2026-07-20,Restaurant,Ingrédients,Ail,6000,payée,False,reel_cahier,False
+953,2026-07-20,Restaurant,Ingrédients,Gingembre,10000,payée,False,reel_cahier,False
+954,2026-07-20,Restaurant,Ingrédients,Poireau,1000,payée,False,reel_cahier,False
+955,2026-07-20,Restaurant,Ingrédients,Salade (feuilles),3000,payée,False,reel_cahier,False
+956,2026-07-20,Restaurant,Ingrédients,Pâte à nem,15000,payée,False,reel_cahier,False
+957,2026-07-20,Restaurant,Ingrédients,Basilic,2000,payée,False,reel_cahier,False
+958,2026-07-20,Restaurant,Transport,Frais de transport,3000,payée,False,reel_cahier,False
+959,2026-07-20,Restaurant,Ingrédients,Citron,8000,payée,False,reel_cahier,False
+960,2026-07-20,Restaurant,Ingrédients,Petit pois,6000,payée,False,reel_cahier,False
+961,2026-07-21,Cyber,Fournitures,Papier et encre,85500,payée,False,synthetique,False
+962,2026-07-21,Restaurant,Ingrédients,Brède mafane,500,payée,False,reel_cahier,False
+963,2026-07-21,Restaurant,Ingrédients,Petite aubergine,500,payée,False,reel_cahier,False
+964,2026-07-21,Restaurant,Ingrédients,Oeuf,4000,payée,False,reel_cahier,False
+965,2026-07-21,Restaurant,Emballages,Sachet,3000,payée,False,reel_cahier,False
+966,2026-07-21,Restaurant,Boissons,Black label,400000,payée,False,reel_quantite_prix_estime,False
+967,2026-07-21,Restaurant,Boissons,Double black label,560000,payée,False,reel_quantite_prix_estime,False
+968,2026-07-22,Restaurant,Ingrédients,Oeuf,40000,payée,False,reel_cahier,False
+969,2026-07-23,Coiffure,Produits,Produits capillaires,105500,payée,False,synthetique,False
+970,2026-07-23,Piscine,Entretien,Nettoyage bassin,76500,payée,False,synthetique,False
+971,2026-07-23,Restaurant,Ingrédients,Oignon vert,3000,payée,False,reel_cahier,False
+972,2026-07-23,Restaurant,Ingrédients,Coriandre,3000,payée,False,reel_cahier,False
+973,2026-07-23,Restaurant,Ingrédients,Céleri,2000,payée,False,reel_cahier,False
+974,2026-07-23,Restaurant,Ingrédients,Poireau,1000,payée,False,reel_cahier,False
+975,2026-07-23,Restaurant,Ingrédients,Menthe,1000,payée,False,reel_cahier,False
+976,2026-07-23,Restaurant,Ingrédients,Pâte à nem,15000,payée,False,reel_cahier,False
+977,2026-07-25,Restaurant,Emballages,Sachet,3000,payée,False,reel_cahier,False
+978,2026-07-25,Restaurant,Ingrédients,Carotte,3000,payée,False,reel_cahier,False
+979,2026-07-25,Restaurant,Ingrédients,Salade (feuilles),3800,payée,False,reel_cahier,False
+980,2026-07-25,Restaurant,Ingrédients,Beurre,2700,payée,False,reel_cahier,False
+981,2026-07-25,Restaurant,Ingrédients,Coriandre,1000,payée,False,reel_cahier,False
+982,2026-07-25,Restaurant,Ingrédients,Oignon vert,1000,payée,False,reel_cahier,False
+983,2026-07-25,Restaurant,Ingrédients,Fromage,276000,payée,False,reel_quantite_prix_estime,False
+984,2026-07-26,Direction générale,Frais généraux,Frais de représentation,245000,payée,False,synthetique,False
+985,2026-07-26,Restaurant,Entretien,Insecticide,12000,payée,False,reel_cahier,False
+986,2026-07-26,Restaurant,Ingrédients,Banane,1000,payée,False,reel_cahier,False
+987,2026-07-26,Restaurant,Ingrédients,Brèdes (feuilles vertes),500,payée,False,reel_cahier,False
+988,2026-07-26,Restaurant,Ingrédients,Riz,1600,payée,False,reel_cahier,False
+989,2026-07-26,Restaurant,Ingrédients,Salade (feuilles),3000,payée,False,reel_cahier,False
+990,2026-07-26,Restaurant,Ingrédients,Blanc de poulet,60000,payée,False,reel_cahier,False
+991,2026-07-27,Ménage et cuisine,Ingrédients,Courses repas du personnel,120500,payée,False,synthetique,False
+992,2026-07-27,Piscine,Produits,Chlore et produits de traitement,54500,payée,False,synthetique,False
+993,2026-07-28,Achats et logistique,Transport,Carburant et transport,94000,payée,False,synthetique,False
+994,2026-07-28,Cyber,Énergie,Électricité (quote-part),144000,payée,False,synthetique,False
+995,2026-07-28,Piscine,Énergie,Électricité pompes,295500,payée,False,synthetique,False
+996,2026-07-28,Restaurant,Ingrédients,Salade (feuilles),3000,payée,False,reel_cahier,False
+997,2026-07-28,Restaurant,Ingrédients,Haricot vert,1800,payée,False,reel_cahier,False
+998,2026-07-28,Restaurant,Ingrédients,Ananas,2500,payée,False,reel_cahier,False
+999,2026-07-28,Restaurant,Ingrédients,Coriandre,1000,payée,False,reel_cahier,False
+1000,2026-07-28,Restaurant,Ingrédients,Persil,500,payée,False,reel_cahier,False
+1001,2026-07-28,Restaurant,Ingrédients,Brèdes (feuilles vertes),1500,payée,False,reel_cahier,False
+1002,2026-07-28,Secrétariat,Fournitures,Fournitures de bureau,132000,payée,False,synthetique,False
+1003,2026-07-29,Restaurant,Ingrédients,Pomme de terre,35000,payée,False,reel_cahier,False
+1004,2026-07-29,Restaurant,Ingrédients,Oignon,20000,payée,False,reel_cahier,False
+1005,2026-07-29,Restaurant,Ingrédients,Ail,6000,payée,False,reel_cahier,False
+1006,2026-07-29,Restaurant,Ingrédients,Carotte,6000,payée,False,reel_cahier,False
+1007,2026-07-29,Restaurant,Ingrédients,Courgette,6000,payée,False,reel_cahier,False
+1008,2026-07-29,Restaurant,Ingrédients,Oignon vert,2000,payée,False,reel_cahier,False
+1009,2026-07-29,Restaurant,Ingrédients,Coriandre,2000,payée,False,reel_cahier,False
+1010,2026-07-29,Restaurant,Ingrédients,Tomate,6000,payée,False,reel_cahier,False
+1011,2026-07-29,Restaurant,Transport,Frais de transport,3000,payée,False,reel_cahier,False
+1012,2026-07-29,Restaurant,Boissons,Red label,432000,payée,False,reel_quantite_prix_reference,False
+1013,2026-07-30,Informatique et technologie,Communication,Internet bureau et téléphone,269000,payée,False,synthetique,False
+1014,2026-07-30,Ménage et cuisine,Ingrédients,Courses repas du personnel,118500,payée,False,synthetique,False
+1015,2026-07-30,Ménage et cuisine,Entretien,Produits ménagers,50500,payée,False,synthetique,False
+1016,2026-07-30,Restaurant,Boissons,Eau vive GM,54000,payée,False,reel_quantite_prix_reference,False
+1017,2026-07-30,Restaurant,Boissons,Caprice PM,115500,payée,False,reel_quantite_prix_reference,False
+1018,2026-07-30,Restaurant,Boissons,Caprice GM,243000,payée,False,reel_quantite_prix_reference,False
+1019,2026-07-30,Restaurant,Boissons,Fanta PM,33000,payée,False,reel_quantite_prix_reference,False
+1020,2026-07-30,Restaurant,Boissons,Eau vive PM,64800,payée,False,reel_quantite_prix_reference,False
+1021,2026-07-30,Restaurant,Boissons,Cristalline 1L,45000,payée,False,reel_quantite_prix_reference,False
+1022,2026-07-30,Restaurant,Boissons,Cristalline 2L,38600,payée,False,reel_quantite_prix_reference,False
+1023,2026-07-30,Restaurant,Boissons,Gold blanche canette,518400,payée,False,reel_quantite_prix_reference,False
+1024,2026-07-30,Restaurant,Boissons,THB canette,331200,payée,False,reel_quantite_prix_reference,False
+1025,2026-07-30,Restaurant,Boissons,Fresh PM,74400,payée,False,reel_quantite_prix_estime,False
+1026,2026-07-30,Restaurant,Boissons,Fresh PM,37200,payée,False,reel_quantite_prix_estime,False
+1027,2026-07-30,Restaurant,Boissons,Caprice bouteille,27000,payée,False,reel_quantite_prix_reference,False
+1028,2026-07-30,Restaurant,Boissons,Gold blanche PM,148800,payée,False,reel_quantite_prix_reference,False
+1029,2026-07-30,Restaurant,Boissons,Fresh GM,156000,payée,False,reel_quantite_prix_estime,False
+1030,2026-07-30,Restaurant,Boissons,Booster,78000,payée,False,reel_quantite_prix_estime,False
+1031,2026-07-30,Restaurant,Boissons,Gold blanche GM,154000,payée,False,reel_quantite_prix_reference,False
+1032,2026-07-30,Restaurant,Boissons,Le Fruit,60000,payée,False,reel_quantite_prix_reference,False
+1033,2026-07-31,Ménage et cuisine,Ingrédients,Courses repas du personnel,188500,payée,False,synthetique,False
+1034,2026-07-31,Ménage et cuisine,Ingrédients,Courses repas du personnel,122500,payée,False,synthetique,False
+1035,2026-08-01,Restaurant,Ingrédients,Beurre,5400,payée,False,reel_cahier,False
+1036,2026-08-01,Restaurant,Ingrédients,Salade (feuilles),3000,payée,False,reel_cahier,False
+1037,2026-08-01,Restaurant,Ingrédients,Pâte à nem,15000,payée,False,reel_cahier,False
+1038,2026-08-01,Restaurant,Ingrédients,Oignon vert,2000,payée,False,reel_cahier,False
+1039,2026-08-01,Restaurant,Ingrédients,Coriandre,2000,payée,False,reel_cahier,False
+1040,2026-08-01,Restaurant,Ingrédients,Céleri,1000,payée,False,reel_cahier,False
+1041,2026-08-01,Restaurant,Ingrédients,Menthe,1000,payée,False,reel_cahier,False
+1042,2026-08-01,Restaurant,Ingrédients,Basilic,2000,payée,False,reel_cahier,False
+1043,2026-08-01,Restaurant,Ingrédients,Carotte,6000,payée,False,reel_cahier,False
+1044,2026-08-01,Restaurant,Ingrédients,Haricot vert,4000,payée,False,reel_cahier,False
+1045,2026-08-01,Restaurant,Ingrédients,Chou rouge,3000,payée,False,reel_cahier,False
+1046,2026-08-01,Restaurant,Ingrédients,Haricot rouge,7500,payée,False,reel_cahier,False
+1047,2026-08-01,Restaurant,Transport,Frais de transport,500,payée,False,reel_cahier,False
+1048,2026-08-01,Restaurant,Ingrédients,Petite aubergine,500,payée,False,reel_cahier,False
+1049,2026-08-01,Restaurant,Ingrédients,Blanc de poulet,60000,payée,False,reel_cahier,False
+1050,2026-08-02,Restaurant,Ingrédients,Oeuf,16000,payée,False,reel_cahier,False
+1051,2026-08-02,Restaurant,Emballages,Sachet,1000,payée,False,reel_cahier,False
+1052,2026-08-02,Restaurant,Entretien,Insecticide,13000,payée,False,reel_cahier,False
+1053,2026-08-03,Piscine,Produits,Chlore et produits de traitement,166000,payée,False,synthetique,False
+1054,2026-08-03,Sécurité et entretien,Entretien,Réparations et maintenance,131500,payée,False,synthetique,False
+1055,2026-08-04,Restaurant,Ingrédients,Salade (feuilles),3000,payée,False,reel_cahier,False
+1056,2026-08-04,Restaurant,Ingrédients,Brèdes (feuilles vertes),500,payée,False,reel_cahier,False
+1057,2026-08-06,Restaurant,Entretien,Insecticide,13000,payée,False,reel_cahier,False
+1058,2026-08-06,Restaurant,Ingrédients,Oignon vert,2000,payée,False,reel_cahier,False
+1059,2026-08-06,Restaurant,Ingrédients,Coriandre,2000,payée,False,reel_cahier,False
+1060,2026-08-06,Restaurant,Ingrédients,Céleri,1000,payée,False,reel_cahier,False
+1061,2026-08-06,Restaurant,Ingrédients,Menthe,1000,payée,False,reel_cahier,False
+1062,2026-08-06,Restaurant,Ingrédients,Pomme de terre,35000,payée,False,reel_cahier,False
+1063,2026-08-06,Restaurant,Ingrédients,Tomate,6000,payée,False,reel_cahier,False
+1064,2026-08-06,Restaurant,Ingrédients,Carotte,6000,payée,False,reel_cahier,False
+1065,2026-08-06,Restaurant,Ingrédients,Grenadelle,30000,payée,False,reel_cahier,False
+1066,2026-08-06,Restaurant,Ingrédients,Citron,8000,payée,False,reel_cahier,False
+1067,2026-08-06,Restaurant,Transport,Frais de transport,3000,payée,False,reel_cahier,False
+1068,2026-08-07,Restaurant,Ingrédients,Queue de boeuf,10500,payée,False,reel_cahier,False
+1069,2026-08-07,Restaurant,Ingrédients,Viande hachée,21000,payée,False,reel_cahier,False
+1070,2026-08-07,Restaurant,Ingrédients,Viande de boeuf,42000,payée,False,reel_cahier,False
+1071,2026-08-07,Restaurant,Ingrédients,Beurre,5400,payée,False,reel_cahier,False
+1072,2026-08-07,Restaurant,Emballages,Sachet,4000,payée,False,reel_cahier,False
+1073,2026-08-07,Restaurant,Ingrédients,Oeuf,80000,payée,False,reel_cahier,False
+1074,2026-08-07,Restaurant,Énergie,Bois de chauffage,200000,payée,False,reel_cahier,False
+1075,2026-08-08,Ménage et cuisine,Ingrédients,Courses repas du personnel,99000,refusée,False,synthetique,False
+1076,2026-08-08,Restaurant,Ingrédients,Blanc de poulet,60000,payée,False,reel_cahier,False
+1077,2026-08-08,Restaurant,Ingrédients,Grenadelle,4000,payée,False,reel_cahier,False
+1078,2026-08-09,Accueil,Fournitures,Tickets et carnets,46000,payée,False,synthetique,False
+1079,2026-08-09,Cyber,Énergie,Électricité (quote-part),123500,payée,False,synthetique,False
+1080,2026-08-09,Restaurant,Ingrédients,Salade (feuilles),5000,payée,False,reel_cahier,False
+1081,2026-08-09,Restaurant,Ingrédients,Petites crevettes séchées,1000,payée,False,reel_cahier,False
+1082,2026-08-09,Restaurant,Ingrédients,Brède mafane,500,payée,False,reel_cahier,False
+1083,2026-08-09,Restaurant,Ingrédients,Pomme de terre,35000,payée,False,reel_cahier,False
+1084,2026-08-09,Restaurant,Ingrédients,Courgette,6000,payée,False,reel_cahier,False
+1085,2026-08-09,Restaurant,Ingrédients,Oignon vert,2000,payée,False,reel_cahier,False
+1086,2026-08-09,Restaurant,Ingrédients,Coriandre,2000,payée,False,reel_cahier,False
+1087,2026-08-09,Restaurant,Ingrédients,Persil,1000,payée,False,reel_cahier,False
+1088,2026-08-09,Restaurant,Ingrédients,Basilic,2000,payée,False,reel_cahier,False
+1089,2026-08-09,Restaurant,Ingrédients,Papaye,5000,payée,False,reel_cahier,False
+1090,2026-08-09,Restaurant,Ingrédients,Ananas,3000,payée,False,reel_cahier,False
+1091,2026-08-09,Restaurant,Ingrédients,Pastèque,5000,payée,False,reel_cahier,False
+1092,2026-08-09,Restaurant,Ingrédients,Voatango (fruit non traduit),3000,payée,False,reel_cahier,False
+1093,2026-08-09,Restaurant,Ingrédients,Fraise,3000,payée,False,reel_cahier,False
+1094,2026-08-09,Restaurant,Ingrédients,Tomate,6000,payée,False,reel_cahier,False
+1095,2026-08-09,Restaurant,Transport,Frais de transport,3000,payée,False,reel_cahier,False
+1096,2026-08-10,Ménage et cuisine,Ingrédients,Courses repas du personnel,87500,payée,False,synthetique,False
+1097,2026-08-10,Ménage et cuisine,Ingrédients,Courses repas du personnel,103000,payée,False,synthetique,False
+1098,2026-08-10,Ménage et cuisine,Entretien,Produits ménagers,83000,payée,False,synthetique,False
+1099,2026-08-11,Piscine,Entretien,Nettoyage bassin,60500,payée,False,synthetique,False
+1100,2026-08-11,Restaurant,Entretien,Insecticide,13000,payée,False,reel_cahier,False
+1101,2026-08-11,Restaurant,Ingrédients,Courge / citrouille,1000,payée,False,reel_cahier,False
+1102,2026-08-11,Restaurant,Ingrédients,Poireau,500,payée,False,reel_cahier,False
+1103,2026-08-11,Restaurant,Ingrédients,Pattes de poulet,1900,payée,False,reel_cahier_ventile,False
+1104,2026-08-11,Restaurant,Ingrédients,Tête de poulet,26100,payée,False,reel_cahier_ventile,False
+1105,2026-08-12,Coiffure,Produits,Produits capillaires,145000,payée,False,synthetique,False
+1106,2026-08-12,Piscine,Entretien,Nettoyage bassin,87000,payée,False,synthetique,False
+1107,2026-08-12,Restaurant,Boissons,Gold 50cl (facture V6H12E0017),154000,payée,False,reel_facture,False
+1108,2026-08-12,Restaurant,Boissons,THB 65cl (facture V6H12E0017),312000,payée,False,reel_facture,False
+1109,2026-08-12,Restaurant,Boissons,Gold 33cl (facture V6H12E0017),148800,payée,False,reel_facture,False
+1110,2026-08-12,Restaurant,Boissons,Coca cola 150cl (facture V6H12E0017),54000,payée,False,reel_facture,False
+1111,2026-08-12,Restaurant,Boissons,Jus 150cl (facture V6H12E0017),54000,payée,False,reel_facture,False
+1112,2026-08-12,Restaurant,Boissons,Cristalline 1L (facture V6H12E0017),45000,payée,False,reel_facture,False
+1113,2026-08-12,Restaurant,Boissons,Le Fruit 100cl (facture V6H12E0017),60000,payée,False,reel_facture,False
+1114,2026-08-12,Restaurant,Boissons,Jus 35cl (facture V6H12E0017),33000,payée,False,reel_facture,False
+1115,2026-08-12,Restaurant,Boissons,Canette Gold 50cl (facture V6H12E0017),388800,payée,False,reel_facture,False
+1116,2026-08-12,Restaurant,Boissons,Canette THB 50cl (facture V6H12E0017),220800,payée,False,reel_facture,False
+1117,2026-08-12,Restaurant,Entretien,Love (?),32000,payée,False,reel_quantite_prix_estime,False
+1118,2026-08-12,Restaurant,Emballages,Papier film,15000,payée,False,reel_quantite_prix_estime,False
+1119,2026-08-13,Direction générale,Frais généraux,Frais de représentation,242000,payée,False,synthetique,False
+1120,2026-08-14,Accueil,Entretien,Produits d'entretien,34500,payée,False,synthetique,False
+1121,2026-08-14,Cyber,Fournitures,Papier et encre,58500,payée,False,synthetique,False
+1122,2026-08-14,Piscine,Produits,Chlore et produits de traitement,73500,payée,False,synthetique,False
+1123,2026-08-14,Restaurant,Emballages,Sachet,2000,payée,False,reel_cahier,False
+1124,2026-08-14,Restaurant,Ingrédients,Tomate,6000,payée,False,reel_cahier,False
+1125,2026-08-14,Restaurant,Ingrédients,Carotte,6000,payée,False,reel_cahier,False
+1126,2026-08-14,Restaurant,Ingrédients,Haricot vert,4000,payée,False,reel_cahier,False
+1127,2026-08-14,Restaurant,Ingrédients,Chou chinois,1500,payée,False,reel_cahier,False
+1128,2026-08-14,Restaurant,Ingrédients,Tripes,36000,payée,False,reel_cahier,False
+1129,2026-08-14,Restaurant,Ingrédients,Concombre,4000,payée,False,reel_cahier,False
+1130,2026-08-14,Restaurant,Transport,Frais de transport,3000,payée,False,reel_cahier,False
+1131,2026-08-14,Restaurant,Ingrédients,Ail,6000,payée,False,reel_cahier,False
+1132,2026-08-14,Restaurant,Ingrédients,Petit pois,5000,payée,False,reel_cahier,False
+1133,2026-08-14,Restaurant,Entretien,Savon savony,180000,payée,False,reel_quantite_prix_estime,False
+1134,2026-08-14,Restaurant,Entretien,Extra savony,120000,payée,False,reel_quantite_prix_estime,False
+1135,2026-08-14,Restaurant,Entretien,Extra propre PM,180000,payée,False,reel_quantite_prix_estime,False
+1136,2026-08-14,Restaurant,Entretien,Extra propre GM,120000,payée,False,reel_quantite_prix_estime,False
+1137,2026-08-14,Restaurant,Emballages,Papier film,45000,payée,False,reel_quantite_prix_estime,False
+1138,2026-08-14,Restaurant,Ingrédients,Mozzarella,275700,payée,False,reel_quantite_prix_reference,False
+1139,2026-08-15,Coiffure,Énergie,Électricité (quote-part),63000,payée,False,synthetique,False
+1140,2026-08-15,Ménage et cuisine,Ingrédients,Courses repas du personnel,111500,payée,False,synthetique,False
+1141,2026-08-15,Ménage et cuisine,Ingrédients,Courses repas du personnel,80000,payée,False,synthetique,False
+1142,2026-08-15,Restaurant,Ingrédients,Pomme de terre,8000,payée,False,reel_cahier,False
+1143,2026-08-15,Restaurant,Ingrédients,Salade (feuilles),3000,payée,False,reel_cahier,False
+1144,2026-08-15,Restaurant,Ingrédients,Beurre,2700,payée,False,reel_cahier,False
+1145,2026-08-15,Restaurant,Ingrédients,Levure boulangère,13000,payée,False,reel_cahier,False
+1146,2026-08-15,Restaurant,Ingrédients,Pomme de terre,35000,payée,False,reel_cahier,False
+1147,2026-08-15,Restaurant,Ingrédients,Oignon vert,2000,payée,False,reel_cahier,False
+1148,2026-08-15,Restaurant,Ingrédients,Coriandre,2000,payée,False,reel_cahier,False
+1149,2026-08-15,Restaurant,Transport,Frais de transport,2000,payée,False,reel_cahier,False
+1150,2026-08-16,Cyber,Fournitures,Papier et encre,96500,refusée,False,synthetique,False
+1151,2026-08-16,Restaurant,Ingrédients,Salade (feuilles),3000,payée,False,reel_cahier,False
+1152,2026-08-16,Restaurant,Boissons,Cuvée blanche (vin),32000,payée,False,reel_cahier,False
+1153,2026-08-16,Restaurant,Ingrédients,Blanc de poulet,60000,payée,False,reel_cahier,False
+1154,2026-08-16,Restaurant,Ingrédients,Pâte à nem,15000,payée,False,reel_cahier,False
+1155,2026-08-16,Restaurant,Ingrédients,Coriandre,2000,payée,False,reel_cahier,False
+1156,2026-08-16,Restaurant,Ingrédients,Oignon vert,2000,payée,False,reel_cahier,False
+1157,2026-08-16,Restaurant,Ingrédients,Céleri,1000,payée,False,reel_cahier,False
+1158,2026-08-16,Restaurant,Ingrédients,Menthe,1000,payée,False,reel_cahier,False
+1159,2026-08-16,Restaurant,Ingrédients,Thym,2000,payée,False,reel_cahier,False
+1160,2026-08-16,Restaurant,Transport,Frais de transport,2000,payée,False,reel_cahier,False
+1161,2026-08-16,Secrétariat,Fournitures,Fournitures de bureau,95500,payée,False,synthetique,False
+1162,2026-08-17,Accueil,Entretien,Produits d'entretien,35500,payée,False,synthetique,False
+1163,2026-08-17,Achats et logistique,Transport,Carburant et transport,107000,payée,False,synthetique,False
+1164,2026-08-18,Restaurant,Ingrédients,Fécule de manioc,6000,payée,False,reel_quantite_prix_reference,False
+1165,2026-08-18,Restaurant,Boissons,Lipton (?),14000,payée,False,reel_quantite_prix_estime,False
+1166,2026-08-18,Restaurant,Ingrédients,Sel (?),4000,payée,False,reel_quantite_prix_estime,False
+1167,2026-08-18,Restaurant,Ingrédients,Moutarde,40000,payée,False,reel_quantite_prix_estime,False
+1168,2026-08-18,Restaurant,Ingrédients,Cacao,8000,payée,False,reel_quantite_prix_estime,False
+1169,2026-08-18,Restaurant,Ingrédients,Maïzena,20000,payée,False,reel_quantite_prix_estime,False
+1170,2026-08-18,Restaurant,Ingrédients,Miel,75000,payée,False,reel_quantite_prix_estime,False
+1171,2026-08-18,Restaurant,Entretien,Lave-vitre,48000,payée,False,reel_quantite_prix_estime,False
+1172,2026-08-18,Restaurant,Entretien,Bloc WC,15000,payée,False,reel_quantite_prix_estime,False
+1173,2026-08-18,Restaurant,Entretien,Gel main,16000,payée,False,reel_quantite_prix_estime,False
+1174,2026-08-18,Restaurant,Ingrédients,Huile de sésame,45000,payée,False,reel_quantite_prix_estime,False
+1175,2026-08-18,Restaurant,Entretien,Insecticide,26000,payée,False,reel_quantite_prix_reference,False
+1176,2026-08-18,Restaurant,Entretien,Sel WC (?),10000,payée,False,reel_quantite_prix_estime,False
+1177,2026-08-18,Restaurant,Ingrédients,Sauce d'huître,160000,payée,False,reel_quantite_prix_estime,False
+1178,2026-08-18,Restaurant,Fournitures,Cahier,20000,payée,False,reel_quantite_prix_estime,False
+1179,2026-08-18,Restaurant,Ingrédients,Fleur d'hibiscus,5000,payée,False,reel_quantite_prix_estime,False
+1180,2026-08-18,Restaurant,Ingrédients,Vary,120000,payée,False,reel_quantite_prix_estime,False
+1181,2026-08-18,Restaurant,Ingrédients,Huile,150000,payée,False,reel_quantite_prix_estime,False
+1182,2026-08-18,Restaurant,Ingrédients,Fromage,284500,payée,False,reel_quantite_prix_estime,False
+1183,2026-08-19,Restaurant,Ingrédients,Pomme de terre,35000,payée,False,reel_cahier,False
+1184,2026-08-19,Restaurant,Ingrédients,Tomate,6000,payée,False,reel_cahier,False
+1185,2026-08-19,Restaurant,Ingrédients,Courgette,6000,payée,False,reel_cahier,False
+1186,2026-08-19,Restaurant,Ingrédients,Ail,6000,payée,False,reel_cahier,False
+1187,2026-08-19,Restaurant,Ingrédients,Côte d'agneau,50000,payée,False,reel_cahier,False
+1188,2026-08-19,Restaurant,Transport,Frais de transport,2000,payée,False,reel_cahier,False
+1189,2026-08-19,Restaurant,Ingrédients,Salade (feuilles),3000,payée,False,reel_cahier,False
+1190,2026-08-19,Restaurant,Ingrédients,Mortadelle,180000,payée,False,reel_quantite_prix_reference,False
+1191,2026-08-19,Restaurant,Emballages,Film 50x300,30000,payée,False,reel_quantite_prix_estime,False
+1192,2026-08-19,Restaurant,Emballages,Assiette plastique,30000,payée,False,reel_quantite_prix_estime,False
+1193,2026-08-19,Restaurant,Emballages,Barquette noire,50000,payée,False,reel_quantite_prix_estime,False
+1194,2026-08-19,Restaurant,Emballages,LB2 (barquette ?),60000,payée,False,reel_quantite_prix_estime,False
+1195,2026-08-19,Restaurant,Emballages,Saucière 30ml noire,10000,payée,False,reel_quantite_prix_estime,False
+1196,2026-08-19,Restaurant,Emballages,Saucière 50ml,10000,payée,False,reel_quantite_prix_estime,False
+1197,2026-08-20,Restaurant,Ingrédients,Atody (oeufs),78400,payée,False,reel_quantite_prix_reference,False
+1198,2026-08-21,Achats et logistique,Transport,Carburant et transport,89500,payée,False,synthetique,False
+1199,2026-08-21,Restaurant,Ingrédients,Brède mafane,500,payée,False,reel_cahier,False
+1200,2026-08-22,Achats et logistique,Transport,Carburant et transport,90500,payée,False,synthetique,False
+1201,2026-08-22,Ménage et cuisine,Entretien,Produits ménagers,67000,refusée,False,synthetique,False
+1202,2026-08-22,Restaurant,Ingrédients,Beurre,5400,payée,False,reel_cahier,False
+1203,2026-08-22,Restaurant,Ingrédients,Salade (feuilles),3000,payée,False,reel_cahier,False
+1204,2026-08-22,Restaurant,Ingrédients,Petite aubergine,500,payée,False,reel_cahier,False
+1205,2026-08-22,Restaurant,Ingrédients,Atody (oeufs),72800,payée,False,reel_quantite_prix_reference,False
+1206,2026-08-23,Achats et logistique,Transport,Carburant et transport,115000,payée,False,synthetique,False
+1207,2026-08-23,Ménage et cuisine,Ingrédients,Courses repas du personnel,95500,payée,False,synthetique,False
+1208,2026-08-23,Restaurant,Ingrédients,Brèdes mélangées,1000,payée,False,reel_cahier,False
+1209,2026-08-23,Restaurant,Ingrédients,Salade (feuilles),3000,payée,False,reel_cahier,False
+1210,2026-08-23,Restaurant,Ingrédients,Viande hachée,42000,payée,False,reel_cahier,False
+1211,2026-08-23,Restaurant,Ingrédients,Viande de porc,42000,payée,False,reel_cahier,False
+1212,2026-08-23,Restaurant,Ingrédients,Viande de porc,51000,payée,False,reel_cahier,False
+1213,2026-08-23,Restaurant,Ingrédients,Jambon,48000,payée,False,reel_cahier,False
+1214,2026-08-25,Restaurant,Ingrédients,Pomme de terre,35000,payée,False,reel_cahier,False
+1215,2026-08-25,Restaurant,Ingrédients,Oignon vert,2000,payée,False,reel_cahier,False
+1216,2026-08-25,Restaurant,Ingrédients,Carotte,6000,payée,False,reel_cahier,False
+1217,2026-08-25,Restaurant,Ingrédients,Concombre,6000,payée,False,reel_cahier,False
+1218,2026-08-25,Restaurant,Ingrédients,Coriandre,2000,payée,False,reel_cahier,False
+1219,2026-08-25,Restaurant,Ingrédients,Haricot vert,3000,payée,False,reel_cahier,False
+1220,2026-08-25,Restaurant,Ingrédients,Basilic,2000,payée,False,reel_cahier,False
+1221,2026-08-25,Restaurant,Ingrédients,Céleri,1000,payée,False,reel_cahier,False
+1222,2026-08-25,Restaurant,Ingrédients,Poireau,1000,payée,False,reel_cahier,False
+1223,2026-08-25,Restaurant,Ingrédients,Feuilles de manioc pilées,5000,payée,False,reel_cahier,False
+1224,2026-08-25,Restaurant,Ingrédients,Pois bambara,10000,payée,False,reel_cahier,False
+1225,2026-08-25,Restaurant,Transport,Frais de transport,2000,payée,False,reel_cahier,False
+1226,2026-08-25,Restaurant,Ingrédients,Céleri,1000,payée,False,reel_cahier,False
+1227,2026-08-26,Cyber,Communication,Abonnement internet,250000,payée,False,synthetique,False
+1228,2026-08-26,Informatique et technologie,Communication,Internet bureau et téléphone,208500,payée,False,synthetique,False
+1229,2026-08-26,Ménage et cuisine,Ingrédients,Courses repas du personnel,94000,payée,False,synthetique,False
+1230,2026-08-27,Coiffure,Produits,Produits capillaires,91500,payée,False,synthetique,False
+1231,2026-08-27,Piscine,Énergie,Électricité pompes,327500,payée,False,synthetique,False
+1232,2026-08-28,Accueil,Énergie,Électricité JIRAMA (quote-part),120500,payée,False,synthetique,False
+1233,2026-08-28,Restaurant,Ingrédients,Beurre,6000,payée,False,reel_cahier,False
+1234,2026-08-28,Restaurant,Ingrédients,Salade (feuilles),3000,payée,False,reel_cahier,False
+1235,2026-08-28,Restaurant,Ingrédients,Blanc de poulet,60000,payée,False,reel_cahier,False
+1236,2026-08-29,Restaurant,Ingrédients,Langue de boeuf,60000,payée,False,reel_cahier,False
+1237,2026-08-29,Restaurant,Ingrédients,Tomate,6000,payée,False,reel_cahier,False
+1238,2026-08-29,Restaurant,Ingrédients,Ail,6000,payée,False,reel_cahier,False
+1239,2026-08-29,Restaurant,Ingrédients,Gingembre,10000,payée,False,reel_cahier,False
+1240,2026-08-29,Restaurant,Ingrédients,Pomme de terre,35000,payée,False,reel_cahier,False
+1241,2026-08-29,Restaurant,Boissons,Café (paquet),1500,payée,False,reel_cahier,False
+1242,2026-08-29,Restaurant,Ingrédients,Oignon vert,2000,payée,False,reel_cahier,False
+1243,2026-08-29,Restaurant,Ingrédients,Coriandre,2000,payée,False,reel_cahier,False
+1244,2026-08-29,Restaurant,Ingrédients,Persil,1000,payée,False,reel_cahier,False
+1245,2026-08-29,Restaurant,Transport,Frais de transport,2000,payée,False,reel_cahier,False
+1246,2026-08-30,Restaurant,Ingrédients,Petit pois,5000,payée,False,reel_cahier,False
+1247,2026-08-30,Restaurant,Ingrédients,Salade (feuilles),3000,payée,False,reel_cahier,False
+1248,2026-08-30,Restaurant,Emballages,Sachet,3000,payée,False,reel_cahier,False
+1249,2026-08-30,Restaurant,Ingrédients,Chocolat noir,2000,payée,False,reel_cahier,False
+1250,2026-08-30,Sécurité et entretien,Entretien,Réparations et maintenance,192500,payée,False,synthetique,False
+1251,2026-08-31,Ménage et cuisine,Ingrédients,Courses repas du personnel,120500,payée,False,synthetique,False
+1252,2026-09-01,Restaurant,Ingrédients,Carotte,6000,payée,False,reel_cahier,False
+1253,2026-09-01,Restaurant,Ingrédients,Tomate,6000,payée,False,reel_cahier,False
+1254,2026-09-01,Restaurant,Ingrédients,Citron,8000,payée,False,reel_cahier,False
+1255,2026-09-01,Restaurant,Ingrédients,Pâte à nem,15000,payée,False,reel_cahier,False
+1256,2026-09-01,Restaurant,Ingrédients,Oignon vert,2000,payée,False,reel_cahier,False
+1257,2026-09-01,Restaurant,Ingrédients,Coriandre,2000,payée,False,reel_cahier,False
+1258,2026-09-01,Restaurant,Ingrédients,Menthe,1000,payée,False,reel_cahier,False
+1259,2026-09-01,Restaurant,Ingrédients,Céleri,1000,payée,False,reel_cahier,False
+1260,2026-09-01,Restaurant,Ingrédients,Champignon de Paris,10000,payée,False,reel_cahier,False
+1261,2026-09-01,Restaurant,Ingrédients,Chapelure,5000,payée,False,reel_cahier,False
+1262,2026-09-01,Restaurant,Ingrédients,Corossol,10000,payée,False,reel_cahier,False
+1263,2026-09-01,Restaurant,Ingrédients,Papaye,5000,payée,False,reel_cahier,False
+1264,2026-09-01,Restaurant,Ingrédients,Voatango (fruit non traduit),3000,payée,False,reel_cahier,False
+1265,2026-09-01,Restaurant,Transport,Frais de transport,2000,payée,False,reel_cahier,False
+1266,2026-09-01,Restaurant,Ingrédients,Viande de boeuf,57000,payée,False,reel_cahier,False
+1267,2026-09-01,Restaurant,Ingrédients,Viande hachée,63000,payée,False,reel_cahier,False
+1268,2026-09-02,Accueil,Énergie,Électricité JIRAMA (quote-part),129000,payée,False,synthetique,False
+1269,2026-09-02,Cyber,Fournitures,Papier et encre,102500,payée,False,synthetique,False
+1270,2026-09-02,Restaurant,Ingrédients,Beurre,2700,payée,False,reel_cahier,False
+1271,2026-09-02,Restaurant,Emballages,Sachet,500,payée,False,reel_cahier,False
+1272,2026-09-03,Cyber,Énergie,Électricité (quote-part),151500,payée,False,synthetique,False
+1273,2026-09-03,Piscine,Énergie,Électricité pompes,335000,payée,False,synthetique,False
+1274,2026-09-04,Ménage et cuisine,Ingrédients,Courses repas du personnel,149000,payée,False,synthetique,False
+1275,2026-09-04,Piscine,Entretien,Nettoyage bassin,77500,payée,False,synthetique,False
+1276,2026-09-04,Restaurant,Ingrédients,Blanc de poulet,60000,payée,False,reel_cahier,False
+1277,2026-09-05,Achats et logistique,Transport,Carburant et transport,114000,payée,False,synthetique,False
+1278,2026-09-05,Restaurant,Ingrédients,Salade (feuilles),3000,payée,False,reel_cahier,False
+1279,2026-09-05,Restaurant,Ingrédients,Chocolat,800,payée,False,reel_cahier,False
+1280,2026-09-05,Restaurant,Ingrédients,Fraise,500,payée,False,reel_cahier,False
+1281,2026-09-05,Restaurant,Ingrédients,Pomme de terre,35000,payée,False,reel_cahier,False
+1282,2026-09-06,Coiffure,Produits,Produits capillaires,108000,payée,False,synthetique,False
+1283,2026-09-06,Piscine,Produits,Chlore et produits de traitement,179500,refusée,False,synthetique,False
+1284,2026-09-06,Restaurant,Emballages,Sachet (petit),1000,payée,False,reel_cahier,False
+1285,2026-09-06,Restaurant,Emballages,Sachet (grand),7500,payée,False,reel_cahier,False
+1286,2026-09-06,Restaurant,Ingrédients,Brède mafane,500,payée,False,reel_cahier,False
+1287,2026-09-06,Sécurité et entretien,Matériel,Outillage,93000,payée,False,synthetique,False
+1288,2026-09-07,Ménage et cuisine,Entretien,Produits ménagers,86500,payée,False,synthetique,False
+1289,2026-09-08,Cyber,Fournitures,Papier et encre,79500,payée,False,synthetique,False
+1290,2026-09-08,Restaurant,Ingrédients,Brèdes (feuilles vertes),500,payée,False,reel_cahier,False
+1291,2026-09-09,Coiffure,Énergie,Électricité (quote-part),54000,payée,False,synthetique,False
+1292,2026-09-09,Restaurant,Ingrédients,Chou chinois,1500,payée,False,reel_cahier,False
+1293,2026-09-09,Restaurant,Ingrédients,Ail,2000,payée,False,reel_cahier,False
+1294,2026-09-09,Restaurant,Ingrédients,Carotte,6000,payée,False,reel_cahier,False
+1295,2026-09-09,Restaurant,Ingrédients,Courgette,6000,payée,False,reel_cahier,False
+1296,2026-09-09,Restaurant,Ingrédients,Ail,6000,payée,False,reel_cahier,False
+1297,2026-09-09,Restaurant,Ingrédients,Gingembre,10000,payée,False,reel_cahier,False
+1298,2026-09-09,Restaurant,Ingrédients,Basilic,2000,payée,False,reel_cahier,False
+1299,2026-09-09,Restaurant,Ingrédients,Oignon vert,2000,payée,False,reel_cahier,False
+1300,2026-09-09,Restaurant,Ingrédients,Coriandre,2000,payée,False,reel_cahier,False
+1301,2026-09-09,Restaurant,Ingrédients,Tomate,6000,payée,False,reel_cahier,False
+1302,2026-09-09,Restaurant,Ingrédients,Fromage bleu (Danica bleu),20000,payée,False,reel_cahier,False
+1303,2026-09-09,Restaurant,Ingrédients,Champignon de Paris,10000,payée,False,reel_cahier,False
+1304,2026-09-09,Restaurant,Transport,Frais de transport,2000,payée,False,reel_cahier,False
+1305,2026-09-11,Achats et logistique,Transport,Carburant et transport,75000,payée,False,synthetique,False
+1306,2026-09-11,Ménage et cuisine,Ingrédients,Courses repas du personnel,90000,payée,False,synthetique,False
+1307,2026-09-11,Restaurant,Ingrédients,Salade (feuilles),3000,payée,False,reel_cahier,False
+1308,2026-09-12,Accueil,Fournitures,Tickets et carnets,56500,payée,False,synthetique,False
+1309,2026-09-12,Direction générale,Frais généraux,Frais de représentation,218500,payée,False,synthetique,False
+1310,2026-09-13,Coiffure,Produits,Produits capillaires,115500,payée,False,synthetique,False
+1311,2026-09-13,Piscine,Entretien,Nettoyage bassin,66000,refusée,False,synthetique,False
+1312,2026-09-13,Restaurant,Entretien,Insecticide,13000,payée,False,reel_cahier,False
+1313,2026-09-13,Sécurité et entretien,Entretien,Réparations et maintenance,175000,payée,False,synthetique,False
+1314,2026-09-14,Informatique et technologie,Communication,Internet bureau et téléphone,232500,payée,False,synthetique,False
+1315,2026-09-14,Secrétariat,Fournitures,Fournitures de bureau,130500,payée,False,synthetique,False
+1316,2026-09-15,Achats et logistique,Transport,Carburant et transport,68500,payée,False,synthetique,False
+1317,2026-09-15,Restaurant,Ingrédients,Salade (feuilles),3000,payée,False,reel_cahier,False
+1318,2026-09-15,Restaurant,Ingrédients,Haricot vert,2000,payée,False,reel_cahier,False
+1319,2026-09-15,Restaurant,Ingrédients,Beurre,2700,payée,False,reel_cahier,False
+1320,2026-09-15,Restaurant,Ingrédients,Carotte,6000,payée,False,reel_cahier,False
+1321,2026-09-15,Restaurant,Ingrédients,Haricot vert,4000,payée,False,reel_cahier,False
+1322,2026-09-15,Restaurant,Ingrédients,Concombre,6000,payée,False,reel_cahier,False
+1323,2026-09-15,Restaurant,Ingrédients,Tomate,6000,payée,False,reel_cahier,False
+1324,2026-09-15,Restaurant,Ingrédients,Pomme de terre,35000,payée,False,reel_cahier,False
+1325,2026-09-15,Restaurant,Ingrédients,Poivron,4000,payée,False,reel_cahier,False
+1326,2026-09-15,Restaurant,Ingrédients,Courgette,6000,payée,False,reel_cahier,False
+1327,2026-09-15,Restaurant,Transport,Frais de transport,2000,payée,False,reel_cahier,False
+1328,2026-09-16,Restaurant,Ingrédients,Chocolat,800,payée,False,reel_cahier,False
+1329,2026-09-16,Restaurant,Emballages,Sachet,2000,payée,False,reel_cahier,False
+1330,2026-09-16,Restaurant,Ingrédients,Blanc de poulet,60000,payée,False,reel_cahier,False
+1331,2026-09-16,Restaurant,Boissons,THB 65cl (facture V6I16E0008),234000,payée,False,reel_facture,False
+1332,2026-09-16,Restaurant,Boissons,Jus 150cl (facture V6I16E0008),162000,payée,False,reel_facture,False
+1333,2026-09-16,Restaurant,Boissons,Le Fruit 100cl (facture V6I16E0008),30000,payée,False,reel_facture,False
+1334,2026-09-16,Restaurant,Boissons,Caprice canette 33cl (facture V6I16E0008),54000,payée,False,reel_facture,False
+1335,2026-09-16,Restaurant,Boissons,Cuvée blanche 35cl (facture V6I16E0008),24500,payée,False,reel_facture,False
+1336,2026-09-16,Restaurant,Tabac (revente),Smoking killers (?),10000,payée,False,reel_quantite_prix_estime,False
+1337,2026-09-17,Ménage et cuisine,Ingrédients,Courses repas du personnel,124000,payée,False,synthetique,False
+1338,2026-09-18,Achats et logistique,Transport,Carburant et transport,127000,payée,False,synthetique,False
+1339,2026-09-18,Restaurant,Ingrédients,Huile bidon,150000,payée,False,reel_quantite_prix_estime,False
+1340,2026-09-18,Restaurant,Ingrédients,Huile soja Hina,120000,payée,False,reel_quantite_prix_estime,False
+1341,2026-09-18,Restaurant,Ingrédients,Candia lait,72000,payée,False,reel_quantite_prix_estime,False
+1342,2026-09-18,Restaurant,Ingrédients,Danika rose,240000,payée,False,reel_quantite_prix_reference,False
+1343,2026-09-18,Restaurant,Ingrédients,Danika bleu,280000,payée,False,reel_quantite_prix_reference,False
+1344,2026-09-18,Restaurant,Ingrédients,Chilly pizza,56000,payée,False,reel_quantite_prix_estime,False
+1345,2026-09-18,Restaurant,Ingrédients,Chilly kebab (?),16000,payée,False,reel_quantite_prix_estime,False
+1346,2026-09-18,Restaurant,Ingrédients,Candia fromage,9000,payée,False,reel_quantite_prix_estime,False
+1347,2026-09-18,Restaurant,Ingrédients,Vache qui rit,70000,payée,False,reel_quantite_prix_estime,False
+1348,2026-09-18,Restaurant,Emballages,Top,2000,payée,False,reel_quantite_prix_estime,False
+1349,2026-09-18,Restaurant,Entretien,Papier hygiénique,60000,payée,False,reel_quantite_prix_estime,False
+1350,2026-09-18,Restaurant,Ingrédients,Poudre cacao,80000,payée,False,reel_quantite_prix_estime,False
+1351,2026-09-18,Restaurant,Ingrédients,Chapelure,50000,payée,False,reel_quantite_prix_reference,False
+1352,2026-09-18,Restaurant,Ingrédients,Champignon de Paris,50000,payée,False,reel_quantite_prix_reference,False
+1353,2026-09-18,Restaurant,Boissons,Café,80000,payée,False,reel_quantite_prix_estime,False
+1354,2026-09-18,Sécurité et entretien,Entretien,Réparations et maintenance,128000,payée,False,synthetique,False
+1355,2026-09-19,Accueil,Entretien,Produits d'entretien,55500,payée,False,synthetique,False
+1356,2026-09-19,Restaurant,Ingrédients,Salade (feuilles),3000,payée,False,reel_cahier,False
+1357,2026-09-19,Restaurant,Énergie,Bois de chauffage,30000,payée,False,reel_cahier,False
+1358,2026-09-19,Restaurant,Ingrédients,Cuisse de poulet,60000,payée,False,reel_cahier,False
+1359,2026-09-20,Ménage et cuisine,Ingrédients,Courses repas du personnel,137500,payée,False,synthetique,False
+1360,2026-09-20,Restaurant,Ingrédients,Salade (feuilles),2000,payée,False,reel_cahier,False
+1361,2026-09-22,Ménage et cuisine,Ingrédients,Courses repas du personnel,101000,payée,False,synthetique,False
+1362,2026-09-22,Ménage et cuisine,Ingrédients,Courses repas du personnel,90000,payée,False,synthetique,False
+1363,2026-09-22,Ménage et cuisine,Ingrédients,Courses repas du personnel,99000,payée,False,synthetique,False
+1364,2026-09-22,Restaurant,Ingrédients,Coriandre,1000,payée,False,reel_cahier,False
+1365,2026-09-22,Restaurant,Ingrédients,Oignon vert,1000,payée,False,reel_cahier,False
+1366,2026-09-22,Restaurant,Ingrédients,Beurre,2700,payée,False,reel_cahier,False
+1367,2026-09-22,Restaurant,Ingrédients,Tomate,6000,payée,False,reel_cahier,False
+1368,2026-09-22,Restaurant,Ingrédients,Carotte,6000,payée,False,reel_cahier,False
+1369,2026-09-22,Restaurant,Ingrédients,Gingembre,14000,payée,False,reel_cahier,False
+1370,2026-09-22,Restaurant,Ingrédients,Oignon vert,2000,payée,False,reel_cahier,False
+1371,2026-09-22,Restaurant,Ingrédients,Coriandre,2000,payée,False,reel_cahier,False
+1372,2026-09-22,Restaurant,Ingrédients,Céleri,1000,payée,False,reel_cahier,False
+1373,2026-09-22,Restaurant,Ingrédients,Poireau,1000,payée,False,reel_cahier,False
+1374,2026-09-22,Restaurant,Ingrédients,Basilic,2000,payée,False,reel_cahier,False
+1375,2026-09-22,Restaurant,Ingrédients,Persil,1000,payée,False,reel_cahier,False
+1376,2026-09-22,Restaurant,Ingrédients,Concombre,6000,payée,False,reel_cahier,False
+1377,2026-09-22,Restaurant,Ingrédients,Ail,6000,payée,False,reel_cahier,False
+1378,2026-09-22,Restaurant,Transport,Frais de transport,3000,payée,False,reel_cahier,False
+1379,2026-09-22,Restaurant,Boissons,Fanta canette,72000,payée,False,reel_quantite_prix_reference,False
+1380,2026-09-22,Restaurant,Boissons,Coca canette,144000,payée,False,reel_quantite_prix_reference,False
+1381,2026-09-22,Restaurant,Emballages,Barquette plastique,25000,payée,False,reel_quantite_prix_estime,False
+1382,2026-09-22,Restaurant,Entretien,Insecticide,26000,payée,False,reel_quantite_prix_reference,False
+1383,2026-09-22,Restaurant,Emballages,Sac poubelle 100L,8000,payée,False,reel_quantite_prix_estime,False
+1384,2026-09-22,Restaurant,Entretien,Vert micelle (?),15000,payée,False,reel_quantite_prix_estime,False
+1385,2026-09-22,Restaurant,Ingrédients,Origan,10000,payée,False,reel_quantite_prix_estime,False
+1386,2026-09-22,Restaurant,Ingrédients,Fromage,246700,payée,False,reel_quantite_prix_estime,False
+1387,2026-09-23,Accueil,Entretien,Produits d'entretien,43500,payée,False,synthetique,False
+1388,2026-09-24,Restaurant,Ingrédients,Pâte à nem,15000,payée,False,reel_cahier,False
+1389,2026-09-24,Restaurant,Ingrédients,Coriandre,2000,payée,False,reel_cahier,False
+1390,2026-09-24,Restaurant,Ingrédients,Oignon vert,2000,payée,False,reel_cahier,False
+1391,2026-09-24,Restaurant,Ingrédients,Menthe,1000,payée,False,reel_cahier,False
+1392,2026-09-24,Restaurant,Ingrédients,Céleri,1000,payée,False,reel_cahier,False
+1393,2026-09-24,Restaurant,Ingrédients,Tomate,6000,payée,False,reel_cahier,False
+1394,2026-09-24,Restaurant,Ingrédients,Poivron,8000,payée,False,reel_cahier,False
+1395,2026-09-24,Restaurant,Ingrédients,Chou blanc,4000,payée,False,reel_cahier,False
+1396,2026-09-24,Restaurant,Ingrédients,Carotte,6000,payée,False,reel_cahier,False
+1397,2026-09-24,Restaurant,Ingrédients,Concombre,6000,payée,False,reel_cahier,False
+1398,2026-09-24,Restaurant,Transport,Frais de transport,2000,payée,False,reel_cahier,False
+1399,2026-09-24,Restaurant,Emballages,Sachet,2000,payée,False,reel_cahier,False
+1400,2026-09-25,Restaurant,Ingrédients,Chou-fleur,1500,payée,False,reel_cahier,False
+1401,2026-09-25,Restaurant,Ingrédients,Salade (feuilles),3000,payée,False,reel_cahier,False
+1402,2026-09-25,Restaurant,Ingrédients,Brèdes (feuilles vertes),1000,payée,False,reel_cahier,False
+1403,2026-09-26,Restaurant,Ingrédients,Brèdes (feuilles vertes),1500,payée,False,reel_cahier,False
+1404,2026-09-26,Restaurant,Ingrédients,Salade (feuilles),3000,payée,False,reel_cahier,False
+1405,2026-09-26,Restaurant,Ingrédients,Tomate,3000,payée,False,reel_cahier,False
+1406,2026-09-26,Restaurant,Ingrédients,Brède mafane,1000,payée,False,reel_cahier,False
+1407,2026-09-26,Restaurant,Ingrédients,Blanc de poulet,60000,payée,False,reel_cahier,False
+1408,2026-09-26,Restaurant,Ingrédients,Atody (oeufs),12000,payée,False,reel_quantite_prix_reference,False
+1409,2026-09-26,Restaurant,Ingrédients,Atody (oeufs),16000,payée,False,reel_quantite_prix_reference,False
+1410,2026-09-27,Restaurant,Ingrédients,Carotte,2000,payée,False,reel_cahier,False
+1411,2026-09-27,Restaurant,Ingrédients,Ail,2000,payée,False,reel_cahier,False
+1412,2026-09-27,Restaurant,Ingrédients,Oignon vert,1500,payée,False,reel_cahier,False
+1413,2026-09-27,Restaurant,Ingrédients,Kotomila (non traduit),500,payée,False,reel_cahier,False
+1414,2026-09-27,Restaurant,Ingrédients,Concombre,1400,payée,False,reel_cahier,False
+1415,2026-09-28,Ménage et cuisine,Entretien,Produits ménagers,88000,payée,False,synthetique,False
+1416,2026-09-28,Piscine,Produits,Chlore et produits de traitement,146000,payée,False,synthetique,False
+1417,2026-09-29,Coiffure,Matériel,Petit matériel,45000,payée,False,synthetique,False
+1418,2026-09-29,Cyber,Communication,Abonnement internet,271000,payée,False,synthetique,False
+1419,2026-09-29,Restaurant,Énergie,Bois de chauffage,30000,payée,False,reel_cahier,False
+1420,2026-09-29,Restaurant,Ingrédients,Atody (oeufs),40000,payée,False,reel_quantite_prix_reference,False
+1421,2026-09-30,Ménage et cuisine,Ingrédients,Courses repas du personnel,99500,payée,False,synthetique,False
+1422,2026-10-01,Achats et logistique,Transport,Carburant et transport,93000,payée,False,synthetique,False
+1423,2026-10-01,Restaurant,Ingrédients,Carotte,6000,payée,False,reel_cahier,False
+1424,2026-10-01,Restaurant,Ingrédients,Haricot vert,4000,payée,False,reel_cahier,False
+1425,2026-10-01,Restaurant,Ingrédients,Courgette,6000,payée,False,reel_cahier,False
+1426,2026-10-01,Restaurant,Ingrédients,Tomate,6000,payée,False,reel_cahier,False
+1427,2026-10-01,Restaurant,Ingrédients,Concombre,6000,payée,False,reel_cahier,False
+1428,2026-10-01,Restaurant,Ingrédients,Oignon vert,2000,payée,False,reel_cahier,False
+1429,2026-10-01,Restaurant,Ingrédients,Coriandre,2000,payée,False,reel_cahier,False
+1430,2026-10-01,Restaurant,Ingrédients,Persil,1000,payée,False,reel_cahier,False
+1431,2026-10-01,Restaurant,Ingrédients,Basilic,2000,payée,False,reel_cahier,False
+1432,2026-10-01,Restaurant,Ingrédients,Citron,8000,payée,False,reel_cahier,False
+1433,2026-10-01,Restaurant,Ingrédients,Gingembre,7000,payée,False,reel_cahier,False
+1434,2026-10-01,Restaurant,Transport,Frais de transport,3000,payée,False,reel_cahier,False
+1435,2026-10-01,Restaurant,Ingrédients,Salade (feuilles),3000,payée,False,reel_cahier,False
+1436,2026-10-02,Restaurant,Ingrédients,Filet (viande),23000,payée,False,reel_cahier,False
+1437,2026-10-02,Restaurant,Ingrédients,Viande de porc,42000,payée,False,reel_cahier,False
+1438,2026-10-02,Restaurant,Ingrédients,Viande hachée,21000,payée,False,reel_cahier,False
+1439,2026-10-03,Restaurant,Énergie,Bois de chauffage,30000,payée,False,reel_cahier,False
+1440,2026-10-03,Restaurant,Ingrédients,Beurre,2700,payée,False,reel_cahier,False
+1441,2026-10-03,Restaurant,Ingrédients,Pomme de terre,30000,payée,False,reel_cahier,False
+1442,2026-10-03,Restaurant,Transport,Frais de transport,2000,payée,False,reel_cahier,False
+1443,2026-10-04,Piscine,Produits,Chlore et produits de traitement,219000,payée,False,synthetique,False
+1444,2026-10-04,Restaurant,Emballages,Sachet,2000,payée,False,reel_cahier,False
+1445,2026-10-04,Restaurant,Ingrédients,Blanc de poulet,60000,payée,False,reel_cahier,False
+1446,2026-10-04,Restaurant,Ingrédients,Salade (feuilles),3000,payée,False,reel_cahier,False
+1447,2026-10-06,Accueil,Entretien,Produits d'entretien,45000,payée,False,synthetique,False
+1448,2026-10-06,Achats et logistique,Transport,Carburant et transport,109000,payée,False,synthetique,False
+1449,2026-10-06,Piscine,Matériel,Matériel de sécurité,76500,payée,False,synthetique,False
+1450,2026-10-06,Restaurant,Emballages,Barquette plastique K,27000,payée,False,reel_quantite_prix_estime,False
+1451,2026-10-06,Restaurant,Emballages,Barquette plastique C,15000,payée,False,reel_quantite_prix_estime,False
+1452,2026-10-06,Restaurant,Emballages,Barquette plastique L,7000,payée,False,reel_quantite_prix_estime,False
+1453,2026-10-06,Restaurant,Emballages,Papier film,15000,payée,False,reel_quantite_prix_estime,False
+1454,2026-10-06,Restaurant,Entretien,Paille de fer,3000,payée,False,reel_quantite_prix_estime,False
+1455,2026-10-07,Restaurant,Ingrédients,Beurre,2700,payée,False,reel_cahier,False
+1456,2026-10-08,Informatique et technologie,Matériel,Matériel informatique,626500,payée,False,synthetique,False
+1457,2026-10-08,Restaurant,Énergie,Bois de chauffage,30000,payée,False,reel_cahier,False
+1458,2026-10-09,Coiffure,Produits,Produits capillaires,102500,payée,False,synthetique,False
+1459,2026-10-09,Ménage et cuisine,Ingrédients,Courses repas du personnel,105500,refusée,False,synthetique,False
+1460,2026-10-09,Restaurant,Boissons,Cristalline 2L (facture V6J09E0011),19296,payée,False,reel_facture,False
+1461,2026-10-09,Restaurant,Boissons,Cristalline 1L (facture V6J09E0011),30000,payée,False,reel_facture,False
+1462,2026-10-09,Restaurant,Boissons,Canette Gold 50cl (facture V6J09E0011),259200,payée,False,reel_facture,False
+1463,2026-10-09,Restaurant,Boissons,Canette THB 50cl (facture V6J09E0011),220800,payée,False,reel_facture,False
+1464,2026-10-10,Accueil,Entretien,Produits d'entretien,41500,payée,False,synthetique,False
+1465,2026-10-10,Accueil,Énergie,Électricité JIRAMA (quote-part),120500,payée,False,synthetique,False
+1466,2026-10-10,Restaurant,Ingrédients,Tomate,2500,payée,False,reel_cahier,False
+1467,2026-10-10,Restaurant,Ingrédients,Salade (feuilles),3000,payée,False,reel_cahier,False
+1468,2026-10-10,Restaurant,Ingrédients,Penne,3200,payée,False,reel_cahier,False
+1469,2026-10-11,Restaurant,Ingrédients,Carotte,6000,payée,False,reel_cahier,False
+1470,2026-10-11,Restaurant,Ingrédients,Poivron,4000,payée,False,reel_cahier,False
+1471,2026-10-11,Restaurant,Ingrédients,Tomate,6000,payée,False,reel_cahier,False
+1472,2026-10-11,Restaurant,Ingrédients,Ail,6000,payée,False,reel_cahier,False
+1473,2026-10-11,Restaurant,Ingrédients,Gingembre,18000,payée,False,reel_cahier,False
+1474,2026-10-11,Restaurant,Ingrédients,Coriandre,2000,payée,False,reel_cahier,False
+1475,2026-10-11,Restaurant,Ingrédients,Oignon vert,2000,payée,False,reel_cahier,False
+1476,2026-10-11,Restaurant,Ingrédients,Brède mafane,1000,payée,False,reel_cahier,False
+1477,2026-10-11,Restaurant,Ingrédients,Petite aubergine,1000,payée,False,reel_cahier,False
+1478,2026-10-11,Restaurant,Ingrédients,Petit pois,5000,payée,False,reel_cahier,False
+1479,2026-10-11,Restaurant,Ingrédients,Petites crevettes séchées (rouges),5000,payée,False,reel_cahier,False
+1480,2026-10-11,Restaurant,Ingrédients,Champignon noir,6000,payée,False,reel_cahier,False
+1481,2026-10-11,Restaurant,Transport,Frais de transport,3000,payée,False,reel_cahier,False
+1482,2026-10-11,Sécurité et entretien,Matériel,Outillage,120000,payée,False,synthetique,False
+1483,2026-10-13,Coiffure,Produits,Produits capillaires,82500,payée,False,synthetique,False
+1484,2026-10-13,Cyber,Fournitures,Papier et encre,69500,payée,False,synthetique,False
+1485,2026-10-13,Ménage et cuisine,Ingrédients,Courses repas du personnel,100500,payée,False,synthetique,False
+1486,2026-10-13,Ménage et cuisine,Ingrédients,Courses repas du personnel,109500,payée,False,synthetique,False
+1487,2026-10-13,Restaurant,Énergie,Bois de chauffage,30000,payée,False,reel_cahier,False
+1488,2026-10-13,Sécurité et entretien,Entretien,Réparations et maintenance,158500,payée,False,synthetique,False
+1489,2026-10-14,Accueil,Fournitures,Tickets et carnets,53000,payée,False,synthetique,False
+1490,2026-10-14,Direction générale,Frais généraux,Frais de représentation,250500,payée,False,synthetique,False
+1491,2026-10-15,Restaurant,Ingrédients,Viande de porc,51000,payée,False,reel_cahier,False
+1492,2026-10-15,Restaurant,Ingrédients,Viande de boeuf,57000,payée,False,reel_cahier,False
+1493,2026-10-15,Restaurant,Ingrédients,Tranche fine (viande),21000,payée,False,reel_cahier,False
+1494,2026-10-16,Ménage et cuisine,Ingrédients,Courses repas du personnel,93500,payée,False,synthetique,False
+1495,2026-10-16,Restaurant,Ingrédients,Beurre,2700,payée,False,reel_cahier,False
+1496,2026-10-16,Restaurant,Ingrédients,Salade (feuilles),3000,payée,False,reel_cahier,False
+1497,2026-10-16,Restaurant,Emballages,Sachet,2000,payée,False,reel_cahier,False
+1498,2026-10-16,Restaurant,Ingrédients,Salade (feuilles),2000,payée,False,reel_cahier,False
+1499,2026-10-17,Achats et logistique,Transport,Carburant et transport,71500,payée,False,synthetique,False
+1500,2026-10-17,Cyber,Communication,Abonnement internet,256000,payée,False,synthetique,False
+1501,2026-10-17,Ménage et cuisine,Ingrédients,Courses repas du personnel,111500,payée,False,synthetique,False
+1502,2026-10-17,Restaurant,Ingrédients,Pomme de terre,35000,payée,False,reel_cahier,False
+1503,2026-10-17,Restaurant,Ingrédients,Carotte,6000,payée,False,reel_cahier,False
+1504,2026-10-17,Restaurant,Ingrédients,Courgette,6000,payée,False,reel_cahier,False
+1505,2026-10-17,Restaurant,Ingrédients,Oignon,30000,payée,False,reel_cahier,False
+1506,2026-10-17,Restaurant,Ingrédients,Gingembre,10000,payée,False,reel_cahier,False
+1507,2026-10-17,Restaurant,Ingrédients,Tomate,6000,payée,False,reel_cahier,False
+1508,2026-10-17,Restaurant,Ingrédients,Grenadelle,25000,payée,False,reel_cahier,False
+1509,2026-10-17,Restaurant,Ingrédients,Corossol,10000,payée,False,reel_cahier,False
+1510,2026-10-17,Restaurant,Ingrédients,Ananas,3000,payée,False,reel_cahier,False
+1511,2026-10-17,Restaurant,Ingrédients,Oignon vert,2000,payée,False,reel_cahier,False
+1512,2026-10-17,Restaurant,Ingrédients,Coriandre,2000,payée,False,reel_cahier,False
+1513,2026-10-17,Restaurant,Ingrédients,Citron,6000,payée,False,reel_cahier,False
+1514,2026-10-17,Restaurant,Ingrédients,Basilic,2000,payée,False,reel_cahier,False
+1515,2026-10-17,Restaurant,Transport,Frais de transport,3000,payée,False,reel_cahier,False
+1516,2026-10-18,Coiffure,Matériel,Petit matériel,62500,payée,False,synthetique,False
+1517,2026-10-18,Coiffure,Énergie,Électricité (quote-part),48500,payée,False,synthetique,False
+1518,2026-10-18,Cyber,Fournitures,Papier et encre,102500,payée,False,synthetique,False
+1519,2026-10-18,Ménage et cuisine,Entretien,Produits ménagers,115000,payée,False,synthetique,False
+1520,2026-10-18,Sécurité et entretien,Entretien,Réparations et maintenance,140500,payée,False,synthetique,False
+1521,2026-10-19,Ménage et cuisine,Ingrédients,Courses repas du personnel,84000,payée,False,synthetique,False
+1522,2026-10-19,Ménage et cuisine,Entretien,Produits ménagers,79500,payée,False,synthetique,False
+1523,2026-10-19,Piscine,Produits,Chlore et produits de traitement,190000,payée,False,synthetique,False
+1524,2026-10-20,Piscine,Entretien,Nettoyage bassin,60000,payée,False,synthetique,False
+1525,2026-10-20,Restaurant,Ingrédients,Ronono mandry (lait concentré ?),20000,payée,False,reel_quantite_prix_estime,False
+1526,2026-10-20,Restaurant,Emballages,Verre à jeter,50000,payée,False,reel_quantite_prix_estime,False
+1527,2026-10-20,Restaurant,Entretien,Gel WC,32000,payée,False,reel_quantite_prix_estime,False
+1528,2026-10-20,Restaurant,Entretien,Lave-vitre,24000,payée,False,reel_quantite_prix_estime,False
+1529,2026-10-20,Restaurant,Entretien,Paille de fer,10000,payée,False,reel_quantite_prix_estime,False
+1530,2026-10-20,Secrétariat,Fournitures,Fournitures de bureau,655000,payée,True,synthetique,False
+1531,2026-10-21,Cyber,Énergie,Électricité (quote-part),134000,payée,False,synthetique,False
+1532,2026-10-21,Ménage et cuisine,Ingrédients,Courses repas du personnel,145000,payée,False,synthetique,False
+1533,2026-10-21,Restaurant,Ingrédients,Huile bidon,150000,payée,False,reel_quantite_prix_estime,False
+1534,2026-10-21,Restaurant,Ingrédients,Fromage,98300,payée,False,reel_quantite_prix_estime,False
+1535,2026-10-21,Restaurant,Ingrédients,Mozzarella,168800,payée,False,reel_quantite_prix_reference,False
+1536,2026-10-25,Piscine,Énergie,Électricité pompes,427500,payée,False,synthetique,False
+1537,2026-10-26,Coiffure,Matériel,Petit matériel,46500,payée,False,synthetique,False
+1538,2026-10-26,Informatique et technologie,Communication,Internet bureau et téléphone,279500,payée,False,synthetique,False
+1539,2026-10-26,Ménage et cuisine,Ingrédients,Courses repas du personnel,125500,payée,False,synthetique,False
+1540,2026-10-27,Restaurant,Ingrédients,Fromage,80300,payée,False,reel_quantite_prix_estime,False
+1541,2026-10-29,Restaurant,Boissons,THB GM,702000,payée,False,reel_quantite_prix_reference,False
+1542,2026-10-29,Restaurant,Boissons,Gold blanche GM,385000,payée,False,reel_quantite_prix_reference,False
+1543,2026-10-29,Restaurant,Boissons,Gold blanche GM,77000,payée,False,reel_quantite_prix_reference,False
+1544,2026-10-29,Restaurant,Boissons,Queen GM,78000,payée,False,reel_quantite_prix_estime,False
+1545,2026-10-29,Restaurant,Boissons,Fresh GM,78000,payée,False,reel_quantite_prix_estime,False
+1546,2026-10-30,Restaurant,Ingrédients,Achats ingrédients,147000,payée,False,synthetique,False
+1547,2026-10-30,Restaurant,Boissons,Achats boissons,66500,payée,False,synthetique,False
+1548,2026-10-30,Restaurant,Emballages,Achats emballages,9000,payée,False,synthetique,False
+1549,2026-10-31,Achats et logistique,Transport,Carburant et transport,117000,payée,False,synthetique,False
+1550,2026-10-31,Piscine,Entretien,Nettoyage bassin,70000,payée,False,synthetique,False
+1551,2026-10-31,Restaurant,Ingrédients,Achats ingrédients,148000,payée,False,synthetique,False
+1552,2026-10-31,Restaurant,Boissons,Achats boissons,77500,payée,False,synthetique,False
+1553,2026-10-31,Restaurant,Emballages,Achats emballages,15000,payée,False,synthetique,False
+1554,2026-11-01,Accueil,Énergie,Électricité JIRAMA (quote-part),94500,payée,False,synthetique,False
+1555,2026-11-01,Achats et logistique,Transport,Carburant et transport,117500,payée,False,synthetique,False
+1556,2026-11-01,Cyber,Communication,Abonnement internet,294000,payée,False,synthetique,False
+1557,2026-11-01,Cyber,Énergie,Électricité (quote-part),146500,payée,False,synthetique,False
+1558,2026-11-01,Direction générale,Frais généraux,Frais de représentation,301000,payée,False,synthetique,False
+1559,2026-11-01,Ménage et cuisine,Entretien,Produits ménagers,62000,payée,False,synthetique,False
+1560,2026-11-01,Piscine,Matériel,Matériel de sécurité,67000,payée,False,synthetique,False
+1561,2026-11-02,Accueil,Fournitures,Tickets et carnets,54500,payée,False,synthetique,False
+1562,2026-11-02,Ménage et cuisine,Ingrédients,Courses repas du personnel,233500,payée,False,synthetique,False
+1563,2026-11-03,Restaurant,Ingrédients,Achats ingrédients,497000,payée,False,synthetique,False
+1564,2026-11-03,Restaurant,Boissons,Achats boissons,184000,refusée,False,synthetique,False
+1565,2026-11-03,Restaurant,Emballages,Achats emballages,37000,payée,False,synthetique,False
+1566,2026-11-04,Accueil,Entretien,Produits d'entretien,47500,payée,False,synthetique,False
+1567,2026-11-04,Cyber,Matériel,Pièces informatiques,180500,payée,False,synthetique,False
+1568,2026-11-04,Piscine,Produits,Chlore et produits de traitement,272000,payée,False,synthetique,False
+1569,2026-11-05,Piscine,Entretien,Nettoyage bassin,70000,payée,False,synthetique,False
+1570,2026-11-06,Restaurant,Ingrédients,Achats ingrédients,341500,payée,False,synthetique,False
+1571,2026-11-06,Restaurant,Boissons,Achats boissons,308000,payée,False,synthetique,False
+1572,2026-11-06,Restaurant,Emballages,Achats emballages,23500,payée,False,synthetique,False
+1573,2026-11-07,Informatique et technologie,Communication,Internet bureau et téléphone,212000,payée,False,synthetique,False
+1574,2026-11-07,Ménage et cuisine,Ingrédients,Courses repas du personnel,129500,payée,False,synthetique,False
+1575,2026-11-07,Ménage et cuisine,Ingrédients,Courses repas du personnel,133500,payée,False,synthetique,False
+1576,2026-11-07,Restaurant,Ingrédients,Achats ingrédients,270000,payée,False,synthetique,False
+1577,2026-11-07,Restaurant,Boissons,Achats boissons,180000,payée,False,synthetique,False
+1578,2026-11-07,Restaurant,Emballages,Achats emballages,19000,payée,False,synthetique,False
+1579,2026-11-10,Restaurant,Ingrédients,Achats ingrédients,197000,payée,False,synthetique,False
+1580,2026-11-10,Restaurant,Boissons,Achats boissons,116500,payée,False,synthetique,False
+1581,2026-11-10,Restaurant,Emballages,Achats emballages,14000,payée,False,synthetique,False
+1582,2026-11-12,Coiffure,Produits,Produits capillaires,117000,à valider comptable,False,synthetique,False
+1583,2026-11-12,Piscine,Énergie,Électricité pompes,341500,à valider comptable,False,synthetique,False
+1584,2026-11-12,Sécurité et entretien,Entretien,Réparations et maintenance,156000,à valider comptable,False,synthetique,False
+1585,2026-11-13,Achats et logistique,Transport,Carburant et transport,121000,à valider comptable,False,synthetique,False
+1586,2026-11-13,Coiffure,Matériel,Petit matériel,85500,en étude achats,False,synthetique,False
+1587,2026-11-13,Ménage et cuisine,Ingrédients,Courses repas du personnel,115500,à valider comptable,False,synthetique,False
+1588,2026-11-13,Restaurant,Ingrédients,Achats ingrédients,177500,en étude achats,False,synthetique,False
+1589,2026-11-13,Restaurant,Boissons,Achats boissons,65500,en étude achats,False,synthetique,False
+1590,2026-11-13,Restaurant,Emballages,Achats emballages,15000,à valider comptable,False,synthetique,False
+1591,2026-11-13,Secrétariat,Fournitures,Fournitures de bureau,133500,en étude achats,False,synthetique,False
+1592,2026-11-14,Coiffure,Énergie,Électricité (quote-part),44500,en étude achats,False,synthetique,False
+1593,2026-11-14,Restaurant,Ingrédients,Achats ingrédients,264000,en étude achats,False,synthetique,False
+1594,2026-11-14,Restaurant,Boissons,Achats boissons,184500,en étude achats,False,synthetique,False
+1595,2026-11-14,Restaurant,Emballages,Achats emballages,28000,en étude achats,False,synthetique,False
+1596,2026-11-15,Cyber,Fournitures,Papier et encre,99500,à valider comptable,False,synthetique,False

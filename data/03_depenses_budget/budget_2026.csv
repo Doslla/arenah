@@ -1,0 +1,373 @@
+budget_id,exercice,unite,categorie,mois,montant_prevu_ar,version,sous_dimensionne,source
+1,2026,Accueil,Entretien,1,80000,1,False,synthetique
+2,2026,Accueil,Entretien,2,80000,1,False,synthetique
+3,2026,Accueil,Entretien,3,90000,1,False,synthetique
+4,2026,Accueil,Entretien,4,90000,1,False,synthetique
+5,2026,Accueil,Entretien,5,80000,1,False,synthetique
+6,2026,Accueil,Entretien,6,90000,1,False,synthetique
+7,2026,Accueil,Entretien,7,90000,1,False,synthetique
+8,2026,Accueil,Entretien,8,90000,1,False,synthetique
+9,2026,Accueil,Entretien,9,90000,1,False,synthetique
+10,2026,Accueil,Entretien,10,90000,1,False,synthetique
+11,2026,Accueil,Entretien,11,80000,1,False,synthetique
+12,2026,Accueil,Entretien,12,90000,1,False,synthetique
+13,2026,Accueil,Fournitures,1,60000,1,False,synthetique
+14,2026,Accueil,Fournitures,2,60000,1,False,synthetique
+15,2026,Accueil,Fournitures,3,60000,1,False,synthetique
+16,2026,Accueil,Fournitures,4,70000,1,False,synthetique
+17,2026,Accueil,Fournitures,5,60000,1,False,synthetique
+18,2026,Accueil,Fournitures,6,60000,1,False,synthetique
+19,2026,Accueil,Fournitures,7,60000,1,False,synthetique
+20,2026,Accueil,Fournitures,8,60000,1,False,synthetique
+21,2026,Accueil,Fournitures,9,70000,1,False,synthetique
+22,2026,Accueil,Fournitures,10,60000,1,False,synthetique
+23,2026,Accueil,Fournitures,11,60000,1,False,synthetique
+24,2026,Accueil,Fournitures,12,60000,1,False,synthetique
+25,2026,Accueil,Énergie,1,130000,1,False,synthetique
+26,2026,Accueil,Énergie,2,130000,1,False,synthetique
+27,2026,Accueil,Énergie,3,150000,1,False,synthetique
+28,2026,Accueil,Énergie,4,140000,1,False,synthetique
+29,2026,Accueil,Énergie,5,140000,1,False,synthetique
+30,2026,Accueil,Énergie,6,140000,1,False,synthetique
+31,2026,Accueil,Énergie,7,140000,1,False,synthetique
+32,2026,Accueil,Énergie,8,140000,1,False,synthetique
+33,2026,Accueil,Énergie,9,140000,1,False,synthetique
+34,2026,Accueil,Énergie,10,140000,1,False,synthetique
+35,2026,Accueil,Énergie,11,150000,1,False,synthetique
+36,2026,Accueil,Énergie,12,140000,1,False,synthetique
+37,2026,Achats et logistique,Transport,1,320000,1,True,synthetique
+38,2026,Achats et logistique,Transport,2,290000,1,True,synthetique
+39,2026,Achats et logistique,Transport,3,330000,1,True,synthetique
+40,2026,Achats et logistique,Transport,4,290000,1,True,synthetique
+41,2026,Achats et logistique,Transport,5,300000,1,True,synthetique
+42,2026,Achats et logistique,Transport,6,310000,1,True,synthetique
+43,2026,Achats et logistique,Transport,7,310000,1,True,synthetique
+44,2026,Achats et logistique,Transport,8,290000,1,True,synthetique
+45,2026,Achats et logistique,Transport,9,290000,1,True,synthetique
+46,2026,Achats et logistique,Transport,10,310000,1,True,synthetique
+47,2026,Achats et logistique,Transport,11,300000,1,True,synthetique
+48,2026,Achats et logistique,Transport,12,310000,1,True,synthetique
+49,2026,Coiffure,Matériel,1,100000,1,False,synthetique
+50,2026,Coiffure,Matériel,2,90000,1,False,synthetique
+51,2026,Coiffure,Matériel,3,100000,1,False,synthetique
+52,2026,Coiffure,Matériel,4,100000,1,False,synthetique
+53,2026,Coiffure,Matériel,5,90000,1,False,synthetique
+54,2026,Coiffure,Matériel,6,90000,1,False,synthetique
+55,2026,Coiffure,Matériel,7,100000,1,False,synthetique
+56,2026,Coiffure,Matériel,8,100000,1,False,synthetique
+57,2026,Coiffure,Matériel,9,100000,1,False,synthetique
+58,2026,Coiffure,Matériel,10,100000,1,False,synthetique
+59,2026,Coiffure,Matériel,11,90000,1,False,synthetique
+60,2026,Coiffure,Matériel,12,100000,1,False,synthetique
+61,2026,Coiffure,Produits,1,260000,1,False,synthetique
+62,2026,Coiffure,Produits,2,260000,1,False,synthetique
+63,2026,Coiffure,Produits,3,250000,1,False,synthetique
+64,2026,Coiffure,Produits,4,230000,1,False,synthetique
+65,2026,Coiffure,Produits,5,250000,1,False,synthetique
+66,2026,Coiffure,Produits,6,240000,1,False,synthetique
+67,2026,Coiffure,Produits,7,260000,1,False,synthetique
+68,2026,Coiffure,Produits,8,240000,1,False,synthetique
+69,2026,Coiffure,Produits,9,270000,1,False,synthetique
+70,2026,Coiffure,Produits,10,260000,1,False,synthetique
+71,2026,Coiffure,Produits,11,260000,1,False,synthetique
+72,2026,Coiffure,Produits,12,240000,1,False,synthetique
+73,2026,Coiffure,Énergie,1,70000,1,False,synthetique
+74,2026,Coiffure,Énergie,2,70000,1,False,synthetique
+75,2026,Coiffure,Énergie,3,70000,1,False,synthetique
+76,2026,Coiffure,Énergie,4,70000,1,False,synthetique
+77,2026,Coiffure,Énergie,5,70000,1,False,synthetique
+78,2026,Coiffure,Énergie,6,70000,1,False,synthetique
+79,2026,Coiffure,Énergie,7,70000,1,False,synthetique
+80,2026,Coiffure,Énergie,8,70000,1,False,synthetique
+81,2026,Coiffure,Énergie,9,70000,1,False,synthetique
+82,2026,Coiffure,Énergie,10,60000,1,False,synthetique
+83,2026,Coiffure,Énergie,11,70000,1,False,synthetique
+84,2026,Coiffure,Énergie,12,60000,1,False,synthetique
+85,2026,Cyber,Communication,1,350000,1,False,synthetique
+86,2026,Cyber,Communication,2,420000,1,False,synthetique
+87,2026,Cyber,Communication,3,400000,1,False,synthetique
+88,2026,Cyber,Communication,4,410000,1,False,synthetique
+89,2026,Cyber,Communication,5,410000,1,False,synthetique
+90,2026,Cyber,Communication,6,380000,1,False,synthetique
+91,2026,Cyber,Communication,7,410000,1,False,synthetique
+92,2026,Cyber,Communication,8,400000,1,False,synthetique
+93,2026,Cyber,Communication,9,360000,1,False,synthetique
+94,2026,Cyber,Communication,10,370000,1,False,synthetique
+95,2026,Cyber,Communication,11,370000,1,False,synthetique
+96,2026,Cyber,Communication,12,390000,1,False,synthetique
+97,2026,Cyber,Fournitures,1,170000,1,False,synthetique
+98,2026,Cyber,Fournitures,2,170000,1,False,synthetique
+99,2026,Cyber,Fournitures,3,200000,1,False,synthetique
+100,2026,Cyber,Fournitures,4,190000,1,False,synthetique
+101,2026,Cyber,Fournitures,5,200000,1,False,synthetique
+102,2026,Cyber,Fournitures,6,180000,1,False,synthetique
+103,2026,Cyber,Fournitures,7,190000,1,False,synthetique
+104,2026,Cyber,Fournitures,8,180000,1,False,synthetique
+105,2026,Cyber,Fournitures,9,190000,1,False,synthetique
+106,2026,Cyber,Fournitures,10,190000,1,False,synthetique
+107,2026,Cyber,Fournitures,11,200000,1,False,synthetique
+108,2026,Cyber,Fournitures,12,190000,1,False,synthetique
+109,2026,Cyber,Matériel,1,230000,1,False,synthetique
+110,2026,Cyber,Matériel,2,270000,1,False,synthetique
+111,2026,Cyber,Matériel,3,260000,1,False,synthetique
+112,2026,Cyber,Matériel,4,250000,1,False,synthetique
+113,2026,Cyber,Matériel,5,250000,1,False,synthetique
+114,2026,Cyber,Matériel,6,240000,1,False,synthetique
+115,2026,Cyber,Matériel,7,240000,1,False,synthetique
+116,2026,Cyber,Matériel,8,260000,1,False,synthetique
+117,2026,Cyber,Matériel,9,240000,1,False,synthetique
+118,2026,Cyber,Matériel,10,250000,1,False,synthetique
+119,2026,Cyber,Matériel,11,240000,1,False,synthetique
+120,2026,Cyber,Matériel,12,230000,1,False,synthetique
+121,2026,Cyber,Énergie,1,120000,1,True,synthetique
+122,2026,Cyber,Énergie,2,120000,1,True,synthetique
+123,2026,Cyber,Énergie,3,130000,1,True,synthetique
+124,2026,Cyber,Énergie,4,130000,1,True,synthetique
+125,2026,Cyber,Énergie,5,130000,1,True,synthetique
+126,2026,Cyber,Énergie,6,120000,1,True,synthetique
+127,2026,Cyber,Énergie,7,120000,1,True,synthetique
+128,2026,Cyber,Énergie,8,120000,1,True,synthetique
+129,2026,Cyber,Énergie,9,120000,1,True,synthetique
+130,2026,Cyber,Énergie,10,120000,1,True,synthetique
+131,2026,Cyber,Énergie,11,110000,1,True,synthetique
+132,2026,Cyber,Énergie,12,130000,1,True,synthetique
+133,2026,Direction générale,Frais généraux,1,320000,1,False,synthetique
+134,2026,Direction générale,Frais généraux,2,300000,1,False,synthetique
+135,2026,Direction générale,Frais généraux,3,330000,1,False,synthetique
+136,2026,Direction générale,Frais généraux,4,340000,1,False,synthetique
+137,2026,Direction générale,Frais généraux,5,320000,1,False,synthetique
+138,2026,Direction générale,Frais généraux,6,350000,1,False,synthetique
+139,2026,Direction générale,Frais généraux,7,300000,1,False,synthetique
+140,2026,Direction générale,Frais généraux,8,340000,1,False,synthetique
+141,2026,Direction générale,Frais généraux,9,320000,1,False,synthetique
+142,2026,Direction générale,Frais généraux,10,330000,1,False,synthetique
+143,2026,Direction générale,Frais généraux,11,330000,1,False,synthetique
+144,2026,Direction générale,Frais généraux,12,300000,1,False,synthetique
+145,2026,Informatique et technologie,Communication,1,280000,1,False,synthetique
+146,2026,Informatique et technologie,Communication,2,270000,1,False,synthetique
+147,2026,Informatique et technologie,Communication,3,310000,1,False,synthetique
+148,2026,Informatique et technologie,Communication,4,290000,1,False,synthetique
+149,2026,Informatique et technologie,Communication,5,290000,1,False,synthetique
+150,2026,Informatique et technologie,Communication,6,290000,1,False,synthetique
+151,2026,Informatique et technologie,Communication,7,260000,1,False,synthetique
+152,2026,Informatique et technologie,Communication,8,280000,1,False,synthetique
+153,2026,Informatique et technologie,Communication,9,290000,1,False,synthetique
+154,2026,Informatique et technologie,Communication,10,270000,1,False,synthetique
+155,2026,Informatique et technologie,Communication,11,280000,1,False,synthetique
+156,2026,Informatique et technologie,Communication,12,300000,1,False,synthetique
+157,2026,Informatique et technologie,Matériel,1,520000,1,False,synthetique
+158,2026,Informatique et technologie,Matériel,2,570000,1,False,synthetique
+159,2026,Informatique et technologie,Matériel,3,510000,1,False,synthetique
+160,2026,Informatique et technologie,Matériel,4,520000,1,False,synthetique
+161,2026,Informatique et technologie,Matériel,5,520000,1,False,synthetique
+162,2026,Informatique et technologie,Matériel,6,510000,1,False,synthetique
+163,2026,Informatique et technologie,Matériel,7,520000,1,False,synthetique
+164,2026,Informatique et technologie,Matériel,8,520000,1,False,synthetique
+165,2026,Informatique et technologie,Matériel,9,570000,1,False,synthetique
+166,2026,Informatique et technologie,Matériel,10,560000,1,False,synthetique
+167,2026,Informatique et technologie,Matériel,11,540000,1,False,synthetique
+168,2026,Informatique et technologie,Matériel,12,540000,1,False,synthetique
+169,2026,Ménage et cuisine,Entretien,1,190000,1,False,synthetique
+170,2026,Ménage et cuisine,Entretien,2,170000,1,False,synthetique
+171,2026,Ménage et cuisine,Entretien,3,180000,1,False,synthetique
+172,2026,Ménage et cuisine,Entretien,4,180000,1,False,synthetique
+173,2026,Ménage et cuisine,Entretien,5,170000,1,False,synthetique
+174,2026,Ménage et cuisine,Entretien,6,180000,1,False,synthetique
+175,2026,Ménage et cuisine,Entretien,7,170000,1,False,synthetique
+176,2026,Ménage et cuisine,Entretien,8,170000,1,False,synthetique
+177,2026,Ménage et cuisine,Entretien,9,170000,1,False,synthetique
+178,2026,Ménage et cuisine,Entretien,10,160000,1,False,synthetique
+179,2026,Ménage et cuisine,Entretien,11,170000,1,False,synthetique
+180,2026,Ménage et cuisine,Entretien,12,180000,1,False,synthetique
+181,2026,Ménage et cuisine,Ingrédients,1,1080000,1,False,synthetique
+182,2026,Ménage et cuisine,Ingrédients,2,980000,1,False,synthetique
+183,2026,Ménage et cuisine,Ingrédients,3,1070000,1,False,synthetique
+184,2026,Ménage et cuisine,Ingrédients,4,990000,1,False,synthetique
+185,2026,Ménage et cuisine,Ingrédients,5,1140000,1,False,synthetique
+186,2026,Ménage et cuisine,Ingrédients,6,1080000,1,False,synthetique
+187,2026,Ménage et cuisine,Ingrédients,7,1030000,1,False,synthetique
+188,2026,Ménage et cuisine,Ingrédients,8,1090000,1,False,synthetique
+189,2026,Ménage et cuisine,Ingrédients,9,1030000,1,False,synthetique
+190,2026,Ménage et cuisine,Ingrédients,10,1000000,1,False,synthetique
+191,2026,Ménage et cuisine,Ingrédients,11,1130000,1,False,synthetique
+192,2026,Ménage et cuisine,Ingrédients,12,1100000,1,False,synthetique
+193,2026,Piscine,Entretien,1,120000,1,True,synthetique
+194,2026,Piscine,Entretien,2,130000,1,True,synthetique
+195,2026,Piscine,Entretien,3,130000,1,True,synthetique
+196,2026,Piscine,Entretien,4,110000,1,True,synthetique
+197,2026,Piscine,Entretien,5,120000,1,True,synthetique
+198,2026,Piscine,Entretien,6,120000,1,True,synthetique
+199,2026,Piscine,Entretien,7,120000,1,True,synthetique
+200,2026,Piscine,Entretien,8,120000,1,True,synthetique
+201,2026,Piscine,Entretien,9,130000,1,True,synthetique
+202,2026,Piscine,Entretien,10,130000,1,True,synthetique
+203,2026,Piscine,Entretien,11,130000,1,True,synthetique
+204,2026,Piscine,Entretien,12,110000,1,True,synthetique
+205,2026,Piscine,Matériel,1,90000,1,False,synthetique
+206,2026,Piscine,Matériel,2,90000,1,False,synthetique
+207,2026,Piscine,Matériel,3,90000,1,False,synthetique
+208,2026,Piscine,Matériel,4,80000,1,False,synthetique
+209,2026,Piscine,Matériel,5,90000,1,False,synthetique
+210,2026,Piscine,Matériel,6,100000,1,False,synthetique
+211,2026,Piscine,Matériel,7,80000,1,False,synthetique
+212,2026,Piscine,Matériel,8,100000,1,False,synthetique
+213,2026,Piscine,Matériel,9,90000,1,False,synthetique
+214,2026,Piscine,Matériel,10,90000,1,False,synthetique
+215,2026,Piscine,Matériel,11,80000,1,False,synthetique
+216,2026,Piscine,Matériel,12,90000,1,False,synthetique
+217,2026,Piscine,Produits,1,460000,1,False,synthetique
+218,2026,Piscine,Produits,2,480000,1,False,synthetique
+219,2026,Piscine,Produits,3,450000,1,False,synthetique
+220,2026,Piscine,Produits,4,470000,1,False,synthetique
+221,2026,Piscine,Produits,5,490000,1,False,synthetique
+222,2026,Piscine,Produits,6,470000,1,False,synthetique
+223,2026,Piscine,Produits,7,500000,1,False,synthetique
+224,2026,Piscine,Produits,8,500000,1,False,synthetique
+225,2026,Piscine,Produits,9,460000,1,False,synthetique
+226,2026,Piscine,Produits,10,480000,1,False,synthetique
+227,2026,Piscine,Produits,11,430000,1,False,synthetique
+228,2026,Piscine,Produits,12,480000,1,False,synthetique
+229,2026,Piscine,Énergie,1,400000,1,False,synthetique
+230,2026,Piscine,Énergie,2,380000,1,False,synthetique
+231,2026,Piscine,Énergie,3,420000,1,False,synthetique
+232,2026,Piscine,Énergie,4,370000,1,False,synthetique
+233,2026,Piscine,Énergie,5,390000,1,False,synthetique
+234,2026,Piscine,Énergie,6,370000,1,False,synthetique
+235,2026,Piscine,Énergie,7,420000,1,False,synthetique
+236,2026,Piscine,Énergie,8,420000,1,False,synthetique
+237,2026,Piscine,Énergie,9,390000,1,False,synthetique
+238,2026,Piscine,Énergie,10,380000,1,False,synthetique
+239,2026,Piscine,Énergie,11,380000,1,False,synthetique
+240,2026,Piscine,Énergie,12,400000,1,False,synthetique
+241,2026,Restaurant,Boissons,1,2790000,1,False,synthetique
+242,2026,Restaurant,Boissons,2,2930000,1,False,synthetique
+243,2026,Restaurant,Boissons,3,2570000,1,False,synthetique
+244,2026,Restaurant,Boissons,4,2670000,1,False,synthetique
+245,2026,Restaurant,Boissons,5,2680000,1,False,synthetique
+246,2026,Restaurant,Boissons,6,3000000,1,False,synthetique
+247,2026,Restaurant,Boissons,7,2610000,1,False,synthetique
+248,2026,Restaurant,Boissons,8,2730000,1,False,synthetique
+249,2026,Restaurant,Boissons,9,2560000,1,False,synthetique
+250,2026,Restaurant,Boissons,10,2970000,1,False,synthetique
+251,2026,Restaurant,Boissons,11,3000000,1,False,synthetique
+252,2026,Restaurant,Boissons,12,2620000,1,False,synthetique
+253,2026,Restaurant,Emballages,1,190000,1,False,synthetique
+254,2026,Restaurant,Emballages,2,180000,1,False,synthetique
+255,2026,Restaurant,Emballages,3,180000,1,False,synthetique
+256,2026,Restaurant,Emballages,4,190000,1,False,synthetique
+257,2026,Restaurant,Emballages,5,190000,1,False,synthetique
+258,2026,Restaurant,Emballages,6,170000,1,False,synthetique
+259,2026,Restaurant,Emballages,7,180000,1,False,synthetique
+260,2026,Restaurant,Emballages,8,170000,1,False,synthetique
+261,2026,Restaurant,Emballages,9,170000,1,False,synthetique
+262,2026,Restaurant,Emballages,10,170000,1,False,synthetique
+263,2026,Restaurant,Emballages,11,200000,1,False,synthetique
+264,2026,Restaurant,Emballages,12,190000,1,False,synthetique
+265,2026,Restaurant,Entretien,1,260000,1,False,synthetique
+266,2026,Restaurant,Entretien,2,270000,1,False,synthetique
+267,2026,Restaurant,Entretien,3,250000,1,False,synthetique
+268,2026,Restaurant,Entretien,4,260000,1,False,synthetique
+269,2026,Restaurant,Entretien,5,270000,1,False,synthetique
+270,2026,Restaurant,Entretien,6,280000,1,False,synthetique
+271,2026,Restaurant,Entretien,7,270000,1,False,synthetique
+272,2026,Restaurant,Entretien,8,280000,1,False,synthetique
+273,2026,Restaurant,Entretien,9,270000,1,False,synthetique
+274,2026,Restaurant,Entretien,10,290000,1,False,synthetique
+275,2026,Restaurant,Entretien,11,250000,1,False,synthetique
+276,2026,Restaurant,Entretien,12,250000,1,False,synthetique
+277,2026,Restaurant,Fournitures,1,10000,1,False,synthetique
+278,2026,Restaurant,Fournitures,2,10000,1,False,synthetique
+279,2026,Restaurant,Fournitures,3,10000,1,False,synthetique
+280,2026,Restaurant,Fournitures,4,10000,1,False,synthetique
+281,2026,Restaurant,Fournitures,5,10000,1,False,synthetique
+282,2026,Restaurant,Fournitures,6,10000,1,False,synthetique
+283,2026,Restaurant,Fournitures,7,10000,1,False,synthetique
+284,2026,Restaurant,Fournitures,8,10000,1,False,synthetique
+285,2026,Restaurant,Fournitures,9,10000,1,False,synthetique
+286,2026,Restaurant,Fournitures,10,10000,1,False,synthetique
+287,2026,Restaurant,Fournitures,11,10000,1,False,synthetique
+288,2026,Restaurant,Fournitures,12,10000,1,False,synthetique
+289,2026,Restaurant,Ingrédients,1,2440000,1,False,synthetique
+290,2026,Restaurant,Ingrédients,2,2480000,1,False,synthetique
+291,2026,Restaurant,Ingrédients,3,2530000,1,False,synthetique
+292,2026,Restaurant,Ingrédients,4,2720000,1,False,synthetique
+293,2026,Restaurant,Ingrédients,5,2300000,1,False,synthetique
+294,2026,Restaurant,Ingrédients,6,2360000,1,False,synthetique
+295,2026,Restaurant,Ingrédients,7,2600000,1,False,synthetique
+296,2026,Restaurant,Ingrédients,8,2590000,1,False,synthetique
+297,2026,Restaurant,Ingrédients,9,2520000,1,False,synthetique
+298,2026,Restaurant,Ingrédients,10,2540000,1,False,synthetique
+299,2026,Restaurant,Ingrédients,11,2540000,1,False,synthetique
+300,2026,Restaurant,Ingrédients,12,2710000,1,False,synthetique
+301,2026,Restaurant,Tabac (revente),1,1110000,1,False,synthetique
+302,2026,Restaurant,Tabac (revente),2,1080000,1,False,synthetique
+303,2026,Restaurant,Tabac (revente),3,1210000,1,False,synthetique
+304,2026,Restaurant,Tabac (revente),4,1270000,1,False,synthetique
+305,2026,Restaurant,Tabac (revente),5,1080000,1,False,synthetique
+306,2026,Restaurant,Tabac (revente),6,1110000,1,False,synthetique
+307,2026,Restaurant,Tabac (revente),7,1100000,1,False,synthetique
+308,2026,Restaurant,Tabac (revente),8,1170000,1,False,synthetique
+309,2026,Restaurant,Tabac (revente),9,1130000,1,False,synthetique
+310,2026,Restaurant,Tabac (revente),10,1100000,1,False,synthetique
+311,2026,Restaurant,Tabac (revente),11,1150000,1,False,synthetique
+312,2026,Restaurant,Tabac (revente),12,1090000,1,False,synthetique
+313,2026,Restaurant,Transport,1,10000,1,False,synthetique
+314,2026,Restaurant,Transport,2,10000,1,False,synthetique
+315,2026,Restaurant,Transport,3,10000,1,False,synthetique
+316,2026,Restaurant,Transport,4,10000,1,False,synthetique
+317,2026,Restaurant,Transport,5,10000,1,False,synthetique
+318,2026,Restaurant,Transport,6,10000,1,False,synthetique
+319,2026,Restaurant,Transport,7,10000,1,False,synthetique
+320,2026,Restaurant,Transport,8,10000,1,False,synthetique
+321,2026,Restaurant,Transport,9,10000,1,False,synthetique
+322,2026,Restaurant,Transport,10,10000,1,False,synthetique
+323,2026,Restaurant,Transport,11,10000,1,False,synthetique
+324,2026,Restaurant,Transport,12,10000,1,False,synthetique
+325,2026,Restaurant,Énergie,1,110000,1,False,synthetique
+326,2026,Restaurant,Énergie,2,130000,1,False,synthetique
+327,2026,Restaurant,Énergie,3,120000,1,False,synthetique
+328,2026,Restaurant,Énergie,4,120000,1,False,synthetique
+329,2026,Restaurant,Énergie,5,120000,1,False,synthetique
+330,2026,Restaurant,Énergie,6,130000,1,False,synthetique
+331,2026,Restaurant,Énergie,7,130000,1,False,synthetique
+332,2026,Restaurant,Énergie,8,130000,1,False,synthetique
+333,2026,Restaurant,Énergie,9,120000,1,False,synthetique
+334,2026,Restaurant,Énergie,10,120000,1,False,synthetique
+335,2026,Restaurant,Énergie,11,130000,1,False,synthetique
+336,2026,Restaurant,Énergie,12,120000,1,False,synthetique
+337,2026,Secrétariat,Fournitures,1,150000,1,False,synthetique
+338,2026,Secrétariat,Fournitures,2,150000,1,False,synthetique
+339,2026,Secrétariat,Fournitures,3,150000,1,False,synthetique
+340,2026,Secrétariat,Fournitures,4,140000,1,False,synthetique
+341,2026,Secrétariat,Fournitures,5,140000,1,False,synthetique
+342,2026,Secrétariat,Fournitures,6,140000,1,False,synthetique
+343,2026,Secrétariat,Fournitures,7,130000,1,False,synthetique
+344,2026,Secrétariat,Fournitures,8,130000,1,False,synthetique
+345,2026,Secrétariat,Fournitures,9,150000,1,False,synthetique
+346,2026,Secrétariat,Fournitures,10,140000,1,False,synthetique
+347,2026,Secrétariat,Fournitures,11,140000,1,False,synthetique
+348,2026,Secrétariat,Fournitures,12,130000,1,False,synthetique
+349,2026,Sécurité et entretien,Entretien,1,310000,1,False,synthetique
+350,2026,Sécurité et entretien,Entretien,2,320000,1,False,synthetique
+351,2026,Sécurité et entretien,Entretien,3,330000,1,False,synthetique
+352,2026,Sécurité et entretien,Entretien,4,310000,1,False,synthetique
+353,2026,Sécurité et entretien,Entretien,5,360000,1,False,synthetique
+354,2026,Sécurité et entretien,Entretien,6,310000,1,False,synthetique
+355,2026,Sécurité et entretien,Entretien,7,330000,1,False,synthetique
+356,2026,Sécurité et entretien,Entretien,8,340000,1,False,synthetique
+357,2026,Sécurité et entretien,Entretien,9,360000,1,False,synthetique
+358,2026,Sécurité et entretien,Entretien,10,350000,1,False,synthetique
+359,2026,Sécurité et entretien,Entretien,11,310000,1,False,synthetique
+360,2026,Sécurité et entretien,Entretien,12,340000,1,False,synthetique
+361,2026,Sécurité et entretien,Matériel,1,120000,1,False,synthetique
+362,2026,Sécurité et entretien,Matériel,2,110000,1,False,synthetique
+363,2026,Sécurité et entretien,Matériel,3,130000,1,False,synthetique
+364,2026,Sécurité et entretien,Matériel,4,120000,1,False,synthetique
+365,2026,Sécurité et entretien,Matériel,5,120000,1,False,synthetique
+366,2026,Sécurité et entretien,Matériel,6,120000,1,False,synthetique
+367,2026,Sécurité et entretien,Matériel,7,120000,1,False,synthetique
+368,2026,Sécurité et entretien,Matériel,8,120000,1,False,synthetique
+369,2026,Sécurité et entretien,Matériel,9,110000,1,False,synthetique
+370,2026,Sécurité et entretien,Matériel,10,130000,1,False,synthetique
+371,2026,Sécurité et entretien,Matériel,11,130000,1,False,synthetique
+372,2026,Sécurité et entretien,Matériel,12,120000,1,False,synthetique

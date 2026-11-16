@@ -1,0 +1,14 @@
+cle,valeur,description
+debut,2025-11-01,Premier jour généré (activités autres que Restaurant)
+fin,2026-11-15,Dernier jour généré
+debut_presences,2026-09-01,Premier jour de pointage généré
+jour_repos_personnel,lundi,Jour de repos du personnel : toutes les activités sont fermées ce jour-là
+ouvrir_jour_repos_si_ferie,oui,Ouvrir quand même le jour de repos s'il est férié (observé au Restaurant : lundis de Pâques et de Pentecôte)
+unites_sans_repos,Sécurité et entretien,Unités dont le personnel travaille aussi le jour de repos (séparées par |)
+jour_remise,dimanche,Jour de la remise hebdomadaire des caisses au comptable
+seuil_pdg_ar,1000000,Montant au-dessus duquel le PDG valide la dépense (provisoire)
+fonds_restaurant_ar,100000,Fonds de caisse du Restaurant
+taux_anomalie_cloture,0.02,Part des clôtures avec un manque important
+taux_anomalie_encaissement,0.012,Part des jours avec un encaissement anormal
+taux_fermeture_imprevue,0.015,"Part des jours de fermeture imprévue (coupure, travaux)"
+graine,2026,Graine aléatoire (mêmes paramètres = mêmes données)

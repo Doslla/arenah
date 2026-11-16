@@ -1,0 +1,27 @@
+date,facture,article,cartons,bouteilles,pu_ar,montant_ar,remarque,categorie,source
+2026-04-28,V6D28E0018,Gold 50cl,4,0,3850,308000,,boissons,reel_facture
+2026-04-28,V6D28E0018,THB 65cl,4,0,3900,312000,,boissons,reel_facture
+2026-04-28,V6D28E0018,Gold 33cl,3,0,3100,223200,,boissons,reel_facture
+2026-04-28,V6D28E0018,Jus 150cl,8,0,4500,216000,,boissons,reel_facture
+2026-04-28,V6D28E0018,Jus 50cl,2,0,1758,42192,libellé partiellement effacé,boissons,reel_facture
+2026-04-28,V6D28E0018,Canette Gold 50cl,3,0,5400,388800,"nombre de cartons effacé, déduit du montant",boissons,reel_facture
+2026-04-28,V6D28E0018,Caprice canette 33cl,2,0,2250,108000,,boissons,reel_facture
+2026-08-12,V6H12E0017,Gold 50cl,2,0,3850,154000,,boissons,reel_facture
+2026-08-12,V6H12E0017,THB 65cl,4,0,3900,312000,,boissons,reel_facture
+2026-08-12,V6H12E0017,Gold 33cl,2,0,3100,148800,,boissons,reel_facture
+2026-08-12,V6H12E0017,Coca cola 150cl,2,0,4500,54000,,boissons,reel_facture
+2026-08-12,V6H12E0017,Jus 150cl,2,0,4500,54000,,boissons,reel_facture
+2026-08-12,V6H12E0017,Cristalline 1L,3,0,1875,45000,,boissons,reel_facture
+2026-08-12,V6H12E0017,Le Fruit 100cl,1,0,5000,60000,,boissons,reel_facture
+2026-08-12,V6H12E0017,Jus 35cl,2,0,1375,33000,,boissons,reel_facture
+2026-08-12,V6H12E0017,Canette Gold 50cl,3,0,5400,388800,,boissons,reel_facture
+2026-08-12,V6H12E0017,Canette THB 50cl,2,0,4600,220800,,boissons,reel_facture
+2026-09-16,V6I16E0008,THB 65cl,3,0,3900,234000,,boissons,reel_facture
+2026-09-16,V6I16E0008,Jus 150cl,6,0,4500,162000,,boissons,reel_facture
+2026-09-16,V6I16E0008,Le Fruit 100cl,0,6,5000,30000,,boissons,reel_facture
+2026-09-16,V6I16E0008,Caprice canette 33cl,1,0,2250,54000,,boissons,reel_facture
+2026-09-16,V6I16E0008,Cuvée blanche 35cl,0,5,4900,24500,,boissons,reel_facture
+2026-10-09,V6J09E0011,Cristalline 2L,1,0,3216,19296,"libellé effacé, déduit (19296 = 6 x 3216) et du cahier de réception",boissons,reel_facture
+2026-10-09,V6J09E0011,Cristalline 1L,2,0,1875,30000,,boissons,reel_facture
+2026-10-09,V6J09E0011,Canette Gold 50cl,2,0,5400,259200,"montant partiellement effacé, recalculé (2 x 24 x 5400)",boissons,reel_facture
+2026-10-09,V6J09E0011,Canette THB 50cl,2,0,4600,220800,,boissons,reel_facture

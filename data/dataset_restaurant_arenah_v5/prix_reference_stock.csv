@@ -1,0 +1,228 @@
+cle;categorie;prix_unitaire_ar;unite_prix;pcs_caseau;pcs_pac;pcs_carton;source_prix
+gold 50cl;boissons;3850;bouteille;20;20;20;facture
+gold gm;boissons;3850;bouteille;20;20;20;facture (Gold 50cl)
+gold blanche gm;boissons;3850;bouteille;20;20;20;facture (Gold 50cl)
+gold blanche;boissons;3850;bouteille;20;20;20;facture (Gold 50cl)
+gold 33cl;boissons;3100;bouteille;24;24;24;facture
+gold blanche pm;boissons;3100;bouteille;24;24;24;facture (Gold 33cl)
+gold rose 33cl;boissons;3100;bouteille;24;24;24;facture (Gold 33cl)
+thb gm;boissons;3900;bouteille;20;20;20;facture (THB 65cl)
+thb ?;boissons;3900;bouteille;20;20;20;facture (THB 65cl), format supposé GM
+thb pm;boissons;3100;bouteille;24;24;24;hypothèse : prix Gold 33cl
+fresh 65cl;boissons;3900;bouteille;20;20;20;hypothèse : prix THB 65cl
+fresh gm;boissons;3900;bouteille;20;20;20;hypothèse : prix THB 65cl
+queen gm;boissons;3900;bouteille;20;20;20;hypothèse : prix THB 65cl
+booster 50cl;boissons;3900;bouteille;20;20;20;hypothèse : prix THB 65cl
+booster;boissons;3900;bouteille;20;20;20;hypothèse : prix THB 65cl
+fresh 33cl;boissons;3100;bouteille;24;24;24;hypothèse : prix Gold 33cl
+fresh pm;boissons;3100;bouteille;24;24;24;hypothèse : prix Gold 33cl
+canette gold 50cl;boissons;5400;canette;24;24;24;facture
+gold canette;boissons;5400;canette;24;24;24;facture
+gold blanche canette;boissons;5400;canette;24;24;24;facture
+gold 8 canette;boissons;5400;canette;24;24;24;facture (canette Gold)
+canette thb 50cl;boissons;4600;canette;24;24;24;facture
+thb canette;boissons;4600;canette;24;24;24;facture
+fresh canette;boissons;4600;canette;24;24;24;hypothèse : prix canette THB
+beaufort canette 33cl;boissons;4200;canette;24;24;24;vente 7000 x 0,6
+jus 150cl (caprice ananas);boissons;4500;bouteille;6;6;6;facture (Jus 150cl)
+caprice gm;boissons;4500;bouteille;6;6;6;facture (Jus 150cl)
+caprice orange gm;boissons;4500;bouteille;6;6;6;facture (Jus 150cl)
+caprice bonbon anglais gm;boissons;4500;bouteille;6;6;6;facture (Jus 150cl)
+caprice bonbon anglais;boissons;4500;bouteille;6;6;6;facture (Jus 150cl)
+caprice grenadine;boissons;4500;bouteille;6;6;6;facture (Jus 150cl)
+caprice ananas;boissons;4500;bouteille;6;6;6;facture (Jus 150cl)
+caprice;boissons;4500;bouteille;6;6;6;facture (Jus 150cl)
+caprice bouteille;boissons;4500;bouteille;6;6;6;facture (Jus 150cl)
+fanta gm;boissons;4500;bouteille;6;6;6;facture (Coca 150cl)
+coca cola 150cl;boissons;4500;bouteille;6;6;6;facture
+coca cola gm;boissons;4500;bouteille;6;6;6;facture (Coca 150cl)
+coca gm;boissons;4500;bouteille;6;6;6;facture (Coca 150cl)
+coca original gm;boissons;4500;bouteille;6;6;6;facture (Coca 150cl)
+coca original 1,5l;boissons;4500;bouteille;6;6;6;facture (Coca 150cl)
+world cola gm;boissons;4500;bouteille;6;6;6;facture (Coca 150cl)
+world cola;boissons;4500;bouteille;6;6;6;facture (Coca 150cl), format supposé GM
+caprice pm;boissons;1375;bouteille;12;12;12;facture (Jus 35cl)
+caprice grenadine pm;boissons;1375;bouteille;12;12;12;facture (Jus 35cl)
+coca pm;boissons;1375;bouteille;12;12;12;facture (Jus 35cl)
+coca cola pm;boissons;1375;bouteille;12;12;12;facture (Jus 35cl)
+coca original pm;boissons;1375;bouteille;12;12;12;facture (Jus 35cl)
+coca cola 35cl;boissons;1375;bouteille;12;12;12;facture (Jus 35cl)
+coca original 350ml;boissons;1375;bouteille;12;12;12;facture (Jus 35cl)
+coca original 500ml;boissons;1758;bouteille;12;12;12;facture (Jus 50cl)
+coca 300ml;boissons;1375;bouteille;12;12;12;facture (Jus 35cl)
+world cola pm;boissons;1375;bouteille;12;12;12;facture (Jus 35cl)
+fanta pm;boissons;1375;bouteille;12;12;12;facture (Jus 35cl)
+caprice can 33cl;boissons;2250;canette;24;24;24;facture
+caprice canette;boissons;2250;canette;24;24;24;facture
+coca canette;boissons;3000;canette;24;24;24;vente 5000 x 0,6
+fanta canette;boissons;3000;canette;24;24;24;vente 5000 x 0,6
+cristalline 1l;boissons;1875;bouteille;8;8;8;facture
+cristalline;boissons;1875;bouteille;8;8;8;facture (Cristalline 1L)
+cristalline 2l;boissons;3216;bouteille;6;6;6;facture
+eau vive 150cl;boissons;3000;bouteille;6;6;6;vente 5000 x 0,6
+eau vive gm;boissons;3000;bouteille;6;6;6;vente 5000 x 0,6
+eau vive pm;boissons;1800;bouteille;12;12;12;vente 3000 x 0,6
+le fruit 100cl;boissons;5000;bouteille;12;12;12;facture
+le fruit;boissons;5000;bouteille;12;12;12;facture
+ceres;boissons;6000;bouteille;12;12;12;vente 10000 x 0,6
+cuvée blanche 35cl;boissons;4900;bouteille;12;12;12;facture
+cuvée blanche;boissons;4900;bouteille;12;12;12;facture
+v.c 35cl;boissons;8000;bouteille;12;12;12;hypothèse
+nosy be 35cl;boissons;8000;bouteille;12;12;12;hypothèse
+marco 35cl;boissons;8000;bouteille;12;12;12;hypothèse
+marco 70cl;boissons;15000;bouteille;12;12;12;hypothèse
+dzama freeze;boissons;3000;canette;24;24;24;hypothèse
+dzama 1 litre;boissons;25000;bouteille;12;12;12;hypothèse
+toka gasy;boissons;10000;bouteille;1;1;1;hypothèse
+classiko lemon;boissons;2000;bouteille;12;12;12;hypothèse
+olympiko;boissons;2000;bouteille;12;12;12;hypothèse
+lipton pêche 1,5 ml;boissons;5000;pcs;1;1;1;hypothèse
+lipton citron 1,5 ml;boissons;5000;pcs;1;1;1;hypothèse
+lipton (?);boissons;500;sachet;1;1;1;hypothèse
+red label;boissons;144000;bouteille;1;1;1;vente 240000 x 0,6
+black label;boissons;200000;bouteille;1;1;1;hypothèse (whisky 200000 du cahier d'achats)
+black (whisky);boissons;200000;bouteille;1;1;1;hypothèse
+double black label;boissons;280000;bouteille;1;1;1;hypothèse
+gold label;boissons;350000;bouteille;1;1;1;hypothèse
+green (label ?);boissons;300000;bouteille;1;1;1;hypothèse
+chivas;boissons;250000;bouteille;1;1;1;hypothèse
+j.b;boissons;120000;bouteille;1;1;1;hypothèse
+jack daniel's;boissons;200000;bouteille;1;1;1;hypothèse
+absolut;boissons;120000;bouteille;1;1;1;hypothèse
+martini;boissons;60000;bouteille;1;1;1;hypothèse
+baileys;boissons;120000;bouteille;1;1;1;hypothèse
+amarula;boissons;100000;bouteille;1;1;1;hypothèse
+berlès (?);boissons;80000;bouteille;1;1;1;hypothèse
+delahaie (?);boissons;80000;bouteille;1;1;1;hypothèse
+café;boissons;2000;sachet;1;1;1;hypothèse
+café en grain;boissons;25000;paquet;1;1;1;hypothèse
+thé sahambavy;boissons;1000;paquet;1;1;1;cahier d'achats
+cigarettes;tabac;48000;cartouche;1;1;1;vente Good look 8000 x 10 x 0,6
+fromage;laitier_oeufs;30000;kg;1;1;1;hypothèse, une pièce = 1,3 kg (10 pcs = 13,262 kg le 10/06)
+fromage pizza;laitier_oeufs;30000;kg;1;1;1;hypothèse
+fromage burger;laitier_oeufs;15000;pcs;1;1;1;hypothèse
+fromage (by ba ?);laitier_oeufs;39000;pcs;1;1;1;hypothèse (1,3 kg x 30000)
+mozzarella;laitier_oeufs;40900;kg;1;1;1;cahier d'achats (3,4 kg = 139000)
+danika bleu;laitier_oeufs;20000;pcs;14;14;14;cahier d'achats
+danica bleu;laitier_oeufs;20000;pcs;14;14;14;cahier d'achats
+danica;laitier_oeufs;20000;pcs;14;14;14;cahier d'achats
+danika rose;laitier_oeufs;20000;pcs;12;12;12;cahier d'achats (prix Danika bleu)
+candia;laitier_oeufs;6000;pcs;12;12;12;hypothèse
+candia lait;laitier_oeufs;6000;pcs;12;12;12;hypothèse
+candia fromage;laitier_oeufs;1000;portion;12;12;12;hypothèse
+vache qui rit;laitier_oeufs;10000;boîte;1;1;1;hypothèse
+beurre (donga ?);laitier_oeufs;2700;pcs;1;1;1;cahier d'achats
+yaourt pot;laitier_oeufs;1100;pcs;1;1;1;cahier d'achats
+poudre de lait;laitier_oeufs;15000;pcs;1;1;1;hypothèse
+ronono mandry (lait concentré ?);laitier_oeufs;5000;pcs;1;1;1;hypothèse
+atody (oeufs);laitier_oeufs;800;pcs;1;1;1;cahier d'achats
+calmar;viande_poisson;43000;kg;1;1;1;cahier d'achats
+mortadelle;viande_poisson;60000;pcs;1;1;1;cahier d'achats (charcuterie)
+saucisson jambon;viande_poisson;60000;pcs;1;1;1;cahier d'achats (charcuterie)
+huile;epicerie;150000;bidon;1;1;12;hypothèse (bidon 20 L)
+huile bidon;epicerie;150000;bidon;1;1;12;hypothèse (bidon 20 L)
+huile (carte ?);epicerie;10000;litre;12;12;12;hypothèse
+huile hina;epicerie;10000;litre;12;12;12;hypothèse
+huile soja hina;epicerie;10000;litre;12;12;12;hypothèse
+huile d'olive;epicerie;35000;pcs;1;1;1;hypothèse
+huile de sésame;epicerie;15000;pcs;1;1;1;hypothèse
+sauce soja;epicerie;8000;pcs;1;1;12;hypothèse
+sauce soja light;epicerie;8000;pcs;1;1;12;hypothèse
+sauce soja claire;epicerie;8000;pcs;1;1;12;hypothèse
+sauce d'huître;epicerie;10000;pcs;1;1;12;hypothèse
+oyster sauce;epicerie;10000;pcs;1;1;12;hypothèse
+sauce tsa-siou;epicerie;30000;pcs;1;1;1;hypothèse
+tomate ketchup;epicerie;35000;bidon 5 kg;1;1;1;hypothèse
+sauce chilly;epicerie;8000;pcs;1;1;1;hypothèse
+chilly;epicerie;8000;pcs;1;1;1;hypothèse
+chilly pizza;epicerie;8000;pcs;1;1;1;hypothèse
+chilly kebab (?);epicerie;8000;pcs;1;1;1;hypothèse
+mayonnaise;epicerie;15000;pcs;1;1;1;hypothèse
+moutarde;epicerie;10000;pcs;1;1;1;hypothèse
+fécule de manioc;epicerie;3000;pcs;1;1;1;cahier d'achats
+farine;epicerie;150000;sac 50 kg;1;1;1;hypothèse
+farine de blé;epicerie;150000;sac 50 kg;1;1;1;hypothèse
+farine de riz;epicerie;5000;pcs;1;1;1;hypothèse
+sucre;epicerie;175000;sac 50 kg;1;1;1;hypothèse
+sucre à table;epicerie;5000;paquet;1;1;1;hypothèse
+vary;epicerie;120000;sac 50 kg;1;1;1;hypothèse
+corn flakes;epicerie;10000;paquet;12;12;12;hypothèse
+spaghetti;epicerie;3500;paquet;1;1;1;hypothèse
+pâte;epicerie;3500;paquet;1;1;1;hypothèse
+pâte blanche (?);epicerie;3500;paquet;1;1;1;hypothèse
+chapelure;epicerie;5000;paquet;1;1;1;cahier d'achats
+champignon de paris;epicerie;5000;boîte;1;1;1;cahier d'achats
+champignon;epicerie;5000;boîte;1;1;1;cahier d'achats
+champignon noir;epicerie;3000;paquet;1;1;1;cahier d'achats
+levure;epicerie;13000;paquet;1;1;1;cahier d'achats
+cacao;epicerie;8000;pcs;1;1;1;hypothèse
+cacao en poudre;epicerie;8000;pcs;1;1;1;hypothèse
+poudre cacao;epicerie;8000;pcs;1;1;1;hypothèse
+miel;epicerie;15000;pcs;1;1;1;hypothèse
+maïzena;epicerie;5000;pcs;1;1;1;hypothèse
+paprika;epicerie;5000;pcs;1;1;1;hypothèse
+origan;epicerie;10000;sachet;1;1;1;hypothèse
+olive verte;epicerie;10000;bocal;1;1;1;hypothèse
+olive noire;epicerie;10000;bocal;1;1;1;hypothèse
+oignon semoule;epicerie;5000;pcs;1;1;1;hypothèse
+ail en poudre;epicerie;5000;pcs;1;1;1;hypothèse
+quatre-épices;epicerie;3000;pcs;1;1;1;hypothèse
+sésame blanc;epicerie;5000;pcs;1;1;1;hypothèse
+fleur d'hibiscus;epicerie;5000;pcs;1;1;1;hypothèse
+sel (?);epicerie;1000;pcs;1;1;1;hypothèse
+katsaka popcorn;epicerie;3000;pcs;1;1;1;hypothèse
+katsaka;epicerie;3000;pcs;1;1;1;hypothèse
+brioche;epicerie;2000;pcs;1;1;1;hypothèse
+coriandre;legumes_herbes;1000;botte;1;1;1;cahier d'achats
+esmeralda;epicerie;5000;pcs;1;1;1;hypothèse (produit non identifié)
+mokomaizy (?);epicerie;5000;pcs;1;1;1;hypothèse (produit non identifié)
+fitsa (?);epicerie;5000;pcs;1;1;1;hypothèse (produit non identifié)
+lithé (?);epicerie;5000;pcs;1;1;1;hypothèse (produit non identifié)
+love (?);entretien;8000;pcs;1;1;1;hypothèse (lave-vitre ?)
+smoking killers (?);tabac;5000;pcs;1;1;1;hypothèse (produit non identifié)
+vert micelle (?);entretien;5000;pcs;1;1;1;hypothèse (produit non identifié)
+top;emballage;2000;pcs;1;1;1;hypothèse (produit non identifié)
+top 3;emballage;2000;pcs;1;1;1;hypothèse (produit non identifié)
+savon;entretien;1500;pcs;40;40;40;hypothèse
+savony (savon ?);entretien;1500;pcs;40;40;40;hypothèse
+savon savony;entretien;1500;pcs;40;40;40;hypothèse
+extra savony;entretien;1500;pcs;40;40;40;hypothèse
+extra propre pm;entretien;1500;pcs;40;40;40;hypothèse
+extra propre gm;entretien;2500;pcs;24;24;24;hypothèse
+vaseline;entretien;2500;pcs;24;24;24;hypothèse
+papier hygiénique;entretien;1000;rouleau;10;10;60;hypothèse (ball = 60 rouleaux)
+insecticide;entretien;13000;pcs;1;1;1;cahier d'achats
+ody lalitra (insecticide);entretien;3000;pcs;1;1;1;hypothèse
+désodorisant;entretien;10000;pcs;1;1;1;hypothèse
+bloc wc;entretien;5000;pcs;1;1;1;hypothèse
+gel wc;entretien;8000;pcs;1;1;1;hypothèse
+sel wc (?);entretien;5000;pcs;1;1;1;hypothèse
+gel main;entretien;8000;pcs;1;1;1;hypothèse
+lave-vitre;entretien;8000;pcs;1;1;1;hypothèse
+impec javel;entretien;5000;pcs;1;1;1;hypothèse
+alba;entretien;3000;pcs;1;1;1;hypothèse (produit non identifié)
+agarbati (encens);entretien;1000;boîte;20;20;20;hypothèse
+paille de fer;entretien;1000;pcs;10;10;10;hypothèse
+sac poubelle;emballage;1000;pcs;1;1;1;hypothèse
+sac poubelle 100l;emballage;2000;pcs;1;1;1;hypothèse
+sachet;emballage;5000;paquet;1;1;1;hypothèse
+papier film;emballage;15000;rouleau;1;1;1;hypothèse
+film 50x300;emballage;15000;rouleau;1;1;1;hypothèse
+verre à jeter;emballage;5000;paquet;1;1;1;hypothèse
+gobelet plastique 250ml;emballage;5000;paquet;1;1;1;hypothèse
+saucière 30ml;emballage;5000;paquet;1;1;1;hypothèse
+saucière 30ml noire;emballage;5000;paquet;1;1;1;hypothèse
+saucière 50ml;emballage;5000;paquet;1;1;1;hypothèse
+carton pizza;emballage;1000;pcs;1;1;1;hypothèse
+carton frites;emballage;500;pcs;50;50;50;hypothèse
+carton popcorn;emballage;500;pcs;1;1;1;hypothèse
+barquette;emballage;500;pcs;50;50;50;hypothèse
+barquette plastique;emballage;500;pcs;50;50;50;hypothèse
+barquette plastique k;emballage;500;pcs;50;50;50;hypothèse
+barquette plastique c;emballage;500;pcs;50;50;50;hypothèse
+barquette plastique l;emballage;700;pcs;50;50;50;hypothèse
+barquette noire;emballage;500;pcs;1;1;1;hypothèse
+lb2 (barquette ?);emballage;300;pcs;1;1;1;hypothèse
+assiette plastique;emballage;300;pcs;1;1;1;hypothèse
+lot 3 bouteilles;emballage;10000;paquet;1;1;1;hypothèse
+cahier;fournitures;2000;pcs;1;1;1;hypothèse

@@ -1,0 +1,18 @@
+employe_id,matricule,nom_usuel,civilite,statut,date_embauche
+1,ARN001,Narindra,Mme,actif,2025-01-06
+2,ARN002,Amboara,Mr,actif,2025-01-06
+3,ARN003,Mireille,,actif,2025-01-06
+4,ARN004,Njaka,,actif,2026-01-20
+5,ARN005,Nirina,,actif,2025-05-09
+6,ARN006,Faneva,,actif,2025-03-13
+7,ARN007,Mi,,actif,2025-11-01
+8,ARN008,Nomace,,actif,2025-07-19
+9,ARN009,Mampionona,,actif,2025-08-27
+10,ARN010,Aina,,actif,2025-04-02
+11,ARN011,Dada Jean,,actif,2025-07-21
+12,ARN012,Faustin,,actif,2025-11-02
+13,ARN013,Tsiory,,actif,2025-07-15
+14,ARN014,Tahiry,,actif,2026-01-12
+15,ARN015,Iris,,actif,2025-12-28
+16,ARN016,Nondy,,actif,2025-11-25
+17,ARN017,Luanah,,actif,2026-02-09

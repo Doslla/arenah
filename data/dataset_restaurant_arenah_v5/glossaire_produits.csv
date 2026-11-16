@@ -1,0 +1,129 @@
+libelle_normalise,nom_fr,nom_malagasy,categorie,sous_categorie,unite_ref,certitude,prix_ref_unitaire_ar
+salade,Salade (feuilles),,legumes_herbes,légume feuille,botte,utilisateur,
+salade verte,Salade (feuilles),,legumes_herbes,légume feuille,botte,utilisateur,
+coriandre,Coriandre,,legumes_herbes,herbe aromatique,botte,utilisateur,
+beurre,Beurre,,laitier_oeufs,beurre,plaquette,utilisateur,
+oignon vert,Oignon vert,Tongolo maintso,legumes_herbes,herbe aromatique,botte,utilisateur,
+tongolo maintso,Oignon vert,Tongolo maintso,legumes_herbes,herbe aromatique,botte,utilisateur,
+frais,Frais de transport,,frais_transport,transport marché,,utilisateur,
+celeri,Céleri,,legumes_herbes,herbe aromatique,botte,utilisateur,
+sachet,Sachet,,emballage,sachet,pièce,utilisateur,1000.0
+sachet kely,Sachet (petit),Sachet kely,emballage,sachet,pièce,utilisateur,
+sachet be,Sachet (grand),Sachet be,emballage,sachet,pièce,utilisateur,
+tomates,Tomate,Voatabia,legumes_herbes,légume,kg,utilisateur,3000.0
+tomate,Tomate,Voatabia,legumes_herbes,légume,kg,utilisateur,3000.0
+voatabia,Tomate,Voatabia,legumes_herbes,légume,kg,utilisateur,3000.0
+ail,Ail,Tongolo gasy,legumes_herbes,condiment,kg,utilisateur,3000.0
+tongolo gasy,Ail,Tongolo gasy,legumes_herbes,condiment,kg,utilisateur,3000.0
+pomme de terre,Pomme de terre,Ovy,legumes_herbes,féculent,kg,utilisateur,3500.0
+ovy,Pomme de terre,Ovy,legumes_herbes,féculent,kg,utilisateur,3500.0
+blanc de poulet,Blanc de poulet,,viande_poisson,volaille,kg,utilisateur,
+cuisse de poulet,Cuisse de poulet,,viande_poisson,volaille,kg,utilisateur,
+cuvee blanche,Cuvée blanche (vin),,boissons,alcool,bouteille,utilisateur,
+akoho,Poulet,Akoho,viande_poisson,volaille,kg,utilisateur,
+anana,Brèdes (feuilles vertes),Anana,legumes_herbes,légume feuille,botte,utilisateur,
+anana mifangaro,Brèdes mélangées,Anana mifangaro,legumes_herbes,légume feuille,botte,utilisateur,
+anamalao,Brède mafane,Anamalao,legumes_herbes,légume feuille,botte,utilisateur,
+sakamalao,Gingembre,Sakamalao,legumes_herbes,condiment,kg,utilisateur,10000.0
+gingembre,Gingembre,Sakamalao,legumes_herbes,condiment,kg,utilisateur,10000.0
+oignon,Oignon,Tongolo,legumes_herbes,légume,kg,utilisateur,6000.0
+tongolo,Oignon,Tongolo,legumes_herbes,légume,kg,utilisateur,6000.0
+carottes,Carotte,Karoty,legumes_herbes,légume,kg,utilisateur,3000.0
+carotte,Carotte,Karoty,legumes_herbes,légume,kg,utilisateur,3000.0
+karoty,Carotte,Karoty,legumes_herbes,légume,kg,utilisateur,3000.0
+haricot vert,Haricot vert,Tsaramaso maintso,legumes_herbes,légume,kg,utilisateur,4000.0
+tsaramaso,Haricot (sec),Tsaramaso,epicerie,légumineuse,kapoaka,utilisateur,1550.0
+tsaramaso mena,Haricot rouge,Tsaramaso mena,epicerie,légumineuse,kapoaka,utilisateur,
+poireau,Poireau,,legumes_herbes,herbe aromatique,botte,utilisateur,
+basilic,Basilic,,legumes_herbes,herbe aromatique,botte,utilisateur,
+concombre,Concombre,,legumes_herbes,légume,kg,utilisateur,2000.0
+menthe,Menthe,,legumes_herbes,herbe aromatique,botte,utilisateur,
+persil,Persil,,legumes_herbes,herbe aromatique,botte,utilisateur,
+thym,Thym,,legumes_herbes,herbe aromatique,botte,utilisateur,
+pate nem,Pâte à nem,,epicerie,pâte,paquet,utilisateur,1000.0
+courgette,Courgette,,legumes_herbes,légume,kg,utilisateur,2000.0
+courgettes,Courgette,,legumes_herbes,légume,kg,utilisateur,2000.0
+insecticide,Insecticide,,entretien,insecticide,pièce,utilisateur,
+anguy,Petite aubergine,Angivy,legumes_herbes,légume,tas,utilisateur,
+atody (oeufs),Oeuf,Atody,laitier_oeufs,oeuf,pièce,utilisateur,800.0
+oeufs,Oeuf,Atody,laitier_oeufs,oeuf,pièce,utilisateur,800.0
+totokena,Viande hachée,Totokena,viande_poisson,boeuf,kg,utilisateur,21000.0
+citron,Citron,,fruits,agrume,kg,utilisateur,8000.0
+petit pois,Petit pois,,legumes_herbes,légume,kapoaka,utilisateur,1100.0
+kitay (charbon),Bois de chauffage,Kitay,energie,combustible,sac,utilisateur,
+ananas,Ananas,,fruits,fruit,pièce,utilisateur,3000.0
+chou blanc,Chou blanc,,legumes_herbes,légume,pièce,utilisateur,2000.0
+mofo,Pain,Mofo,epicerie,boulangerie,pièce,utilisateur,600.0
+mofo gasy,Galette de riz,Mofo gasy,epicerie,boulangerie,pièce,utilisateur,
+poivron,Poivron,,legumes_herbes,légume,kg,utilisateur,4000.0
+kotomila,Kotomila (non traduit),Kotomila,legumes_herbes,inconnu,,inconnu,
+voatavo,Courge / citrouille,Voatavo,legumes_herbes,légume,pièce,utilisateur,
+patsa mena,Petites crevettes séchées (rouges),Patsa mena,viande_poisson,fruits de mer séchés,kapoaka,utilisateur,
+patsa,Petites crevettes séchées,Patsa fotsy,viande_poisson,fruits de mer séchés,kapoaka,utilisateur,
+vary,Riz,Vary,epicerie,féculent,kapoaka,utilisateur,900.0
+grenadelle,Grenadelle,Garana,fruits,fruit,kg,utilisateur,4500.0
+garana,Grenadelle,Garana,fruits,fruit,kg,utilisateur,4500.0
+chou chinois,Chou chinois,,legumes_herbes,légume,pièce,utilisateur,1500.0
+anatsonga,Brède anatsonga (non traduit),Anatsonga,legumes_herbes,légume feuille,botte,utilisateur,
+champignon noir,Champignon noir,,epicerie,champignon,kapoaka,utilisateur,3000.0
+champignon de paris,Champignon de Paris,,legumes_herbes,champignon,barquette,utilisateur,
+nofon-kisoa,Viande de porc,Nofon-kisoa,viande_poisson,porc,kg,utilisateur,19000.0
+whisky,Whisky,,boissons,alcool,bouteille,utilisateur,
+yaourt,Yaourt,,laitier_oeufs,yaourt,pièce,utilisateur,1100.0
+yaourt nature,Yaourt nature,,laitier_oeufs,yaourt,pièce,utilisateur,1200.0
+retrait madame,Retrait de caisse (Madame),,retrait_caisse,retrait responsable,,utilisateur,
+retrait mireille,Retrait de caisse (Mireille),,retrait_caisse,retrait responsable,,utilisateur,
+goavy,Goyave,Goavy,fruits,fruit,tas,utilisateur,
+voanjobory,Pois bambara,Voanjobory,epicerie,légumineuse,kapoaka,utilisateur,1400.0
+voanjo,Arachide,Voanjo,epicerie,légumineuse,kapoaka,utilisateur,
+chou rouge,Chou rouge,,legumes_herbes,légume,pièce,utilisateur,5000.0
+filet,Filet (viande),,viande_poisson,boeuf,kg,utilisateur,22960.0
+danika bleu,Fromage bleu (Danica bleu),,laitier_oeufs,fromage,pièce,utilisateur,20000.0
+papaye,Papaye,,fruits,fruit,pièce,utilisateur,5000.0
+voatango,Voatango (fruit non traduit),Voatango,fruits,fruit,pièce,inconnu,3000.0
+fraise,Fraise,,fruits,fruit,kg,utilisateur,6000.0
+hena kisoa,Viande de porc,Hena kisoa,viande_poisson,porc,kg,utilisateur,19000.0
+corossol,Corossol,,fruits,fruit,kg,utilisateur,5000.0
+hen'omby,Viande de boeuf,Hen'omby,viande_poisson,boeuf,kg,utilisateur,19000.0
+chocolat,Chocolat,,epicerie,sucré,pièce,utilisateur,400.0
+chocolat noir,Chocolat noir,,epicerie,sucré,pièce,utilisateur,
+lohan'akoho,Tête de poulet,Lohan'akoho,viande_poisson,volaille,kg,utilisateur,
+tongotr'akoho,Pattes de poulet,Tongotr'akoho,viande_poisson,volaille,kg,utilisateur,
+oro,ORO (produit non identifié),,epicerie,inconnu,pièce,inconnu,12000.0
+cahier,Cahier,,fournitures,papeterie,pièce,utilisateur,
+kofehy,Ficelle,Kofehy,fournitures,ficelle,pièce,utilisateur,
+the sahambavy,Thé Sahambavy,,boissons,thé,paquet,utilisateur,
+fecule de manioc,Fécule de manioc,,epicerie,féculent,paquet,utilisateur,
+brocoli,Brocoli,,legumes_herbes,légume,pièce,utilisateur,
+tripy (tripes),Tripes,Tripy,viande_poisson,abats,kg,utilisateur,12000.0
+tripes,Tripes,Tripy,viande_poisson,abats,kg,utilisateur,12000.0
+akondro,Banane,Akondro,fruits,fruit,tas,utilisateur,
+banane,Banane,Akondro,fruits,fruit,tas,utilisateur,
+nofony (viande),Viande de boeuf,Nofony,viande_poisson,boeuf,kg,utilisateur,19000.0
+nofokena,Viande de boeuf,Nofon-kena,viande_poisson,boeuf,kg,utilisateur,19000.0
+boissons,Boissons (réapprovisionnement),,boissons,boissons,,utilisateur,
+la craie,Craie (tableau du restaurant),,fournitures,papeterie,pièce,utilisateur,
+tranches fines,Tranche fine (viande),,viande_poisson,boeuf,kg,utilisateur,21000.0
+tranche fine,Tranche fine (viande),,viande_poisson,boeuf,kg,utilisateur,21000.0
+hena (loka mpanakanto),Viande (pour plat d'accompagnement),Hena,viande_poisson,boeuf,kg,utilisateur,
+mozzarella (babou),Mozzarella,,laitier_oeufs,fromage,kg,utilisateur,40882.0
+calmar,Calmar,,viande_poisson,fruits de mer,kg,utilisateur,43000.0
+charcuterie,Charcuterie,,viande_poisson,charcuterie,pièce,utilisateur,60000.0
+tolana,Os de boeuf,Taolana,viande_poisson,boeuf,kg,utilisateur,16000.0
+odiny,Peau de boeuf,Odiny,viande_poisson,abats,kg,utilisateur,15000.0
+gaz,Gaz (bouteille),,energie,combustible,bouteille,utilisateur,
+trondro (poisson),Poisson,Trondro,viande_poisson,poisson,kg,utilisateur,
+rambin'omby,Queue de boeuf,Rambin'omby,viande_poisson,boeuf,kg,utilisateur,
+pasteque,Pastèque,,fruits,fruit,pièce,utilisateur,5000.0
+levure boulangere,Levure boulangère,,epicerie,boulangerie,paquet,utilisateur,
+cote d'agneau,Côte d'agneau,,viande_poisson,agneau,kg,utilisateur,
+jambon,Jambon,,viande_poisson,charcuterie,kg,utilisateur,16000.0
+ravitoto,Feuilles de manioc pilées,Ravitoto,legumes_herbes,légume feuille,kapoaka,utilisateur,
+langue,Langue de boeuf,Lelan'omby,viande_poisson,abats,kg,utilisateur,20000.0
+kitapo kafe,Café (paquet),Kitapo kafé,boissons,café,paquet,utilisateur,
+gravillon (mme mireille),Gravillon,,hors_restaurant,travaux,,utilisateur,
+gravillon (mireille),Gravillon,,hors_restaurant,travaux,,utilisateur,
+chapelure,Chapelure,,epicerie,épicerie sèche,paquet,utilisateur,
+chou-fleur,Chou-fleur,,legumes_herbes,légume,pièce,utilisateur,
+penne,Penne,,epicerie,pâte,paquet,utilisateur,
+retour m. vola,Retour d'argent à M. Vola,,hors_restaurant,remboursement,,utilisateur,

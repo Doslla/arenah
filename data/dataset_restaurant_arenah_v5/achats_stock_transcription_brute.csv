@@ -1,0 +1,365 @@
+date;produit;qte;conditionnement;remarque
+2026-03-01;Lipton pêche 1,5 ml;6;pcs;haut de page, date du bloc précédent inconnue (rattaché au 01/03)
+2026-03-01;Lipton citron 1,5 ml;6;pcs;idem
+2026-03-01;THB ?;1;caseau;format illisible (« THB ? »)
+2026-03-01;THB GM;1;caseau;
+2026-03-07;Fresh 33cl;13;pcs;
+2026-03-07;Gold rose 33cl;17;pcs;chiffre surchargé
+2026-03-07;Marco 35cl;5;pcs;
+2026-03-07;Marco 70cl;5;pcs;
+2026-03-11;Fromage (by ba ?);5;pcs;libellé peu lisible
+2026-03-11;Classiko lemon;3;pcs;
+2026-03-11;Olympiko;2;pcs;
+2026-03-11;Beurre (donga ?);10;pcs;libellé peu lisible
+2026-03-11;Yaourt pot;40;pcs;
+2026-03-20;Gold 50cl;2;caseau;noté : 40 pcs
+2026-03-20;Booster 50cl;1;caseau;noté : 20 pcs
+2026-03-20;Fresh 65cl;1;caseau;noté : 20 pcs
+2026-03-20;Fresh 33cl;1;caseau;noté : 24 pcs
+2026-03-20;Gold 33cl;2;caseau;noté : 48 pcs
+2026-03-20;Coca cola 150cl;2;caseau;noté : 12 pcs
+2026-03-20;Jus 150cl (Caprice ananas);2;caseau;noté : 12 pcs
+2026-03-20;Eau vive 150cl;4;caseau;noté : 24 pcs
+2026-03-20;Le Fruit 100cl;1;caseau;noté : 12 pcs
+2026-03-20;Canette Gold 50cl;3;pac;noté : 72 pcs
+2026-03-20;Canette THB 50cl;3;pac;noté : 72 pcs
+2026-03-20;Cigarettes Boston vert;20;cartouche;
+2026-03-20;Cigarettes Good look vert;20;cartouche;
+2026-03-20;Cigarettes Boston bleu;10;cartouche;
+2026-03-20;Cigarettes Good look bleu;10;cartouche;
+2026-03-21;Mokomaizy (?);1;pcs;libellé illisible
+2026-03-21;Fitsa (?);1;pcs;libellé illisible
+2026-03-21;Toka gasy;2;pcs;
+2026-03-21;Savony (savon ?);24;pcs;
+2026-03-29;Fromage;16;pcs;
+2026-04-02;THB canette;48;pcs;
+2026-04-02;Gold blanche;48;pcs;
+2026-04-02;Gold canette;24;pcs;
+2026-04-02;Dzama Freeze;20;pcs;
+2026-04-02;Fresh canette;24;pcs;noté « 24 paquet », lu 24 pcs
+2026-04-02;Nosy Be 35cl;20;pcs;chiffre surchargé (20 ou 28)
+2026-04-02;V.C 35cl;35;pcs;ligne écrite deux fois sur la page
+2026-04-02;Cuvée blanche 35cl;13;pcs;ligne écrite deux fois sur la page
+2026-04-02;Le Fruit;18;pcs;
+2026-04-02;Dzama 1 litre;20;pcs;THB GM 1 paquet barré, non repris
+2026-04-06;Cigarettes Melia rouge;1;cartouche;
+2026-04-06;Cigarettes Good look vert;1;cartouche;
+2026-04-06;Cigarettes Boston;1;cartouche;
+2026-04-06;Cigarettes Good look rouge;1;cartouche;
+2026-04-06;Cigarettes News rouge;1;cartouche;
+2026-04-06;Cigarettes News vert;1;cartouche;
+2026-04-06;Top 3;36;pcs;
+2026-04-06;Candia;7;pcs;
+2026-04-06;THB GM;4;caseau;
+2026-04-06;THB PM;4;caseau;
+2026-04-06;Caprice bonbon anglais;2;pac;
+2026-04-06;Caprice PM;1;pac;
+2026-04-06;Coca cola GM;2;pac;
+2026-04-06;World cola;2;pac;
+2026-04-06;Caprice orange GM;2;pac;
+2026-04-09;Carton frites;1;pac;
+2026-04-09;Farine de blé;5;sac;ligne très effacée, à confirmer
+2026-04-09;Verre à jeter;10;pac;ligne très effacée, à confirmer
+2026-04-09;Corn flakes;1;carton;ligne très effacée, à confirmer
+2026-04-09;Sauce soja;2;pcs;chiffre surchargé
+2026-04-09;Huile;2;bidon;
+2026-04-09;Papier film;5;pcs;
+2026-04-09;Thé Sahambavy;1;pac;
+2026-04-09;Huile d'olive;4;pcs;
+2026-04-09;Poudre de lait;2;pcs;
+2026-04-09;Champignon de Paris;10;pcs;
+2026-04-09;Coca canette;1;pac;quantité non écrite, 1 pac supposé
+2026-04-09;Ceres;1;carton;
+2026-04-09;Candia;1;carton;
+2026-04-09;Cristalline 1L;5;pac;
+2026-04-09;Cristalline 2L;4;pac;
+2026-04-09;Fécule de manioc;4;pcs;
+2026-04-09;Katsaka popcorn;4;pcs;
+2026-04-09;Huile Hina;1;carton;
+2026-04-09;Danika bleu;9;pcs;
+2026-04-09;Lave-vitre;6;pcs;
+2026-04-09;Sauce tsa-siou;1;pcs;
+2026-04-09;Tomate ketchup;1;bidon;bidon de 5 kg
+2026-04-10;Gold 50cl;2;caseau;
+2026-04-10;Fresh 65cl;2;caseau;
+2026-04-10;Fresh 33cl;1;caseau;
+2026-04-10;Gold 33cl;2;caseau;
+2026-04-10;Coca cola 35cl;2;pac;
+2026-04-10;Caprice can 33cl;1;pac;
+2026-04-10;Gold blanche canette;3;pac;
+2026-04-25;Coca 300ml;24;pcs;
+2026-04-25;Alba;3;pcs;
+2026-04-25;Impec javel;1;pcs;
+2026-04-25;Katsaka;4;pcs;
+2026-04-25;Agarbati (encens);6;carton;
+2026-04-25;Ody lalitra (insecticide);4;pcs;
+2026-04-25;Sac poubelle;13;pcs;
+2026-04-25;Farine;2;sac;
+2026-04-25;Farine de riz;2;pcs;
+2026-04-25;Danica;3;pcs;
+2026-04-25;Papier hygiénique;1;ball;
+2026-04-25;Chilly;13;pcs;
+2026-04-25;Brioche;5;pcs;
+2026-04-28;Gold blanche PM;3;caseau;voir facture fournisseur du 28/04
+2026-04-28;Gold blanche GM;4;caseau;voir facture
+2026-04-28;THB GM;4;caseau;voir facture
+2026-04-28;Caprice orange GM;3;pac;
+2026-04-28;Caprice bonbon anglais GM;2;pac;
+2026-04-28;Fanta GM;1;pac;
+2026-04-28;Caprice grenadine;1;pac;
+2026-04-28;Coca canette;2;pac;
+2026-04-28;World cola PM;1;pac;
+2026-04-28;Gold blanche canette;2;pac;
+2026-04-28;Caprice grenadine PM;1;pac;
+2026-04-29;Carton pizza;100;pcs;
+2026-04-29;Gobelet plastique 250ml;2;pac;
+2026-04-29;Saucière 30ml;2;pac;
+2026-04-29;Saucière 50ml;2;pac;
+2026-04-29;Lot 3 bouteilles;1;pac;
+2026-05-08;Cristalline;1;pac;
+2026-05-08;Caprice ananas;1;pac;
+2026-05-08;Gold blanche canette;1;pac;
+2026-05-13;Sachet;2;pac;
+2026-05-13;Gold blanche canette;2;pac;
+2026-05-13;THB canette;2;pac;
+2026-05-13;Beaufort canette 33cl;12;pcs;
+2026-05-13;Katsaka;5;pcs;
+2026-05-13;Paprika;1;pcs;
+2026-05-13;Esmeralda;1;pcs;
+2026-05-21;Fromage;5;pcs;
+2026-05-29;Martini;1;pcs;quantité non écrite, 1 supposé
+2026-05-29;Absolut;1;pcs;quantité non écrite, 1 supposé
+2026-05-29;Black (whisky);1;pcs;quantité non écrite, 1 supposé
+2026-05-29;Jack Daniel's;2;pcs;
+2026-05-29;Berlès (?);1;pcs;libellé peu lisible, quantité non écrite
+2026-05-29;J.B;1;pcs;quantité non écrite, 1 supposé
+2026-05-29;Green (label ?);1;pcs;quantité non écrite, 1 supposé
+2026-05-29;Chivas;1;pcs;quantité non écrite, 1 supposé
+2026-06-02;Sauce soja light;5;pcs;
+2026-06-02;Sauce soja claire;7;pcs;noté « 6+1 » (chiffre surchargé)
+2026-06-02;Sauce d'huître;7;pcs;
+2026-06-02;Fécule de manioc;10;pcs;
+2026-06-02;Oyster sauce;1;carton;
+2026-06-06;Coca original 500ml;2;pac;
+2026-06-06;Coca canette;2;pac;
+2026-06-06;Candia lait;1;carton;
+2026-06-06;Corn flakes;2;carton;
+2026-06-06;Sauce tsa-siou;1;bidon;
+2026-06-06;Tomate ketchup;1;bidon;
+2026-06-06;Insecticide;3;pcs;
+2026-06-06;Désodorisant;2;pcs;
+2026-06-06;Bloc WC;1;pcs;
+2026-06-06;Katsaka;4;pcs;
+2026-06-06;Coriandre;3;pcs;
+2026-06-06;Coca original 350ml;1;pac;
+2026-06-10;Danica bleu;7;pcs;
+2026-06-10;Fromage pizza;13.262;kg;noté 10 pcs, 13,262 kg
+2026-06-10;Mozzarella;4.8;kg;
+2026-06-17;Coca original 1,5L;3;pac;
+2026-06-17;Cristalline 2L;2;pac;
+2026-06-17;Gold blanche canette;4;pac;
+2026-06-23;Martini;4;pcs;
+2026-06-23;Amarula;1;pcs;
+2026-06-23;Gold label;1;pcs;
+2026-06-23;Baileys;3;pcs;
+2026-06-23;Delahaie (?);1;pcs;libellé peu lisible
+2026-06-23;Black label;1;pcs;
+2026-06-26;Champignon de Paris;5;pcs;
+2026-06-30;Gold blanche canette;4;pac;
+2026-06-30;THB canette;3;pac;
+2026-07-03;Top;1;ball;
+2026-07-03;Verre à jeter;5;pac;
+2026-07-03;Chilly;5;pcs;
+2026-07-03;Carton frites;100;pcs;
+2026-07-03;Carton popcorn;100;pcs;
+2026-07-04;Fromage;2.1;kg;noté 10 pcs, 2,100 kg (lecture à confirmer)
+2026-07-08;Danika bleu;2;pcs;
+2026-07-08;Champignon noir;1;pcs;
+2026-07-10;Calmar;5;kg;
+2026-07-11;Mortadelle;1;pcs;
+2026-07-11;Saucisson jambon;1;pcs;
+2026-07-15;Savon;2;carton;
+2026-07-15;Vaseline;1;carton;
+2026-07-15;Huile (carte ?);2;carton;libellé peu lisible
+2026-07-15;Papier hygiénique;1;ball;
+2026-07-15;Verre à jeter;10;pac;
+2026-07-15;Huile;2;bidon;
+2026-07-15;Cacao en poudre;2;pcs;
+2026-07-15;Top;5;pcs;
+2026-07-15;Pâte blanche (?);4;pcs;libellé peu lisible
+2026-07-15;Spaghetti;10;pcs;
+2026-07-15;Désodorisant;4;pcs;
+2026-07-15;Insecticide;2;pcs;
+2026-07-15;Papier film;5;pcs;
+2026-07-15;Danika bleu;1;pcs;
+2026-07-15;Champignon noir;2;pcs;
+2026-07-15;Le Fruit;9;pcs;
+2026-07-15;Ceres;14;pcs;
+2026-07-15;Lithé (?);3;pcs;libellé peu lisible
+2026-07-15;Sucre;1;sac;
+2026-07-15;Farine;2;sac;
+2026-07-15;Poudre de lait;4;pcs;
+2026-07-15;Huile de sésame;2;pcs;
+2026-07-15;Bloc WC;1;pcs;
+2026-07-16;THB GM;4;caseau;
+2026-07-16;Gold blanche PM;1;caseau;
+2026-07-16;Caprice GM;10;pac;
+2026-07-16;Caprice canette;1;pac;
+2026-07-16;Coca cola PM;2;pac;
+2026-07-16;Eau vive GM;2;pac;
+2026-07-17;Levure;3;pac;
+2026-07-17;Verre à jeter;3;pac;
+2026-07-17;Candia lait;2;carton;
+2026-07-17;Candia fromage;3;pac;
+2026-07-17;Vache qui rit;2;pac;
+2026-07-17;Barquette;1;pac;
+2026-07-17;World cola GM;1;pac;
+2026-07-17;Coca original GM;1;pac;
+2026-07-17;Coca original PM;1;pac;
+2026-07-17;Danica bleu;1;carton;
+2026-07-17;Papier film;1;pcs;
+2026-07-17;Oignon semoule;2;pcs;
+2026-07-17;Ail en poudre;2;pcs;
+2026-07-17;Quatre-épices;1;pcs;
+2026-07-17;Sésame blanc;1;pcs;
+2026-07-17;Mozzarella;1;pcs;
+2026-07-17;Café en grain;1;pcs;
+2026-07-17;Corn flakes;3;carton;
+2026-07-17;Sauce chilly;5;pcs;chiffre surchargé
+2026-07-17;Mayonnaise;2;pcs;
+2026-07-17;Moutarde;2;pcs;
+2026-07-17;Olive verte;2;pcs;
+2026-07-17;Olive noire;1;pcs;
+2026-07-17;Champignon;1;pcs;
+2026-07-17;Sauce soja light;1;pcs;chiffre surchargé
+2026-07-17;Huile d'olive;3;pcs;
+2026-07-17;Sucre à table;2;pac;
+2026-07-17;Fromage burger;4;pcs;
+2026-07-17;Spaghetti;1;pcs;
+2026-07-17;Pâte;1;pcs;
+2026-07-18;Fromage;5;pcs;
+2026-07-21;Black label;2;pcs;
+2026-07-21;Double black label;2;pcs;
+2026-07-23;Atody (oeufs);100;pcs;
+2026-07-25;Fromage;9.2;kg;noté 7 pcs, 9,2 kg
+2026-07-29;Red label;3;pcs;
+2026-07-30;Eau vive GM;3;pac;
+2026-07-30;Caprice PM;7;pac;
+2026-07-30;Caprice GM;9;pac;
+2026-07-30;Fanta PM;2;pac;
+2026-07-30;Eau vive PM;3;pac;
+2026-07-30;Cristalline 1L;3;pac;
+2026-07-30;Cristalline 2L;2;pac;
+2026-07-30;Gold blanche canette;4;pac;
+2026-07-30;THB canette;3;pac;
+2026-07-30;Fresh PM;1;caseau;noté « 1 caseau + 12 pcs » : 12 pcs ajoutés en ligne suivante
+2026-07-30;Fresh PM;12;pcs;
+2026-07-30;Caprice bouteille;1;caseau;
+2026-07-30;Gold blanche PM;2;caseau;
+2026-07-30;Fresh GM;2;caseau;
+2026-07-30;Booster;1;caseau;
+2026-07-30;Gold blanche GM;2;caseau;
+2026-07-30;Le Fruit;1;carton;
+2026-08-12;Love (?);4;pcs;libellé peu lisible
+2026-08-12;Papier film;1;pcs;
+2026-08-12;Gold GM;2;caseau;voir facture fournisseur du 12/08
+2026-08-12;THB GM;4;caseau;voir facture
+2026-08-12;Gold blanche PM;2;caseau;voir facture (Gold 33cl)
+2026-08-12;Coca GM;2;pac;voir facture
+2026-08-12;Caprice bonbon anglais;2;pac;voir facture (Jus 150cl)
+2026-08-12;Cristalline 1L;3;pac;voir facture
+2026-08-12;Le Fruit;1;carton;voir facture
+2026-08-12;Coca PM;2;pac;voir facture (Jus 35cl ?)
+2026-08-12;Gold blanche canette;2;pac;voir facture
+2026-08-12;Gold 8 canette;1;pac;voir facture : 3 cartons de canettes Gold facturés
+2026-08-12;THB canette;2;pac;voir facture
+2026-08-14;Savon savony;3;carton;libellé peu lisible
+2026-08-14;Extra savony;2;carton;
+2026-08-14;Extra propre PM;3;carton;
+2026-08-14;Extra propre GM;2;carton;
+2026-08-14;Papier film;3;pcs;
+2026-08-14;Mozzarella;6.74;kg;
+2026-08-18;Fécule de manioc;2;pcs;
+2026-08-18;Lipton (?);28;pcs;chiffre surchargé (28 ou 287), libellé peu lisible
+2026-08-18;Sel (?);4;pcs;libellé peu lisible
+2026-08-18;Moutarde;4;pcs;
+2026-08-18;Cacao;1;pcs;
+2026-08-18;Maïzena;4;pcs;
+2026-08-18;Miel;5;pcs;
+2026-08-18;Lave-vitre;6;pcs;
+2026-08-18;Bloc WC;3;pcs;
+2026-08-18;Gel main;2;pcs;
+2026-08-18;Huile de sésame;3;pcs;
+2026-08-18;Insecticide;2;pcs;
+2026-08-18;Sel WC (?);2;pcs;libellé peu lisible
+2026-08-18;Sauce d'huître;16;pcs;
+2026-08-18;Cahier;10;pcs;
+2026-08-18;Fleur d'hibiscus;1;pcs;
+2026-08-18;Vary;1;sac;unité non écrite
+2026-08-18;Huile;1;bidon;unité non écrite
+2026-08-18;Fromage;9.482;kg;noté 8 pcs, 9,482 kg
+2026-08-19;Mortadelle;3;pcs;
+2026-08-19;Film 50x300;2;pcs;
+2026-08-19;Assiette plastique;100;pcs;
+2026-08-19;Barquette noire;100;pcs;
+2026-08-19;LB2 (barquette ?);200;pcs;libellé à préciser
+2026-08-19;Saucière 30ml noire;2;pac;
+2026-08-19;Saucière 50ml;2;pac;
+2026-08-20;Atody (oeufs);98;pcs;
+2026-08-22;Atody (oeufs);91;pcs;
+2026-09-16;THB GM;3;caseau;voir facture fournisseur du 16/09
+2026-09-16;Caprice;4;pac;voir facture (Jus 150cl : 6 cartons facturés)
+2026-09-16;World cola;2;pac;absent de la facture du 16/09
+2026-09-16;Le Fruit;6;pcs;voir facture
+2026-09-16;Caprice canette;1;pac;voir facture
+2026-09-16;Cuvée blanche;5;pcs;voir facture
+2026-09-16;Smoking killers (?);2;pcs;libellé peu lisible
+2026-09-18;Huile bidon;1;bidon;
+2026-09-18;Huile soja Hina;1;carton;12 pcs
+2026-09-18;Candia lait;1;carton;12 pcs
+2026-09-18;Danika rose;1;carton;12 pcs (lecture à confirmer)
+2026-09-18;Danika bleu;1;carton;14 pcs
+2026-09-18;Chilly pizza;7;pcs;
+2026-09-18;Chilly kebab (?);2;pcs;
+2026-09-18;Candia fromage;9;pcs;
+2026-09-18;Vache qui rit;7;pcs;
+2026-09-18;Top;1;ball;
+2026-09-18;Papier hygiénique;6;pac;
+2026-09-18;Poudre cacao;10;pcs;
+2026-09-18;Chapelure;10;pcs;
+2026-09-18;Champignon de Paris;10;pcs;
+2026-09-18;Café;40;pcs;chiffre surchargé (40 ou 10)
+2026-09-22;Fanta canette;1;pac;
+2026-09-22;Coca canette;48;pcs;
+2026-09-22;Barquette plastique;1;pac;
+2026-09-22;Insecticide;2;pcs;
+2026-09-22;Sac poubelle 100L;4;pcs;
+2026-09-22;Vert micelle (?);3;pcs;libellé illisible
+2026-09-22;Origan;1;sac;
+2026-09-22;Fromage;8.222;kg;
+2026-09-26;Atody (oeufs);15;pcs;
+2026-09-26;Atody (oeufs);20;pcs;
+2026-09-29;Atody (oeufs);50;pcs;
+2026-10-06;Barquette plastique K;54;pcs;
+2026-10-06;Barquette plastique C;30;pcs;
+2026-10-06;Barquette plastique L;10;pcs;
+2026-10-06;Papier film;1;pcs;
+2026-10-06;Paille de fer;3;pcs;
+2026-10-09;Gold blanche canette;2;pac;voir facture fournisseur du 09/10
+2026-10-09;THB canette;2;pac;voir facture
+2026-10-09;Cristalline 1L;2;pac;voir facture
+2026-10-09;Cristalline 2L;1;pac;voir facture
+2026-10-20;Ronono mandry (lait concentré ?);4;pcs;
+2026-10-20;Verre à jeter;10;pac;
+2026-10-20;Gel WC;4;pcs;
+2026-10-20;Lave-vitre;3;pcs;chiffre peu lisible
+2026-10-20;Paille de fer;1;pac;
+2026-10-21;Huile bidon;1;bidon;
+2026-10-21;Fromage;3.278;kg;
+2026-10-21;Mozzarella;4.126;kg;
+2026-10-27;Fromage;2.676;kg;
+2026-10-29;THB GM;9;caseau;
+2026-10-29;Gold blanche GM;5;caseau;
+2026-10-29;Gold blanche GM;1;caseau;écrit deux fois (5 puis 1)
+2026-10-29;Queen GM;1;caseau;
+2026-10-29;Fresh GM;1;caseau;

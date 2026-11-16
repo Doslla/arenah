@@ -1,0 +1,307 @@
+remise_id,date,caisse,montant_ar,remis_par,recu_par,source
+1,2026-03-29,Caisse Restaurant,3364000,Caissier,Comptable,synthetique
+2,2026-04-05,Caisse Restaurant,2919500,Caissier,Comptable,synthetique
+3,2026-04-12,Caisse Restaurant,6821500,Caissier,Comptable,synthetique
+4,2026-04-19,Caisse Restaurant,2306500,Caissier,Comptable,synthetique
+5,2026-04-26,Caisse Restaurant,2820500,Caissier,Comptable,synthetique
+6,2026-05-03,Caisse Restaurant,1891500,Caissier,Comptable,synthetique
+7,2026-05-10,Caisse Restaurant,1797500,Caissier,Comptable,synthetique
+8,2026-05-17,Caisse Restaurant,1904000,Caissier,Comptable,synthetique
+9,2026-05-24,Caisse Restaurant,1372500,Caissier,Comptable,synthetique
+10,2026-05-31,Caisse Restaurant,4332500,Caissier,Comptable,synthetique
+11,2026-06-07,Caisse Restaurant,3296000,Caissier,Comptable,synthetique
+12,2026-06-14,Caisse Restaurant,2489000,Caissier,Comptable,synthetique
+13,2026-06-21,Caisse Restaurant,1718000,Caissier,Comptable,synthetique
+14,2026-06-28,Caisse Restaurant,2606500,Caissier,Comptable,synthetique
+15,2026-07-05,Caisse Restaurant,2997000,Caissier,Comptable,synthetique
+16,2026-07-12,Caisse Restaurant,2062500,Caissier,Comptable,synthetique
+17,2026-07-19,Caisse Restaurant,2466500,Caissier,Comptable,synthetique
+18,2026-07-26,Caisse Restaurant,2474000,Caissier,Comptable,synthetique
+19,2026-08-02,Caisse Restaurant,1070500,Caissier,Comptable,synthetique
+20,2026-08-09,Caisse Restaurant,3456000,Caissier,Comptable,synthetique
+21,2026-08-16,Caisse Restaurant,2931000,Caissier,Comptable,synthetique
+22,2026-08-23,Caisse Restaurant,1800000,Caissier,Comptable,synthetique
+23,2026-08-30,Caisse Restaurant,2085000,Caissier,Comptable,synthetique
+24,2026-09-06,Caisse Restaurant,645000,Caissier,Comptable,synthetique
+25,2026-09-13,Caisse Restaurant,1960000,Caissier,Comptable,synthetique
+26,2026-09-20,Caisse Restaurant,1993500,Caissier,Comptable,synthetique
+27,2026-09-27,Caisse Restaurant,1691500,Caissier,Comptable,synthetique
+28,2026-10-04,Caisse Restaurant,1865000,Caissier,Comptable,synthetique
+29,2026-10-11,Caisse Restaurant,1154500,Caissier,Comptable,synthetique
+30,2026-10-18,Caisse Restaurant,1356500,Caissier,Comptable,synthetique
+31,2026-10-25,Caisse Restaurant,1408000,Caissier,Comptable,synthetique
+32,2026-11-01,Caisse Restaurant,3584500,Caissier,Comptable,synthetique
+33,2026-11-08,Caisse Restaurant,1907500,Caissier,Comptable,synthetique
+34,2026-11-15,Caisse Restaurant,2490000,Caissier,Comptable,synthetique
+35,2025-11-02,Caisse Accueil,712000,Caissier,Comptable,synthetique
+36,2025-11-09,Caisse Accueil,987500,Caissier,Comptable,synthetique
+37,2025-11-16,Caisse Accueil,959500,Caissier,Comptable,synthetique
+38,2025-11-23,Caisse Accueil,1125500,Caissier,Comptable,synthetique
+39,2025-11-30,Caisse Accueil,1037500,Caissier,Comptable,synthetique
+40,2025-12-07,Caisse Accueil,1427000,Caissier,Comptable,synthetique
+41,2025-12-14,Caisse Accueil,1782500,Caissier,Comptable,synthetique
+42,2025-12-21,Caisse Accueil,2229500,Caissier,Comptable,synthetique
+43,2025-12-28,Caisse Accueil,2977000,Caissier,Comptable,synthetique
+44,2026-01-04,Caisse Accueil,2437500,Caissier,Comptable,synthetique
+45,2026-01-11,Caisse Accueil,1177500,Caissier,Comptable,synthetique
+46,2026-01-18,Caisse Accueil,1075000,Caissier,Comptable,synthetique
+47,2026-01-25,Caisse Accueil,940000,Caissier,Comptable,synthetique
+48,2026-02-01,Caisse Accueil,1612000,Caissier,Comptable,synthetique
+49,2026-02-08,Caisse Accueil,969000,Caissier,Comptable,synthetique
+50,2026-02-15,Caisse Accueil,1080000,Caissier,Comptable,synthetique
+51,2026-02-22,Caisse Accueil,948000,Caissier,Comptable,synthetique
+52,2026-03-01,Caisse Accueil,712000,Caissier,Comptable,synthetique
+53,2026-03-08,Caisse Accueil,1457500,Caissier,Comptable,synthetique
+54,2026-03-15,Caisse Accueil,1129500,Caissier,Comptable,synthetique
+55,2026-03-22,Caisse Accueil,1041500,Caissier,Comptable,synthetique
+56,2026-03-29,Caisse Accueil,1855500,Caissier,Comptable,synthetique
+57,2026-04-05,Caisse Accueil,2432500,Caissier,Comptable,synthetique
+58,2026-04-12,Caisse Accueil,2071500,Caissier,Comptable,synthetique
+59,2026-04-19,Caisse Accueil,1069500,Caissier,Comptable,synthetique
+60,2026-04-26,Caisse Accueil,1091500,Caissier,Comptable,synthetique
+61,2026-05-03,Caisse Accueil,942000,Caissier,Comptable,synthetique
+62,2026-05-10,Caisse Accueil,1030000,Caissier,Comptable,synthetique
+63,2026-05-17,Caisse Accueil,1013500,Caissier,Comptable,synthetique
+64,2026-05-24,Caisse Accueil,1716000,Caissier,Comptable,synthetique
+65,2026-05-31,Caisse Accueil,1416500,Caissier,Comptable,synthetique
+66,2026-06-07,Caisse Accueil,848000,Caissier,Comptable,synthetique
+67,2026-06-14,Caisse Accueil,789500,Caissier,Comptable,synthetique
+68,2026-06-21,Caisse Accueil,1014500,Caissier,Comptable,synthetique
+69,2026-06-28,Caisse Accueil,1527500,Caissier,Comptable,synthetique
+70,2026-07-05,Caisse Accueil,1230000,Caissier,Comptable,synthetique
+71,2026-07-12,Caisse Accueil,1090500,Caissier,Comptable,synthetique
+72,2026-07-19,Caisse Accueil,1225000,Caissier,Comptable,synthetique
+73,2026-07-26,Caisse Accueil,1260500,Caissier,Comptable,synthetique
+74,2026-08-02,Caisse Accueil,1071500,Caissier,Comptable,synthetique
+75,2026-08-09,Caisse Accueil,1174500,Caissier,Comptable,synthetique
+76,2026-08-16,Caisse Accueil,1865000,Caissier,Comptable,synthetique
+77,2026-08-23,Caisse Accueil,1320500,Caissier,Comptable,synthetique
+78,2026-08-30,Caisse Accueil,1358000,Caissier,Comptable,synthetique
+79,2026-09-06,Caisse Accueil,1175500,Caissier,Comptable,synthetique
+80,2026-09-13,Caisse Accueil,1650500,Caissier,Comptable,synthetique
+81,2026-09-20,Caisse Accueil,944000,Caissier,Comptable,synthetique
+82,2026-09-27,Caisse Accueil,1080500,Caissier,Comptable,synthetique
+83,2026-10-04,Caisse Accueil,1094000,Caissier,Comptable,synthetique
+84,2026-10-11,Caisse Accueil,801000,Caissier,Comptable,synthetique
+85,2026-10-18,Caisse Accueil,1159500,Caissier,Comptable,synthetique
+86,2026-10-25,Caisse Accueil,1062500,Caissier,Comptable,synthetique
+87,2026-11-01,Caisse Accueil,1406000,Caissier,Comptable,synthetique
+88,2026-11-08,Caisse Accueil,763000,Caissier,Comptable,synthetique
+89,2026-11-15,Caisse Accueil,997000,Caissier,Comptable,synthetique
+90,2025-11-02,Caisse Piscine,2684000,Caissier,Comptable,synthetique
+91,2025-11-09,Caisse Piscine,2285500,Caissier,Comptable,synthetique
+92,2025-11-16,Caisse Piscine,2692500,Caissier,Comptable,synthetique
+93,2025-11-23,Caisse Piscine,2111000,Caissier,Comptable,synthetique
+94,2025-11-30,Caisse Piscine,2138000,Caissier,Comptable,synthetique
+95,2025-12-07,Caisse Piscine,2386000,Caissier,Comptable,synthetique
+96,2025-12-14,Caisse Piscine,1696000,Caissier,Comptable,synthetique
+97,2025-12-21,Caisse Piscine,5749000,Caissier,Comptable,synthetique
+98,2025-12-28,Caisse Piscine,7227500,Caissier,Comptable,synthetique
+99,2026-01-04,Caisse Piscine,7012000,Caissier,Comptable,synthetique
+100,2026-01-11,Caisse Piscine,1842500,Caissier,Comptable,synthetique
+101,2026-01-18,Caisse Piscine,1801500,Caissier,Comptable,synthetique
+102,2026-01-25,Caisse Piscine,2084500,Caissier,Comptable,synthetique
+103,2026-02-01,Caisse Piscine,2261500,Caissier,Comptable,synthetique
+104,2026-02-08,Caisse Piscine,1843000,Caissier,Comptable,synthetique
+105,2026-02-15,Caisse Piscine,2621000,Caissier,Comptable,synthetique
+106,2026-02-22,Caisse Piscine,2140000,Caissier,Comptable,synthetique
+107,2026-03-01,Caisse Piscine,2038000,Caissier,Comptable,synthetique
+108,2026-03-08,Caisse Piscine,3020000,Caissier,Comptable,synthetique
+109,2026-03-15,Caisse Piscine,1992000,Caissier,Comptable,synthetique
+110,2026-03-22,Caisse Piscine,1911000,Caissier,Comptable,synthetique
+111,2026-03-29,Caisse Piscine,12410500,Caissier,Comptable,synthetique
+112,2026-04-05,Caisse Piscine,4472500,Caissier,Comptable,synthetique
+113,2026-04-12,Caisse Piscine,3142000,Caissier,Comptable,synthetique
+114,2026-04-19,Caisse Piscine,1678500,Caissier,Comptable,synthetique
+115,2026-04-26,Caisse Piscine,1897500,Caissier,Comptable,synthetique
+116,2026-05-03,Caisse Piscine,1270000,Caissier,Comptable,synthetique
+117,2026-05-10,Caisse Piscine,1392000,Caissier,Comptable,synthetique
+118,2026-05-17,Caisse Piscine,1190000,Caissier,Comptable,synthetique
+119,2026-05-24,Caisse Piscine,3536500,Caissier,Comptable,synthetique
+120,2026-05-31,Caisse Piscine,2165500,Caissier,Comptable,synthetique
+121,2026-06-07,Caisse Piscine,708000,Caissier,Comptable,synthetique
+122,2026-06-14,Caisse Piscine,662000,Caissier,Comptable,synthetique
+123,2026-06-21,Caisse Piscine,1079000,Caissier,Comptable,synthetique
+124,2026-06-28,Caisse Piscine,1272000,Caissier,Comptable,synthetique
+125,2026-07-05,Caisse Piscine,786000,Caissier,Comptable,synthetique
+126,2026-07-12,Caisse Piscine,1153000,Caissier,Comptable,synthetique
+127,2026-07-19,Caisse Piscine,941500,Caissier,Comptable,synthetique
+128,2026-07-26,Caisse Piscine,1008500,Caissier,Comptable,synthetique
+129,2026-08-02,Caisse Piscine,966000,Caissier,Comptable,synthetique
+130,2026-08-09,Caisse Piscine,1136000,Caissier,Comptable,synthetique
+131,2026-08-16,Caisse Piscine,2422000,Caissier,Comptable,synthetique
+132,2026-08-23,Caisse Piscine,1438500,Caissier,Comptable,synthetique
+133,2026-08-30,Caisse Piscine,1382500,Caissier,Comptable,synthetique
+134,2026-09-06,Caisse Piscine,2265000,Caissier,Comptable,synthetique
+135,2026-09-13,Caisse Piscine,2328500,Caissier,Comptable,synthetique
+136,2026-09-20,Caisse Piscine,1531500,Caissier,Comptable,synthetique
+137,2026-09-27,Caisse Piscine,1278000,Caissier,Comptable,synthetique
+138,2026-10-04,Caisse Piscine,1809500,Caissier,Comptable,synthetique
+139,2026-10-11,Caisse Piscine,1707500,Caissier,Comptable,synthetique
+140,2026-10-18,Caisse Piscine,2095500,Caissier,Comptable,synthetique
+141,2026-10-25,Caisse Piscine,2223000,Caissier,Comptable,synthetique
+142,2026-11-01,Caisse Piscine,2884500,Caissier,Comptable,synthetique
+143,2026-11-08,Caisse Piscine,2435500,Caissier,Comptable,synthetique
+144,2026-11-15,Caisse Piscine,3033000,Caissier,Comptable,synthetique
+145,2025-11-02,Caisse Cyber,179000,Caissier,Comptable,synthetique
+146,2025-11-09,Caisse Cyber,582500,Caissier,Comptable,synthetique
+147,2025-11-16,Caisse Cyber,525500,Caissier,Comptable,synthetique
+148,2025-11-23,Caisse Cyber,465000,Caissier,Comptable,synthetique
+149,2025-11-30,Caisse Cyber,701500,Caissier,Comptable,synthetique
+150,2025-12-07,Caisse Cyber,404000,Caissier,Comptable,synthetique
+151,2025-12-14,Caisse Cyber,382000,Caissier,Comptable,synthetique
+152,2025-12-21,Caisse Cyber,316000,Caissier,Comptable,synthetique
+153,2025-12-28,Caisse Cyber,138500,Caissier,Comptable,synthetique
+154,2026-01-04,Caisse Cyber,261000,Caissier,Comptable,synthetique
+155,2026-01-11,Caisse Cyber,468500,Caissier,Comptable,synthetique
+156,2026-01-18,Caisse Cyber,491000,Caissier,Comptable,synthetique
+157,2026-01-25,Caisse Cyber,620500,Caissier,Comptable,synthetique
+158,2026-02-01,Caisse Cyber,495000,Caissier,Comptable,synthetique
+159,2026-02-08,Caisse Cyber,566500,Caissier,Comptable,synthetique
+160,2026-02-15,Caisse Cyber,483000,Caissier,Comptable,synthetique
+161,2026-02-22,Caisse Cyber,490000,Caissier,Comptable,synthetique
+162,2026-03-01,Caisse Cyber,521500,Caissier,Comptable,synthetique
+163,2026-03-08,Caisse Cyber,532000,Caissier,Comptable,synthetique
+164,2026-03-15,Caisse Cyber,489000,Caissier,Comptable,synthetique
+165,2026-03-29,Caisse Cyber,767500,Caissier,Comptable,synthetique
+166,2026-04-05,Caisse Cyber,285500,Caissier,Comptable,synthetique
+167,2026-04-12,Caisse Cyber,383000,Caissier,Comptable,synthetique
+168,2026-04-19,Caisse Cyber,525000,Caissier,Comptable,synthetique
+169,2026-04-26,Caisse Cyber,280000,Caissier,Comptable,synthetique
+170,2026-05-03,Caisse Cyber,504000,Caissier,Comptable,synthetique
+171,2026-05-10,Caisse Cyber,513000,Caissier,Comptable,synthetique
+172,2026-05-17,Caisse Cyber,633500,Caissier,Comptable,synthetique
+173,2026-05-24,Caisse Cyber,623500,Caissier,Comptable,synthetique
+174,2026-05-31,Caisse Cyber,587000,Caissier,Comptable,synthetique
+175,2026-06-07,Caisse Cyber,766000,Caissier,Comptable,synthetique
+176,2026-06-14,Caisse Cyber,635000,Caissier,Comptable,synthetique
+177,2026-06-21,Caisse Cyber,577000,Caissier,Comptable,synthetique
+178,2026-06-28,Caisse Cyber,325500,Caissier,Comptable,synthetique
+179,2026-07-12,Caisse Cyber,727500,Caissier,Comptable,synthetique
+180,2026-07-19,Caisse Cyber,305500,Caissier,Comptable,synthetique
+181,2026-07-26,Caisse Cyber,88500,Caissier,Comptable,synthetique
+182,2026-08-02,Caisse Cyber,285000,Caissier,Comptable,synthetique
+183,2026-08-09,Caisse Cyber,229500,Caissier,Comptable,synthetique
+184,2026-08-16,Caisse Cyber,63000,Caissier,Comptable,synthetique
+185,2026-08-23,Caisse Cyber,368500,Caissier,Comptable,synthetique
+186,2026-08-30,Caisse Cyber,284500,Caissier,Comptable,synthetique
+187,2026-09-06,Caisse Cyber,334000,Caissier,Comptable,synthetique
+188,2026-09-13,Caisse Cyber,397500,Caissier,Comptable,synthetique
+189,2026-09-20,Caisse Cyber,420500,Caissier,Comptable,synthetique
+190,2026-09-27,Caisse Cyber,518500,Caissier,Comptable,synthetique
+191,2026-10-04,Caisse Cyber,441500,Caissier,Comptable,synthetique
+192,2026-10-11,Caisse Cyber,375500,Caissier,Comptable,synthetique
+193,2026-10-18,Caisse Cyber,542500,Caissier,Comptable,synthetique
+194,2026-10-25,Caisse Cyber,512500,Caissier,Comptable,synthetique
+195,2026-11-01,Caisse Cyber,496000,Caissier,Comptable,synthetique
+196,2026-11-08,Caisse Cyber,538000,Caissier,Comptable,synthetique
+197,2026-11-15,Caisse Cyber,571500,Caissier,Comptable,synthetique
+198,2025-11-02,Caisse Coiffure,169500,Caissier,Comptable,synthetique
+199,2025-11-09,Caisse Coiffure,532000,Caissier,Comptable,synthetique
+200,2025-11-16,Caisse Coiffure,478500,Caissier,Comptable,synthetique
+201,2025-11-23,Caisse Coiffure,486000,Caissier,Comptable,synthetique
+202,2025-11-30,Caisse Coiffure,423500,Caissier,Comptable,synthetique
+203,2025-12-07,Caisse Coiffure,765000,Caissier,Comptable,synthetique
+204,2025-12-14,Caisse Coiffure,376500,Caissier,Comptable,synthetique
+205,2025-12-21,Caisse Coiffure,755000,Caissier,Comptable,synthetique
+206,2025-12-28,Caisse Coiffure,1283000,Caissier,Comptable,synthetique
+207,2026-01-04,Caisse Coiffure,646500,Caissier,Comptable,synthetique
+208,2026-01-11,Caisse Coiffure,401000,Caissier,Comptable,synthetique
+209,2026-01-18,Caisse Coiffure,396500,Caissier,Comptable,synthetique
+210,2026-01-25,Caisse Coiffure,376000,Caissier,Comptable,synthetique
+211,2026-02-01,Caisse Coiffure,348500,Caissier,Comptable,synthetique
+212,2026-02-08,Caisse Coiffure,505000,Caissier,Comptable,synthetique
+213,2026-02-15,Caisse Coiffure,431500,Caissier,Comptable,synthetique
+214,2026-02-22,Caisse Coiffure,407500,Caissier,Comptable,synthetique
+215,2026-03-01,Caisse Coiffure,377000,Caissier,Comptable,synthetique
+216,2026-03-08,Caisse Coiffure,431000,Caissier,Comptable,synthetique
+217,2026-03-15,Caisse Coiffure,384500,Caissier,Comptable,synthetique
+218,2026-03-22,Caisse Coiffure,465500,Caissier,Comptable,synthetique
+219,2026-03-29,Caisse Coiffure,431500,Caissier,Comptable,synthetique
+220,2026-04-05,Caisse Coiffure,745000,Caissier,Comptable,synthetique
+221,2026-04-12,Caisse Coiffure,566500,Caissier,Comptable,synthetique
+222,2026-04-19,Caisse Coiffure,570500,Caissier,Comptable,synthetique
+223,2026-04-26,Caisse Coiffure,501500,Caissier,Comptable,synthetique
+224,2026-05-03,Caisse Coiffure,468500,Caissier,Comptable,synthetique
+225,2026-05-10,Caisse Coiffure,426500,Caissier,Comptable,synthetique
+226,2026-05-17,Caisse Coiffure,535000,Caissier,Comptable,synthetique
+227,2026-05-24,Caisse Coiffure,595000,Caissier,Comptable,synthetique
+228,2026-05-31,Caisse Coiffure,573000,Caissier,Comptable,synthetique
+229,2026-06-07,Caisse Coiffure,583000,Caissier,Comptable,synthetique
+230,2026-06-14,Caisse Coiffure,549500,Caissier,Comptable,synthetique
+231,2026-06-21,Caisse Coiffure,802500,Caissier,Comptable,synthetique
+232,2026-06-28,Caisse Coiffure,873500,Caissier,Comptable,synthetique
+233,2026-07-05,Caisse Coiffure,521500,Caissier,Comptable,synthetique
+234,2026-07-12,Caisse Coiffure,529500,Caissier,Comptable,synthetique
+235,2026-07-19,Caisse Coiffure,516500,Caissier,Comptable,synthetique
+236,2026-07-26,Caisse Coiffure,467000,Caissier,Comptable,synthetique
+237,2026-08-02,Caisse Coiffure,576000,Caissier,Comptable,synthetique
+238,2026-08-09,Caisse Coiffure,572500,Caissier,Comptable,synthetique
+239,2026-08-16,Caisse Coiffure,515000,Caissier,Comptable,synthetique
+240,2026-08-23,Caisse Coiffure,601500,Caissier,Comptable,synthetique
+241,2026-08-30,Caisse Coiffure,624000,Caissier,Comptable,synthetique
+242,2026-09-06,Caisse Coiffure,503500,Caissier,Comptable,synthetique
+243,2026-09-13,Caisse Coiffure,601000,Caissier,Comptable,synthetique
+244,2026-09-20,Caisse Coiffure,399000,Caissier,Comptable,synthetique
+245,2026-09-27,Caisse Coiffure,473500,Caissier,Comptable,synthetique
+246,2026-10-04,Caisse Coiffure,416000,Caissier,Comptable,synthetique
+247,2026-10-11,Caisse Coiffure,683000,Caissier,Comptable,synthetique
+248,2026-10-18,Caisse Coiffure,579000,Caissier,Comptable,synthetique
+249,2026-10-25,Caisse Coiffure,424000,Caissier,Comptable,synthetique
+250,2026-11-01,Caisse Coiffure,443500,Caissier,Comptable,synthetique
+251,2026-11-08,Caisse Coiffure,576500,Caissier,Comptable,synthetique
+252,2026-11-15,Caisse Coiffure,542000,Caissier,Comptable,synthetique
+253,2025-11-02,Caisse Ménage et cuisine,86500,Caissier,Comptable,synthetique
+254,2025-11-09,Caisse Ménage et cuisine,311000,Caissier,Comptable,synthetique
+255,2025-11-16,Caisse Ménage et cuisine,242000,Caissier,Comptable,synthetique
+256,2025-11-23,Caisse Ménage et cuisine,202000,Caissier,Comptable,synthetique
+257,2025-11-30,Caisse Ménage et cuisine,218750,Caissier,Comptable,synthetique
+258,2025-12-07,Caisse Ménage et cuisine,205500,Caissier,Comptable,synthetique
+259,2025-12-14,Caisse Ménage et cuisine,167500,Caissier,Comptable,synthetique
+260,2025-12-21,Caisse Ménage et cuisine,108500,Caissier,Comptable,synthetique
+261,2025-12-28,Caisse Ménage et cuisine,233000,Caissier,Comptable,synthetique
+262,2026-01-04,Caisse Ménage et cuisine,205000,Caissier,Comptable,synthetique
+263,2026-01-11,Caisse Ménage et cuisine,210500,Caissier,Comptable,synthetique
+264,2026-01-18,Caisse Ménage et cuisine,228000,Caissier,Comptable,synthetique
+265,2026-01-25,Caisse Ménage et cuisine,146000,Caissier,Comptable,synthetique
+266,2026-02-01,Caisse Ménage et cuisine,258500,Caissier,Comptable,synthetique
+267,2026-02-08,Caisse Ménage et cuisine,225000,Caissier,Comptable,synthetique
+268,2026-02-15,Caisse Ménage et cuisine,180500,Caissier,Comptable,synthetique
+269,2026-02-22,Caisse Ménage et cuisine,228250,Caissier,Comptable,synthetique
+270,2026-03-01,Caisse Ménage et cuisine,250000,Caissier,Comptable,synthetique
+271,2026-03-08,Caisse Ménage et cuisine,163500,Caissier,Comptable,synthetique
+272,2026-03-15,Caisse Ménage et cuisine,244000,Caissier,Comptable,synthetique
+273,2026-03-29,Caisse Ménage et cuisine,397500,Caissier,Comptable,synthetique
+274,2026-04-05,Caisse Ménage et cuisine,237500,Caissier,Comptable,synthetique
+275,2026-04-12,Caisse Ménage et cuisine,241750,Caissier,Comptable,synthetique
+276,2026-04-19,Caisse Ménage et cuisine,195500,Caissier,Comptable,synthetique
+277,2026-04-26,Caisse Ménage et cuisine,221500,Caissier,Comptable,synthetique
+278,2026-05-03,Caisse Ménage et cuisine,165000,Caissier,Comptable,synthetique
+279,2026-05-10,Caisse Ménage et cuisine,270000,Caissier,Comptable,synthetique
+280,2026-05-17,Caisse Ménage et cuisine,173000,Caissier,Comptable,synthetique
+281,2026-05-24,Caisse Ménage et cuisine,227000,Caissier,Comptable,synthetique
+282,2026-05-31,Caisse Ménage et cuisine,85000,Caissier,Comptable,synthetique
+283,2026-06-07,Caisse Ménage et cuisine,210000,Caissier,Comptable,synthetique
+284,2026-06-14,Caisse Ménage et cuisine,179000,Caissier,Comptable,synthetique
+285,2026-06-21,Caisse Ménage et cuisine,120000,Caissier,Comptable,synthetique
+286,2026-06-28,Caisse Ménage et cuisine,145500,Caissier,Comptable,synthetique
+287,2026-07-05,Caisse Ménage et cuisine,190000,Caissier,Comptable,synthetique
+288,2026-07-12,Caisse Ménage et cuisine,220500,Caissier,Comptable,synthetique
+289,2026-07-19,Caisse Ménage et cuisine,213000,Caissier,Comptable,synthetique
+290,2026-07-26,Caisse Ménage et cuisine,214500,Caissier,Comptable,synthetique
+291,2026-08-02,Caisse Ménage et cuisine,321500,Caissier,Comptable,synthetique
+292,2026-08-09,Caisse Ménage et cuisine,122000,Caissier,Comptable,synthetique
+293,2026-08-16,Caisse Ménage et cuisine,269500,Caissier,Comptable,synthetique
+294,2026-08-23,Caisse Ménage et cuisine,183000,Caissier,Comptable,synthetique
+295,2026-08-30,Caisse Ménage et cuisine,193500,Caissier,Comptable,synthetique
+296,2026-09-06,Caisse Ménage et cuisine,243500,Caissier,Comptable,synthetique
+297,2026-09-13,Caisse Ménage et cuisine,162500,Caissier,Comptable,synthetique
+298,2026-09-20,Caisse Ménage et cuisine,352000,Caissier,Comptable,synthetique
+299,2026-09-27,Caisse Ménage et cuisine,207500,Caissier,Comptable,synthetique
+300,2026-10-04,Caisse Ménage et cuisine,284500,Caissier,Comptable,synthetique
+301,2026-10-11,Caisse Ménage et cuisine,125750,Caissier,Comptable,synthetique
+302,2026-10-18,Caisse Ménage et cuisine,134500,Caissier,Comptable,synthetique
+303,2026-10-25,Caisse Ménage et cuisine,228500,Caissier,Comptable,synthetique
+304,2026-11-01,Caisse Ménage et cuisine,155500,Caissier,Comptable,synthetique
+305,2026-11-08,Caisse Ménage et cuisine,226500,Caissier,Comptable,synthetique
+306,2026-11-15,Caisse Ménage et cuisine,249500,Caissier,Comptable,synthetique

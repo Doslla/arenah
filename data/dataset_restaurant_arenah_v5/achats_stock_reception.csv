@@ -1,0 +1,365 @@
+reception_id,date,produit,categorie,qte,conditionnement,nb_unites,unite,montant_estime_ar,source_prix,prix_hypothese,couvert_par,doublon_ou_couvert,montant_retenu_ar,a_verifier,remarque,source
+1,2026-03-01,"Lipton pêche 1,5 ml",boissons,6.0,pcs,6.0,pcs,30000,hypothèse,True,,False,30000,False,"haut de page, date du bloc précédent inconnue (rattaché au 01/03)",reel_quantite_prix_estime
+2,2026-03-01,"Lipton citron 1,5 ml",boissons,6.0,pcs,6.0,pcs,30000,hypothèse,True,,False,30000,False,idem,reel_quantite_prix_estime
+3,2026-03-01,THB ?,boissons,1.0,caseau,20.0,bouteille,78000,"facture (THB 65cl), format supposé GM",False,,False,78000,True,format illisible (« THB ? »),reel_quantite_prix_reference
+4,2026-03-01,THB GM,boissons,1.0,caseau,20.0,bouteille,78000,facture (THB 65cl),False,,False,78000,False,,reel_quantite_prix_reference
+5,2026-03-07,Fresh 33cl,boissons,13.0,pcs,13.0,bouteille,40300,hypothèse : prix Gold 33cl,True,,False,40300,False,,reel_quantite_prix_estime
+6,2026-03-07,Gold rose 33cl,boissons,17.0,pcs,17.0,bouteille,52700,facture (Gold 33cl),False,,False,52700,True,chiffre surchargé,reel_quantite_prix_reference
+7,2026-03-07,Marco 35cl,boissons,5.0,pcs,5.0,bouteille,40000,hypothèse,True,,False,40000,False,,reel_quantite_prix_estime
+8,2026-03-07,Marco 70cl,boissons,5.0,pcs,5.0,bouteille,75000,hypothèse,True,,False,75000,False,,reel_quantite_prix_estime
+9,2026-03-11,Fromage (by ba ?),laitier_oeufs,5.0,pcs,5.0,pcs,195000,"hypothèse (1,3 kg x 30000)",True,,False,195000,True,libellé peu lisible,reel_quantite_prix_estime
+10,2026-03-11,Classiko lemon,boissons,3.0,pcs,3.0,bouteille,6000,hypothèse,True,,False,6000,False,,reel_quantite_prix_estime
+11,2026-03-11,Olympiko,boissons,2.0,pcs,2.0,bouteille,4000,hypothèse,True,,False,4000,False,,reel_quantite_prix_estime
+12,2026-03-11,Beurre (donga ?),laitier_oeufs,10.0,pcs,10.0,pcs,27000,cahier d'achats,False,,False,27000,True,libellé peu lisible,reel_quantite_prix_reference
+13,2026-03-11,Yaourt pot,laitier_oeufs,40.0,pcs,40.0,pcs,44000,cahier d'achats,False,,False,44000,False,,reel_quantite_prix_reference
+14,2026-03-20,Gold 50cl,boissons,2.0,caseau,40.0,bouteille,154000,facture,False,,False,154000,False,noté : 40 pcs,reel_quantite_prix_reference
+15,2026-03-20,Booster 50cl,boissons,1.0,caseau,20.0,bouteille,78000,hypothèse : prix THB 65cl,True,,False,78000,False,noté : 20 pcs,reel_quantite_prix_estime
+16,2026-03-20,Fresh 65cl,boissons,1.0,caseau,20.0,bouteille,78000,hypothèse : prix THB 65cl,True,,False,78000,False,noté : 20 pcs,reel_quantite_prix_estime
+17,2026-03-20,Fresh 33cl,boissons,1.0,caseau,24.0,bouteille,74400,hypothèse : prix Gold 33cl,True,,False,74400,False,noté : 24 pcs,reel_quantite_prix_estime
+18,2026-03-20,Gold 33cl,boissons,2.0,caseau,48.0,bouteille,148800,facture,False,,False,148800,False,noté : 48 pcs,reel_quantite_prix_reference
+19,2026-03-20,Coca cola 150cl,boissons,2.0,caseau,12.0,bouteille,54000,facture,False,,False,54000,False,noté : 12 pcs,reel_quantite_prix_reference
+20,2026-03-20,Jus 150cl (Caprice ananas),boissons,2.0,caseau,12.0,bouteille,54000,facture (Jus 150cl),False,,False,54000,False,noté : 12 pcs,reel_quantite_prix_reference
+21,2026-03-20,Eau vive 150cl,boissons,4.0,caseau,24.0,bouteille,72000,"vente 5000 x 0,6",False,,False,72000,False,noté : 24 pcs,reel_quantite_prix_reference
+22,2026-03-20,Le Fruit 100cl,boissons,1.0,caseau,12.0,bouteille,60000,facture,False,,False,60000,False,noté : 12 pcs,reel_quantite_prix_reference
+23,2026-03-20,Canette Gold 50cl,boissons,3.0,pac,72.0,canette,388800,facture,False,,False,388800,False,noté : 72 pcs,reel_quantite_prix_reference
+24,2026-03-20,Canette THB 50cl,boissons,3.0,pac,72.0,canette,331200,facture,False,,False,331200,False,noté : 72 pcs,reel_quantite_prix_reference
+25,2026-03-20,Cigarettes Boston vert,tabac,20.0,cartouche,20.0,cartouche,960000,"vente Good look 8000 x 10 x 0,6",False,,False,960000,False,,reel_quantite_prix_reference
+26,2026-03-20,Cigarettes Good look vert,tabac,20.0,cartouche,20.0,cartouche,960000,"vente Good look 8000 x 10 x 0,6",False,,False,960000,False,,reel_quantite_prix_reference
+27,2026-03-20,Cigarettes Boston bleu,tabac,10.0,cartouche,10.0,cartouche,480000,"vente Good look 8000 x 10 x 0,6",False,,False,480000,False,,reel_quantite_prix_reference
+28,2026-03-20,Cigarettes Good look bleu,tabac,10.0,cartouche,10.0,cartouche,480000,"vente Good look 8000 x 10 x 0,6",False,,False,480000,False,,reel_quantite_prix_reference
+29,2026-03-21,Mokomaizy (?),epicerie,1.0,pcs,1.0,pcs,5000,hypothèse (produit non identifié),True,,False,5000,True,libellé illisible,reel_quantite_prix_estime
+30,2026-03-21,Fitsa (?),epicerie,1.0,pcs,1.0,pcs,5000,hypothèse (produit non identifié),True,,False,5000,True,libellé illisible,reel_quantite_prix_estime
+31,2026-03-21,Toka gasy,boissons,2.0,pcs,2.0,bouteille,20000,hypothèse,True,,False,20000,False,,reel_quantite_prix_estime
+32,2026-03-21,Savony (savon ?),entretien,24.0,pcs,24.0,pcs,36000,hypothèse,True,,False,36000,False,,reel_quantite_prix_estime
+33,2026-03-29,Fromage,laitier_oeufs,16.0,pcs,20.8,kg,624000,"hypothèse, une pièce = 1,3 kg (10 pcs = 13,262 kg le 10/06)",True,,False,624000,False,,reel_quantite_prix_estime
+34,2026-04-02,THB canette,boissons,48.0,pcs,48.0,canette,220800,facture,False,,False,220800,False,,reel_quantite_prix_reference
+35,2026-04-02,Gold blanche,boissons,48.0,pcs,48.0,bouteille,184800,facture (Gold 50cl),False,,False,184800,False,,reel_quantite_prix_reference
+36,2026-04-02,Gold canette,boissons,24.0,pcs,24.0,canette,129600,facture,False,,False,129600,False,,reel_quantite_prix_reference
+37,2026-04-02,Dzama Freeze,boissons,20.0,pcs,20.0,canette,60000,hypothèse,True,,False,60000,False,,reel_quantite_prix_estime
+38,2026-04-02,Fresh canette,boissons,24.0,pcs,24.0,canette,110400,hypothèse : prix canette THB,True,,False,110400,False,"noté « 24 paquet », lu 24 pcs",reel_quantite_prix_estime
+39,2026-04-02,Nosy Be 35cl,boissons,20.0,pcs,20.0,bouteille,160000,hypothèse,True,,False,160000,True,chiffre surchargé (20 ou 28),reel_quantite_prix_estime
+40,2026-04-02,V.C 35cl,boissons,35.0,pcs,35.0,bouteille,280000,hypothèse,True,,False,280000,False,ligne écrite deux fois sur la page,reel_quantite_prix_estime
+41,2026-04-02,Cuvée blanche 35cl,boissons,13.0,pcs,13.0,bouteille,63700,facture,False,,False,63700,False,ligne écrite deux fois sur la page,reel_quantite_prix_reference
+42,2026-04-02,Le Fruit,boissons,18.0,pcs,18.0,bouteille,90000,facture,False,,False,90000,False,,reel_quantite_prix_reference
+43,2026-04-02,Dzama 1 litre,boissons,20.0,pcs,20.0,bouteille,500000,hypothèse,True,,False,500000,False,"THB GM 1 paquet barré, non repris",reel_quantite_prix_estime
+44,2026-04-06,Cigarettes Melia rouge,tabac,1.0,cartouche,1.0,cartouche,48000,"vente Good look 8000 x 10 x 0,6",False,,False,48000,False,,reel_quantite_prix_reference
+45,2026-04-06,Cigarettes Good look vert,tabac,1.0,cartouche,1.0,cartouche,48000,"vente Good look 8000 x 10 x 0,6",False,,False,48000,False,,reel_quantite_prix_reference
+46,2026-04-06,Cigarettes Boston,tabac,1.0,cartouche,1.0,cartouche,48000,"vente Good look 8000 x 10 x 0,6",False,,False,48000,False,,reel_quantite_prix_reference
+47,2026-04-06,Cigarettes Good look rouge,tabac,1.0,cartouche,1.0,cartouche,48000,"vente Good look 8000 x 10 x 0,6",False,,False,48000,False,,reel_quantite_prix_reference
+48,2026-04-06,Cigarettes News rouge,tabac,1.0,cartouche,1.0,cartouche,48000,"vente Good look 8000 x 10 x 0,6",False,,False,48000,False,,reel_quantite_prix_reference
+49,2026-04-06,Cigarettes News vert,tabac,1.0,cartouche,1.0,cartouche,48000,"vente Good look 8000 x 10 x 0,6",False,,False,48000,False,,reel_quantite_prix_reference
+50,2026-04-06,Top 3,emballage,36.0,pcs,36.0,pcs,72000,hypothèse (produit non identifié),True,,False,72000,False,,reel_quantite_prix_estime
+51,2026-04-06,Candia,laitier_oeufs,7.0,pcs,7.0,pcs,42000,hypothèse,True,,False,42000,False,,reel_quantite_prix_estime
+52,2026-04-06,THB GM,boissons,4.0,caseau,80.0,bouteille,312000,facture (THB 65cl),False,,False,312000,False,,reel_quantite_prix_reference
+53,2026-04-06,THB PM,boissons,4.0,caseau,96.0,bouteille,297600,hypothèse : prix Gold 33cl,True,,False,297600,False,,reel_quantite_prix_estime
+54,2026-04-06,Caprice bonbon anglais,boissons,2.0,pac,12.0,bouteille,54000,facture (Jus 150cl),False,,False,54000,False,,reel_quantite_prix_reference
+55,2026-04-06,Caprice PM,boissons,1.0,pac,12.0,bouteille,16500,facture (Jus 35cl),False,,False,16500,False,,reel_quantite_prix_reference
+56,2026-04-06,Coca cola GM,boissons,2.0,pac,12.0,bouteille,54000,facture (Coca 150cl),False,,False,54000,False,,reel_quantite_prix_reference
+57,2026-04-06,World cola,boissons,2.0,pac,12.0,bouteille,54000,"facture (Coca 150cl), format supposé GM",False,,False,54000,False,,reel_quantite_prix_reference
+58,2026-04-06,Caprice orange GM,boissons,2.0,pac,12.0,bouteille,54000,facture (Jus 150cl),False,,False,54000,False,,reel_quantite_prix_reference
+59,2026-04-09,Carton frites,emballage,1.0,pac,50.0,pcs,25000,hypothèse,True,,False,25000,False,,reel_quantite_prix_estime
+60,2026-04-09,Farine de blé,epicerie,5.0,sac,5.0,sac 50 kg,750000,hypothèse,True,,False,750000,True,"ligne très effacée, à confirmer",reel_quantite_prix_estime
+61,2026-04-09,Verre à jeter,emballage,10.0,pac,10.0,paquet,50000,hypothèse,True,,False,50000,True,"ligne très effacée, à confirmer",reel_quantite_prix_estime
+62,2026-04-09,Corn flakes,epicerie,1.0,carton,12.0,paquet,120000,hypothèse,True,,False,120000,True,"ligne très effacée, à confirmer",reel_quantite_prix_estime
+63,2026-04-09,Sauce soja,epicerie,2.0,pcs,2.0,pcs,16000,hypothèse,True,,False,16000,True,chiffre surchargé,reel_quantite_prix_estime
+64,2026-04-09,Huile,epicerie,2.0,bidon,2.0,bidon,300000,hypothèse (bidon 20 L),True,,False,300000,False,,reel_quantite_prix_estime
+65,2026-04-09,Papier film,emballage,5.0,pcs,5.0,rouleau,75000,hypothèse,True,,False,75000,False,,reel_quantite_prix_estime
+66,2026-04-09,Thé Sahambavy,boissons,1.0,pac,1.0,paquet,1000,cahier d'achats,False,,False,1000,False,,reel_quantite_prix_reference
+67,2026-04-09,Huile d'olive,epicerie,4.0,pcs,4.0,pcs,140000,hypothèse,True,,False,140000,False,,reel_quantite_prix_estime
+68,2026-04-09,Poudre de lait,laitier_oeufs,2.0,pcs,2.0,pcs,30000,hypothèse,True,,False,30000,False,,reel_quantite_prix_estime
+69,2026-04-09,Champignon de Paris,epicerie,10.0,pcs,10.0,boîte,50000,cahier d'achats,False,,False,50000,False,,reel_quantite_prix_reference
+70,2026-04-09,Coca canette,boissons,1.0,pac,24.0,canette,72000,"vente 5000 x 0,6",False,,False,72000,True,"quantité non écrite, 1 pac supposé",reel_quantite_prix_reference
+71,2026-04-09,Ceres,boissons,1.0,carton,12.0,bouteille,72000,"vente 10000 x 0,6",False,,False,72000,False,,reel_quantite_prix_reference
+72,2026-04-09,Candia,laitier_oeufs,1.0,carton,12.0,pcs,72000,hypothèse,True,,False,72000,False,,reel_quantite_prix_estime
+73,2026-04-09,Cristalline 1L,boissons,5.0,pac,40.0,bouteille,75000,facture,False,,False,75000,False,,reel_quantite_prix_reference
+74,2026-04-09,Cristalline 2L,boissons,4.0,pac,24.0,bouteille,77200,facture,False,,False,77200,False,,reel_quantite_prix_reference
+75,2026-04-09,Fécule de manioc,epicerie,4.0,pcs,4.0,pcs,12000,cahier d'achats,False,,False,12000,False,,reel_quantite_prix_reference
+76,2026-04-09,Katsaka popcorn,epicerie,4.0,pcs,4.0,pcs,12000,hypothèse,True,,False,12000,False,,reel_quantite_prix_estime
+77,2026-04-09,Huile Hina,epicerie,1.0,carton,12.0,litre,120000,hypothèse,True,,False,120000,False,,reel_quantite_prix_estime
+78,2026-04-09,Danika bleu,laitier_oeufs,9.0,pcs,9.0,pcs,180000,cahier d'achats,False,,False,180000,False,,reel_quantite_prix_reference
+79,2026-04-09,Lave-vitre,entretien,6.0,pcs,6.0,pcs,48000,hypothèse,True,,False,48000,False,,reel_quantite_prix_estime
+80,2026-04-09,Sauce tsa-siou,epicerie,1.0,pcs,1.0,pcs,30000,hypothèse,True,,False,30000,False,,reel_quantite_prix_estime
+81,2026-04-09,Tomate ketchup,epicerie,1.0,bidon,1.0,bidon 5 kg,35000,hypothèse,True,,False,35000,False,bidon de 5 kg,reel_quantite_prix_estime
+82,2026-04-10,Gold 50cl,boissons,2.0,caseau,40.0,bouteille,154000,facture,False,,False,154000,False,,reel_quantite_prix_reference
+83,2026-04-10,Fresh 65cl,boissons,2.0,caseau,40.0,bouteille,156000,hypothèse : prix THB 65cl,True,,False,156000,False,,reel_quantite_prix_estime
+84,2026-04-10,Fresh 33cl,boissons,1.0,caseau,24.0,bouteille,74400,hypothèse : prix Gold 33cl,True,,False,74400,False,,reel_quantite_prix_estime
+85,2026-04-10,Gold 33cl,boissons,2.0,caseau,48.0,bouteille,148800,facture,False,,False,148800,False,,reel_quantite_prix_reference
+86,2026-04-10,Coca cola 35cl,boissons,2.0,pac,24.0,bouteille,33000,facture (Jus 35cl),False,,False,33000,False,,reel_quantite_prix_reference
+87,2026-04-10,Caprice can 33cl,boissons,1.0,pac,24.0,canette,54000,facture,False,,False,54000,False,,reel_quantite_prix_reference
+88,2026-04-10,Gold blanche canette,boissons,3.0,pac,72.0,canette,388800,facture,False,,False,388800,False,,reel_quantite_prix_reference
+89,2026-04-25,Coca 300ml,boissons,24.0,pcs,24.0,bouteille,33000,facture (Jus 35cl),False,,False,33000,False,,reel_quantite_prix_reference
+90,2026-04-25,Alba,entretien,3.0,pcs,3.0,pcs,9000,hypothèse (produit non identifié),True,,False,9000,False,,reel_quantite_prix_estime
+91,2026-04-25,Impec javel,entretien,1.0,pcs,1.0,pcs,5000,hypothèse,True,,False,5000,False,,reel_quantite_prix_estime
+92,2026-04-25,Katsaka,epicerie,4.0,pcs,4.0,pcs,12000,hypothèse,True,,False,12000,False,,reel_quantite_prix_estime
+93,2026-04-25,Agarbati (encens),entretien,6.0,carton,120.0,boîte,120000,hypothèse,True,,False,120000,False,,reel_quantite_prix_estime
+94,2026-04-25,Ody lalitra (insecticide),entretien,4.0,pcs,4.0,pcs,12000,hypothèse,True,,False,12000,False,,reel_quantite_prix_estime
+95,2026-04-25,Sac poubelle,emballage,13.0,pcs,13.0,pcs,13000,hypothèse,True,,False,13000,False,,reel_quantite_prix_estime
+96,2026-04-25,Farine,epicerie,2.0,sac,2.0,sac 50 kg,300000,hypothèse,True,,False,300000,False,,reel_quantite_prix_estime
+97,2026-04-25,Farine de riz,epicerie,2.0,pcs,2.0,pcs,10000,hypothèse,True,,False,10000,False,,reel_quantite_prix_estime
+98,2026-04-25,Danica,laitier_oeufs,3.0,pcs,3.0,pcs,60000,cahier d'achats,False,,False,60000,False,,reel_quantite_prix_reference
+99,2026-04-25,Papier hygiénique,entretien,1.0,ball,60.0,rouleau,60000,hypothèse (ball = 60 rouleaux),True,,False,60000,False,,reel_quantite_prix_estime
+100,2026-04-25,Chilly,epicerie,13.0,pcs,13.0,pcs,104000,hypothèse,True,,False,104000,False,,reel_quantite_prix_estime
+101,2026-04-25,Brioche,epicerie,5.0,pcs,5.0,pcs,10000,hypothèse,True,,False,10000,False,,reel_quantite_prix_estime
+102,2026-04-28,Gold blanche PM,boissons,3.0,caseau,72.0,bouteille,223200,facture (Gold 33cl),False,facture fournisseur du même jour,True,0,False,voir facture fournisseur du 28/04,reel_quantite_prix_reference
+103,2026-04-28,Gold blanche GM,boissons,4.0,caseau,80.0,bouteille,308000,facture (Gold 50cl),False,facture fournisseur du même jour,True,0,False,voir facture,reel_quantite_prix_reference
+104,2026-04-28,THB GM,boissons,4.0,caseau,80.0,bouteille,312000,facture (THB 65cl),False,facture fournisseur du même jour,True,0,False,voir facture,reel_quantite_prix_reference
+105,2026-04-28,Caprice orange GM,boissons,3.0,pac,18.0,bouteille,81000,facture (Jus 150cl),False,facture fournisseur du même jour,True,0,False,,reel_quantite_prix_reference
+106,2026-04-28,Caprice bonbon anglais GM,boissons,2.0,pac,12.0,bouteille,54000,facture (Jus 150cl),False,facture fournisseur du même jour,True,0,False,,reel_quantite_prix_reference
+107,2026-04-28,Fanta GM,boissons,1.0,pac,6.0,bouteille,27000,facture (Coca 150cl),False,facture fournisseur du même jour,True,0,False,,reel_quantite_prix_reference
+108,2026-04-28,Caprice grenadine,boissons,1.0,pac,6.0,bouteille,27000,facture (Jus 150cl),False,facture fournisseur du même jour,True,0,False,,reel_quantite_prix_reference
+109,2026-04-28,Coca canette,boissons,2.0,pac,48.0,canette,144000,"vente 5000 x 0,6",False,facture fournisseur du même jour,True,0,False,,reel_quantite_prix_reference
+110,2026-04-28,World cola PM,boissons,1.0,pac,12.0,bouteille,16500,facture (Jus 35cl),False,facture fournisseur du même jour,True,0,False,,reel_quantite_prix_reference
+111,2026-04-28,Gold blanche canette,boissons,2.0,pac,48.0,canette,259200,facture,False,facture fournisseur du même jour,True,0,False,,reel_quantite_prix_reference
+112,2026-04-28,Caprice grenadine PM,boissons,1.0,pac,12.0,bouteille,16500,facture (Jus 35cl),False,facture fournisseur du même jour,True,0,False,,reel_quantite_prix_reference
+113,2026-04-29,Carton pizza,emballage,100.0,pcs,100.0,pcs,100000,hypothèse,True,,False,100000,False,,reel_quantite_prix_estime
+114,2026-04-29,Gobelet plastique 250ml,emballage,2.0,pac,2.0,paquet,10000,hypothèse,True,,False,10000,False,,reel_quantite_prix_estime
+115,2026-04-29,Saucière 30ml,emballage,2.0,pac,2.0,paquet,10000,hypothèse,True,,False,10000,False,,reel_quantite_prix_estime
+116,2026-04-29,Saucière 50ml,emballage,2.0,pac,2.0,paquet,10000,hypothèse,True,,False,10000,False,,reel_quantite_prix_estime
+117,2026-04-29,Lot 3 bouteilles,emballage,1.0,pac,1.0,paquet,10000,hypothèse,True,,False,10000,False,,reel_quantite_prix_estime
+118,2026-05-08,Cristalline,boissons,1.0,pac,8.0,bouteille,15000,facture (Cristalline 1L),False,,False,15000,False,,reel_quantite_prix_reference
+119,2026-05-08,Caprice ananas,boissons,1.0,pac,6.0,bouteille,27000,facture (Jus 150cl),False,,False,27000,False,,reel_quantite_prix_reference
+120,2026-05-08,Gold blanche canette,boissons,1.0,pac,24.0,canette,129600,facture,False,,False,129600,False,,reel_quantite_prix_reference
+121,2026-05-13,Sachet,emballage,2.0,pac,2.0,paquet,10000,hypothèse,True,,False,10000,False,,reel_quantite_prix_estime
+122,2026-05-13,Gold blanche canette,boissons,2.0,pac,48.0,canette,259200,facture,False,,False,259200,False,,reel_quantite_prix_reference
+123,2026-05-13,THB canette,boissons,2.0,pac,48.0,canette,220800,facture,False,,False,220800,False,,reel_quantite_prix_reference
+124,2026-05-13,Beaufort canette 33cl,boissons,12.0,pcs,12.0,canette,50400,"vente 7000 x 0,6",False,,False,50400,False,,reel_quantite_prix_reference
+125,2026-05-13,Katsaka,epicerie,5.0,pcs,5.0,pcs,15000,hypothèse,True,,False,15000,False,,reel_quantite_prix_estime
+126,2026-05-13,Paprika,epicerie,1.0,pcs,1.0,pcs,5000,hypothèse,True,,False,5000,False,,reel_quantite_prix_estime
+127,2026-05-13,Esmeralda,epicerie,1.0,pcs,1.0,pcs,5000,hypothèse (produit non identifié),True,,False,5000,False,,reel_quantite_prix_estime
+128,2026-05-21,Fromage,laitier_oeufs,5.0,pcs,6.5,kg,195000,"hypothèse, une pièce = 1,3 kg (10 pcs = 13,262 kg le 10/06)",True,,False,195000,False,,reel_quantite_prix_estime
+129,2026-05-29,Martini,boissons,1.0,pcs,1.0,bouteille,60000,hypothèse,True,,False,60000,True,"quantité non écrite, 1 supposé",reel_quantite_prix_estime
+130,2026-05-29,Absolut,boissons,1.0,pcs,1.0,bouteille,120000,hypothèse,True,,False,120000,True,"quantité non écrite, 1 supposé",reel_quantite_prix_estime
+131,2026-05-29,Black (whisky),boissons,1.0,pcs,1.0,bouteille,200000,hypothèse,True,,False,200000,True,"quantité non écrite, 1 supposé",reel_quantite_prix_estime
+132,2026-05-29,Jack Daniel's,boissons,2.0,pcs,2.0,bouteille,400000,hypothèse,True,,False,400000,False,,reel_quantite_prix_estime
+133,2026-05-29,Berlès (?),boissons,1.0,pcs,1.0,bouteille,80000,hypothèse,True,,False,80000,True,"libellé peu lisible, quantité non écrite",reel_quantite_prix_estime
+134,2026-05-29,J.B,boissons,1.0,pcs,1.0,bouteille,120000,hypothèse,True,,False,120000,True,"quantité non écrite, 1 supposé",reel_quantite_prix_estime
+135,2026-05-29,Green (label ?),boissons,1.0,pcs,1.0,bouteille,300000,hypothèse,True,,False,300000,True,"quantité non écrite, 1 supposé",reel_quantite_prix_estime
+136,2026-05-29,Chivas,boissons,1.0,pcs,1.0,bouteille,250000,hypothèse,True,,False,250000,True,"quantité non écrite, 1 supposé",reel_quantite_prix_estime
+137,2026-06-02,Sauce soja light,epicerie,5.0,pcs,5.0,pcs,40000,hypothèse,True,,False,40000,False,,reel_quantite_prix_estime
+138,2026-06-02,Sauce soja claire,epicerie,7.0,pcs,7.0,pcs,56000,hypothèse,True,,False,56000,True,noté « 6+1 » (chiffre surchargé),reel_quantite_prix_estime
+139,2026-06-02,Sauce d'huître,epicerie,7.0,pcs,7.0,pcs,70000,hypothèse,True,,False,70000,False,,reel_quantite_prix_estime
+140,2026-06-02,Fécule de manioc,epicerie,10.0,pcs,10.0,pcs,30000,cahier d'achats,False,,False,30000,False,,reel_quantite_prix_reference
+141,2026-06-02,Oyster sauce,epicerie,1.0,carton,12.0,pcs,120000,hypothèse,True,,False,120000,False,,reel_quantite_prix_estime
+142,2026-06-06,Coca original 500ml,boissons,2.0,pac,24.0,bouteille,42200,facture (Jus 50cl),False,,False,42200,False,,reel_quantite_prix_reference
+143,2026-06-06,Coca canette,boissons,2.0,pac,48.0,canette,144000,"vente 5000 x 0,6",False,,False,144000,False,,reel_quantite_prix_reference
+144,2026-06-06,Candia lait,laitier_oeufs,1.0,carton,12.0,pcs,72000,hypothèse,True,,False,72000,False,,reel_quantite_prix_estime
+145,2026-06-06,Corn flakes,epicerie,2.0,carton,24.0,paquet,240000,hypothèse,True,,False,240000,False,,reel_quantite_prix_estime
+146,2026-06-06,Sauce tsa-siou,epicerie,1.0,bidon,1.0,pcs,30000,hypothèse,True,,False,30000,False,,reel_quantite_prix_estime
+147,2026-06-06,Tomate ketchup,epicerie,1.0,bidon,1.0,bidon 5 kg,35000,hypothèse,True,,False,35000,False,,reel_quantite_prix_estime
+148,2026-06-06,Insecticide,entretien,3.0,pcs,3.0,pcs,39000,cahier d'achats,False,,False,39000,False,,reel_quantite_prix_reference
+149,2026-06-06,Désodorisant,entretien,2.0,pcs,2.0,pcs,20000,hypothèse,True,,False,20000,False,,reel_quantite_prix_estime
+150,2026-06-06,Bloc WC,entretien,1.0,pcs,1.0,pcs,5000,hypothèse,True,,False,5000,False,,reel_quantite_prix_estime
+151,2026-06-06,Katsaka,epicerie,4.0,pcs,4.0,pcs,12000,hypothèse,True,,False,12000,False,,reel_quantite_prix_estime
+152,2026-06-06,Coriandre,legumes_herbes,3.0,pcs,3.0,botte,3000,cahier d'achats,False,,False,3000,False,,reel_quantite_prix_reference
+153,2026-06-06,Coca original 350ml,boissons,1.0,pac,12.0,bouteille,16500,facture (Jus 35cl),False,,False,16500,False,,reel_quantite_prix_reference
+154,2026-06-10,Danica bleu,laitier_oeufs,7.0,pcs,7.0,pcs,140000,cahier d'achats,False,,False,140000,False,,reel_quantite_prix_reference
+155,2026-06-10,Fromage pizza,laitier_oeufs,13.262,kg,13.262,kg,397900,hypothèse,True,,False,397900,False,"noté 10 pcs, 13,262 kg",reel_quantite_prix_estime
+156,2026-06-10,Mozzarella,laitier_oeufs,4.8,kg,4.8,kg,196300,"cahier d'achats (3,4 kg = 139000)",False,,False,196300,False,,reel_quantite_prix_reference
+157,2026-06-17,"Coca original 1,5L",boissons,3.0,pac,18.0,bouteille,81000,facture (Coca 150cl),False,,False,81000,False,,reel_quantite_prix_reference
+158,2026-06-17,Cristalline 2L,boissons,2.0,pac,12.0,bouteille,38600,facture,False,,False,38600,False,,reel_quantite_prix_reference
+159,2026-06-17,Gold blanche canette,boissons,4.0,pac,96.0,canette,518400,facture,False,,False,518400,False,,reel_quantite_prix_reference
+160,2026-06-23,Martini,boissons,4.0,pcs,4.0,bouteille,240000,hypothèse,True,,False,240000,False,,reel_quantite_prix_estime
+161,2026-06-23,Amarula,boissons,1.0,pcs,1.0,bouteille,100000,hypothèse,True,,False,100000,False,,reel_quantite_prix_estime
+162,2026-06-23,Gold label,boissons,1.0,pcs,1.0,bouteille,350000,hypothèse,True,,False,350000,False,,reel_quantite_prix_estime
+163,2026-06-23,Baileys,boissons,3.0,pcs,3.0,bouteille,360000,hypothèse,True,,False,360000,False,,reel_quantite_prix_estime
+164,2026-06-23,Delahaie (?),boissons,1.0,pcs,1.0,bouteille,80000,hypothèse,True,,False,80000,True,libellé peu lisible,reel_quantite_prix_estime
+165,2026-06-23,Black label,boissons,1.0,pcs,1.0,bouteille,200000,hypothèse (whisky 200000 du cahier d'achats),True,,False,200000,False,,reel_quantite_prix_estime
+166,2026-06-26,Champignon de Paris,epicerie,5.0,pcs,5.0,boîte,25000,cahier d'achats,False,,False,25000,False,,reel_quantite_prix_reference
+167,2026-06-30,Gold blanche canette,boissons,4.0,pac,96.0,canette,518400,facture,False,"cahier d'achats du 2026-07-01 (Boissons 849600 Ar, montant identique)",True,0,False,,reel_quantite_prix_reference
+168,2026-06-30,THB canette,boissons,3.0,pac,72.0,canette,331200,facture,False,"cahier d'achats du 2026-07-01 (Boissons 849600 Ar, montant identique)",True,0,False,,reel_quantite_prix_reference
+169,2026-07-03,Top,emballage,1.0,ball,1.0,pcs,2000,hypothèse (produit non identifié),True,,False,2000,False,,reel_quantite_prix_estime
+170,2026-07-03,Verre à jeter,emballage,5.0,pac,5.0,paquet,25000,hypothèse,True,,False,25000,False,,reel_quantite_prix_estime
+171,2026-07-03,Chilly,epicerie,5.0,pcs,5.0,pcs,40000,hypothèse,True,,False,40000,False,,reel_quantite_prix_estime
+172,2026-07-03,Carton frites,emballage,100.0,pcs,100.0,pcs,50000,hypothèse,True,,False,50000,False,,reel_quantite_prix_estime
+173,2026-07-03,Carton popcorn,emballage,100.0,pcs,100.0,pcs,50000,hypothèse,True,,False,50000,False,,reel_quantite_prix_estime
+174,2026-07-04,Fromage,laitier_oeufs,2.1,kg,2.1,kg,63000,"hypothèse, une pièce = 1,3 kg (10 pcs = 13,262 kg le 10/06)",True,,False,63000,True,"noté 10 pcs, 2,100 kg (lecture à confirmer)",reel_quantite_prix_estime
+175,2026-07-08,Danika bleu,laitier_oeufs,2.0,pcs,2.0,pcs,40000,cahier d'achats,False,cahier d'achats du 2026-07-07 (40000 Ar),True,0,False,,reel_quantite_prix_reference
+176,2026-07-08,Champignon noir,epicerie,1.0,pcs,1.0,paquet,3000,cahier d'achats,False,cahier d'achats du 2026-07-08 (5000 Ar),True,0,False,,reel_quantite_prix_reference
+177,2026-07-10,Calmar,viande_poisson,5.0,kg,5.0,kg,215000,cahier d'achats,False,cahier d'achats du 2026-07-09 (215000 Ar),True,0,False,,reel_quantite_prix_reference
+178,2026-07-11,Mortadelle,viande_poisson,1.0,pcs,1.0,pcs,60000,cahier d'achats (charcuterie),False,cahier d'achats du 2026-07-09 (120000 Ar),True,0,False,,reel_quantite_prix_reference
+179,2026-07-11,Saucisson jambon,viande_poisson,1.0,pcs,1.0,pcs,60000,cahier d'achats (charcuterie),False,cahier d'achats du 2026-07-09 (120000 Ar),True,0,False,,reel_quantite_prix_reference
+180,2026-07-15,Savon,entretien,2.0,carton,80.0,pcs,120000,hypothèse,True,,False,120000,False,,reel_quantite_prix_estime
+181,2026-07-15,Vaseline,entretien,1.0,carton,24.0,pcs,60000,hypothèse,True,,False,60000,False,,reel_quantite_prix_estime
+182,2026-07-15,Huile (carte ?),epicerie,2.0,carton,24.0,litre,240000,hypothèse,True,,False,240000,True,libellé peu lisible,reel_quantite_prix_estime
+183,2026-07-15,Papier hygiénique,entretien,1.0,ball,60.0,rouleau,60000,hypothèse (ball = 60 rouleaux),True,,False,60000,False,,reel_quantite_prix_estime
+184,2026-07-15,Verre à jeter,emballage,10.0,pac,10.0,paquet,50000,hypothèse,True,,False,50000,False,,reel_quantite_prix_estime
+185,2026-07-15,Huile,epicerie,2.0,bidon,2.0,bidon,300000,hypothèse (bidon 20 L),True,,False,300000,False,,reel_quantite_prix_estime
+186,2026-07-15,Cacao en poudre,epicerie,2.0,pcs,2.0,pcs,16000,hypothèse,True,,False,16000,False,,reel_quantite_prix_estime
+187,2026-07-15,Top,emballage,5.0,pcs,5.0,pcs,10000,hypothèse (produit non identifié),True,,False,10000,False,,reel_quantite_prix_estime
+188,2026-07-15,Pâte blanche (?),epicerie,4.0,pcs,4.0,paquet,14000,hypothèse,True,,False,14000,True,libellé peu lisible,reel_quantite_prix_estime
+189,2026-07-15,Spaghetti,epicerie,10.0,pcs,10.0,paquet,35000,hypothèse,True,,False,35000,False,,reel_quantite_prix_estime
+190,2026-07-15,Désodorisant,entretien,4.0,pcs,4.0,pcs,40000,hypothèse,True,,False,40000,False,,reel_quantite_prix_estime
+191,2026-07-15,Insecticide,entretien,2.0,pcs,2.0,pcs,26000,cahier d'achats,False,,False,26000,False,,reel_quantite_prix_reference
+192,2026-07-15,Papier film,emballage,5.0,pcs,5.0,rouleau,75000,hypothèse,True,,False,75000,False,,reel_quantite_prix_estime
+193,2026-07-15,Danika bleu,laitier_oeufs,1.0,pcs,1.0,pcs,20000,cahier d'achats,False,,False,20000,False,,reel_quantite_prix_reference
+194,2026-07-15,Champignon noir,epicerie,2.0,pcs,2.0,paquet,6000,cahier d'achats,False,,False,6000,False,,reel_quantite_prix_reference
+195,2026-07-15,Le Fruit,boissons,9.0,pcs,9.0,bouteille,45000,facture,False,,False,45000,False,,reel_quantite_prix_reference
+196,2026-07-15,Ceres,boissons,14.0,pcs,14.0,bouteille,84000,"vente 10000 x 0,6",False,,False,84000,False,,reel_quantite_prix_reference
+197,2026-07-15,Lithé (?),epicerie,3.0,pcs,3.0,pcs,15000,hypothèse (produit non identifié),True,,False,15000,True,libellé peu lisible,reel_quantite_prix_estime
+198,2026-07-15,Sucre,epicerie,1.0,sac,1.0,sac 50 kg,175000,hypothèse,True,,False,175000,False,,reel_quantite_prix_estime
+199,2026-07-15,Farine,epicerie,2.0,sac,2.0,sac 50 kg,300000,hypothèse,True,,False,300000,False,,reel_quantite_prix_estime
+200,2026-07-15,Poudre de lait,laitier_oeufs,4.0,pcs,4.0,pcs,60000,hypothèse,True,,False,60000,False,,reel_quantite_prix_estime
+201,2026-07-15,Huile de sésame,epicerie,2.0,pcs,2.0,pcs,30000,hypothèse,True,,False,30000,False,,reel_quantite_prix_estime
+202,2026-07-15,Bloc WC,entretien,1.0,pcs,1.0,pcs,5000,hypothèse,True,,False,5000,False,,reel_quantite_prix_estime
+203,2026-07-16,THB GM,boissons,4.0,caseau,80.0,bouteille,312000,facture (THB 65cl),False,,False,312000,False,,reel_quantite_prix_reference
+204,2026-07-16,Gold blanche PM,boissons,1.0,caseau,24.0,bouteille,74400,facture (Gold 33cl),False,,False,74400,False,,reel_quantite_prix_reference
+205,2026-07-16,Caprice GM,boissons,10.0,pac,60.0,bouteille,270000,facture (Jus 150cl),False,,False,270000,False,,reel_quantite_prix_reference
+206,2026-07-16,Caprice canette,boissons,1.0,pac,24.0,canette,54000,facture,False,,False,54000,False,,reel_quantite_prix_reference
+207,2026-07-16,Coca cola PM,boissons,2.0,pac,24.0,bouteille,33000,facture (Jus 35cl),False,,False,33000,False,,reel_quantite_prix_reference
+208,2026-07-16,Eau vive GM,boissons,2.0,pac,12.0,bouteille,36000,"vente 5000 x 0,6",False,,False,36000,False,,reel_quantite_prix_reference
+209,2026-07-17,Levure,epicerie,3.0,pac,3.0,paquet,39000,cahier d'achats,False,,False,39000,False,,reel_quantite_prix_reference
+210,2026-07-17,Verre à jeter,emballage,3.0,pac,3.0,paquet,15000,hypothèse,True,,False,15000,False,,reel_quantite_prix_estime
+211,2026-07-17,Candia lait,laitier_oeufs,2.0,carton,24.0,pcs,144000,hypothèse,True,,False,144000,False,,reel_quantite_prix_estime
+212,2026-07-17,Candia fromage,laitier_oeufs,3.0,pac,36.0,portion,36000,hypothèse,True,,False,36000,False,,reel_quantite_prix_estime
+213,2026-07-17,Vache qui rit,laitier_oeufs,2.0,pac,2.0,boîte,20000,hypothèse,True,,False,20000,False,,reel_quantite_prix_estime
+214,2026-07-17,Barquette,emballage,1.0,pac,50.0,pcs,25000,hypothèse,True,,False,25000,False,,reel_quantite_prix_estime
+215,2026-07-17,World cola GM,boissons,1.0,pac,6.0,bouteille,27000,facture (Coca 150cl),False,,False,27000,False,,reel_quantite_prix_reference
+216,2026-07-17,Coca original GM,boissons,1.0,pac,6.0,bouteille,27000,facture (Coca 150cl),False,,False,27000,False,,reel_quantite_prix_reference
+217,2026-07-17,Coca original PM,boissons,1.0,pac,12.0,bouteille,16500,facture (Jus 35cl),False,,False,16500,False,,reel_quantite_prix_reference
+218,2026-07-17,Danica bleu,laitier_oeufs,1.0,carton,14.0,pcs,280000,cahier d'achats,False,,False,280000,False,,reel_quantite_prix_reference
+219,2026-07-17,Papier film,emballage,1.0,pcs,1.0,rouleau,15000,hypothèse,True,,False,15000,False,,reel_quantite_prix_estime
+220,2026-07-17,Oignon semoule,epicerie,2.0,pcs,2.0,pcs,10000,hypothèse,True,,False,10000,False,,reel_quantite_prix_estime
+221,2026-07-17,Ail en poudre,epicerie,2.0,pcs,2.0,pcs,10000,hypothèse,True,,False,10000,False,,reel_quantite_prix_estime
+222,2026-07-17,Quatre-épices,epicerie,1.0,pcs,1.0,pcs,3000,hypothèse,True,,False,3000,False,,reel_quantite_prix_estime
+223,2026-07-17,Sésame blanc,epicerie,1.0,pcs,1.0,pcs,5000,hypothèse,True,,False,5000,False,,reel_quantite_prix_estime
+224,2026-07-17,Mozzarella,laitier_oeufs,1.0,pcs,1.0,kg,40900,"cahier d'achats (3,4 kg = 139000)",False,,False,40900,False,,reel_quantite_prix_reference
+225,2026-07-17,Café en grain,boissons,1.0,pcs,1.0,paquet,25000,hypothèse,True,,False,25000,False,,reel_quantite_prix_estime
+226,2026-07-17,Corn flakes,epicerie,3.0,carton,36.0,paquet,360000,hypothèse,True,,False,360000,False,,reel_quantite_prix_estime
+227,2026-07-17,Sauce chilly,epicerie,5.0,pcs,5.0,pcs,40000,hypothèse,True,,False,40000,True,chiffre surchargé,reel_quantite_prix_estime
+228,2026-07-17,Mayonnaise,epicerie,2.0,pcs,2.0,pcs,30000,hypothèse,True,,False,30000,False,,reel_quantite_prix_estime
+229,2026-07-17,Moutarde,epicerie,2.0,pcs,2.0,pcs,20000,hypothèse,True,,False,20000,False,,reel_quantite_prix_estime
+230,2026-07-17,Olive verte,epicerie,2.0,pcs,2.0,bocal,20000,hypothèse,True,,False,20000,False,,reel_quantite_prix_estime
+231,2026-07-17,Olive noire,epicerie,1.0,pcs,1.0,bocal,10000,hypothèse,True,,False,10000,False,,reel_quantite_prix_estime
+232,2026-07-17,Champignon,epicerie,1.0,pcs,1.0,boîte,5000,cahier d'achats,False,,False,5000,False,,reel_quantite_prix_reference
+233,2026-07-17,Sauce soja light,epicerie,1.0,pcs,1.0,pcs,8000,hypothèse,True,,False,8000,True,chiffre surchargé,reel_quantite_prix_estime
+234,2026-07-17,Huile d'olive,epicerie,3.0,pcs,3.0,pcs,105000,hypothèse,True,,False,105000,False,,reel_quantite_prix_estime
+235,2026-07-17,Sucre à table,epicerie,2.0,pac,2.0,paquet,10000,hypothèse,True,,False,10000,False,,reel_quantite_prix_estime
+236,2026-07-17,Fromage burger,laitier_oeufs,4.0,pcs,4.0,pcs,60000,hypothèse,True,,False,60000,False,,reel_quantite_prix_estime
+237,2026-07-17,Spaghetti,epicerie,1.0,pcs,1.0,paquet,3500,hypothèse,True,,False,3500,False,,reel_quantite_prix_estime
+238,2026-07-17,Pâte,epicerie,1.0,pcs,1.0,paquet,3500,hypothèse,True,,False,3500,False,,reel_quantite_prix_estime
+239,2026-07-18,Fromage,laitier_oeufs,5.0,pcs,6.5,kg,195000,"hypothèse, une pièce = 1,3 kg (10 pcs = 13,262 kg le 10/06)",True,,False,195000,False,,reel_quantite_prix_estime
+240,2026-07-21,Black label,boissons,2.0,pcs,2.0,bouteille,400000,hypothèse (whisky 200000 du cahier d'achats),True,,False,400000,False,,reel_quantite_prix_estime
+241,2026-07-21,Double black label,boissons,2.0,pcs,2.0,bouteille,560000,hypothèse,True,,False,560000,False,,reel_quantite_prix_estime
+242,2026-07-23,Atody (oeufs),laitier_oeufs,100.0,pcs,100.0,pcs,80000,cahier d'achats,False,cahier d'achats du 2026-08-07 (80000 Ar),True,0,False,,reel_quantite_prix_reference
+243,2026-07-25,Fromage,laitier_oeufs,9.2,kg,9.2,kg,276000,"hypothèse, une pièce = 1,3 kg (10 pcs = 13,262 kg le 10/06)",True,,False,276000,False,"noté 7 pcs, 9,2 kg",reel_quantite_prix_estime
+244,2026-07-29,Red label,boissons,3.0,pcs,3.0,bouteille,432000,"vente 240000 x 0,6",False,,False,432000,False,,reel_quantite_prix_reference
+245,2026-07-30,Eau vive GM,boissons,3.0,pac,18.0,bouteille,54000,"vente 5000 x 0,6",False,,False,54000,False,,reel_quantite_prix_reference
+246,2026-07-30,Caprice PM,boissons,7.0,pac,84.0,bouteille,115500,facture (Jus 35cl),False,,False,115500,False,,reel_quantite_prix_reference
+247,2026-07-30,Caprice GM,boissons,9.0,pac,54.0,bouteille,243000,facture (Jus 150cl),False,,False,243000,False,,reel_quantite_prix_reference
+248,2026-07-30,Fanta PM,boissons,2.0,pac,24.0,bouteille,33000,facture (Jus 35cl),False,,False,33000,False,,reel_quantite_prix_reference
+249,2026-07-30,Eau vive PM,boissons,3.0,pac,36.0,bouteille,64800,"vente 3000 x 0,6",False,,False,64800,False,,reel_quantite_prix_reference
+250,2026-07-30,Cristalline 1L,boissons,3.0,pac,24.0,bouteille,45000,facture,False,,False,45000,False,,reel_quantite_prix_reference
+251,2026-07-30,Cristalline 2L,boissons,2.0,pac,12.0,bouteille,38600,facture,False,,False,38600,False,,reel_quantite_prix_reference
+252,2026-07-30,Gold blanche canette,boissons,4.0,pac,96.0,canette,518400,facture,False,,False,518400,False,,reel_quantite_prix_reference
+253,2026-07-30,THB canette,boissons,3.0,pac,72.0,canette,331200,facture,False,,False,331200,False,,reel_quantite_prix_reference
+254,2026-07-30,Fresh PM,boissons,1.0,caseau,24.0,bouteille,74400,hypothèse : prix Gold 33cl,True,,False,74400,False,noté « 1 caseau + 12 pcs » : 12 pcs ajoutés en ligne suivante,reel_quantite_prix_estime
+255,2026-07-30,Fresh PM,boissons,12.0,pcs,12.0,bouteille,37200,hypothèse : prix Gold 33cl,True,,False,37200,False,,reel_quantite_prix_estime
+256,2026-07-30,Caprice bouteille,boissons,1.0,caseau,6.0,bouteille,27000,facture (Jus 150cl),False,,False,27000,False,,reel_quantite_prix_reference
+257,2026-07-30,Gold blanche PM,boissons,2.0,caseau,48.0,bouteille,148800,facture (Gold 33cl),False,,False,148800,False,,reel_quantite_prix_reference
+258,2026-07-30,Fresh GM,boissons,2.0,caseau,40.0,bouteille,156000,hypothèse : prix THB 65cl,True,,False,156000,False,,reel_quantite_prix_estime
+259,2026-07-30,Booster,boissons,1.0,caseau,20.0,bouteille,78000,hypothèse : prix THB 65cl,True,,False,78000,False,,reel_quantite_prix_estime
+260,2026-07-30,Gold blanche GM,boissons,2.0,caseau,40.0,bouteille,154000,facture (Gold 50cl),False,,False,154000,False,,reel_quantite_prix_reference
+261,2026-07-30,Le Fruit,boissons,1.0,carton,12.0,bouteille,60000,facture,False,,False,60000,False,,reel_quantite_prix_reference
+262,2026-08-12,Love (?),entretien,4.0,pcs,4.0,pcs,32000,hypothèse (lave-vitre ?),True,,False,32000,True,libellé peu lisible,reel_quantite_prix_estime
+263,2026-08-12,Papier film,emballage,1.0,pcs,1.0,rouleau,15000,hypothèse,True,,False,15000,False,,reel_quantite_prix_estime
+264,2026-08-12,Gold GM,boissons,2.0,caseau,40.0,bouteille,154000,facture (Gold 50cl),False,facture fournisseur du même jour,True,0,False,voir facture fournisseur du 12/08,reel_quantite_prix_reference
+265,2026-08-12,THB GM,boissons,4.0,caseau,80.0,bouteille,312000,facture (THB 65cl),False,facture fournisseur du même jour,True,0,False,voir facture,reel_quantite_prix_reference
+266,2026-08-12,Gold blanche PM,boissons,2.0,caseau,48.0,bouteille,148800,facture (Gold 33cl),False,facture fournisseur du même jour,True,0,False,voir facture (Gold 33cl),reel_quantite_prix_reference
+267,2026-08-12,Coca GM,boissons,2.0,pac,12.0,bouteille,54000,facture (Coca 150cl),False,facture fournisseur du même jour,True,0,False,voir facture,reel_quantite_prix_reference
+268,2026-08-12,Caprice bonbon anglais,boissons,2.0,pac,12.0,bouteille,54000,facture (Jus 150cl),False,facture fournisseur du même jour,True,0,False,voir facture (Jus 150cl),reel_quantite_prix_reference
+269,2026-08-12,Cristalline 1L,boissons,3.0,pac,24.0,bouteille,45000,facture,False,facture fournisseur du même jour,True,0,False,voir facture,reel_quantite_prix_reference
+270,2026-08-12,Le Fruit,boissons,1.0,carton,12.0,bouteille,60000,facture,False,facture fournisseur du même jour,True,0,False,voir facture,reel_quantite_prix_reference
+271,2026-08-12,Coca PM,boissons,2.0,pac,24.0,bouteille,33000,facture (Jus 35cl),False,facture fournisseur du même jour,True,0,False,voir facture (Jus 35cl ?),reel_quantite_prix_reference
+272,2026-08-12,Gold blanche canette,boissons,2.0,pac,48.0,canette,259200,facture,False,facture fournisseur du même jour,True,0,False,voir facture,reel_quantite_prix_reference
+273,2026-08-12,Gold 8 canette,boissons,1.0,pac,24.0,canette,129600,facture (canette Gold),False,facture fournisseur du même jour,True,0,False,voir facture : 3 cartons de canettes Gold facturés,reel_quantite_prix_reference
+274,2026-08-12,THB canette,boissons,2.0,pac,48.0,canette,220800,facture,False,facture fournisseur du même jour,True,0,False,voir facture,reel_quantite_prix_reference
+275,2026-08-14,Savon savony,entretien,3.0,carton,120.0,pcs,180000,hypothèse,True,,False,180000,True,libellé peu lisible,reel_quantite_prix_estime
+276,2026-08-14,Extra savony,entretien,2.0,carton,80.0,pcs,120000,hypothèse,True,,False,120000,False,,reel_quantite_prix_estime
+277,2026-08-14,Extra propre PM,entretien,3.0,carton,120.0,pcs,180000,hypothèse,True,,False,180000,False,,reel_quantite_prix_estime
+278,2026-08-14,Extra propre GM,entretien,2.0,carton,48.0,pcs,120000,hypothèse,True,,False,120000,False,,reel_quantite_prix_estime
+279,2026-08-14,Papier film,emballage,3.0,pcs,3.0,rouleau,45000,hypothèse,True,,False,45000,False,,reel_quantite_prix_estime
+280,2026-08-14,Mozzarella,laitier_oeufs,6.74,kg,6.74,kg,275700,"cahier d'achats (3,4 kg = 139000)",False,,False,275700,False,,reel_quantite_prix_reference
+281,2026-08-18,Fécule de manioc,epicerie,2.0,pcs,2.0,pcs,6000,cahier d'achats,False,,False,6000,False,,reel_quantite_prix_reference
+282,2026-08-18,Lipton (?),boissons,28.0,pcs,28.0,sachet,14000,hypothèse,True,,False,14000,True,"chiffre surchargé (28 ou 287), libellé peu lisible",reel_quantite_prix_estime
+283,2026-08-18,Sel (?),epicerie,4.0,pcs,4.0,pcs,4000,hypothèse,True,,False,4000,True,libellé peu lisible,reel_quantite_prix_estime
+284,2026-08-18,Moutarde,epicerie,4.0,pcs,4.0,pcs,40000,hypothèse,True,,False,40000,False,,reel_quantite_prix_estime
+285,2026-08-18,Cacao,epicerie,1.0,pcs,1.0,pcs,8000,hypothèse,True,,False,8000,False,,reel_quantite_prix_estime
+286,2026-08-18,Maïzena,epicerie,4.0,pcs,4.0,pcs,20000,hypothèse,True,,False,20000,False,,reel_quantite_prix_estime
+287,2026-08-18,Miel,epicerie,5.0,pcs,5.0,pcs,75000,hypothèse,True,,False,75000,False,,reel_quantite_prix_estime
+288,2026-08-18,Lave-vitre,entretien,6.0,pcs,6.0,pcs,48000,hypothèse,True,,False,48000,False,,reel_quantite_prix_estime
+289,2026-08-18,Bloc WC,entretien,3.0,pcs,3.0,pcs,15000,hypothèse,True,,False,15000,False,,reel_quantite_prix_estime
+290,2026-08-18,Gel main,entretien,2.0,pcs,2.0,pcs,16000,hypothèse,True,,False,16000,False,,reel_quantite_prix_estime
+291,2026-08-18,Huile de sésame,epicerie,3.0,pcs,3.0,pcs,45000,hypothèse,True,,False,45000,False,,reel_quantite_prix_estime
+292,2026-08-18,Insecticide,entretien,2.0,pcs,2.0,pcs,26000,cahier d'achats,False,,False,26000,False,,reel_quantite_prix_reference
+293,2026-08-18,Sel WC (?),entretien,2.0,pcs,2.0,pcs,10000,hypothèse,True,,False,10000,True,libellé peu lisible,reel_quantite_prix_estime
+294,2026-08-18,Sauce d'huître,epicerie,16.0,pcs,16.0,pcs,160000,hypothèse,True,,False,160000,False,,reel_quantite_prix_estime
+295,2026-08-18,Cahier,fournitures,10.0,pcs,10.0,pcs,20000,hypothèse,True,,False,20000,False,,reel_quantite_prix_estime
+296,2026-08-18,Fleur d'hibiscus,epicerie,1.0,pcs,1.0,pcs,5000,hypothèse,True,,False,5000,False,,reel_quantite_prix_estime
+297,2026-08-18,Vary,epicerie,1.0,sac,1.0,sac 50 kg,120000,hypothèse,True,,False,120000,True,unité non écrite,reel_quantite_prix_estime
+298,2026-08-18,Huile,epicerie,1.0,bidon,1.0,bidon,150000,hypothèse (bidon 20 L),True,,False,150000,True,unité non écrite,reel_quantite_prix_estime
+299,2026-08-18,Fromage,laitier_oeufs,9.482,kg,9.482,kg,284500,"hypothèse, une pièce = 1,3 kg (10 pcs = 13,262 kg le 10/06)",True,,False,284500,False,"noté 8 pcs, 9,482 kg",reel_quantite_prix_estime
+300,2026-08-19,Mortadelle,viande_poisson,3.0,pcs,3.0,pcs,180000,cahier d'achats (charcuterie),False,,False,180000,False,,reel_quantite_prix_reference
+301,2026-08-19,Film 50x300,emballage,2.0,pcs,2.0,rouleau,30000,hypothèse,True,,False,30000,False,,reel_quantite_prix_estime
+302,2026-08-19,Assiette plastique,emballage,100.0,pcs,100.0,pcs,30000,hypothèse,True,,False,30000,False,,reel_quantite_prix_estime
+303,2026-08-19,Barquette noire,emballage,100.0,pcs,100.0,pcs,50000,hypothèse,True,,False,50000,False,,reel_quantite_prix_estime
+304,2026-08-19,LB2 (barquette ?),emballage,200.0,pcs,200.0,pcs,60000,hypothèse,True,,False,60000,True,libellé à préciser,reel_quantite_prix_estime
+305,2026-08-19,Saucière 30ml noire,emballage,2.0,pac,2.0,paquet,10000,hypothèse,True,,False,10000,False,,reel_quantite_prix_estime
+306,2026-08-19,Saucière 50ml,emballage,2.0,pac,2.0,paquet,10000,hypothèse,True,,False,10000,False,,reel_quantite_prix_estime
+307,2026-08-20,Atody (oeufs),laitier_oeufs,98.0,pcs,98.0,pcs,78400,cahier d'achats,False,,False,78400,False,,reel_quantite_prix_reference
+308,2026-08-22,Atody (oeufs),laitier_oeufs,91.0,pcs,91.0,pcs,72800,cahier d'achats,False,,False,72800,False,,reel_quantite_prix_reference
+309,2026-09-16,THB GM,boissons,3.0,caseau,60.0,bouteille,234000,facture (THB 65cl),False,facture fournisseur du même jour,True,0,False,voir facture fournisseur du 16/09,reel_quantite_prix_reference
+310,2026-09-16,Caprice,boissons,4.0,pac,24.0,bouteille,108000,facture (Jus 150cl),False,facture fournisseur du même jour,True,0,False,voir facture (Jus 150cl : 6 cartons facturés),reel_quantite_prix_reference
+311,2026-09-16,World cola,boissons,2.0,pac,12.0,bouteille,54000,"facture (Coca 150cl), format supposé GM",False,facture fournisseur du même jour,True,0,False,absent de la facture du 16/09,reel_quantite_prix_reference
+312,2026-09-16,Le Fruit,boissons,6.0,pcs,6.0,bouteille,30000,facture,False,facture fournisseur du même jour,True,0,False,voir facture,reel_quantite_prix_reference
+313,2026-09-16,Caprice canette,boissons,1.0,pac,24.0,canette,54000,facture,False,facture fournisseur du même jour,True,0,False,voir facture,reel_quantite_prix_reference
+314,2026-09-16,Cuvée blanche,boissons,5.0,pcs,5.0,bouteille,24500,facture,False,facture fournisseur du même jour,True,0,False,voir facture,reel_quantite_prix_reference
+315,2026-09-16,Smoking killers (?),tabac,2.0,pcs,2.0,pcs,10000,hypothèse (produit non identifié),True,,False,10000,True,libellé peu lisible,reel_quantite_prix_estime
+316,2026-09-18,Huile bidon,epicerie,1.0,bidon,1.0,bidon,150000,hypothèse (bidon 20 L),True,,False,150000,False,,reel_quantite_prix_estime
+317,2026-09-18,Huile soja Hina,epicerie,1.0,carton,12.0,litre,120000,hypothèse,True,,False,120000,False,12 pcs,reel_quantite_prix_estime
+318,2026-09-18,Candia lait,laitier_oeufs,1.0,carton,12.0,pcs,72000,hypothèse,True,,False,72000,False,12 pcs,reel_quantite_prix_estime
+319,2026-09-18,Danika rose,laitier_oeufs,1.0,carton,12.0,pcs,240000,cahier d'achats (prix Danika bleu),False,,False,240000,True,12 pcs (lecture à confirmer),reel_quantite_prix_reference
+320,2026-09-18,Danika bleu,laitier_oeufs,1.0,carton,14.0,pcs,280000,cahier d'achats,False,,False,280000,False,14 pcs,reel_quantite_prix_reference
+321,2026-09-18,Chilly pizza,epicerie,7.0,pcs,7.0,pcs,56000,hypothèse,True,,False,56000,False,,reel_quantite_prix_estime
+322,2026-09-18,Chilly kebab (?),epicerie,2.0,pcs,2.0,pcs,16000,hypothèse,True,,False,16000,False,,reel_quantite_prix_estime
+323,2026-09-18,Candia fromage,laitier_oeufs,9.0,pcs,9.0,portion,9000,hypothèse,True,,False,9000,False,,reel_quantite_prix_estime
+324,2026-09-18,Vache qui rit,laitier_oeufs,7.0,pcs,7.0,boîte,70000,hypothèse,True,,False,70000,False,,reel_quantite_prix_estime
+325,2026-09-18,Top,emballage,1.0,ball,1.0,pcs,2000,hypothèse (produit non identifié),True,,False,2000,False,,reel_quantite_prix_estime
+326,2026-09-18,Papier hygiénique,entretien,6.0,pac,60.0,rouleau,60000,hypothèse (ball = 60 rouleaux),True,,False,60000,False,,reel_quantite_prix_estime
+327,2026-09-18,Poudre cacao,epicerie,10.0,pcs,10.0,pcs,80000,hypothèse,True,,False,80000,False,,reel_quantite_prix_estime
+328,2026-09-18,Chapelure,epicerie,10.0,pcs,10.0,paquet,50000,cahier d'achats,False,,False,50000,False,,reel_quantite_prix_reference
+329,2026-09-18,Champignon de Paris,epicerie,10.0,pcs,10.0,boîte,50000,cahier d'achats,False,,False,50000,False,,reel_quantite_prix_reference
+330,2026-09-18,Café,boissons,40.0,pcs,40.0,sachet,80000,hypothèse,True,,False,80000,True,chiffre surchargé (40 ou 10),reel_quantite_prix_estime
+331,2026-09-22,Fanta canette,boissons,1.0,pac,24.0,canette,72000,"vente 5000 x 0,6",False,,False,72000,False,,reel_quantite_prix_reference
+332,2026-09-22,Coca canette,boissons,48.0,pcs,48.0,canette,144000,"vente 5000 x 0,6",False,,False,144000,False,,reel_quantite_prix_reference
+333,2026-09-22,Barquette plastique,emballage,1.0,pac,50.0,pcs,25000,hypothèse,True,,False,25000,False,,reel_quantite_prix_estime
+334,2026-09-22,Insecticide,entretien,2.0,pcs,2.0,pcs,26000,cahier d'achats,False,,False,26000,False,,reel_quantite_prix_reference
+335,2026-09-22,Sac poubelle 100L,emballage,4.0,pcs,4.0,pcs,8000,hypothèse,True,,False,8000,False,,reel_quantite_prix_estime
+336,2026-09-22,Vert micelle (?),entretien,3.0,pcs,3.0,pcs,15000,hypothèse (produit non identifié),True,,False,15000,True,libellé illisible,reel_quantite_prix_estime
+337,2026-09-22,Origan,epicerie,1.0,sac,1.0,sachet,10000,hypothèse,True,,False,10000,False,,reel_quantite_prix_estime
+338,2026-09-22,Fromage,laitier_oeufs,8.222,kg,8.222,kg,246700,"hypothèse, une pièce = 1,3 kg (10 pcs = 13,262 kg le 10/06)",True,,False,246700,False,,reel_quantite_prix_estime
+339,2026-09-26,Atody (oeufs),laitier_oeufs,15.0,pcs,15.0,pcs,12000,cahier d'achats,False,,False,12000,False,,reel_quantite_prix_reference
+340,2026-09-26,Atody (oeufs),laitier_oeufs,20.0,pcs,20.0,pcs,16000,cahier d'achats,False,,False,16000,False,,reel_quantite_prix_reference
+341,2026-09-29,Atody (oeufs),laitier_oeufs,50.0,pcs,50.0,pcs,40000,cahier d'achats,False,,False,40000,False,,reel_quantite_prix_reference
+342,2026-10-06,Barquette plastique K,emballage,54.0,pcs,54.0,pcs,27000,hypothèse,True,,False,27000,False,,reel_quantite_prix_estime
+343,2026-10-06,Barquette plastique C,emballage,30.0,pcs,30.0,pcs,15000,hypothèse,True,,False,15000,False,,reel_quantite_prix_estime
+344,2026-10-06,Barquette plastique L,emballage,10.0,pcs,10.0,pcs,7000,hypothèse,True,,False,7000,False,,reel_quantite_prix_estime
+345,2026-10-06,Papier film,emballage,1.0,pcs,1.0,rouleau,15000,hypothèse,True,,False,15000,False,,reel_quantite_prix_estime
+346,2026-10-06,Paille de fer,entretien,3.0,pcs,3.0,pcs,3000,hypothèse,True,,False,3000,False,,reel_quantite_prix_estime
+347,2026-10-09,Gold blanche canette,boissons,2.0,pac,48.0,canette,259200,facture,False,facture fournisseur du même jour,True,0,False,voir facture fournisseur du 09/10,reel_quantite_prix_reference
+348,2026-10-09,THB canette,boissons,2.0,pac,48.0,canette,220800,facture,False,facture fournisseur du même jour,True,0,False,voir facture,reel_quantite_prix_reference
+349,2026-10-09,Cristalline 1L,boissons,2.0,pac,16.0,bouteille,30000,facture,False,facture fournisseur du même jour,True,0,False,voir facture,reel_quantite_prix_reference
+350,2026-10-09,Cristalline 2L,boissons,1.0,pac,6.0,bouteille,19300,facture,False,facture fournisseur du même jour,True,0,False,voir facture,reel_quantite_prix_reference
+351,2026-10-20,Ronono mandry (lait concentré ?),laitier_oeufs,4.0,pcs,4.0,pcs,20000,hypothèse,True,,False,20000,False,,reel_quantite_prix_estime
+352,2026-10-20,Verre à jeter,emballage,10.0,pac,10.0,paquet,50000,hypothèse,True,,False,50000,False,,reel_quantite_prix_estime
+353,2026-10-20,Gel WC,entretien,4.0,pcs,4.0,pcs,32000,hypothèse,True,,False,32000,False,,reel_quantite_prix_estime
+354,2026-10-20,Lave-vitre,entretien,3.0,pcs,3.0,pcs,24000,hypothèse,True,,False,24000,True,chiffre peu lisible,reel_quantite_prix_estime
+355,2026-10-20,Paille de fer,entretien,1.0,pac,10.0,pcs,10000,hypothèse,True,,False,10000,False,,reel_quantite_prix_estime
+356,2026-10-21,Huile bidon,epicerie,1.0,bidon,1.0,bidon,150000,hypothèse (bidon 20 L),True,,False,150000,False,,reel_quantite_prix_estime
+357,2026-10-21,Fromage,laitier_oeufs,3.278,kg,3.278,kg,98300,"hypothèse, une pièce = 1,3 kg (10 pcs = 13,262 kg le 10/06)",True,,False,98300,False,,reel_quantite_prix_estime
+358,2026-10-21,Mozzarella,laitier_oeufs,4.126,kg,4.126,kg,168800,"cahier d'achats (3,4 kg = 139000)",False,,False,168800,False,,reel_quantite_prix_reference
+359,2026-10-27,Fromage,laitier_oeufs,2.676,kg,2.676,kg,80300,"hypothèse, une pièce = 1,3 kg (10 pcs = 13,262 kg le 10/06)",True,,False,80300,False,,reel_quantite_prix_estime
+360,2026-10-29,THB GM,boissons,9.0,caseau,180.0,bouteille,702000,facture (THB 65cl),False,,False,702000,False,,reel_quantite_prix_reference
+361,2026-10-29,Gold blanche GM,boissons,5.0,caseau,100.0,bouteille,385000,facture (Gold 50cl),False,,False,385000,False,,reel_quantite_prix_reference
+362,2026-10-29,Gold blanche GM,boissons,1.0,caseau,20.0,bouteille,77000,facture (Gold 50cl),False,,False,77000,False,écrit deux fois (5 puis 1),reel_quantite_prix_reference
+363,2026-10-29,Queen GM,boissons,1.0,caseau,20.0,bouteille,78000,hypothèse : prix THB 65cl,True,,False,78000,False,,reel_quantite_prix_estime
+364,2026-10-29,Fresh GM,boissons,1.0,caseau,20.0,bouteille,78000,hypothèse : prix THB 65cl,True,,False,78000,False,,reel_quantite_prix_estime

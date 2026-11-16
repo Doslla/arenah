@@ -1,0 +1,748 @@
+date;produit;quantite;prix_ar;remarque
+2026-04-08;Whisky;;150000;
+2026-04-08;Lot : gingembre 0,5 kg, oignon 5 kg, pomme de terre, persil, oignon vert, céleri, basilic, blanc de poulet 3 kg;;140000;un seul montant pour le lot
+2026-04-10;Sachet;5 pcs;5000;
+2026-04-10;Yaourt nature;2;2400;
+2026-04-10;Lohan'akoho;;14000;total du jour noté 21400
+2026-04-11;Petit pois;;10000;
+2026-04-11;Anana;;1500;
+2026-04-11;Tsaramaso;2,5 kp;4000;
+2026-04-12;Courgette;;1000;
+2026-04-12;Salade;;1000;
+2026-04-12;Beurre;1;3000;
+2026-04-12;Salade;;2000;
+2026-04-14;Kotomila;;1000;salade 2000 barrée, non reprise
+2026-04-14;Tongolo maintso;;1000;
+2026-04-14;Persil;;1000;
+2026-04-14;Tongolo gasy;;1000;
+2026-04-14;Anamalao;;500;
+2026-04-15;Beurre;;3000;
+2026-04-18;Tomate;;3000;
+2026-04-18;Karoty;;3000;
+2026-04-18;Anana;;700;
+2026-04-18;Ananas;1 pc;2000;
+2026-04-19;Salade;;3000;
+2026-04-19;Voatavo;;1000;
+2026-04-19;Beurre;;3000;
+2026-04-19;Blanc de poulet;;60000;
+2026-04-21;Tomate;;3000;
+2026-04-21;Salade;;3000;
+2026-04-21;Salade verte;;5000;date 22/04 barrée, remplacée par 21/04
+2026-04-21;Pomme de terre;;35000;
+2026-04-21;Oignon;;25000;
+2026-04-21;Oignon vert;;2000;
+2026-04-21;Coriandre;;2000;
+2026-04-21;Carottes;;6000;
+2026-04-21;Courgettes;;4000;
+2026-04-21;Tomates;;6000;
+2026-04-21;Concombre;;4000;
+2026-04-21;Ail;;9000;
+2026-04-21;Gingembre;;10000;
+2026-04-21;Chou blanc;;2000;
+2026-04-21;Persil;;1000;
+2026-04-21;Frais;;2000;total noté 113000 (111000 + frais 2000)
+2026-04-22;Atody (oeufs);90;63000;noté « Vola 22 avril »
+2026-04-23;Beurre;1;2500;
+2026-04-24;ORO;1;12000;
+2026-04-24;Yaourt;1;1100;
+2026-04-25;Mofo;2;1200;
+2026-04-25;Anana;;1000;
+2026-04-25;Patsa mena;;1000;
+2026-04-25;Yaourt;;2200;
+2026-04-25;Blanc de poulet;;60000;
+2026-04-25;Retrait Madame;;10000;retrait d'argent de la caisse par la responsable « Madame » (corrigé par l'utilisateur le 03/11, auparavant classé cadeau)
+2026-04-26;Beurre;2;6000;
+2026-04-26;Tongolo gasy;;5000;
+2026-04-26;Voatabia;;3000;
+2026-04-26;Salade;;5800;confirmé 5800 par l'utilisateur
+2026-04-26;Tongolo maintso;;1000;
+2026-04-26;Kotomila;;1000;
+2026-04-26;Ail;;2000;
+2026-04-28;Tsaramaso;5 kp;7500;
+2026-04-28;Beurre;1;3000;
+2026-04-28;Garana;;5000;garana = grenadelle (glossaire) / total du jour 15500
+2026-04-29;Lot : tongotra akoho 1 kg, lohan'akoho 1 kg;;28000;un seul montant pour le lot
+2026-05-02;Vary;2 kp;1800;confirmé par l'utilisateur
+2026-05-02;Anana;;1000;
+2026-05-02;Patsa mena;;1000;
+2026-05-02;Goavy;;1200;
+2026-05-02;Goavy;;2000;bloc sans date après le 02/05, rattaché au 02/05 (à confirmer)
+2026-05-02;Oignon;1 kg;3000;bloc sans date / prix bas expliqué par la saison (utilisateur)
+2026-05-02;Coriandre;;2000;bloc sans date, à confirmer
+2026-05-02;Tomates;;3000;bloc sans date, à confirmer
+2026-05-02;Salade;;5000;bloc sans date, à confirmer
+2026-05-02;Beurre;2;6000;bloc sans date, total 21000, à confirmer
+2026-05-06;Ovy;10 kg;35000;bloc sans date avant le 07/05, date estimée / relu « Ovy » (pomme de terre), lu « Vary » en v1
+2026-05-06;Oignon;5 kg;30000;date estimée
+2026-05-06;Oignon vert;;2000;date estimée
+2026-05-06;Coriandre;;2000;date estimée
+2026-05-06;Persil;;1000;date estimée
+2026-05-07;Voanjobory;5 kp;7000;
+2026-05-07;Blanc de poulet;3;60000;écrit 600000, corrigé par le total du jour 78000
+2026-05-07;Totokena;;11000;
+2026-05-08;Pâte nem;15 sachets;15000;
+2026-05-08;Oignon vert;;2000;
+2026-05-08;Coriandre;;2000;
+2026-05-08;Céleri;;1000;
+2026-05-08;Menthe;;1000;
+2026-05-08;Carotte;2 kg;6000;
+2026-05-08;Concombre;2 kg;6000;
+2026-05-08;Tomates;2 kg;6000;
+2026-05-08;Salade verte;;3000;
+2026-05-08;Garana;5 kg;20000;garana = grenadelle (glossaire)
+2026-05-09;Cahier;;5000;fourniture, hors ingrédients
+2026-05-09;Mofo;1;600;
+2026-05-09;Ananas, salade;;5000;
+2026-05-10;Beurre;2;6000;
+2026-05-13;Anamalao;;500;
+2026-05-14;Salade;;3000;
+2026-05-14;Mofo;1;600;
+2026-05-14;Cuisse de poulet;;60000;
+2026-05-14;Totokena;;21000;confirmé par l'utilisateur
+2026-05-16;Anatsonga;;500;
+2026-05-16;Karoty;;2000;
+2026-05-16;Tomate;;1000;
+2026-05-16;Pomme de terre;10 kg;35000;
+2026-05-16;Carotte;2 kg;6000;
+2026-05-16;Haricot vert;1 kg;4000;
+2026-05-16;Gingembre;1 kg;10000;
+2026-05-16;Tomates;2 kg;6000;suite page suivante
+2026-05-16;Poivron;1 kg;4000;
+2026-05-16;Salade verte;;5000;
+2026-05-16;Citron;;5000;total noté 81500 (écart de 3000 : frais non écrits ?)
+2026-05-17;Beurre;1;3000;
+2026-05-17;Anana;;500;
+2026-05-17;Mofo;1;600;
+2026-05-17;Blanc de poulet;1;60000;
+2026-05-19;Kofehy;;500;
+2026-05-19;Céleri;;1000;
+2026-05-19;Poireau;;1000;total 2500
+2026-05-21;Thé sahambavy;;1000;
+2026-05-21;Tongolo maintso;;1000;
+2026-05-21;Tongolo;500 g;3500;
+2026-05-21;Anguy;;500;suite page suivante
+2026-05-21;Anamalao;;500;
+2026-05-21;Anana;;500;
+2026-05-21;Retrait Madame;;5000;retrait d'argent de la caisse par la responsable « Madame » (corrigé par l'utilisateur le 03/11, auparavant classé cadeau)
+2026-05-21;Oignon vert;;2000;
+2026-05-21;Coriandre;;2000;
+2026-05-21;Pâte nem;;15000;
+2026-05-21;Salade verte;;5000;
+2026-05-21;Haricot vert;;4000;
+2026-05-21;Grenadelle;;15000;
+2026-05-21;Tomate;;6000;
+2026-05-21;Gingembre;;10000;
+2026-05-21;Anamalao;;1000;
+2026-05-21;Carotte;;6000;
+2026-05-21;Courgette;;4000;
+2026-05-21;Céleri;;1000;
+2026-05-21;Poireau;;1000;
+2026-05-21;Menthe;;1000;
+2026-05-21;Thym;;1000;
+2026-05-21;Basilic;;2000;
+2026-05-21;Frais;;2000;total noté 78000
+2026-05-24;Salade;;5000;
+2026-05-24;Tongolo;;3500;
+2026-05-24;Tongolo maintso;;1000;
+2026-05-24;Courgette;;1000;
+2026-05-24;Oeufs;100;70000;
+2026-05-24;Tongolo gasy;;3000;
+2026-05-24;Céleri;;500;
+2026-05-24;Poireau;;500;
+2026-05-24;Sachet;;5000;
+2026-05-24;Sachet;;10000;total noté 99500
+2026-05-24;Pomme de terre;10 kg;35000;second bloc du 24/05
+2026-05-24;Oignon;5 kg;30000;
+2026-05-24;Ail;2 kg;6000;
+2026-05-24;Courgettes;2 kg;4000;
+2026-05-24;Tomates;2 kg;6000;
+2026-05-24;Oignon vert;;2000;
+2026-05-24;Coriandre;;2000;
+2026-05-24;Grenadelle;;25000;total du bloc 113000 (résolu : frais 3000 estimés ajoutés)
+2026-05-25;Anana;;500;
+2026-05-25;Salade;;3000;
+2026-05-25;Mofo gasy;;2000;
+2026-05-27;Salade;;3000;
+2026-05-27;Céleri;;2000;
+2026-05-27;Oignon vert;;4000;
+2026-05-27;Pomme de terre;;35000;
+2026-05-27;Coriandre;;3000;
+2026-05-27;Poireau;;1000;
+2026-05-27;Menthe;;1000;
+2026-05-27;Ail;;6000;
+2026-05-27;Pâte nem;;15000;
+2026-05-27;Champignon noir;;6000;
+2026-05-27;Tomates;;6000;
+2026-05-27;Frais;;3000;total noté 85000
+2026-05-28;Fécule de manioc;;3000;
+2026-05-29;Anana;;1400;
+2026-05-29;Lot : lohan'akoho, tongotr'akoho;;28000;total 29400
+2026-05-30;Pomme de terre;;35000;
+2026-05-30;Ail;;6000;
+2026-05-30;Haricot vert;;4000;
+2026-05-30;Frais;;3000;total 48000
+2026-05-31;Petit pois;5 kp;6500;
+2026-06-02;Salade;;3000;
+2026-06-02;Oignon vert;;3000;
+2026-06-02;Coriandre;;3000;
+2026-06-02;Céleri;;1000;
+2026-06-02;Poireau;;1000;suite page suivante
+2026-06-02;Menthe;;1000;
+2026-06-02;Pâte nem;;15000;
+2026-06-02;Ail;;6000;
+2026-06-02;Gingembre;;10000;
+2026-06-02;Concombre;;6000;
+2026-06-02;Courgette;;4000;
+2026-06-02;Carotte;;6000;
+2026-06-02;Tomate;;6000;
+2026-06-02;Salade verte;;3000;
+2026-06-02;Frais;;3000;noté 65000 + frais 3000 = 68000 (somme des lignes 71000, à vérifier)
+2026-06-03;Oignon;;7000;confirmé 7000 par l'utilisateur (lu 1000 ou 7000)
+2026-06-03;Anana;;500;
+2026-06-06;Citron;;1500;
+2026-06-06;Oignon;5 kg;30000;
+2026-06-06;Citron;;5000;
+2026-06-06;Ail;;9000;
+2026-06-06;Carottes;;6000;
+2026-06-06;Tomates;;6000;
+2026-06-06;Salade;;3000;
+2026-06-06;Brocoli;;3000;
+2026-06-06;Basilic;;2000;
+2026-06-06;Frais;;3000;
+2026-06-06;Céleri;;1000;total noté 69500
+2026-06-07;Beurre;2;5000;
+2026-06-09;Garana;;25000;
+2026-06-09;Oignon vert;;2000;
+2026-06-09;Coriandre;;2000;
+2026-06-09;Salade;;3000;
+2026-06-09;Frais;;3000;total noté 35000
+2026-06-10;Beurre;;3000;
+2026-06-10;Sachet;;500;
+2026-06-10;Tripy (tripes);;36000;
+2026-06-10;Blanc de poulet;;60000;total 99500
+2026-06-14;Salade;;2000;
+2026-06-14;Carottes;2 kg;6000;
+2026-06-14;Haricot vert;1 kg;4000;
+2026-06-14;Courgette;2 kg;5000;
+2026-06-14;Tomates;2 kg;6000;
+2026-06-14;Chou chinois;1 pc;1500;
+2026-06-14;Ail;3 kg;9000;
+2026-06-14;Oignon vert;;2000;
+2026-06-14;Coriandre;;2000;
+2026-06-14;Basilic;;2000;
+2026-06-14;Thym;;2000;
+2026-06-14;Concombre;3 kg;6000;
+2026-06-14;Chou blanc;1 pc;2000;
+2026-06-14;Chou rouge;1 pc;5000;
+2026-06-14;Frais;;3000;total 57500
+2026-06-16;Sachet;;2000;
+2026-06-16;Beurre;;6000;
+2026-06-18;Akondro;;1500;
+2026-06-18;Anamalao;;500;
+2026-06-18;Anguy;;500;
+2026-06-19;Insecticide;;13000;hors ingrédients
+2026-06-20;Beurre;1;3000;
+2026-06-20;Ovy;;2000;
+2026-06-21;Salade;;3000;
+2026-06-23;Beurre;1;3000;
+2026-06-23;Insecticide;;12000;hors ingrédients
+2026-06-24;Anana;;500;
+2026-06-24;Poireau;;500;
+2026-06-24;Voatabia;;3000;
+2026-06-24;Céleri;;1000;
+2026-06-24;Champignon de Paris;;4500;total 9500
+2026-06-25;Persil;;500;
+2026-06-26;Sakamalao;;3500;relu : « Sakamalao » (gingembre), premières lettres raturées, lu « Anamalao » en v1
+2026-06-26;Vary;;3000;
+2026-06-26;Ananas;;1000;
+2026-06-26;Ovy;;1500;
+2026-06-26;Voatavo;;500;
+2026-06-26;Coriandre;;1000;
+2026-06-26;Oignon vert;;1000;
+2026-06-26;Carotte;;4000;
+2026-06-26;Persil;;500;
+2026-06-26;Oignon;;2500;
+2026-06-26;Tomate;1 kg;3500;
+2026-06-27;Beurre;1;2800;
+2026-06-27;Sachet;;2000;
+2026-06-27;Salade;;3000;
+2026-06-27;Insecticide;;11000;hors ingrédients
+2026-06-27;Blanc de poulet;;60000;
+2026-06-28;Céleri;;2000;
+2026-06-28;Coriandre;;1500;
+2026-06-28;Poireau;;1000;
+2026-06-28;Salade;;3000;
+2026-06-28;Oignon vert;;1500;total 9000
+2026-06-30;Beurre;2;5400;
+2026-07-01;Nofony (viande);1 kg;21000;paiement fournisseur « vola semaine du 30/06 au 03/07 »
+2026-07-01;Totokena;1 kg;21000;idem
+2026-07-01;Filet;1,25 kg;28700;idem, sous-total 70700
+2026-07-01;Atody (oeufs);100;76000;confirmé 76000 par l'utilisateur
+2026-07-01;Boissons;;849600;réapprovisionnement boissons, montant exceptionnel
+2026-07-01;Insecticide;;12000;hors ingrédients / page photographiée deux fois, comptée une seule fois
+2026-07-02;Beurre;;2700;
+2026-07-02;La craie;;2500;craie pour le tableau du restaurant (confirmé par l'utilisateur)
+2026-07-02;Pomme de terre;;35000;
+2026-07-02;Haricot vert;;4000;
+2026-07-02;Tomates;;6000;
+2026-07-02;Oignon vert;;4000;
+2026-07-02;Coriandre;;4000;
+2026-07-02;Céleri;;3000;
+2026-07-02;Menthe;;1000;
+2026-07-02;Poireau;;1000;
+2026-07-02;Carottes;;6000;
+2026-07-02;Chou blanc;;4000;
+2026-07-02;Concombre;;6000;
+2026-07-02;Poivron;;8000;
+2026-07-02;Gingembre;;10000;lu 1000, corrigé à 10000 : le sous-total noté 102200 ne tombe juste qu'avec 10000
+2026-07-02;Basilic;;2000;
+2026-07-02;Frais;;3000;sous-total noté 102200 (résolu : gingembre corrigé à 10000)
+2026-07-02;Pâte nem;;15000;total noté 117200
+2026-07-03;Sachet;;3000;
+2026-07-04;Tomate;;4000;« vola semaine du 23/06 au 04/07 » (règlement fournisseur)
+2026-07-04;Voanjo;;9000;idem
+2026-07-04;Kotomila;;2500;idem
+2026-07-04;Tongolo maintso;;1000;idem
+2026-07-05;Totokena;2 kg;42000;« vola semaine du 23/06 au 05/07 » (règlement fournisseur)
+2026-07-05;Tranches fines;5 kg;105000;idem
+2026-07-05;Hena (loka mpanakanto);;30000;idem
+2026-07-05;Akoho;;190000;idem
+2026-07-04;Salade;;5000;
+2026-07-04;Beurre;;2700;
+2026-07-04;Oignon;;4500;
+2026-07-04;Anamalao;;500;total 12700
+2026-07-05;Ovy;;2000;
+2026-07-05;Voatavo;;500;
+2026-07-05;Blanc de poulet;;60000;total 62500
+2026-07-07;Oignon;;5000;
+2026-07-07;Salade;;3000;
+2026-07-07;Oignon vert;;1000;
+2026-07-07;Coriandre;;1000;
+2026-07-07;Insecticide;;11000;hors ingrédients
+2026-07-07;Ovy;;1000;
+2026-07-07;Sachet;;400;
+2026-07-07;Lot : tongotr'akoho, lohan'akoho;;28000;
+2026-07-07;Danika bleu;;40000;total 90400
+2026-07-08;Champignon noir;;5000;
+2026-07-08;Tomate;;3000;
+2026-07-08;Persil;;500;
+2026-07-08;Lot : coriandre, oignon vert;;1500;total 10000
+2026-07-09;Mozzarella (Babou);3,4 kg;139000;« vola semaine du 23/06 au 09/07 »
+2026-07-09;Chou chinois;;1500;
+2026-07-09;Courgettes;;1000;
+2026-07-09;Beurre;2;5400;
+2026-07-09;Tomate;1 kg;3000;
+2026-07-09;Oignon;1 kg;4500;total 15400
+2026-07-09;Calmar;5 kg;215000;« vola semaine du 30/06 au 09/07 »
+2026-07-09;Charcuterie;2;120000;idem / reste à payer noté 22300
+2026-07-09;Oignon;5 kg;25000;« 9 juillet suite »
+2026-07-09;Oignon vert;;2000;
+2026-07-09;Coriandre;;2000;
+2026-07-09;Carottes;;6000;
+2026-07-09;Courgettes;;6000;
+2026-07-09;Pomme de terre;;30000;
+2026-07-09;Basilic;;2000;
+2026-07-09;Chou blanc;;2000;
+2026-07-09;Thym;;3000;
+2026-07-09;Frais;;3000;total 81000
+2026-07-12;Salade;;3000;
+2026-07-12;Anguy;;500;
+2026-07-12;Anamalao;;500;
+2026-07-12;Mofo;;600;
+2026-07-12;Blanc de poulet;;60000;total 64600
+2026-07-14;Tolana;1 kg;16000;« vola semaine du 7 juillet »
+2026-07-14;Odiny;0,5 kg;7500;idem
+2026-07-14;Nofon-kisoa;2 kg;42000;idem
+2026-07-14;Totokena;;21000;idem, total 86500
+2026-07-14;Beurre;2;5400;
+2026-07-14;Céleri;;1000;
+2026-07-14;Salade;;3000;
+2026-07-14;Patsa mena;;1000;
+2026-07-14;Sachet;;400;
+2026-07-15;Beurre;2;5400;
+2026-07-15;Atody (oeufs);30;24000;
+2026-07-15;Anatsonga;;1000;
+2026-07-15;Anguy;;1000;total 31400
+2026-07-16;Tomate;;3000;
+2026-07-16;Sachet;;2000;
+2026-07-16;Oignon vert;;2000;
+2026-07-16;Coriandre;;2000;
+2026-07-16;Céleri;;1000;
+2026-07-16;Haricot vert;2 kg;3000;
+2026-07-16;Tomates;2 kg;6000;
+2026-07-16;Pomme de terre;10 kg;35000;
+2026-07-16;Frais;;3000;
+2026-07-16;Beurre;1;2700;total 59700
+2026-07-17;Beurre;2;5400;
+2026-07-17;Gaz;1;100000;hors ingrédients (énergie)
+2026-07-18;Anatsonga;;500;
+2026-07-18;Anguy;;500;tomate 1 kg 3000 barrée, non reprise
+2026-07-18;Whisky;;200000;« suite 18 juillet »
+2026-07-18;Trondro (poisson);;88000;
+2026-07-19;Tomate;1 kg;3000;
+2026-07-19;Carotte;1 kg;3000;
+2026-07-19;Oignon vert;;2000;
+2026-07-19;Coriandre;;2000;
+2026-07-19;Salade;;3000;
+2026-07-19;Ail;1 kp;2000;gingembre 1/2 kg barré
+2026-07-19;Atody (oeufs);10;8000;total 23000
+2026-07-20;Carottes;2 kg;6000;page sans date entre le 19 et le 21/07, date estimée
+2026-07-20;Tomates;2 kg;6000;date estimée
+2026-07-20;Courgette;;6000;date estimée
+2026-07-20;Pomme de terre;;35000;date estimée
+2026-07-20;Oignon;;20000;date estimée
+2026-07-20;Oignon vert;;3000;date estimée
+2026-07-20;Coriandre;;3000;date estimée
+2026-07-20;Céleri;;2000;date estimée
+2026-07-20;Menthe;;1000;date estimée
+2026-07-20;Ail;;6000;date estimée
+2026-07-20;Gingembre;;10000;date estimée
+2026-07-20;Poireau;;1000;date estimée
+2026-07-20;Salade;;3000;date estimée
+2026-07-20;Pâte nem;;15000;date estimée
+2026-07-20;Basilic;;2000;date estimée
+2026-07-20;Frais;;3000;date estimée
+2026-07-20;Citron;1 kg;8000;date estimée
+2026-07-20;Petit pois;5 kp;6000;date estimée, total noté 136000
+2026-07-21;Anamalao;;500;
+2026-07-21;Anguy;;500;
+2026-07-21;Atody (oeufs);5;4000;
+2026-07-21;Sachet;;3000;total 8000
+2026-07-22;Atody (oeufs);50;40000;
+2026-07-23;Oignon vert;;3000;
+2026-07-23;Coriandre;;3000;
+2026-07-23;Céleri;;2000;
+2026-07-23;Poireau;;1000;
+2026-07-23;Menthe;;1000;
+2026-07-23;Pâte nem;;15000;total 25000
+2026-07-25;Sachet;;3000;
+2026-07-25;Carotte;;3000;lecture 3000 ou 3800
+2026-07-25;Salade;;3800;
+2026-07-25;Beurre;;2700;
+2026-07-25;Coriandre;;1000;
+2026-07-25;Oignon vert;;1000;total noté 14500
+2026-07-26;Insecticide;;12000;hors ingrédients
+2026-07-26;Banane;;1000;
+2026-07-26;Anana;;500;
+2026-07-26;Vary;;1600;
+2026-07-26;Salade;;3000;
+2026-07-26;Blanc de poulet;;60000;
+2026-07-28;Salade;;3000;
+2026-07-28;Haricot vert;;1800;
+2026-07-28;Ananas;;2500;
+2026-07-28;Coriandre;;1000;
+2026-07-28;Persil;;500;
+2026-07-28;Anana;;1500;total 10300
+2026-07-29;Pomme de terre;10 kg;35000;
+2026-07-29;Oignon;5 kg;20000;
+2026-07-29;Ail;2 kg;6000;gingembre 1 kg barré
+2026-07-29;Carottes;;6000;
+2026-07-29;Courgette;;6000;
+2026-07-29;Oignon vert;;2000;
+2026-07-29;Coriandre;;2000;
+2026-07-29;Tomates;2 kg;6000;
+2026-07-29;Frais;;3000;total 86000
+2026-08-01;Beurre;2;5400;
+2026-08-01;Salade;;3000;
+2026-08-01;Pâte nem;;15000;
+2026-08-01;Oignon vert;;2000;
+2026-08-01;Coriandre;;2000;
+2026-08-01;Céleri;;1000;
+2026-08-01;Menthe;;1000;
+2026-08-01;Basilic;;2000;
+2026-08-01;Carotte;2 kg;6000;suite du 01/08
+2026-08-01;Haricot vert;1 kg;4000;
+2026-08-01;Chou rouge;1 kg;3000;
+2026-08-01;Tsaramaso mena;;7500;
+2026-08-01;Frais;;500;sous-total noté 46500
+2026-08-01;Anguy;;500;lecture à confirmer (frais 500 / anguy)
+2026-08-01;Blanc de poulet;;60000;
+2026-08-02;Atody (oeufs);20;16000;
+2026-08-02;Sachet;;1000;
+2026-08-02;Insecticide;;13000;hors ingrédients
+2026-08-04;Salade;;3000;
+2026-08-04;Anana;;500;
+2026-08-06;Insecticide;;13000;hors ingrédients
+2026-08-06;Oignon vert;;2000;
+2026-08-06;Coriandre;;2000;
+2026-08-06;Céleri;;1000;
+2026-08-06;Menthe;;1000;
+2026-08-06;Pomme de terre;;35000;
+2026-08-06;Tomate;;6000;
+2026-08-06;Carottes;;6000;
+2026-08-06;Grenadelle;;30000;lu 3000, corrigé à 30000 : le total noté 94000 (hors insecticide) ne tombe juste qu'avec 30000
+2026-08-06;Citron;;8000;
+2026-08-06;Frais;;3000;total noté 94000 hors insecticide (résolu : grenadelle corrigée à 30000)
+2026-08-07;Rambin'omby;;10500;« vola semaine du 28/07 au 02/08 »
+2026-08-07;Totokena;;21000;idem
+2026-08-07;Nofokena;;42000;idem, total 73500
+2026-08-07;Beurre;2;5400;
+2026-08-07;Sachet;;4000;
+2026-08-07;Atody (oeufs);100;80000;« vola semaine 28 juillet »
+2026-08-07;Kitay (charbon);;200000;« vola semaine 28 juillet » / énergie, hors ingrédients
+2026-08-08;Blanc de poulet;;60000;
+2026-08-08;Garana;;4000;
+2026-08-09;Salade;;5000;
+2026-08-09;Patsa;;1000;
+2026-08-09;Anamalao;;500;
+2026-08-09;Pomme de terre;10 kg;35000;
+2026-08-09;Courgettes;3 kg;6000;
+2026-08-09;Oignon vert;;2000;
+2026-08-09;Coriandre;;2000;
+2026-08-09;Persil;;1000;
+2026-08-09;Basilic;;2000;
+2026-08-09;Papaye;1;5000;
+2026-08-09;Ananas;1;3000;
+2026-08-09;Pastèque;1;5000;
+2026-08-09;Voatango;1;3000;
+2026-08-09;Fraise;0,5 kg;3000;
+2026-08-09;Tomates;2 kg;6000;
+2026-08-09;Frais;;3000;total 82500
+2026-08-11;Insecticide;;13000;hors ingrédients
+2026-08-11;Voatavo;;1000;
+2026-08-11;Poireau;;500;
+2026-08-11;Lot : tongotr'akoho, lohan'akoho;;28000;total 42500
+2026-08-14;Sachet;;2000;
+2026-08-14;Tomates;2 kg;6000;
+2026-08-14;Carottes;2 kg;6000;
+2026-08-14;Haricot vert;1 kg;4000;
+2026-08-14;Chou chinois;1;1500;
+2026-08-14;Tripes;3 kg;36000;
+2026-08-14;Concombre;2 kg;4000;
+2026-08-14;Frais;;3000;total 62500
+2026-08-14;Ail;;6000;
+2026-08-14;Petit pois;;5000;
+2026-08-15;Ovy;3 kg;8000;
+2026-08-15;Salade;;3000;
+2026-08-15;Beurre;1;2700;
+2026-08-15;Levure boulangère;1;13000;
+2026-08-15;Pomme de terre;10 kg;35000;
+2026-08-15;Oignon vert;;2000;
+2026-08-15;Coriandre;;2000;
+2026-08-15;Frais;;2000;
+2026-08-16;Salade;;3000;
+2026-08-16;Cuvée blanche;4;32000;confirmé par l'utilisateur : 4 bouteilles de Cuvée blanche (boisson alcoolique), lu « Cuisse blanche » en v1
+2026-08-16;Blanc de poulet;;60000;
+2026-08-16;Pâte nem;;15000;
+2026-08-16;Coriandre;;2000;
+2026-08-16;Oignon vert;;2000;
+2026-08-16;Céleri;;1000;
+2026-08-16;Menthe;;1000;
+2026-08-16;Thym;;2000;
+2026-08-16;Frais;;2000;
+2026-08-19;Pomme de terre;;35000;
+2026-08-19;Tomate;;6000;
+2026-08-19;Courgette;;6000;
+2026-08-19;Ail;;6000;
+2026-08-19;Côte d'agneau;;50000;
+2026-08-19;Frais;;2000;total 105000
+2026-08-19;Salade;;3000;
+2026-08-21;Anamalao;;500;
+2026-08-22;Beurre;2;5400;
+2026-08-22;Salade;;3000;
+2026-08-22;Anguy;;500;
+2026-08-23;Anana mifangaro;;1000;
+2026-08-23;Salade;;3000;
+2026-08-23;Totokena;2 kg;42000;
+2026-08-23;Nofon-kisoa;2 kg;42000;
+2026-08-23;Hena kisoa;3 kg;51000;
+2026-08-23;Jambon;3 kg;48000;page suivante, rattaché au 23/08
+2026-08-25;Pomme de terre;10 kg;35000;
+2026-08-25;Oignon vert;;2000;
+2026-08-25;Carotte;;6000;
+2026-08-25;Concombre;;6000;
+2026-08-25;Coriandre;;2000;
+2026-08-25;Haricot vert;;3000;
+2026-08-25;Basilic;;2000;
+2026-08-25;Céleri;;1000;confirmé par l'utilisateur
+2026-08-25;Poireau;;1000;
+2026-08-25;Ravitoto;;5000;
+2026-08-25;Voanjobory;;10000;
+2026-08-25;Frais;;2000;total noté 75000
+2026-08-25;Céleri;;1000;confirmé par l'utilisateur
+2026-08-28;Beurre;2;6000;
+2026-08-28;Salade;;3000;
+2026-08-28;Blanc de poulet;;60000;
+2026-08-29;Langue;3 kg;60000;
+2026-08-29;Tomates;2 kg;6000;
+2026-08-29;Ail;3 kp;6000;
+2026-08-29;Gingembre;1 kg;10000;
+2026-08-29;Pomme de terre;10 kg;35000;
+2026-08-29;Kitapo kafé;1 pc;1500;
+2026-08-29;Oignon vert;;2000;
+2026-08-29;Coriandre;;2000;
+2026-08-29;Persil;;1000;
+2026-08-29;Frais;;2000;total 125500
+2026-08-30;Petit pois;5 kp;5000;
+2026-08-30;Salade;;3000;
+2026-08-30;Sachet;;3000;
+2026-08-30;Chocolat noir;;2000;
+2026-08-30;Retrait Mireille;;150000;retrait d'argent de la caisse par Mireille (corrigé par l'utilisateur le 03/11), mention « gravillon » dans le cahier
+2026-09-01;Carottes;2 kg;6000;
+2026-09-01;Tomates;2 kg;6000;
+2026-09-01;Citron;1 kg;8000;
+2026-09-01;Pâte nem;;15000;
+2026-09-01;Oignon vert;;2000;
+2026-09-01;Coriandre;;2000;
+2026-09-01;Menthe;;1000;
+2026-09-01;Céleri;;1000;
+2026-09-01;Champignon de Paris;2;10000;
+2026-09-01;Chapelure;;5000;garana 5 kg 30000 barré
+2026-09-01;Corossol;2 kg;10000;
+2026-09-01;Papaye;1 pc;5000;
+2026-09-01;Voatango;1 pc;3000;
+2026-09-01;Frais;;2000;total corrigé 76000
+2026-09-01;Hen'omby;3 kg;57000;« vola semaine du 25 août »
+2026-09-01;Totokena;3 kg;63000;lu « Loton-kena » en v1, relu Totokena (21000 Ar/kg comme les autres achats de totokena) / total 120000
+2026-09-02;Beurre;1;2700;
+2026-09-02;Sachet;;500;
+2026-09-04;Blanc de poulet;;60000;
+2026-09-05;Salade;;3000;
+2026-09-05;Chocolat;2;800;
+2026-09-05;Fraise;;500;
+2026-09-05;Ovy;;35000;
+2026-09-05;Retrait Mireille;;1000000;retrait d'argent de la caisse par Mireille (corrigé par l'utilisateur le 03/11), mention « gravillon » dans le cahier
+2026-09-06;Sachet kely;;1000;
+2026-09-06;Sachet be;;7500;
+2026-09-06;Anamalao;;500;
+2026-09-08;Anana;;500;
+2026-09-09;Chou chinois;;1500;
+2026-09-09;Ail;;2000;sous-total 3500
+2026-09-09;Carottes;2 kg;6000;
+2026-09-09;Courgettes;2 kg;6000;
+2026-09-09;Ail;3 kp;6000;
+2026-09-09;Gingembre;1 kg;10000;
+2026-09-09;Basilic;;2000;
+2026-09-09;Oignon vert;;2000;
+2026-09-09;Coriandre;;2000;
+2026-09-09;Tomates;2 kg;6000;
+2026-09-09;Danika bleu;1;20000;
+2026-09-09;Champignon de Paris;2;10000;
+2026-09-09;Frais;;2000;total 75500
+2026-09-11;Salade;;3000;
+2026-09-13;Insecticide;;13000;hors ingrédients
+2026-09-15;Salade;;3000;
+2026-09-15;Haricot vert;0,5 kg;2000;
+2026-09-15;Beurre;1;2700;
+2026-09-15;Carotte;2 kg;6000;
+2026-09-15;Haricot vert;1 kg;4000;
+2026-09-15;Concombre;3 kg;6000;
+2026-09-15;Tomates;2 kg;6000;
+2026-09-15;Pomme de terre;10 kg;35000;
+2026-09-15;Poivron;1 kg;4000;
+2026-09-15;Courgette;3 kg;6000;
+2026-09-15;Frais;;2000;total 76700
+2026-09-16;Chocolat;2;800;
+2026-09-16;Sachet;2;2000;
+2026-09-16;Blanc de poulet;;60000;total 62800
+2026-09-19;Salade;;3000;
+2026-09-19;Kitay (charbon);;30000;énergie, hors ingrédients
+2026-09-19;Cuisse de poulet;;60000;total 93000
+2026-09-20;Salade;;2000;
+2026-09-22;Coriandre;;1000;
+2026-09-22;Oignon vert;;1000;
+2026-09-22;Beurre;;2700;
+2026-09-22;Tomates;2 kg;6000;
+2026-09-22;Carottes;2 kg;6000;
+2026-09-22;Gingembre;1 kg;14000;
+2026-09-22;Oignon vert;;2000;
+2026-09-22;Coriandre;;2000;
+2026-09-22;Céleri;;1000;
+2026-09-22;Poireau;;1000;
+2026-09-22;Basilic;;2000;
+2026-09-22;Persil;;1000;
+2026-09-22;Concombre;3 kg;6000;
+2026-09-22;Ail;;6000;
+2026-09-22;Frais;;3000;total 50000
+2026-09-24;Pâte nem;;15000;
+2026-09-24;Coriandre;;2000;
+2026-09-24;Oignon vert;;2000;
+2026-09-24;Menthe;;1000;
+2026-09-24;Céleri;;1000;
+2026-09-24;Tomates;2 kg;6000;
+2026-09-24;Poivron;2 kg;8000;
+2026-09-24;Chou blanc;2 pcs;4000;
+2026-09-24;Carottes;2 kg;6000;
+2026-09-24;Concombre;3 kg;6000;
+2026-09-24;Frais;;2000;total 53000
+2026-09-24;Sachet;;2000;
+2026-09-25;Chou-fleur;;1500;
+2026-09-25;Salade;;3000;
+2026-09-25;Anana;;1000;total 4500
+2026-09-26;Anana;;1500;
+2026-09-26;Salade;;3000;
+2026-09-26;Tomate;;3000;
+2026-09-26;Anamalao;;1000;
+2026-09-26;Blanc de poulet;;60000;total 68500
+2026-09-27;Karoty;;2000;bloc sans date entre le 26 et le 29/09, date estimée / kitay 30000 barré
+2026-09-27;Ail;;2000;date estimée
+2026-09-27;Tongolo maintso;;1500;date estimée
+2026-09-27;Kotomila;;500;date estimée
+2026-09-27;Concombre;;1400;date estimée, total 7400
+2026-09-29;Kitay (charbon);;30000;« vola semaine du 22 septembre » / énergie
+2026-10-01;Carotte;2 kg;6000;
+2026-10-01;Haricot vert;1 kg;4000;
+2026-10-01;Courgette;3 kg;6000;
+2026-10-01;Tomate;2 kg;6000;
+2026-10-01;Concombre;3 kg;6000;
+2026-10-01;Oignon vert;;2000;
+2026-10-01;Coriandre;;2000;
+2026-10-01;Persil;;1000;
+2026-10-01;Basilic;;2000;
+2026-10-01;Citron;1 kg;8000;
+2026-10-01;Gingembre;;7000;
+2026-10-01;Frais;;3000;total 53000
+2026-10-01;Salade;;3000;
+2026-10-02;Filet;;23000;« semaine du 22 septembre »
+2026-10-02;Nofon-kisoa;;42000;idem
+2026-10-02;Totokena;;21000;idem, total 86000
+2026-10-03;Kitay (charbon);;30000;énergie
+2026-10-03;Beurre;1;2700;
+2026-10-03;Ovy;;30000;
+2026-10-03;Frais;;2000;
+2026-10-04;Sachet;2;2000;
+2026-10-04;Blanc de poulet;;60000;
+2026-10-04;Salade;;3000;
+2026-10-07;Beurre;1;2700;
+2026-10-08;Kitay (charbon);;30000;énergie
+2026-10-10;Tomates;1 kg;2500;
+2026-10-10;Salade;;3000;
+2026-10-10;Penne;;3200;déplacé du 11/10 au 10/10 : avec lui le total noté du 11/10 (65000) ne tombe pas juste
+2026-10-11;Carotte;2 kg;6000;
+2026-10-11;Poivron;1 kg;4000;
+2026-10-11;Tomate;2 kg;6000;
+2026-10-11;Ail;2 kg;6000;
+2026-10-11;Gingembre;1 kg;18000;
+2026-10-11;Coriandre;;2000;
+2026-10-11;Oignon vert;;2000;
+2026-10-11;Anamalao;;1000;
+2026-10-11;Anguy;;1000;
+2026-10-11;Petit pois;5 kp;5000;
+2026-10-11;Patsa mena;1 kg;5000;
+2026-10-11;Champignon noir;2 kp;6000;
+2026-10-11;Frais;;3000;total noté 65000 (résolu : penne déplacé au 10/10)
+2026-10-13;Kitay (charbon);;30000;énergie
+2026-10-15;Hena kisoa;3 kg;51000;« semaine du 06 au 11 octobre »
+2026-10-15;Hen'omby;3 kg;57000;idem
+2026-10-15;Tranche fine;;21000;lu « Transfina » = tranche fine (glossaire) / total 129000
+2026-10-16;Beurre;;2700;bloc sans date après le 15/10, date estimée
+2026-10-16;Salade;;3000;date estimée
+2026-10-16;Sachet;;2000;date estimée
+2026-10-16;Salade;;2000;date estimée
+2026-10-16;Retour M. Vola;;256000;HORS ACHAT : compté dans le total de page 404000 (2000 + 256000 + 146000), dépense complémentaire (utilisateur), hors coût matière
+2026-10-17;Pomme de terre;10 kg;35000;dernière page sans date, date estimée
+2026-10-17;Carottes;2 kg;6000;date estimée
+2026-10-17;Courgettes;2 kg;6000;date estimée
+2026-10-17;Oignon;5 kg;30000;date estimée
+2026-10-17;Gingembre;1 kg;10000;date estimée
+2026-10-17;Tomate;2 kg;6000;date estimée
+2026-10-17;Grenadelle;5 kg;25000;date estimée
+2026-10-17;Corossol;2 pcs;10000;date estimée
+2026-10-17;Ananas;1 pc;3000;date estimée
+2026-10-17;Oignon vert;;2000;date estimée
+2026-10-17;Coriandre;;2000;date estimée
+2026-10-17;Citron;1 kg;6000;date estimée
+2026-10-17;Basilic;;2000;date estimée
+2026-10-17;Frais;;3000;date estimée / total de page confirmé par l'utilisateur : 404000 (le 425000 écrit est faux)
+2026-05-16;Frais;;3000;LIGNE ESTIMÉE : écart de 3000 entre le total noté 81500 et la somme des lignes
+2026-05-24;Frais;;3000;LIGNE ESTIMÉE : écart de 3000 entre le total noté 113000 et la somme des lignes
