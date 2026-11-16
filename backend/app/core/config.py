@@ -8,6 +8,7 @@ class Settings(BaseSettings):
     cors_origins: str = "http://localhost:5173,http://127.0.0.1:5173"
     admin_password: str = "Admin@2026"           # mot de passe initial du compte admin (import)
     mot_de_passe_provisoire: str = "Arenah@2026"  # mot de passe initial des employés (import)
+    fuseau_horaire: str = "Indian/Antananarivo"   # heures affichées et enregistrées à l'heure de Madagascar
 
     model_config = SettingsConfigDict(env_file=".env", extra="ignore")
 

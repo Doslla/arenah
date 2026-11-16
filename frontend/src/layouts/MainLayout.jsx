@@ -1,8 +1,8 @@
-import { useState } from 'react'
+import { useEffect, useState } from 'react'
 import { Outlet, NavLink, useLocation, useNavigate } from 'react-router-dom'
 import {
-  AppBar, Avatar, Box, Drawer, IconButton, List, ListItemButton,
-  ListItemIcon, ListItemText, ListSubheader, Toolbar, Tooltip, Typography,
+  AppBar, Avatar, Badge, Box, Drawer, IconButton, List, ListItemButton,
+  ListItemIcon, ListItemText, ListSubheader, Menu, MenuItem, Toolbar, Tooltip, Typography,
 } from '@mui/material'
 import MenuIcon from '@mui/icons-material/Menu'
 import DashboardIcon from '@mui/icons-material/Dashboard'
@@ -14,6 +14,11 @@ import AccountBalanceIcon from '@mui/icons-material/AccountBalance'
 import ReceiptLongIcon from '@mui/icons-material/ReceiptLong'
 import InsightsIcon from '@mui/icons-material/Insights'
 import KeyIcon from '@mui/icons-material/Key'
+import QrCodeScannerIcon from '@mui/icons-material/QrCodeScanner'
+import PointOfSaleIcon from '@mui/icons-material/PointOfSale'
+import NotificationsIcon from '@mui/icons-material/Notifications'
+import WarningAmberIcon from '@mui/icons-material/WarningAmber'
+import api from '../api/client'
 import LogoutIcon from '@mui/icons-material/Logout'
 import { useAuth } from '../auth/AuthContext'
 
@@ -26,12 +31,19 @@ const sections = [
     { label: 'Unités', path: '/unites', icon: <ApartmentIcon /> },
     { label: 'Employés', path: '/employes', icon: <PeopleIcon /> },
   ] },
-  { titre: 'Gestion (J3)', items: [
+  { titre: 'Ressources humaines', items: [
+    { label: 'Présences', path: '/presences', icon: <QrCodeScannerIcon /> },
     { label: 'Congés', path: '/conges', icon: <EventBusyIcon /> },
-    { label: 'Budgets', path: '/budgets', icon: <AccountBalanceIcon /> },
-    { label: 'Dépenses', path: '/depenses', icon: <ReceiptLongIcon /> },
   ] },
-  { titre: 'Pilotage', items: [{ label: 'Prévisions IA', path: '/previsions', icon: <InsightsIcon /> }] },
+  { titre: 'Finances', items: [
+    { label: 'Caisses', path: '/caisses', icon: <PointOfSaleIcon /> },
+    { label: 'Dépenses', path: '/depenses', icon: <ReceiptLongIcon /> },
+    { label: 'Budgets', path: '/budgets', icon: <AccountBalanceIcon /> },
+  ] },
+  { titre: 'Pilotage', items: [
+    { label: 'Alertes', path: '/alertes', icon: <WarningAmberIcon /> },
+    { label: 'Prévisions IA', path: '/previsions', icon: <InsightsIcon /> },
+  ] },
 ]
 const tousItems = sections.flatMap((s) => s.items)
 
@@ -40,6 +52,16 @@ export default function MainLayout() {
   const { user, logout } = useAuth()
   const { pathname } = useLocation()
   const navigate = useNavigate()
+  const [notifs, setNotifs] = useState({ non_lues: 0, notifications: [] })
+  const [ancre, setAncre] = useState(null)
+
+  // Notifications : rafraîchies toutes les 60 secondes et à chaque changement de page
+  useEffect(() => {
+    const charger = () => api.get('/notifications').then((r) => setNotifs(r.data)).catch(() => {})
+    charger()
+    const t = setInterval(charger, 60000)
+    return () => clearInterval(t)
+  }, [pathname])
 
   const drawer = (
     <Box>
@@ -76,6 +98,24 @@ export default function MainLayout() {
             </Typography>
           </Box>
           <Avatar sx={{ width: 32, height: 32, mr: 1, bgcolor: 'secondary.main' }}>{user?.nom_complet?.replace(/^(Mr|Mme) /, '')[0]}</Avatar>
+          <Tooltip title="Notifications">
+            <IconButton color="inherit" onClick={(e) => setAncre(e.currentTarget)}>
+              <Badge badgeContent={notifs.non_lues} color="error"><NotificationsIcon /></Badge>
+            </IconButton>
+          </Tooltip>
+          <Menu anchorEl={ancre} open={!!ancre} onClose={() => setAncre(null)} slotProps={{ paper: { sx: { width: 360, maxHeight: 420 } } }}>
+            {notifs.notifications.length === 0 && <MenuItem disabled>Aucune notification</MenuItem>}
+            {notifs.notifications.slice(0, 12).map((n) => (
+              <MenuItem key={n.id} onClick={() => { setAncre(null); if (n.lien) navigate(n.lien) }} sx={{ whiteSpace: 'normal', fontWeight: n.lue ? 400 : 700, fontSize: 14 }}>
+                <Box><Box>{n.message}</Box><Typography variant="caption" color="text.secondary">{n.date}</Typography></Box>
+              </MenuItem>
+            ))}
+            {notifs.non_lues > 0 && (
+              <MenuItem onClick={async () => { await api.put('/notifications/tout-lire'); setNotifs({ ...notifs, non_lues: 0, notifications: notifs.notifications.map((n) => ({ ...n, lue: true })) }); setAncre(null) }}>
+                <Typography color="primary" variant="body2">Tout marquer comme lu</Typography>
+              </MenuItem>
+            )}
+          </Menu>
           <Tooltip title="Changer mon mot de passe">
             <IconButton color="inherit" onClick={() => navigate('/changer-mot-de-passe')}><KeyIcon /></IconButton>
           </Tooltip>

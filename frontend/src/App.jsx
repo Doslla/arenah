@@ -10,6 +10,9 @@ import Employes from './pages/Employes'
 import Conges from './pages/Conges'
 import Budgets from './pages/Budgets'
 import Depenses from './pages/Depenses'
+import Presences from './pages/Presences'
+import Caisses from './pages/Caisses'
+import Alertes from './pages/Alertes'
 import EnConstruction from './components/EnConstruction'
 
 export default function App() {
@@ -23,7 +26,10 @@ export default function App() {
           <Route path="/organigramme" element={<Organigramme />} />
           <Route path="/unites" element={<Unites />} />
           <Route path="/employes" element={<Employes />} />
+          <Route path="/presences" element={<Presences />} />
           <Route path="/conges" element={<Conges />} />
+          <Route path="/caisses" element={<Caisses />} />
+          <Route path="/alertes" element={<Alertes />} />
           <Route path="/budgets" element={<Budgets />} />
           <Route path="/depenses" element={<Depenses />} />
           <Route path="/previsions" element={<EnConstruction titre="Prévisions IA (J5)" />} />

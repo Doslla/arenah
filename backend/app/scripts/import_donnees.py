@@ -40,6 +40,7 @@ CRITERES = [("Assiduité", 1.0), ("Rapidité", 1.0), ("Qualité du service", 1.5
 PARAMETRES_DEFAUT = [
     ("devise", "Ar", "texte", "Devise d'affichage", "PDG,ADMIN_INFO"),
     ("exercice_courant", "2026", "entier", "Exercice comptable en cours (année civile)", "COMPTABLE,PDG"),
+    ("heure_debut_defaut", "08:00", "texte", "Heure d'arrivée prévue par défaut (sans planning)", "RH,PDG"),
     ("tolerance_retard_min", "10", "entier", "Tolérance de retard en minutes (décision 15)", "RH,PDG"),
     ("delai_justificatif_heures", "48", "entier", "Délai pour justifier une absence (décision 16)", "RH,PDG"),
     ("absences_avant_avertissement", "3", "entier", "Absences injustifiées du mois avant proposition d'avertissement", "RH,PDG"),
