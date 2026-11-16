@@ -1,0 +1,28 @@
+unite_id,nom,type,parent,encaisse
+1,Direction générale,direction,,False
+2,Direction de l'Administration Générale,direction,Direction générale,False
+3,Ressources humaines,département,Direction de l'Administration Générale,False
+4,Finance et comptabilité,département,Direction de l'Administration Générale,False
+5,Commercial et marketing,département,Direction de l'Administration Générale,False
+6,Achats et logistique,département,Direction de l'Administration Générale,False
+7,Informatique et technologie,département,Direction de l'Administration Générale,False
+8,Secrétariat,département,Direction de l'Administration Générale,False
+9,Direction d'Exploitation,direction,Direction générale,False
+10,Groupe Restaurant / Hôtel,groupe,Direction d'Exploitation,False
+11,Restaurant,activité,Groupe Restaurant / Hôtel,True
+12,Hôtel,activité,Groupe Restaurant / Hôtel,False
+13,Groupe Événementiel / Piscine / Aire de jeux,groupe,Direction d'Exploitation,False
+14,Événementiel,activité,Groupe Événementiel / Piscine / Aire de jeux,False
+15,Piscine,activité,Groupe Événementiel / Piscine / Aire de jeux,True
+16,Aire de jeux,activité,Groupe Événementiel / Piscine / Aire de jeux,False
+17,Groupe Accueil / Sécurité et entretien / Ménage et cuisine,groupe,Direction d'Exploitation,False
+18,Accueil,activité,Groupe Accueil / Sécurité et entretien / Ménage et cuisine,True
+19,Sécurité et entretien,activité,Groupe Accueil / Sécurité et entretien / Ménage et cuisine,False
+20,Ménage et cuisine,activité,Groupe Accueil / Sécurité et entretien / Ménage et cuisine,True
+21,Groupe Cyber / Coiffure / Pharmacie / Boutique,groupe,Direction d'Exploitation,False
+22,Cyber,activité,Groupe Cyber / Coiffure / Pharmacie / Boutique,True
+23,Coiffure,activité,Groupe Cyber / Coiffure / Pharmacie / Boutique,True
+24,Pharmacie,activité,Groupe Cyber / Coiffure / Pharmacie / Boutique,False
+25,Boutique,activité,Groupe Cyber / Coiffure / Pharmacie / Boutique,False
+26,Groupe Sport,groupe,Direction d'Exploitation,False
+27,Salle de sport / Basket / Foot / Volley,activité,Groupe Sport,False

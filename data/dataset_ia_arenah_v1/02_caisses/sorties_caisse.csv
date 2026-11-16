@@ -1,0 +1,1016 @@
+sortie_id,date,caisse,motif,montant_ar,autorise_par,anomalie_injectee,source
+1,2026-03-25,Caisse Restaurant,Fournitures,17500,Responsable d'activité,False,synthetique
+2,2026-03-27,Caisse Restaurant,Petit achat urgent,17000,Responsable d'activité,False,synthetique
+3,2026-03-28,Caisse Restaurant,Petit achat urgent,22500,Responsable d'activité,False,synthetique
+4,2026-03-28,Caisse Restaurant,Petit achat urgent,8000,Responsable d'activité,False,synthetique
+5,2026-04-01,Caisse Restaurant,Petit achat urgent,33000,Responsable d'activité,False,synthetique
+6,2026-04-01,Caisse Restaurant,Transport,31000,Responsable d'activité,False,synthetique
+7,2026-04-01,Caisse Restaurant,Transport,31000,Responsable d'activité,False,synthetique
+8,2026-04-01,Caisse Restaurant,Petit achat urgent,19000,Responsable d'activité,False,synthetique
+9,2026-04-08,Caisse Restaurant,Monnaie,34500,Responsable d'activité,False,synthetique
+10,2026-04-11,Caisse Restaurant,Transport,8000,Responsable d'activité,False,synthetique
+11,2026-04-14,Caisse Restaurant,Monnaie,29000,Responsable d'activité,False,synthetique
+12,2026-04-15,Caisse Restaurant,Monnaie,32000,Responsable d'activité,False,synthetique
+13,2026-04-16,Caisse Restaurant,Petit achat urgent,31500,Responsable d'activité,False,synthetique
+14,2026-04-16,Caisse Restaurant,Petit achat urgent,12000,Responsable d'activité,False,synthetique
+15,2026-04-16,Caisse Restaurant,Petit achat urgent,11000,Responsable d'activité,False,synthetique
+16,2026-04-19,Caisse Restaurant,Fournitures,17000,Responsable d'activité,False,synthetique
+17,2026-04-21,Caisse Restaurant,Transport,22500,Responsable d'activité,False,synthetique
+18,2026-04-21,Caisse Restaurant,Fournitures,15000,Responsable d'activité,False,synthetique
+19,2026-04-22,Caisse Restaurant,Petit achat urgent,7500,Responsable d'activité,False,synthetique
+20,2026-04-22,Caisse Restaurant,Petit achat urgent,27500,Responsable d'activité,False,synthetique
+21,2026-04-25,Caisse Restaurant,Retrait Madame,10000,Direction,False,reel_cahier
+22,2026-04-29,Caisse Restaurant,Fournitures,30500,Responsable d'activité,False,synthetique
+23,2026-04-29,Caisse Restaurant,Petit achat urgent,32000,Responsable d'activité,False,synthetique
+24,2026-05-02,Caisse Restaurant,Fournitures,15500,Responsable d'activité,False,synthetique
+25,2026-05-03,Caisse Restaurant,Monnaie,12500,Responsable d'activité,False,synthetique
+26,2026-05-09,Caisse Restaurant,Petit achat urgent,24500,Responsable d'activité,False,synthetique
+27,2026-05-09,Caisse Restaurant,Transport,17000,Responsable d'activité,False,synthetique
+28,2026-05-10,Caisse Restaurant,Fournitures,24000,Responsable d'activité,False,synthetique
+29,2026-05-13,Caisse Restaurant,Monnaie,30500,Responsable d'activité,False,synthetique
+30,2026-05-14,Caisse Restaurant,Monnaie,13000,Responsable d'activité,False,synthetique
+31,2026-05-16,Caisse Restaurant,Monnaie,10500,Responsable d'activité,False,synthetique
+32,2026-05-17,Caisse Restaurant,Monnaie,5000,Responsable d'activité,False,synthetique
+33,2026-05-17,Caisse Restaurant,Petit achat urgent,8500,Responsable d'activité,False,synthetique
+34,2026-05-20,Caisse Restaurant,Transport,11000,Responsable d'activité,False,synthetique
+35,2026-05-21,Caisse Restaurant,Retrait Madame,5000,Direction,False,reel_cahier
+36,2026-05-27,Caisse Restaurant,Monnaie,34000,Responsable d'activité,False,synthetique
+37,2026-06-05,Caisse Restaurant,Monnaie,29500,Responsable d'activité,False,synthetique
+38,2026-06-16,Caisse Restaurant,Monnaie,11500,Responsable d'activité,False,synthetique
+39,2026-06-19,Caisse Restaurant,Petit achat urgent,19500,Responsable d'activité,False,synthetique
+40,2026-06-20,Caisse Restaurant,Fournitures,8500,Responsable d'activité,False,synthetique
+41,2026-06-25,Caisse Restaurant,Petit achat urgent,19000,Responsable d'activité,False,synthetique
+42,2026-06-26,Caisse Restaurant,Petit achat urgent,19000,Responsable d'activité,False,synthetique
+43,2026-06-28,Caisse Restaurant,Transport,11500,Responsable d'activité,False,synthetique
+44,2026-07-01,Caisse Restaurant,Fournitures,31000,Responsable d'activité,False,synthetique
+45,2026-07-03,Caisse Restaurant,Monnaie,23000,Responsable d'activité,False,synthetique
+46,2026-07-04,Caisse Restaurant,Transport,12000,Responsable d'activité,False,synthetique
+47,2026-07-05,Caisse Restaurant,Transport,5000,Responsable d'activité,False,synthetique
+48,2026-07-07,Caisse Restaurant,Transport,11000,Responsable d'activité,False,synthetique
+49,2026-07-08,Caisse Restaurant,Petit achat urgent,29000,Responsable d'activité,False,synthetique
+50,2026-07-09,Caisse Restaurant,Petit achat urgent,4000,Responsable d'activité,False,synthetique
+51,2026-07-10,Caisse Restaurant,Petit achat urgent,12500,Responsable d'activité,False,synthetique
+52,2026-07-14,Caisse Restaurant,Fournitures,32000,Responsable d'activité,False,synthetique
+53,2026-07-15,Caisse Restaurant,Monnaie,7500,Responsable d'activité,False,synthetique
+54,2026-07-16,Caisse Restaurant,Fournitures,18000,Responsable d'activité,False,synthetique
+55,2026-07-17,Caisse Restaurant,Transport,13500,Responsable d'activité,False,synthetique
+56,2026-07-17,Caisse Restaurant,Transport,25000,Responsable d'activité,False,synthetique
+57,2026-07-18,Caisse Restaurant,Petit achat urgent,35000,Responsable d'activité,False,synthetique
+58,2026-07-18,Caisse Restaurant,Fournitures,12500,Responsable d'activité,False,synthetique
+59,2026-07-22,Caisse Restaurant,Monnaie,31000,Responsable d'activité,False,synthetique
+60,2026-07-23,Caisse Restaurant,Petit achat urgent,6000,Responsable d'activité,False,synthetique
+61,2026-07-23,Caisse Restaurant,Monnaie,28000,Responsable d'activité,False,synthetique
+62,2026-07-29,Caisse Restaurant,Transport,26500,Responsable d'activité,False,synthetique
+63,2026-07-30,Caisse Restaurant,Monnaie,34000,Responsable d'activité,False,synthetique
+64,2026-07-31,Caisse Restaurant,Fournitures,11000,Responsable d'activité,False,synthetique
+65,2026-08-01,Caisse Restaurant,Monnaie,31500,Responsable d'activité,False,synthetique
+66,2026-08-02,Caisse Restaurant,Petit achat urgent,31000,Responsable d'activité,False,synthetique
+67,2026-08-06,Caisse Restaurant,Transport,30000,Responsable d'activité,False,synthetique
+68,2026-08-11,Caisse Restaurant,Petit achat urgent,30500,Responsable d'activité,False,synthetique
+69,2026-08-11,Caisse Restaurant,Petit achat urgent,8500,Responsable d'activité,False,synthetique
+70,2026-08-11,Caisse Restaurant,Monnaie,8000,Responsable d'activité,False,synthetique
+71,2026-08-15,Caisse Restaurant,Monnaie,22000,Responsable d'activité,False,synthetique
+72,2026-08-19,Caisse Restaurant,Fournitures,11500,Responsable d'activité,False,synthetique
+73,2026-08-19,Caisse Restaurant,Fournitures,3000,Responsable d'activité,False,synthetique
+74,2026-08-23,Caisse Restaurant,Monnaie,31000,Responsable d'activité,False,synthetique
+75,2026-08-26,Caisse Restaurant,Petit achat urgent,20500,Responsable d'activité,False,synthetique
+76,2026-08-26,Caisse Restaurant,Fournitures,21500,Responsable d'activité,False,synthetique
+77,2026-08-27,Caisse Restaurant,Petit achat urgent,29000,Responsable d'activité,False,synthetique
+78,2026-08-28,Caisse Restaurant,Transport,15500,Responsable d'activité,False,synthetique
+79,2026-08-29,Caisse Restaurant,Monnaie,13000,Responsable d'activité,False,synthetique
+80,2026-08-30,Caisse Restaurant,Retrait Mireille,150000,Direction,False,reel_cahier
+81,2026-08-30,Caisse Restaurant,Transport,34000,Responsable d'activité,False,synthetique
+82,2026-09-04,Caisse Restaurant,Monnaie,9500,Responsable d'activité,False,synthetique
+83,2026-09-05,Caisse Restaurant,Retrait Mireille,1000000,Direction,False,reel_cahier
+84,2026-09-05,Caisse Restaurant,Monnaie,10500,Responsable d'activité,False,synthetique
+85,2026-09-08,Caisse Restaurant,Petit achat urgent,7500,Responsable d'activité,False,synthetique
+86,2026-09-15,Caisse Restaurant,Fournitures,16500,Responsable d'activité,False,synthetique
+87,2026-09-15,Caisse Restaurant,Fournitures,23500,Responsable d'activité,False,synthetique
+88,2026-09-17,Caisse Restaurant,Fournitures,22000,Responsable d'activité,False,synthetique
+89,2026-09-18,Caisse Restaurant,Transport,10000,Responsable d'activité,False,synthetique
+90,2026-09-18,Caisse Restaurant,Fournitures,9500,Responsable d'activité,False,synthetique
+91,2026-09-19,Caisse Restaurant,Fournitures,29000,Responsable d'activité,False,synthetique
+92,2026-09-25,Caisse Restaurant,Transport,16500,Responsable d'activité,False,synthetique
+93,2026-09-26,Caisse Restaurant,Transport,14500,Responsable d'activité,False,synthetique
+94,2026-10-02,Caisse Restaurant,Fournitures,32000,Responsable d'activité,False,synthetique
+95,2026-10-04,Caisse Restaurant,Petit achat urgent,19000,Responsable d'activité,False,synthetique
+96,2026-10-10,Caisse Restaurant,Petit achat urgent,32000,Responsable d'activité,False,synthetique
+97,2026-10-11,Caisse Restaurant,Transport,3500,Responsable d'activité,False,synthetique
+98,2026-10-11,Caisse Restaurant,Transport,5500,Responsable d'activité,False,synthetique
+99,2026-10-18,Caisse Restaurant,Fournitures,32000,Responsable d'activité,False,synthetique
+100,2026-10-20,Caisse Restaurant,Monnaie,3500,Responsable d'activité,False,synthetique
+101,2026-10-21,Caisse Restaurant,Monnaie,32000,Responsable d'activité,False,synthetique
+102,2026-10-23,Caisse Restaurant,Monnaie,18500,Responsable d'activité,False,synthetique
+103,2026-10-28,Caisse Restaurant,Monnaie,23000,Responsable d'activité,False,synthetique
+104,2026-10-28,Caisse Restaurant,Monnaie,11000,Responsable d'activité,False,synthetique
+105,2026-10-29,Caisse Restaurant,Fournitures,17000,Responsable d'activité,False,synthetique
+106,2026-11-01,Caisse Restaurant,Petit achat urgent,34500,Responsable d'activité,False,synthetique
+107,2026-11-04,Caisse Restaurant,Monnaie,6500,Responsable d'activité,False,synthetique
+108,2026-11-04,Caisse Restaurant,Fournitures,17000,Responsable d'activité,False,synthetique
+109,2026-11-11,Caisse Restaurant,Monnaie,35000,Responsable d'activité,False,synthetique
+110,2026-11-13,Caisse Restaurant,Transport,21000,Responsable d'activité,False,synthetique
+111,2026-11-15,Caisse Restaurant,Transport,4500,Responsable d'activité,False,synthetique
+112,2025-11-08,Caisse Accueil,Fournitures,16000,Responsable d'activité,False,synthetique
+113,2025-11-08,Caisse Accueil,Fournitures,26000,Responsable d'activité,False,synthetique
+114,2025-11-11,Caisse Accueil,Petit achat urgent,32000,Responsable d'activité,False,synthetique
+115,2025-11-13,Caisse Accueil,Petit achat urgent,23000,Responsable d'activité,False,synthetique
+116,2025-11-16,Caisse Accueil,Fournitures,15500,Responsable d'activité,False,synthetique
+117,2025-11-20,Caisse Accueil,Fournitures,28000,Responsable d'activité,False,synthetique
+118,2025-11-22,Caisse Accueil,Transport,17500,Responsable d'activité,False,synthetique
+119,2025-11-30,Caisse Accueil,Fournitures,5000,Responsable d'activité,False,synthetique
+120,2025-12-04,Caisse Accueil,Fournitures,22500,Responsable d'activité,False,synthetique
+121,2025-12-13,Caisse Accueil,Monnaie,24500,Responsable d'activité,False,synthetique
+122,2025-12-14,Caisse Accueil,Fournitures,29000,Responsable d'activité,False,synthetique
+123,2025-12-16,Caisse Accueil,Petit achat urgent,11000,Responsable d'activité,False,synthetique
+124,2025-12-20,Caisse Accueil,Fournitures,23000,Responsable d'activité,False,synthetique
+125,2025-12-21,Caisse Accueil,Petit achat urgent,21000,Responsable d'activité,False,synthetique
+126,2025-12-30,Caisse Accueil,Fournitures,16000,Responsable d'activité,False,synthetique
+127,2025-12-31,Caisse Accueil,Monnaie,11000,Responsable d'activité,False,synthetique
+128,2026-01-02,Caisse Accueil,Monnaie,19500,Responsable d'activité,False,synthetique
+129,2026-01-04,Caisse Accueil,Fournitures,26000,Responsable d'activité,False,synthetique
+130,2026-01-08,Caisse Accueil,Fournitures,28000,Responsable d'activité,False,synthetique
+131,2026-01-10,Caisse Accueil,Transport,26500,Responsable d'activité,False,synthetique
+132,2026-01-15,Caisse Accueil,Monnaie,4000,Responsable d'activité,False,synthetique
+133,2026-01-16,Caisse Accueil,Petit achat urgent,11000,Responsable d'activité,False,synthetique
+134,2026-01-16,Caisse Accueil,Transport,31500,Responsable d'activité,False,synthetique
+135,2026-01-16,Caisse Accueil,Fournitures,20000,Responsable d'activité,False,synthetique
+136,2026-01-22,Caisse Accueil,Fournitures,14000,Responsable d'activité,False,synthetique
+137,2026-01-24,Caisse Accueil,Fournitures,27000,Responsable d'activité,False,synthetique
+138,2026-01-28,Caisse Accueil,Transport,26000,Responsable d'activité,False,synthetique
+139,2026-02-03,Caisse Accueil,Petit achat urgent,16500,Responsable d'activité,False,synthetique
+140,2026-02-05,Caisse Accueil,Fournitures,35000,Responsable d'activité,False,synthetique
+141,2026-02-05,Caisse Accueil,Fournitures,24000,Responsable d'activité,False,synthetique
+142,2026-02-05,Caisse Accueil,Fournitures,23000,Responsable d'activité,False,synthetique
+143,2026-02-06,Caisse Accueil,Petit achat urgent,14500,Responsable d'activité,False,synthetique
+144,2026-02-10,Caisse Accueil,Transport,27000,Responsable d'activité,False,synthetique
+145,2026-02-12,Caisse Accueil,Monnaie,10000,Responsable d'activité,False,synthetique
+146,2026-02-13,Caisse Accueil,Monnaie,29500,Responsable d'activité,False,synthetique
+147,2026-02-14,Caisse Accueil,Petit achat urgent,15500,Responsable d'activité,False,synthetique
+148,2026-02-15,Caisse Accueil,Monnaie,34500,Responsable d'activité,False,synthetique
+149,2026-02-15,Caisse Accueil,Fournitures,31000,Responsable d'activité,False,synthetique
+150,2026-02-20,Caisse Accueil,Monnaie,22000,Responsable d'activité,False,synthetique
+151,2026-02-22,Caisse Accueil,Fournitures,33000,Responsable d'activité,False,synthetique
+152,2026-02-24,Caisse Accueil,Fournitures,9000,Responsable d'activité,False,synthetique
+153,2026-02-25,Caisse Accueil,Transport,8000,Responsable d'activité,False,synthetique
+154,2026-02-26,Caisse Accueil,Fournitures,28500,Responsable d'activité,False,synthetique
+155,2026-02-28,Caisse Accueil,Transport,31500,Responsable d'activité,False,synthetique
+156,2026-02-28,Caisse Accueil,Monnaie,31000,Responsable d'activité,False,synthetique
+157,2026-03-01,Caisse Accueil,Petit achat urgent,5500,Responsable d'activité,False,synthetique
+158,2026-03-04,Caisse Accueil,Petit achat urgent,28000,Responsable d'activité,False,synthetique
+159,2026-03-05,Caisse Accueil,Sortie sans justificatif,269000,,True,synthetique
+160,2026-03-11,Caisse Accueil,Monnaie,27000,Responsable d'activité,False,synthetique
+161,2026-03-13,Caisse Accueil,Transport,25000,Responsable d'activité,False,synthetique
+162,2026-03-14,Caisse Accueil,Petit achat urgent,33000,Responsable d'activité,False,synthetique
+163,2026-03-15,Caisse Accueil,Transport,28500,Responsable d'activité,False,synthetique
+164,2026-03-17,Caisse Accueil,Transport,32500,Responsable d'activité,False,synthetique
+165,2026-03-20,Caisse Accueil,Monnaie,29000,Responsable d'activité,False,synthetique
+166,2026-03-28,Caisse Accueil,Petit achat urgent,8500,Responsable d'activité,False,synthetique
+167,2026-03-29,Caisse Accueil,Transport,11500,Responsable d'activité,False,synthetique
+168,2026-03-29,Caisse Accueil,Petit achat urgent,30500,Responsable d'activité,False,synthetique
+169,2026-04-01,Caisse Accueil,Transport,12500,Responsable d'activité,False,synthetique
+170,2026-04-02,Caisse Accueil,Fournitures,16500,Responsable d'activité,False,synthetique
+171,2026-04-02,Caisse Accueil,Petit achat urgent,34000,Responsable d'activité,False,synthetique
+172,2026-04-03,Caisse Accueil,Monnaie,32500,Responsable d'activité,False,synthetique
+173,2026-04-04,Caisse Accueil,Transport,15000,Responsable d'activité,False,synthetique
+174,2026-04-08,Caisse Accueil,Fournitures,18000,Responsable d'activité,False,synthetique
+175,2026-04-15,Caisse Accueil,Petit achat urgent,11500,Responsable d'activité,False,synthetique
+176,2026-04-18,Caisse Accueil,Petit achat urgent,32500,Responsable d'activité,False,synthetique
+177,2026-04-22,Caisse Accueil,Fournitures,15000,Responsable d'activité,False,synthetique
+178,2026-05-10,Caisse Accueil,Transport,5000,Responsable d'activité,False,synthetique
+179,2026-05-12,Caisse Accueil,Transport,30500,Responsable d'activité,False,synthetique
+180,2026-05-13,Caisse Accueil,Transport,25500,Responsable d'activité,False,synthetique
+181,2026-05-15,Caisse Accueil,Monnaie,6500,Responsable d'activité,False,synthetique
+182,2026-05-16,Caisse Accueil,Monnaie,7000,Responsable d'activité,False,synthetique
+183,2026-05-19,Caisse Accueil,Petit achat urgent,31000,Responsable d'activité,False,synthetique
+184,2026-05-20,Caisse Accueil,Monnaie,35000,Responsable d'activité,False,synthetique
+185,2026-05-21,Caisse Accueil,Petit achat urgent,6500,Responsable d'activité,False,synthetique
+186,2026-05-22,Caisse Accueil,Transport,7000,Responsable d'activité,False,synthetique
+187,2026-05-22,Caisse Accueil,Fournitures,8500,Responsable d'activité,False,synthetique
+188,2026-05-22,Caisse Accueil,Petit achat urgent,35000,Responsable d'activité,False,synthetique
+189,2026-05-23,Caisse Accueil,Transport,3500,Responsable d'activité,False,synthetique
+190,2026-05-24,Caisse Accueil,Fournitures,18500,Responsable d'activité,False,synthetique
+191,2026-05-24,Caisse Accueil,Transport,33000,Responsable d'activité,False,synthetique
+192,2026-05-25,Caisse Accueil,Petit achat urgent,9500,Responsable d'activité,False,synthetique
+193,2026-05-29,Caisse Accueil,Monnaie,21500,Responsable d'activité,False,synthetique
+194,2026-05-30,Caisse Accueil,Petit achat urgent,21000,Responsable d'activité,False,synthetique
+195,2026-05-31,Caisse Accueil,Monnaie,11000,Responsable d'activité,False,synthetique
+196,2026-06-02,Caisse Accueil,Fournitures,33500,Responsable d'activité,False,synthetique
+197,2026-06-06,Caisse Accueil,Fournitures,12000,Responsable d'activité,False,synthetique
+198,2026-06-09,Caisse Accueil,Transport,12000,Responsable d'activité,False,synthetique
+199,2026-06-10,Caisse Accueil,Fournitures,26000,Responsable d'activité,False,synthetique
+200,2026-06-10,Caisse Accueil,Fournitures,17000,Responsable d'activité,False,synthetique
+201,2026-06-10,Caisse Accueil,Transport,15000,Responsable d'activité,False,synthetique
+202,2026-06-12,Caisse Accueil,Monnaie,26500,Responsable d'activité,False,synthetique
+203,2026-06-12,Caisse Accueil,Petit achat urgent,27000,Responsable d'activité,False,synthetique
+204,2026-06-16,Caisse Accueil,Transport,30500,Responsable d'activité,False,synthetique
+205,2026-06-17,Caisse Accueil,Fournitures,31500,Responsable d'activité,False,synthetique
+206,2026-06-18,Caisse Accueil,Petit achat urgent,15000,Responsable d'activité,False,synthetique
+207,2026-06-21,Caisse Accueil,Transport,14000,Responsable d'activité,False,synthetique
+208,2026-06-23,Caisse Accueil,Petit achat urgent,24000,Responsable d'activité,False,synthetique
+209,2026-06-25,Caisse Accueil,Transport,20500,Responsable d'activité,False,synthetique
+210,2026-06-25,Caisse Accueil,Fournitures,33500,Responsable d'activité,False,synthetique
+211,2026-06-25,Caisse Accueil,Transport,19500,Responsable d'activité,False,synthetique
+212,2026-06-26,Caisse Accueil,Monnaie,6000,Responsable d'activité,False,synthetique
+213,2026-06-26,Caisse Accueil,Monnaie,31500,Responsable d'activité,False,synthetique
+214,2026-07-02,Caisse Accueil,Petit achat urgent,27000,Responsable d'activité,False,synthetique
+215,2026-07-03,Caisse Accueil,Transport,29000,Responsable d'activité,False,synthetique
+216,2026-07-04,Caisse Accueil,Fournitures,6000,Responsable d'activité,False,synthetique
+217,2026-07-07,Caisse Accueil,Fournitures,17000,Responsable d'activité,False,synthetique
+218,2026-07-08,Caisse Accueil,Petit achat urgent,17000,Responsable d'activité,False,synthetique
+219,2026-07-14,Caisse Accueil,Fournitures,13000,Responsable d'activité,False,synthetique
+220,2026-07-17,Caisse Accueil,Fournitures,17500,Responsable d'activité,False,synthetique
+221,2026-07-19,Caisse Accueil,Fournitures,8500,Responsable d'activité,False,synthetique
+222,2026-07-25,Caisse Accueil,Fournitures,12500,Responsable d'activité,False,synthetique
+223,2026-07-31,Caisse Accueil,Fournitures,31000,Responsable d'activité,False,synthetique
+224,2026-08-06,Caisse Accueil,Monnaie,29500,Responsable d'activité,False,synthetique
+225,2026-08-08,Caisse Accueil,Petit achat urgent,7000,Responsable d'activité,False,synthetique
+226,2026-08-08,Caisse Accueil,Monnaie,19000,Responsable d'activité,False,synthetique
+227,2026-08-09,Caisse Accueil,Petit achat urgent,28500,Responsable d'activité,False,synthetique
+228,2026-08-09,Caisse Accueil,Fournitures,34000,Responsable d'activité,False,synthetique
+229,2026-08-11,Caisse Accueil,Fournitures,6500,Responsable d'activité,False,synthetique
+230,2026-08-12,Caisse Accueil,Monnaie,34500,Responsable d'activité,False,synthetique
+231,2026-08-13,Caisse Accueil,Fournitures,33500,Responsable d'activité,False,synthetique
+232,2026-08-18,Caisse Accueil,Petit achat urgent,19000,Responsable d'activité,False,synthetique
+233,2026-08-21,Caisse Accueil,Petit achat urgent,8500,Responsable d'activité,False,synthetique
+234,2026-08-21,Caisse Accueil,Transport,28000,Responsable d'activité,False,synthetique
+235,2026-08-25,Caisse Accueil,Monnaie,25500,Responsable d'activité,False,synthetique
+236,2026-08-25,Caisse Accueil,Fournitures,17000,Responsable d'activité,False,synthetique
+237,2026-08-28,Caisse Accueil,Monnaie,26000,Responsable d'activité,False,synthetique
+238,2026-08-30,Caisse Accueil,Fournitures,30500,Responsable d'activité,False,synthetique
+239,2026-09-01,Caisse Accueil,Transport,34500,Responsable d'activité,False,synthetique
+240,2026-09-02,Caisse Accueil,Monnaie,13000,Responsable d'activité,False,synthetique
+241,2026-09-03,Caisse Accueil,Monnaie,8500,Responsable d'activité,False,synthetique
+242,2026-09-04,Caisse Accueil,Fournitures,19500,Responsable d'activité,False,synthetique
+243,2026-09-06,Caisse Accueil,Petit achat urgent,6000,Responsable d'activité,False,synthetique
+244,2026-09-08,Caisse Accueil,Petit achat urgent,22500,Responsable d'activité,False,synthetique
+245,2026-09-10,Caisse Accueil,Petit achat urgent,8500,Responsable d'activité,False,synthetique
+246,2026-09-11,Caisse Accueil,Petit achat urgent,22000,Responsable d'activité,False,synthetique
+247,2026-09-15,Caisse Accueil,Petit achat urgent,31500,Responsable d'activité,False,synthetique
+248,2026-09-16,Caisse Accueil,Transport,26500,Responsable d'activité,False,synthetique
+249,2026-09-16,Caisse Accueil,Petit achat urgent,32000,Responsable d'activité,False,synthetique
+250,2026-09-16,Caisse Accueil,Fournitures,27500,Responsable d'activité,False,synthetique
+251,2026-09-23,Caisse Accueil,Monnaie,6000,Responsable d'activité,False,synthetique
+252,2026-09-24,Caisse Accueil,Fournitures,16000,Responsable d'activité,False,synthetique
+253,2026-09-29,Caisse Accueil,Monnaie,28000,Responsable d'activité,False,synthetique
+254,2026-10-01,Caisse Accueil,Petit achat urgent,18500,Responsable d'activité,False,synthetique
+255,2026-10-01,Caisse Accueil,Monnaie,8000,Responsable d'activité,False,synthetique
+256,2026-10-02,Caisse Accueil,Monnaie,19000,Responsable d'activité,False,synthetique
+257,2026-10-02,Caisse Accueil,Transport,32500,Responsable d'activité,False,synthetique
+258,2026-10-02,Caisse Accueil,Transport,30000,Responsable d'activité,False,synthetique
+259,2026-10-03,Caisse Accueil,Fournitures,23500,Responsable d'activité,False,synthetique
+260,2026-10-04,Caisse Accueil,Monnaie,11500,Responsable d'activité,False,synthetique
+261,2026-10-06,Caisse Accueil,Transport,34500,Responsable d'activité,False,synthetique
+262,2026-10-09,Caisse Accueil,Petit achat urgent,20000,Responsable d'activité,False,synthetique
+263,2026-10-13,Caisse Accueil,Monnaie,23000,Responsable d'activité,False,synthetique
+264,2026-10-14,Caisse Accueil,Transport,21000,Responsable d'activité,False,synthetique
+265,2026-10-14,Caisse Accueil,Fournitures,25500,Responsable d'activité,False,synthetique
+266,2026-10-18,Caisse Accueil,Monnaie,18000,Responsable d'activité,False,synthetique
+267,2026-10-18,Caisse Accueil,Petit achat urgent,7500,Responsable d'activité,False,synthetique
+268,2026-10-18,Caisse Accueil,Petit achat urgent,20500,Responsable d'activité,False,synthetique
+269,2026-10-20,Caisse Accueil,Fournitures,26500,Responsable d'activité,False,synthetique
+270,2026-10-21,Caisse Accueil,Transport,3000,Responsable d'activité,False,synthetique
+271,2026-10-23,Caisse Accueil,Fournitures,13500,Responsable d'activité,False,synthetique
+272,2026-10-30,Caisse Accueil,Fournitures,25000,Responsable d'activité,False,synthetique
+273,2026-11-04,Caisse Accueil,Sortie sans justificatif,203500,,True,synthetique
+274,2026-11-06,Caisse Accueil,Transport,12000,Responsable d'activité,False,synthetique
+275,2026-11-07,Caisse Accueil,Transport,27500,Responsable d'activité,False,synthetique
+276,2026-11-08,Caisse Accueil,Transport,4500,Responsable d'activité,False,synthetique
+277,2026-11-11,Caisse Accueil,Fournitures,29500,Responsable d'activité,False,synthetique
+278,2026-11-12,Caisse Accueil,Transport,18000,Responsable d'activité,False,synthetique
+279,2026-11-12,Caisse Accueil,Fournitures,16000,Responsable d'activité,False,synthetique
+280,2026-11-15,Caisse Accueil,Petit achat urgent,5500,Responsable d'activité,False,synthetique
+281,2025-11-01,Caisse Piscine,Fournitures,9500,Responsable d'activité,False,synthetique
+282,2025-11-06,Caisse Piscine,Monnaie,22500,Responsable d'activité,False,synthetique
+283,2025-11-08,Caisse Piscine,Fournitures,27500,Responsable d'activité,False,synthetique
+284,2025-11-08,Caisse Piscine,Transport,3000,Responsable d'activité,False,synthetique
+285,2025-11-13,Caisse Piscine,Fournitures,11500,Responsable d'activité,False,synthetique
+286,2025-11-18,Caisse Piscine,Fournitures,18000,Responsable d'activité,False,synthetique
+287,2025-11-18,Caisse Piscine,Monnaie,29000,Responsable d'activité,False,synthetique
+288,2025-11-18,Caisse Piscine,Petit achat urgent,21500,Responsable d'activité,False,synthetique
+289,2025-11-20,Caisse Piscine,Fournitures,34000,Responsable d'activité,False,synthetique
+290,2025-11-20,Caisse Piscine,Fournitures,31000,Responsable d'activité,False,synthetique
+291,2025-11-25,Caisse Piscine,Transport,12500,Responsable d'activité,False,synthetique
+292,2025-11-26,Caisse Piscine,Monnaie,7000,Responsable d'activité,False,synthetique
+293,2025-11-27,Caisse Piscine,Monnaie,7500,Responsable d'activité,False,synthetique
+294,2025-11-28,Caisse Piscine,Transport,6000,Responsable d'activité,False,synthetique
+295,2025-12-02,Caisse Piscine,Monnaie,24500,Responsable d'activité,False,synthetique
+296,2025-12-04,Caisse Piscine,Fournitures,31500,Responsable d'activité,False,synthetique
+297,2025-12-05,Caisse Piscine,Sortie sans justificatif,169500,,True,synthetique
+298,2025-12-09,Caisse Piscine,Fournitures,32500,Responsable d'activité,False,synthetique
+299,2025-12-10,Caisse Piscine,Petit achat urgent,14500,Responsable d'activité,False,synthetique
+300,2025-12-11,Caisse Piscine,Fournitures,13000,Responsable d'activité,False,synthetique
+301,2025-12-11,Caisse Piscine,Monnaie,30000,Responsable d'activité,False,synthetique
+302,2025-12-12,Caisse Piscine,Monnaie,18500,Responsable d'activité,False,synthetique
+303,2025-12-13,Caisse Piscine,Transport,32500,Responsable d'activité,False,synthetique
+304,2025-12-13,Caisse Piscine,Transport,5500,Responsable d'activité,False,synthetique
+305,2025-12-14,Caisse Piscine,Transport,3500,Responsable d'activité,False,synthetique
+306,2025-12-17,Caisse Piscine,Fournitures,15500,Responsable d'activité,False,synthetique
+307,2025-12-18,Caisse Piscine,Petit achat urgent,31500,Responsable d'activité,False,synthetique
+308,2025-12-18,Caisse Piscine,Petit achat urgent,10500,Responsable d'activité,False,synthetique
+309,2025-12-26,Caisse Piscine,Monnaie,13500,Responsable d'activité,False,synthetique
+310,2025-12-28,Caisse Piscine,Monnaie,11000,Responsable d'activité,False,synthetique
+311,2025-12-30,Caisse Piscine,Fournitures,23500,Responsable d'activité,False,synthetique
+312,2025-12-31,Caisse Piscine,Petit achat urgent,10000,Responsable d'activité,False,synthetique
+313,2026-01-04,Caisse Piscine,Petit achat urgent,11000,Responsable d'activité,False,synthetique
+314,2026-01-04,Caisse Piscine,Monnaie,21000,Responsable d'activité,False,synthetique
+315,2026-01-08,Caisse Piscine,Fournitures,29500,Responsable d'activité,False,synthetique
+316,2026-01-11,Caisse Piscine,Fournitures,9500,Responsable d'activité,False,synthetique
+317,2026-01-23,Caisse Piscine,Fournitures,13500,Responsable d'activité,False,synthetique
+318,2026-01-24,Caisse Piscine,Petit achat urgent,13000,Responsable d'activité,False,synthetique
+319,2026-01-31,Caisse Piscine,Sortie sans justificatif,160500,,True,synthetique
+320,2026-02-03,Caisse Piscine,Monnaie,5000,Responsable d'activité,False,synthetique
+321,2026-02-06,Caisse Piscine,Fournitures,34000,Responsable d'activité,False,synthetique
+322,2026-02-06,Caisse Piscine,Fournitures,6500,Responsable d'activité,False,synthetique
+323,2026-02-06,Caisse Piscine,Fournitures,3500,Responsable d'activité,False,synthetique
+324,2026-02-07,Caisse Piscine,Transport,4000,Responsable d'activité,False,synthetique
+325,2026-02-07,Caisse Piscine,Transport,23000,Responsable d'activité,False,synthetique
+326,2026-02-10,Caisse Piscine,Sortie sans justificatif,217500,,True,synthetique
+327,2026-02-11,Caisse Piscine,Petit achat urgent,6500,Responsable d'activité,False,synthetique
+328,2026-02-15,Caisse Piscine,Transport,29500,Responsable d'activité,False,synthetique
+329,2026-02-20,Caisse Piscine,Fournitures,30500,Responsable d'activité,False,synthetique
+330,2026-02-26,Caisse Piscine,Fournitures,25500,Responsable d'activité,False,synthetique
+331,2026-02-26,Caisse Piscine,Petit achat urgent,28000,Responsable d'activité,False,synthetique
+332,2026-02-28,Caisse Piscine,Monnaie,11000,Responsable d'activité,False,synthetique
+333,2026-03-01,Caisse Piscine,Monnaie,10500,Responsable d'activité,False,synthetique
+334,2026-03-05,Caisse Piscine,Monnaie,12000,Responsable d'activité,False,synthetique
+335,2026-03-05,Caisse Piscine,Fournitures,20000,Responsable d'activité,False,synthetique
+336,2026-03-06,Caisse Piscine,Transport,5500,Responsable d'activité,False,synthetique
+337,2026-03-07,Caisse Piscine,Fournitures,25500,Responsable d'activité,False,synthetique
+338,2026-03-07,Caisse Piscine,Petit achat urgent,22500,Responsable d'activité,False,synthetique
+339,2026-03-11,Caisse Piscine,Fournitures,31000,Responsable d'activité,False,synthetique
+340,2026-03-18,Caisse Piscine,Transport,28500,Responsable d'activité,False,synthetique
+341,2026-03-18,Caisse Piscine,Petit achat urgent,28500,Responsable d'activité,False,synthetique
+342,2026-03-21,Caisse Piscine,Transport,17500,Responsable d'activité,False,synthetique
+343,2026-03-21,Caisse Piscine,Transport,24000,Responsable d'activité,False,synthetique
+344,2026-03-22,Caisse Piscine,Petit achat urgent,15500,Responsable d'activité,False,synthetique
+345,2026-03-28,Caisse Piscine,Petit achat urgent,15000,Responsable d'activité,False,synthetique
+346,2026-04-01,Caisse Piscine,Monnaie,10000,Responsable d'activité,False,synthetique
+347,2026-04-02,Caisse Piscine,Monnaie,20500,Responsable d'activité,False,synthetique
+348,2026-04-03,Caisse Piscine,Transport,22500,Responsable d'activité,False,synthetique
+349,2026-04-03,Caisse Piscine,Monnaie,4500,Responsable d'activité,False,synthetique
+350,2026-04-03,Caisse Piscine,Fournitures,22000,Responsable d'activité,False,synthetique
+351,2026-04-04,Caisse Piscine,Transport,9500,Responsable d'activité,False,synthetique
+352,2026-04-04,Caisse Piscine,Monnaie,30000,Responsable d'activité,False,synthetique
+353,2026-04-09,Caisse Piscine,Fournitures,19000,Responsable d'activité,False,synthetique
+354,2026-04-10,Caisse Piscine,Monnaie,7500,Responsable d'activité,False,synthetique
+355,2026-04-10,Caisse Piscine,Monnaie,6500,Responsable d'activité,False,synthetique
+356,2026-04-15,Caisse Piscine,Transport,30500,Responsable d'activité,False,synthetique
+357,2026-04-15,Caisse Piscine,Fournitures,27000,Responsable d'activité,False,synthetique
+358,2026-04-16,Caisse Piscine,Fournitures,8000,Responsable d'activité,False,synthetique
+359,2026-04-19,Caisse Piscine,Transport,16000,Responsable d'activité,False,synthetique
+360,2026-04-23,Caisse Piscine,Fournitures,10000,Responsable d'activité,False,synthetique
+361,2026-04-24,Caisse Piscine,Monnaie,18000,Responsable d'activité,False,synthetique
+362,2026-04-28,Caisse Piscine,Monnaie,22500,Responsable d'activité,False,synthetique
+363,2026-04-29,Caisse Piscine,Petit achat urgent,7000,Responsable d'activité,False,synthetique
+364,2026-04-30,Caisse Piscine,Monnaie,21500,Responsable d'activité,False,synthetique
+365,2026-04-30,Caisse Piscine,Petit achat urgent,31500,Responsable d'activité,False,synthetique
+366,2026-04-30,Caisse Piscine,Fournitures,9500,Responsable d'activité,False,synthetique
+367,2026-05-02,Caisse Piscine,Transport,18000,Responsable d'activité,False,synthetique
+368,2026-05-05,Caisse Piscine,Petit achat urgent,14500,Responsable d'activité,False,synthetique
+369,2026-05-06,Caisse Piscine,Monnaie,21000,Responsable d'activité,False,synthetique
+370,2026-05-08,Caisse Piscine,Monnaie,17500,Responsable d'activité,False,synthetique
+371,2026-05-10,Caisse Piscine,Monnaie,25000,Responsable d'activité,False,synthetique
+372,2026-05-14,Caisse Piscine,Petit achat urgent,28500,Responsable d'activité,False,synthetique
+373,2026-05-14,Caisse Piscine,Transport,13500,Responsable d'activité,False,synthetique
+374,2026-05-15,Caisse Piscine,Monnaie,32000,Responsable d'activité,False,synthetique
+375,2026-05-15,Caisse Piscine,Petit achat urgent,10500,Responsable d'activité,False,synthetique
+376,2026-05-17,Caisse Piscine,Transport,9000,Responsable d'activité,False,synthetique
+377,2026-05-22,Caisse Piscine,Monnaie,24000,Responsable d'activité,False,synthetique
+378,2026-05-25,Caisse Piscine,Petit achat urgent,23500,Responsable d'activité,False,synthetique
+379,2026-05-27,Caisse Piscine,Transport,6500,Responsable d'activité,False,synthetique
+380,2026-05-28,Caisse Piscine,Petit achat urgent,11000,Responsable d'activité,False,synthetique
+381,2026-05-28,Caisse Piscine,Petit achat urgent,33000,Responsable d'activité,False,synthetique
+382,2026-05-28,Caisse Piscine,Petit achat urgent,33000,Responsable d'activité,False,synthetique
+383,2026-05-29,Caisse Piscine,Transport,11000,Responsable d'activité,False,synthetique
+384,2026-05-29,Caisse Piscine,Monnaie,25000,Responsable d'activité,False,synthetique
+385,2026-05-30,Caisse Piscine,Monnaie,4500,Responsable d'activité,False,synthetique
+386,2026-06-02,Caisse Piscine,Fournitures,34000,Responsable d'activité,False,synthetique
+387,2026-06-05,Caisse Piscine,Fournitures,11000,Responsable d'activité,False,synthetique
+388,2026-06-07,Caisse Piscine,Monnaie,14000,Responsable d'activité,False,synthetique
+389,2026-06-07,Caisse Piscine,Petit achat urgent,10500,Responsable d'activité,False,synthetique
+390,2026-06-09,Caisse Piscine,Monnaie,28000,Responsable d'activité,False,synthetique
+391,2026-06-13,Caisse Piscine,Fournitures,3500,Responsable d'activité,False,synthetique
+392,2026-06-13,Caisse Piscine,Fournitures,11500,Responsable d'activité,False,synthetique
+393,2026-06-14,Caisse Piscine,Monnaie,28500,Responsable d'activité,False,synthetique
+394,2026-06-18,Caisse Piscine,Petit achat urgent,31500,Responsable d'activité,False,synthetique
+395,2026-06-19,Caisse Piscine,Transport,32000,Responsable d'activité,False,synthetique
+396,2026-06-20,Caisse Piscine,Monnaie,20500,Responsable d'activité,False,synthetique
+397,2026-06-20,Caisse Piscine,Fournitures,20000,Responsable d'activité,False,synthetique
+398,2026-06-21,Caisse Piscine,Transport,20500,Responsable d'activité,False,synthetique
+399,2026-06-23,Caisse Piscine,Petit achat urgent,15000,Responsable d'activité,False,synthetique
+400,2026-06-24,Caisse Piscine,Transport,32000,Responsable d'activité,False,synthetique
+401,2026-06-24,Caisse Piscine,Petit achat urgent,34500,Responsable d'activité,False,synthetique
+402,2026-06-26,Caisse Piscine,Monnaie,28000,Responsable d'activité,False,synthetique
+403,2026-06-27,Caisse Piscine,Petit achat urgent,22000,Responsable d'activité,False,synthetique
+404,2026-06-28,Caisse Piscine,Transport,11000,Responsable d'activité,False,synthetique
+405,2026-07-02,Caisse Piscine,Fournitures,28000,Responsable d'activité,False,synthetique
+406,2026-07-02,Caisse Piscine,Fournitures,24500,Responsable d'activité,False,synthetique
+407,2026-07-04,Caisse Piscine,Petit achat urgent,16500,Responsable d'activité,False,synthetique
+408,2026-07-09,Caisse Piscine,Monnaie,10000,Responsable d'activité,False,synthetique
+409,2026-07-09,Caisse Piscine,Fournitures,34000,Responsable d'activité,False,synthetique
+410,2026-07-12,Caisse Piscine,Fournitures,26000,Responsable d'activité,False,synthetique
+411,2026-07-14,Caisse Piscine,Transport,16500,Responsable d'activité,False,synthetique
+412,2026-07-15,Caisse Piscine,Petit achat urgent,19500,Responsable d'activité,False,synthetique
+413,2026-07-16,Caisse Piscine,Fournitures,29000,Responsable d'activité,False,synthetique
+414,2026-07-21,Caisse Piscine,Petit achat urgent,22000,Responsable d'activité,False,synthetique
+415,2026-07-21,Caisse Piscine,Fournitures,23500,Responsable d'activité,False,synthetique
+416,2026-07-22,Caisse Piscine,Monnaie,13500,Responsable d'activité,False,synthetique
+417,2026-07-24,Caisse Piscine,Fournitures,7000,Responsable d'activité,False,synthetique
+418,2026-07-25,Caisse Piscine,Transport,4500,Responsable d'activité,False,synthetique
+419,2026-07-26,Caisse Piscine,Petit achat urgent,16500,Responsable d'activité,False,synthetique
+420,2026-07-28,Caisse Piscine,Transport,10000,Responsable d'activité,False,synthetique
+421,2026-07-29,Caisse Piscine,Monnaie,25500,Responsable d'activité,False,synthetique
+422,2026-08-02,Caisse Piscine,Transport,31000,Responsable d'activité,False,synthetique
+423,2026-08-04,Caisse Piscine,Monnaie,32500,Responsable d'activité,False,synthetique
+424,2026-08-04,Caisse Piscine,Petit achat urgent,26000,Responsable d'activité,False,synthetique
+425,2026-08-05,Caisse Piscine,Transport,33000,Responsable d'activité,False,synthetique
+426,2026-08-08,Caisse Piscine,Monnaie,20000,Responsable d'activité,False,synthetique
+427,2026-08-12,Caisse Piscine,Petit achat urgent,6500,Responsable d'activité,False,synthetique
+428,2026-08-16,Caisse Piscine,Transport,18500,Responsable d'activité,False,synthetique
+429,2026-08-21,Caisse Piscine,Fournitures,6000,Responsable d'activité,False,synthetique
+430,2026-08-21,Caisse Piscine,Transport,18000,Responsable d'activité,False,synthetique
+431,2026-08-23,Caisse Piscine,Monnaie,27500,Responsable d'activité,False,synthetique
+432,2026-08-26,Caisse Piscine,Transport,22000,Responsable d'activité,False,synthetique
+433,2026-08-27,Caisse Piscine,Transport,22500,Responsable d'activité,False,synthetique
+434,2026-08-28,Caisse Piscine,Transport,25000,Responsable d'activité,False,synthetique
+435,2026-08-28,Caisse Piscine,Transport,20000,Responsable d'activité,False,synthetique
+436,2026-08-29,Caisse Piscine,Monnaie,27500,Responsable d'activité,False,synthetique
+437,2026-09-02,Caisse Piscine,Petit achat urgent,35000,Responsable d'activité,False,synthetique
+438,2026-09-05,Caisse Piscine,Fournitures,4500,Responsable d'activité,False,synthetique
+439,2026-09-05,Caisse Piscine,Petit achat urgent,9500,Responsable d'activité,False,synthetique
+440,2026-09-05,Caisse Piscine,Transport,25000,Responsable d'activité,False,synthetique
+441,2026-09-06,Caisse Piscine,Transport,20000,Responsable d'activité,False,synthetique
+442,2026-09-09,Caisse Piscine,Fournitures,13500,Responsable d'activité,False,synthetique
+443,2026-09-10,Caisse Piscine,Petit achat urgent,13000,Responsable d'activité,False,synthetique
+444,2026-09-12,Caisse Piscine,Transport,25500,Responsable d'activité,False,synthetique
+445,2026-09-16,Caisse Piscine,Fournitures,23500,Responsable d'activité,False,synthetique
+446,2026-09-18,Caisse Piscine,Monnaie,28000,Responsable d'activité,False,synthetique
+447,2026-09-18,Caisse Piscine,Monnaie,21500,Responsable d'activité,False,synthetique
+448,2026-09-20,Caisse Piscine,Petit achat urgent,33500,Responsable d'activité,False,synthetique
+449,2026-09-22,Caisse Piscine,Transport,31000,Responsable d'activité,False,synthetique
+450,2026-09-23,Caisse Piscine,Monnaie,25000,Responsable d'activité,False,synthetique
+451,2026-09-24,Caisse Piscine,Petit achat urgent,12000,Responsable d'activité,False,synthetique
+452,2026-09-25,Caisse Piscine,Fournitures,28000,Responsable d'activité,False,synthetique
+453,2026-09-25,Caisse Piscine,Monnaie,30000,Responsable d'activité,False,synthetique
+454,2026-09-26,Caisse Piscine,Fournitures,19000,Responsable d'activité,False,synthetique
+455,2026-09-30,Caisse Piscine,Monnaie,17000,Responsable d'activité,False,synthetique
+456,2026-10-01,Caisse Piscine,Fournitures,14000,Responsable d'activité,False,synthetique
+457,2026-10-03,Caisse Piscine,Monnaie,31000,Responsable d'activité,False,synthetique
+458,2026-10-04,Caisse Piscine,Fournitures,28000,Responsable d'activité,False,synthetique
+459,2026-10-08,Caisse Piscine,Petit achat urgent,26000,Responsable d'activité,False,synthetique
+460,2026-10-10,Caisse Piscine,Monnaie,15000,Responsable d'activité,False,synthetique
+461,2026-10-15,Caisse Piscine,Fournitures,8000,Responsable d'activité,False,synthetique
+462,2026-10-15,Caisse Piscine,Fournitures,24500,Responsable d'activité,False,synthetique
+463,2026-10-16,Caisse Piscine,Petit achat urgent,8000,Responsable d'activité,False,synthetique
+464,2026-10-17,Caisse Piscine,Petit achat urgent,28000,Responsable d'activité,False,synthetique
+465,2026-10-20,Caisse Piscine,Fournitures,24500,Responsable d'activité,False,synthetique
+466,2026-10-22,Caisse Piscine,Transport,18500,Responsable d'activité,False,synthetique
+467,2026-10-23,Caisse Piscine,Petit achat urgent,4000,Responsable d'activité,False,synthetique
+468,2026-10-23,Caisse Piscine,Monnaie,6000,Responsable d'activité,False,synthetique
+469,2026-10-24,Caisse Piscine,Monnaie,26500,Responsable d'activité,False,synthetique
+470,2026-10-25,Caisse Piscine,Fournitures,13000,Responsable d'activité,False,synthetique
+471,2026-10-28,Caisse Piscine,Petit achat urgent,20500,Responsable d'activité,False,synthetique
+472,2026-10-29,Caisse Piscine,Transport,17500,Responsable d'activité,False,synthetique
+473,2026-10-31,Caisse Piscine,Monnaie,20500,Responsable d'activité,False,synthetique
+474,2026-11-04,Caisse Piscine,Transport,11000,Responsable d'activité,False,synthetique
+475,2026-11-04,Caisse Piscine,Petit achat urgent,13500,Responsable d'activité,False,synthetique
+476,2026-11-05,Caisse Piscine,Petit achat urgent,27000,Responsable d'activité,False,synthetique
+477,2026-11-07,Caisse Piscine,Fournitures,23500,Responsable d'activité,False,synthetique
+478,2026-11-07,Caisse Piscine,Petit achat urgent,11500,Responsable d'activité,False,synthetique
+479,2026-11-07,Caisse Piscine,Petit achat urgent,12000,Responsable d'activité,False,synthetique
+480,2026-11-10,Caisse Piscine,Transport,5500,Responsable d'activité,False,synthetique
+481,2026-11-10,Caisse Piscine,Monnaie,35000,Responsable d'activité,False,synthetique
+482,2026-11-10,Caisse Piscine,Transport,16500,Responsable d'activité,False,synthetique
+483,2026-11-11,Caisse Piscine,Fournitures,33500,Responsable d'activité,False,synthetique
+484,2026-11-11,Caisse Piscine,Monnaie,18000,Responsable d'activité,False,synthetique
+485,2026-11-11,Caisse Piscine,Transport,32500,Responsable d'activité,False,synthetique
+486,2025-11-02,Caisse Cyber,Monnaie,32500,Responsable d'activité,False,synthetique
+487,2025-11-04,Caisse Cyber,Monnaie,26500,Responsable d'activité,False,synthetique
+488,2025-11-08,Caisse Cyber,Transport,8000,Responsable d'activité,False,synthetique
+489,2025-11-08,Caisse Cyber,Fournitures,24500,Responsable d'activité,False,synthetique
+490,2025-11-11,Caisse Cyber,Transport,9500,Responsable d'activité,False,synthetique
+491,2025-11-11,Caisse Cyber,Transport,17500,Responsable d'activité,False,synthetique
+492,2025-11-12,Caisse Cyber,Transport,23500,Responsable d'activité,False,synthetique
+493,2025-11-13,Caisse Cyber,Monnaie,15000,Responsable d'activité,False,synthetique
+494,2025-11-14,Caisse Cyber,Monnaie,21000,Responsable d'activité,False,synthetique
+495,2025-11-20,Caisse Cyber,Transport,18500,Responsable d'activité,False,synthetique
+496,2025-11-20,Caisse Cyber,Monnaie,13000,Responsable d'activité,False,synthetique
+497,2025-11-21,Caisse Cyber,Monnaie,16000,Responsable d'activité,False,synthetique
+498,2025-11-23,Caisse Cyber,Monnaie,8500,Responsable d'activité,False,synthetique
+499,2025-11-26,Caisse Cyber,Petit achat urgent,6000,Responsable d'activité,False,synthetique
+500,2025-12-02,Caisse Cyber,Petit achat urgent,18500,Responsable d'activité,False,synthetique
+501,2025-12-04,Caisse Cyber,Fournitures,9000,Responsable d'activité,False,synthetique
+502,2025-12-04,Caisse Cyber,Petit achat urgent,34500,Responsable d'activité,False,synthetique
+503,2025-12-05,Caisse Cyber,Petit achat urgent,29500,Responsable d'activité,False,synthetique
+504,2025-12-06,Caisse Cyber,Transport,18000,Responsable d'activité,False,synthetique
+505,2025-12-07,Caisse Cyber,Monnaie,16500,Responsable d'activité,False,synthetique
+506,2025-12-07,Caisse Cyber,Monnaie,10500,Responsable d'activité,False,synthetique
+507,2025-12-09,Caisse Cyber,Transport,30500,Responsable d'activité,False,synthetique
+508,2025-12-09,Caisse Cyber,Transport,10000,Responsable d'activité,False,synthetique
+509,2025-12-10,Caisse Cyber,Fournitures,4000,Responsable d'activité,False,synthetique
+510,2025-12-11,Caisse Cyber,Monnaie,23500,Responsable d'activité,False,synthetique
+511,2025-12-12,Caisse Cyber,Fournitures,27500,Responsable d'activité,False,synthetique
+512,2025-12-12,Caisse Cyber,Fournitures,29500,Responsable d'activité,False,synthetique
+513,2025-12-17,Caisse Cyber,Fournitures,24500,Responsable d'activité,False,synthetique
+514,2025-12-19,Caisse Cyber,Monnaie,15000,Responsable d'activité,False,synthetique
+515,2025-12-20,Caisse Cyber,Monnaie,5500,Responsable d'activité,False,synthetique
+516,2025-12-20,Caisse Cyber,Petit achat urgent,16500,Responsable d'activité,False,synthetique
+517,2025-12-25,Caisse Cyber,Transport,8500,Responsable d'activité,False,synthetique
+518,2026-01-01,Caisse Cyber,Monnaie,3000,Responsable d'activité,False,synthetique
+519,2026-01-07,Caisse Cyber,Petit achat urgent,28000,Responsable d'activité,False,synthetique
+520,2026-01-08,Caisse Cyber,Petit achat urgent,27000,Responsable d'activité,False,synthetique
+521,2026-01-22,Caisse Cyber,Petit achat urgent,25500,Responsable d'activité,False,synthetique
+522,2026-01-27,Caisse Cyber,Monnaie,30000,Responsable d'activité,False,synthetique
+523,2026-01-27,Caisse Cyber,Fournitures,13500,Responsable d'activité,False,synthetique
+524,2026-01-28,Caisse Cyber,Fournitures,10500,Responsable d'activité,False,synthetique
+525,2026-01-29,Caisse Cyber,Transport,3500,Responsable d'activité,False,synthetique
+526,2026-02-01,Caisse Cyber,Transport,12500,Responsable d'activité,False,synthetique
+527,2026-02-07,Caisse Cyber,Fournitures,5000,Responsable d'activité,False,synthetique
+528,2026-02-10,Caisse Cyber,Transport,33000,Responsable d'activité,False,synthetique
+529,2026-02-14,Caisse Cyber,Fournitures,19000,Responsable d'activité,False,synthetique
+530,2026-02-17,Caisse Cyber,Monnaie,28000,Responsable d'activité,False,synthetique
+531,2026-02-28,Caisse Cyber,Fournitures,6000,Responsable d'activité,False,synthetique
+532,2026-03-04,Caisse Cyber,Petit achat urgent,5500,Responsable d'activité,False,synthetique
+533,2026-03-08,Caisse Cyber,Petit achat urgent,27000,Responsable d'activité,False,synthetique
+534,2026-03-08,Caisse Cyber,Monnaie,17000,Responsable d'activité,False,synthetique
+535,2026-03-11,Caisse Cyber,Transport,22000,Responsable d'activité,False,synthetique
+536,2026-03-12,Caisse Cyber,Monnaie,8500,Responsable d'activité,False,synthetique
+537,2026-03-13,Caisse Cyber,Fournitures,29000,Responsable d'activité,False,synthetique
+538,2026-03-17,Caisse Cyber,Transport,17500,Responsable d'activité,False,synthetique
+539,2026-03-21,Caisse Cyber,Fournitures,25000,Responsable d'activité,False,synthetique
+540,2026-03-21,Caisse Cyber,Transport,14500,Responsable d'activité,False,synthetique
+541,2026-03-25,Caisse Cyber,Monnaie,29000,Responsable d'activité,False,synthetique
+542,2026-03-25,Caisse Cyber,Transport,23500,Responsable d'activité,False,synthetique
+543,2026-03-29,Caisse Cyber,Transport,32000,Responsable d'activité,False,synthetique
+544,2026-03-29,Caisse Cyber,Petit achat urgent,21500,Responsable d'activité,False,synthetique
+545,2026-04-01,Caisse Cyber,Transport,6000,Responsable d'activité,False,synthetique
+546,2026-04-01,Caisse Cyber,Fournitures,12000,Responsable d'activité,False,synthetique
+547,2026-04-02,Caisse Cyber,Fournitures,20000,Responsable d'activité,False,synthetique
+548,2026-04-03,Caisse Cyber,Transport,32500,Responsable d'activité,False,synthetique
+549,2026-04-05,Caisse Cyber,Monnaie,4500,Responsable d'activité,False,synthetique
+550,2026-04-12,Caisse Cyber,Petit achat urgent,26500,Responsable d'activité,False,synthetique
+551,2026-04-17,Caisse Cyber,Petit achat urgent,5000,Responsable d'activité,False,synthetique
+552,2026-04-19,Caisse Cyber,Monnaie,8500,Responsable d'activité,False,synthetique
+553,2026-04-21,Caisse Cyber,Petit achat urgent,19000,Responsable d'activité,False,synthetique
+554,2026-04-24,Caisse Cyber,Monnaie,34000,Responsable d'activité,False,synthetique
+555,2026-04-24,Caisse Cyber,Petit achat urgent,34500,Responsable d'activité,False,synthetique
+556,2026-04-25,Caisse Cyber,Fournitures,33500,Responsable d'activité,False,synthetique
+557,2026-04-25,Caisse Cyber,Transport,20500,Responsable d'activité,False,synthetique
+558,2026-04-25,Caisse Cyber,Sortie sans justificatif,229000,,True,synthetique
+559,2026-04-30,Caisse Cyber,Transport,12000,Responsable d'activité,False,synthetique
+560,2026-05-03,Caisse Cyber,Fournitures,14000,Responsable d'activité,False,synthetique
+561,2026-05-06,Caisse Cyber,Petit achat urgent,27000,Responsable d'activité,False,synthetique
+562,2026-05-06,Caisse Cyber,Transport,24000,Responsable d'activité,False,synthetique
+563,2026-05-08,Caisse Cyber,Fournitures,7500,Responsable d'activité,False,synthetique
+564,2026-05-09,Caisse Cyber,Monnaie,30500,Responsable d'activité,False,synthetique
+565,2026-05-13,Caisse Cyber,Monnaie,8000,Responsable d'activité,False,synthetique
+566,2026-05-15,Caisse Cyber,Petit achat urgent,13000,Responsable d'activité,False,synthetique
+567,2026-05-17,Caisse Cyber,Monnaie,7000,Responsable d'activité,False,synthetique
+568,2026-05-20,Caisse Cyber,Transport,34500,Responsable d'activité,False,synthetique
+569,2026-05-21,Caisse Cyber,Fournitures,26000,Responsable d'activité,False,synthetique
+570,2026-05-21,Caisse Cyber,Transport,26500,Responsable d'activité,False,synthetique
+571,2026-05-23,Caisse Cyber,Transport,16000,Responsable d'activité,False,synthetique
+572,2026-05-28,Caisse Cyber,Petit achat urgent,15500,Responsable d'activité,False,synthetique
+573,2026-05-28,Caisse Cyber,Transport,11500,Responsable d'activité,False,synthetique
+574,2026-06-04,Caisse Cyber,Transport,18000,Responsable d'activité,False,synthetique
+575,2026-06-04,Caisse Cyber,Monnaie,21500,Responsable d'activité,False,synthetique
+576,2026-06-06,Caisse Cyber,Fournitures,29500,Responsable d'activité,False,synthetique
+577,2026-06-07,Caisse Cyber,Fournitures,17500,Responsable d'activité,False,synthetique
+578,2026-06-10,Caisse Cyber,Petit achat urgent,9500,Responsable d'activité,False,synthetique
+579,2026-06-14,Caisse Cyber,Fournitures,10500,Responsable d'activité,False,synthetique
+580,2026-06-25,Caisse Cyber,Monnaie,34500,Responsable d'activité,False,synthetique
+581,2026-06-28,Caisse Cyber,Monnaie,27500,Responsable d'activité,False,synthetique
+582,2026-07-02,Caisse Cyber,Monnaie,18500,Responsable d'activité,False,synthetique
+583,2026-07-04,Caisse Cyber,Transport,35000,Responsable d'activité,False,synthetique
+584,2026-07-09,Caisse Cyber,Monnaie,10000,Responsable d'activité,False,synthetique
+585,2026-07-09,Caisse Cyber,Transport,8500,Responsable d'activité,False,synthetique
+586,2026-07-15,Caisse Cyber,Fournitures,11500,Responsable d'activité,False,synthetique
+587,2026-07-17,Caisse Cyber,Fournitures,12500,Responsable d'activité,False,synthetique
+588,2026-07-18,Caisse Cyber,Petit achat urgent,28000,Responsable d'activité,False,synthetique
+589,2026-07-18,Caisse Cyber,Fournitures,8500,Responsable d'activité,False,synthetique
+590,2026-07-25,Caisse Cyber,Transport,15000,Responsable d'activité,False,synthetique
+591,2026-07-26,Caisse Cyber,Sortie sans justificatif,245500,,True,synthetique
+592,2026-07-30,Caisse Cyber,Petit achat urgent,31500,Responsable d'activité,False,synthetique
+593,2026-07-31,Caisse Cyber,Petit achat urgent,12000,Responsable d'activité,False,synthetique
+594,2026-08-02,Caisse Cyber,Transport,33500,Responsable d'activité,False,synthetique
+595,2026-08-06,Caisse Cyber,Monnaie,29500,Responsable d'activité,False,synthetique
+596,2026-08-06,Caisse Cyber,Petit achat urgent,24000,Responsable d'activité,False,synthetique
+597,2026-08-07,Caisse Cyber,Transport,25500,Responsable d'activité,False,synthetique
+598,2026-08-08,Caisse Cyber,Fournitures,30500,Responsable d'activité,False,synthetique
+599,2026-08-11,Caisse Cyber,Petit achat urgent,20500,Responsable d'activité,False,synthetique
+600,2026-08-12,Caisse Cyber,Fournitures,11000,Responsable d'activité,False,synthetique
+601,2026-08-13,Caisse Cyber,Transport,17000,Responsable d'activité,False,synthetique
+602,2026-08-14,Caisse Cyber,Monnaie,32500,Responsable d'activité,False,synthetique
+603,2026-08-14,Caisse Cyber,Monnaie,8500,Responsable d'activité,False,synthetique
+604,2026-08-15,Caisse Cyber,Transport,31500,Responsable d'activité,False,synthetique
+605,2026-08-16,Caisse Cyber,Monnaie,33500,Responsable d'activité,False,synthetique
+606,2026-08-19,Caisse Cyber,Transport,9500,Responsable d'activité,False,synthetique
+607,2026-08-20,Caisse Cyber,Monnaie,23000,Responsable d'activité,False,synthetique
+608,2026-08-21,Caisse Cyber,Petit achat urgent,31500,Responsable d'activité,False,synthetique
+609,2026-08-21,Caisse Cyber,Fournitures,22500,Responsable d'activité,False,synthetique
+610,2026-08-22,Caisse Cyber,Transport,25500,Responsable d'activité,False,synthetique
+611,2026-08-23,Caisse Cyber,Monnaie,28500,Responsable d'activité,False,synthetique
+612,2026-08-26,Caisse Cyber,Petit achat urgent,17000,Responsable d'activité,False,synthetique
+613,2026-09-01,Caisse Cyber,Petit achat urgent,22500,Responsable d'activité,False,synthetique
+614,2026-09-01,Caisse Cyber,Petit achat urgent,3000,Responsable d'activité,False,synthetique
+615,2026-09-02,Caisse Cyber,Petit achat urgent,29000,Responsable d'activité,False,synthetique
+616,2026-09-05,Caisse Cyber,Monnaie,23000,Responsable d'activité,False,synthetique
+617,2026-09-05,Caisse Cyber,Fournitures,14500,Responsable d'activité,False,synthetique
+618,2026-09-10,Caisse Cyber,Monnaie,13000,Responsable d'activité,False,synthetique
+619,2026-09-12,Caisse Cyber,Transport,34500,Responsable d'activité,False,synthetique
+620,2026-09-13,Caisse Cyber,Fournitures,19500,Responsable d'activité,False,synthetique
+621,2026-09-15,Caisse Cyber,Petit achat urgent,9500,Responsable d'activité,False,synthetique
+622,2026-09-16,Caisse Cyber,Petit achat urgent,33500,Responsable d'activité,False,synthetique
+623,2026-09-18,Caisse Cyber,Transport,8500,Responsable d'activité,False,synthetique
+624,2026-09-18,Caisse Cyber,Fournitures,11000,Responsable d'activité,False,synthetique
+625,2026-09-20,Caisse Cyber,Petit achat urgent,32000,Responsable d'activité,False,synthetique
+626,2026-09-26,Caisse Cyber,Fournitures,9500,Responsable d'activité,False,synthetique
+627,2026-10-01,Caisse Cyber,Petit achat urgent,34000,Responsable d'activité,False,synthetique
+628,2026-10-02,Caisse Cyber,Monnaie,22000,Responsable d'activité,False,synthetique
+629,2026-10-02,Caisse Cyber,Transport,23000,Responsable d'activité,False,synthetique
+630,2026-10-03,Caisse Cyber,Fournitures,14000,Responsable d'activité,False,synthetique
+631,2026-10-04,Caisse Cyber,Transport,10500,Responsable d'activité,False,synthetique
+632,2026-10-04,Caisse Cyber,Fournitures,13500,Responsable d'activité,False,synthetique
+633,2026-10-04,Caisse Cyber,Fournitures,30000,Responsable d'activité,False,synthetique
+634,2026-10-08,Caisse Cyber,Monnaie,32500,Responsable d'activité,False,synthetique
+635,2026-10-09,Caisse Cyber,Transport,23500,Responsable d'activité,False,synthetique
+636,2026-10-11,Caisse Cyber,Transport,16500,Responsable d'activité,False,synthetique
+637,2026-10-14,Caisse Cyber,Monnaie,23500,Responsable d'activité,False,synthetique
+638,2026-10-18,Caisse Cyber,Petit achat urgent,34500,Responsable d'activité,False,synthetique
+639,2026-10-18,Caisse Cyber,Transport,3500,Responsable d'activité,False,synthetique
+640,2026-10-20,Caisse Cyber,Transport,13000,Responsable d'activité,False,synthetique
+641,2026-10-22,Caisse Cyber,Fournitures,12500,Responsable d'activité,False,synthetique
+642,2026-10-22,Caisse Cyber,Fournitures,27500,Responsable d'activité,False,synthetique
+643,2026-10-27,Caisse Cyber,Petit achat urgent,31000,Responsable d'activité,False,synthetique
+644,2026-10-29,Caisse Cyber,Petit achat urgent,6000,Responsable d'activité,False,synthetique
+645,2026-10-31,Caisse Cyber,Petit achat urgent,27000,Responsable d'activité,False,synthetique
+646,2026-11-01,Caisse Cyber,Petit achat urgent,11500,Responsable d'activité,False,synthetique
+647,2026-11-03,Caisse Cyber,Transport,26500,Responsable d'activité,False,synthetique
+648,2026-11-05,Caisse Cyber,Petit achat urgent,32500,Responsable d'activité,False,synthetique
+649,2026-11-08,Caisse Cyber,Transport,9000,Responsable d'activité,False,synthetique
+650,2026-11-10,Caisse Cyber,Fournitures,7500,Responsable d'activité,False,synthetique
+651,2026-11-10,Caisse Cyber,Monnaie,9000,Responsable d'activité,False,synthetique
+652,2025-11-01,Caisse Coiffure,Petit achat urgent,30000,Responsable d'activité,False,synthetique
+653,2025-11-04,Caisse Coiffure,Transport,28000,Responsable d'activité,False,synthetique
+654,2025-11-05,Caisse Coiffure,Monnaie,12500,Responsable d'activité,False,synthetique
+655,2025-11-06,Caisse Coiffure,Fournitures,23500,Responsable d'activité,False,synthetique
+656,2025-11-08,Caisse Coiffure,Monnaie,7500,Responsable d'activité,False,synthetique
+657,2025-11-12,Caisse Coiffure,Transport,30500,Responsable d'activité,False,synthetique
+658,2025-11-13,Caisse Coiffure,Transport,15500,Responsable d'activité,False,synthetique
+659,2025-11-15,Caisse Coiffure,Petit achat urgent,32500,Responsable d'activité,False,synthetique
+660,2025-11-18,Caisse Coiffure,Transport,10000,Responsable d'activité,False,synthetique
+661,2025-11-19,Caisse Coiffure,Monnaie,30000,Responsable d'activité,False,synthetique
+662,2025-11-19,Caisse Coiffure,Monnaie,13000,Responsable d'activité,False,synthetique
+663,2025-11-21,Caisse Coiffure,Monnaie,10500,Responsable d'activité,False,synthetique
+664,2025-11-27,Caisse Coiffure,Fournitures,17500,Responsable d'activité,False,synthetique
+665,2025-11-30,Caisse Coiffure,Monnaie,22500,Responsable d'activité,False,synthetique
+666,2025-11-30,Caisse Coiffure,Monnaie,17000,Responsable d'activité,False,synthetique
+667,2025-12-02,Caisse Coiffure,Petit achat urgent,29000,Responsable d'activité,False,synthetique
+668,2025-12-07,Caisse Coiffure,Transport,26000,Responsable d'activité,False,synthetique
+669,2025-12-10,Caisse Coiffure,Petit achat urgent,10500,Responsable d'activité,False,synthetique
+670,2025-12-11,Caisse Coiffure,Sortie sans justificatif,216500,,True,synthetique
+671,2025-12-12,Caisse Coiffure,Transport,19500,Responsable d'activité,False,synthetique
+672,2025-12-16,Caisse Coiffure,Monnaie,28500,Responsable d'activité,False,synthetique
+673,2025-12-19,Caisse Coiffure,Monnaie,32500,Responsable d'activité,False,synthetique
+674,2025-12-25,Caisse Coiffure,Monnaie,8500,Responsable d'activité,False,synthetique
+675,2025-12-28,Caisse Coiffure,Monnaie,5000,Responsable d'activité,False,synthetique
+676,2026-01-02,Caisse Coiffure,Monnaie,10000,Responsable d'activité,False,synthetique
+677,2026-01-07,Caisse Coiffure,Transport,20500,Responsable d'activité,False,synthetique
+678,2026-01-09,Caisse Coiffure,Petit achat urgent,11000,Responsable d'activité,False,synthetique
+679,2026-01-10,Caisse Coiffure,Monnaie,27000,Responsable d'activité,False,synthetique
+680,2026-01-11,Caisse Coiffure,Petit achat urgent,27500,Responsable d'activité,False,synthetique
+681,2026-01-11,Caisse Coiffure,Monnaie,12500,Responsable d'activité,False,synthetique
+682,2026-01-13,Caisse Coiffure,Fournitures,23000,Responsable d'activité,False,synthetique
+683,2026-01-15,Caisse Coiffure,Monnaie,15500,Responsable d'activité,False,synthetique
+684,2026-01-18,Caisse Coiffure,Transport,5500,Responsable d'activité,False,synthetique
+685,2026-01-21,Caisse Coiffure,Transport,13500,Responsable d'activité,False,synthetique
+686,2026-01-22,Caisse Coiffure,Petit achat urgent,11000,Responsable d'activité,False,synthetique
+687,2026-01-23,Caisse Coiffure,Petit achat urgent,32000,Responsable d'activité,False,synthetique
+688,2026-01-24,Caisse Coiffure,Fournitures,4500,Responsable d'activité,False,synthetique
+689,2026-01-27,Caisse Coiffure,Fournitures,9500,Responsable d'activité,False,synthetique
+690,2026-01-29,Caisse Coiffure,Monnaie,8000,Responsable d'activité,False,synthetique
+691,2026-01-29,Caisse Coiffure,Fournitures,15500,Responsable d'activité,False,synthetique
+692,2026-01-31,Caisse Coiffure,Monnaie,17500,Responsable d'activité,False,synthetique
+693,2026-02-11,Caisse Coiffure,Petit achat urgent,31000,Responsable d'activité,False,synthetique
+694,2026-02-13,Caisse Coiffure,Transport,10000,Responsable d'activité,False,synthetique
+695,2026-02-14,Caisse Coiffure,Monnaie,32500,Responsable d'activité,False,synthetique
+696,2026-02-15,Caisse Coiffure,Petit achat urgent,27000,Responsable d'activité,False,synthetique
+697,2026-02-17,Caisse Coiffure,Petit achat urgent,20500,Responsable d'activité,False,synthetique
+698,2026-02-18,Caisse Coiffure,Fournitures,29000,Responsable d'activité,False,synthetique
+699,2026-02-18,Caisse Coiffure,Petit achat urgent,20500,Responsable d'activité,False,synthetique
+700,2026-02-19,Caisse Coiffure,Fournitures,19000,Responsable d'activité,False,synthetique
+701,2026-02-21,Caisse Coiffure,Transport,5500,Responsable d'activité,False,synthetique
+702,2026-02-25,Caisse Coiffure,Monnaie,11000,Responsable d'activité,False,synthetique
+703,2026-02-28,Caisse Coiffure,Transport,14500,Responsable d'activité,False,synthetique
+704,2026-03-01,Caisse Coiffure,Fournitures,33000,Responsable d'activité,False,synthetique
+705,2026-03-01,Caisse Coiffure,Transport,7500,Responsable d'activité,False,synthetique
+706,2026-03-03,Caisse Coiffure,Monnaie,17500,Responsable d'activité,False,synthetique
+707,2026-03-04,Caisse Coiffure,Transport,33000,Responsable d'activité,False,synthetique
+708,2026-03-04,Caisse Coiffure,Fournitures,33500,Responsable d'activité,False,synthetique
+709,2026-03-10,Caisse Coiffure,Fournitures,23500,Responsable d'activité,False,synthetique
+710,2026-03-11,Caisse Coiffure,Monnaie,13000,Responsable d'activité,False,synthetique
+711,2026-03-11,Caisse Coiffure,Monnaie,28500,Responsable d'activité,False,synthetique
+712,2026-03-15,Caisse Coiffure,Transport,20000,Responsable d'activité,False,synthetique
+713,2026-03-15,Caisse Coiffure,Transport,25500,Responsable d'activité,False,synthetique
+714,2026-03-17,Caisse Coiffure,Monnaie,28500,Responsable d'activité,False,synthetique
+715,2026-03-17,Caisse Coiffure,Fournitures,30000,Responsable d'activité,False,synthetique
+716,2026-03-19,Caisse Coiffure,Transport,32000,Responsable d'activité,False,synthetique
+717,2026-03-21,Caisse Coiffure,Monnaie,8000,Responsable d'activité,False,synthetique
+718,2026-03-22,Caisse Coiffure,Fournitures,19000,Responsable d'activité,False,synthetique
+719,2026-03-22,Caisse Coiffure,Transport,6000,Responsable d'activité,False,synthetique
+720,2026-03-24,Caisse Coiffure,Transport,20000,Responsable d'activité,False,synthetique
+721,2026-03-25,Caisse Coiffure,Petit achat urgent,9000,Responsable d'activité,False,synthetique
+722,2026-03-27,Caisse Coiffure,Petit achat urgent,19000,Responsable d'activité,False,synthetique
+723,2026-04-01,Caisse Coiffure,Fournitures,4000,Responsable d'activité,False,synthetique
+724,2026-04-05,Caisse Coiffure,Fournitures,14000,Responsable d'activité,False,synthetique
+725,2026-04-06,Caisse Coiffure,Transport,13500,Responsable d'activité,False,synthetique
+726,2026-04-07,Caisse Coiffure,Transport,10500,Responsable d'activité,False,synthetique
+727,2026-04-07,Caisse Coiffure,Monnaie,21000,Responsable d'activité,False,synthetique
+728,2026-04-08,Caisse Coiffure,Monnaie,27000,Responsable d'activité,False,synthetique
+729,2026-04-09,Caisse Coiffure,Monnaie,19000,Responsable d'activité,False,synthetique
+730,2026-04-09,Caisse Coiffure,Fournitures,20000,Responsable d'activité,False,synthetique
+731,2026-04-10,Caisse Coiffure,Transport,11500,Responsable d'activité,False,synthetique
+732,2026-04-17,Caisse Coiffure,Transport,20500,Responsable d'activité,False,synthetique
+733,2026-04-18,Caisse Coiffure,Monnaie,3500,Responsable d'activité,False,synthetique
+734,2026-04-22,Caisse Coiffure,Fournitures,11500,Responsable d'activité,False,synthetique
+735,2026-04-23,Caisse Coiffure,Petit achat urgent,22000,Responsable d'activité,False,synthetique
+736,2026-04-26,Caisse Coiffure,Transport,31000,Responsable d'activité,False,synthetique
+737,2026-05-05,Caisse Coiffure,Fournitures,25000,Responsable d'activité,False,synthetique
+738,2026-05-06,Caisse Coiffure,Transport,21500,Responsable d'activité,False,synthetique
+739,2026-05-07,Caisse Coiffure,Transport,10500,Responsable d'activité,False,synthetique
+740,2026-05-10,Caisse Coiffure,Fournitures,17000,Responsable d'activité,False,synthetique
+741,2026-05-12,Caisse Coiffure,Fournitures,20000,Responsable d'activité,False,synthetique
+742,2026-05-14,Caisse Coiffure,Petit achat urgent,4000,Responsable d'activité,False,synthetique
+743,2026-05-16,Caisse Coiffure,Monnaie,10000,Responsable d'activité,False,synthetique
+744,2026-05-25,Caisse Coiffure,Transport,32500,Responsable d'activité,False,synthetique
+745,2026-05-26,Caisse Coiffure,Monnaie,30000,Responsable d'activité,False,synthetique
+746,2026-05-26,Caisse Coiffure,Transport,6000,Responsable d'activité,False,synthetique
+747,2026-06-02,Caisse Coiffure,Transport,8500,Responsable d'activité,False,synthetique
+748,2026-06-07,Caisse Coiffure,Petit achat urgent,29500,Responsable d'activité,False,synthetique
+749,2026-06-07,Caisse Coiffure,Monnaie,15500,Responsable d'activité,False,synthetique
+750,2026-06-09,Caisse Coiffure,Fournitures,6000,Responsable d'activité,False,synthetique
+751,2026-06-09,Caisse Coiffure,Petit achat urgent,33500,Responsable d'activité,False,synthetique
+752,2026-06-12,Caisse Coiffure,Transport,6000,Responsable d'activité,False,synthetique
+753,2026-06-13,Caisse Coiffure,Monnaie,12000,Responsable d'activité,False,synthetique
+754,2026-06-13,Caisse Coiffure,Transport,6000,Responsable d'activité,False,synthetique
+755,2026-06-24,Caisse Coiffure,Monnaie,25000,Responsable d'activité,False,synthetique
+756,2026-06-25,Caisse Coiffure,Fournitures,23000,Responsable d'activité,False,synthetique
+757,2026-06-25,Caisse Coiffure,Fournitures,35000,Responsable d'activité,False,synthetique
+758,2026-06-30,Caisse Coiffure,Fournitures,19500,Responsable d'activité,False,synthetique
+759,2026-07-02,Caisse Coiffure,Fournitures,26000,Responsable d'activité,False,synthetique
+760,2026-07-07,Caisse Coiffure,Petit achat urgent,19000,Responsable d'activité,False,synthetique
+761,2026-07-08,Caisse Coiffure,Petit achat urgent,9500,Responsable d'activité,False,synthetique
+762,2026-07-09,Caisse Coiffure,Petit achat urgent,20500,Responsable d'activité,False,synthetique
+763,2026-07-12,Caisse Coiffure,Petit achat urgent,14000,Responsable d'activité,False,synthetique
+764,2026-07-14,Caisse Coiffure,Fournitures,20000,Responsable d'activité,False,synthetique
+765,2026-07-16,Caisse Coiffure,Transport,33500,Responsable d'activité,False,synthetique
+766,2026-07-17,Caisse Coiffure,Fournitures,33500,Responsable d'activité,False,synthetique
+767,2026-07-18,Caisse Coiffure,Transport,26000,Responsable d'activité,False,synthetique
+768,2026-07-21,Caisse Coiffure,Fournitures,19000,Responsable d'activité,False,synthetique
+769,2026-07-23,Caisse Coiffure,Fournitures,34000,Responsable d'activité,False,synthetique
+770,2026-08-02,Caisse Coiffure,Monnaie,23000,Responsable d'activité,False,synthetique
+771,2026-08-09,Caisse Coiffure,Petit achat urgent,5500,Responsable d'activité,False,synthetique
+772,2026-08-12,Caisse Coiffure,Petit achat urgent,28000,Responsable d'activité,False,synthetique
+773,2026-08-13,Caisse Coiffure,Monnaie,23500,Responsable d'activité,False,synthetique
+774,2026-08-14,Caisse Coiffure,Transport,31000,Responsable d'activité,False,synthetique
+775,2026-08-14,Caisse Coiffure,Monnaie,20000,Responsable d'activité,False,synthetique
+776,2026-08-16,Caisse Coiffure,Fournitures,17500,Responsable d'activité,False,synthetique
+777,2026-08-20,Caisse Coiffure,Transport,10500,Responsable d'activité,False,synthetique
+778,2026-08-23,Caisse Coiffure,Petit achat urgent,25000,Responsable d'activité,False,synthetique
+779,2026-08-26,Caisse Coiffure,Transport,10500,Responsable d'activité,False,synthetique
+780,2026-08-27,Caisse Coiffure,Fournitures,28500,Responsable d'activité,False,synthetique
+781,2026-08-28,Caisse Coiffure,Petit achat urgent,22500,Responsable d'activité,False,synthetique
+782,2026-09-02,Caisse Coiffure,Fournitures,23500,Responsable d'activité,False,synthetique
+783,2026-09-04,Caisse Coiffure,Monnaie,35000,Responsable d'activité,False,synthetique
+784,2026-09-06,Caisse Coiffure,Petit achat urgent,10500,Responsable d'activité,False,synthetique
+785,2026-09-06,Caisse Coiffure,Monnaie,14500,Responsable d'activité,False,synthetique
+786,2026-09-09,Caisse Coiffure,Petit achat urgent,21000,Responsable d'activité,False,synthetique
+787,2026-09-09,Caisse Coiffure,Petit achat urgent,10500,Responsable d'activité,False,synthetique
+788,2026-09-10,Caisse Coiffure,Fournitures,7000,Responsable d'activité,False,synthetique
+789,2026-09-13,Caisse Coiffure,Petit achat urgent,33000,Responsable d'activité,False,synthetique
+790,2026-09-15,Caisse Coiffure,Monnaie,4500,Responsable d'activité,False,synthetique
+791,2026-09-17,Caisse Coiffure,Fournitures,20000,Responsable d'activité,False,synthetique
+792,2026-09-17,Caisse Coiffure,Transport,33000,Responsable d'activité,False,synthetique
+793,2026-09-18,Caisse Coiffure,Fournitures,18000,Responsable d'activité,False,synthetique
+794,2026-09-20,Caisse Coiffure,Fournitures,11500,Responsable d'activité,False,synthetique
+795,2026-09-25,Caisse Coiffure,Transport,18500,Responsable d'activité,False,synthetique
+796,2026-09-26,Caisse Coiffure,Monnaie,4500,Responsable d'activité,False,synthetique
+797,2026-09-27,Caisse Coiffure,Monnaie,10500,Responsable d'activité,False,synthetique
+798,2026-09-29,Caisse Coiffure,Monnaie,21000,Responsable d'activité,False,synthetique
+799,2026-09-29,Caisse Coiffure,Monnaie,9500,Responsable d'activité,False,synthetique
+800,2026-09-29,Caisse Coiffure,Petit achat urgent,28000,Responsable d'activité,False,synthetique
+801,2026-10-02,Caisse Coiffure,Monnaie,15500,Responsable d'activité,False,synthetique
+802,2026-10-02,Caisse Coiffure,Transport,27000,Responsable d'activité,False,synthetique
+803,2026-10-06,Caisse Coiffure,Transport,7000,Responsable d'activité,False,synthetique
+804,2026-10-07,Caisse Coiffure,Transport,23500,Responsable d'activité,False,synthetique
+805,2026-10-08,Caisse Coiffure,Petit achat urgent,34000,Responsable d'activité,False,synthetique
+806,2026-10-08,Caisse Coiffure,Monnaie,33500,Responsable d'activité,False,synthetique
+807,2026-10-09,Caisse Coiffure,Transport,29500,Responsable d'activité,False,synthetique
+808,2026-10-09,Caisse Coiffure,Monnaie,6500,Responsable d'activité,False,synthetique
+809,2026-10-09,Caisse Coiffure,Monnaie,20000,Responsable d'activité,False,synthetique
+810,2026-10-10,Caisse Coiffure,Transport,6500,Responsable d'activité,False,synthetique
+811,2026-10-17,Caisse Coiffure,Fournitures,28500,Responsable d'activité,False,synthetique
+812,2026-10-20,Caisse Coiffure,Monnaie,15500,Responsable d'activité,False,synthetique
+813,2026-10-21,Caisse Coiffure,Monnaie,26000,Responsable d'activité,False,synthetique
+814,2026-10-21,Caisse Coiffure,Transport,7500,Responsable d'activité,False,synthetique
+815,2026-10-24,Caisse Coiffure,Monnaie,22000,Responsable d'activité,False,synthetique
+816,2026-10-29,Caisse Coiffure,Monnaie,14500,Responsable d'activité,False,synthetique
+817,2026-10-30,Caisse Coiffure,Fournitures,6000,Responsable d'activité,False,synthetique
+818,2026-10-30,Caisse Coiffure,Transport,15500,Responsable d'activité,False,synthetique
+819,2026-10-31,Caisse Coiffure,Fournitures,17000,Responsable d'activité,False,synthetique
+820,2026-11-01,Caisse Coiffure,Transport,24000,Responsable d'activité,False,synthetique
+821,2026-11-03,Caisse Coiffure,Petit achat urgent,28000,Responsable d'activité,False,synthetique
+822,2026-11-06,Caisse Coiffure,Fournitures,19000,Responsable d'activité,False,synthetique
+823,2026-11-06,Caisse Coiffure,Transport,15500,Responsable d'activité,False,synthetique
+824,2026-11-10,Caisse Coiffure,Transport,10500,Responsable d'activité,False,synthetique
+825,2026-11-12,Caisse Coiffure,Transport,16000,Responsable d'activité,False,synthetique
+826,2026-11-13,Caisse Coiffure,Monnaie,19500,Responsable d'activité,False,synthetique
+827,2026-11-15,Caisse Coiffure,Petit achat urgent,14000,Responsable d'activité,False,synthetique
+828,2025-11-04,Caisse Ménage et cuisine,Petit achat urgent,25000,Responsable d'activité,False,synthetique
+829,2025-11-09,Caisse Ménage et cuisine,Fournitures,15000,Responsable d'activité,False,synthetique
+830,2025-11-14,Caisse Ménage et cuisine,Petit achat urgent,16500,Responsable d'activité,False,synthetique
+831,2025-11-19,Caisse Ménage et cuisine,Monnaie,21000,Responsable d'activité,False,synthetique
+832,2025-11-22,Caisse Ménage et cuisine,Transport,12500,Responsable d'activité,False,synthetique
+833,2025-11-22,Caisse Ménage et cuisine,Fournitures,27000,Responsable d'activité,False,synthetique
+834,2025-11-23,Caisse Ménage et cuisine,Petit achat urgent,19000,Responsable d'activité,False,synthetique
+835,2025-11-25,Caisse Ménage et cuisine,Transport,19750,Responsable d'activité,False,synthetique
+836,2025-11-28,Caisse Ménage et cuisine,Fournitures,12000,Responsable d'activité,False,synthetique
+837,2025-12-03,Caisse Ménage et cuisine,Monnaie,28000,Responsable d'activité,False,synthetique
+838,2025-12-06,Caisse Ménage et cuisine,Monnaie,4000,Responsable d'activité,False,synthetique
+839,2025-12-06,Caisse Ménage et cuisine,Petit achat urgent,26000,Responsable d'activité,False,synthetique
+840,2025-12-11,Caisse Ménage et cuisine,Petit achat urgent,9500,Responsable d'activité,False,synthetique
+841,2025-12-14,Caisse Ménage et cuisine,Transport,20000,Responsable d'activité,False,synthetique
+842,2025-12-14,Caisse Ménage et cuisine,Petit achat urgent,8500,Responsable d'activité,False,synthetique
+843,2025-12-17,Caisse Ménage et cuisine,Monnaie,9000,Responsable d'activité,False,synthetique
+844,2025-12-18,Caisse Ménage et cuisine,Monnaie,12500,Responsable d'activité,False,synthetique
+845,2025-12-19,Caisse Ménage et cuisine,Monnaie,11500,Responsable d'activité,False,synthetique
+846,2025-12-20,Caisse Ménage et cuisine,Monnaie,34000,Responsable d'activité,False,synthetique
+847,2025-12-21,Caisse Ménage et cuisine,Petit achat urgent,11500,Responsable d'activité,False,synthetique
+848,2025-12-23,Caisse Ménage et cuisine,Fournitures,8000,Responsable d'activité,False,synthetique
+849,2025-12-26,Caisse Ménage et cuisine,Transport,32500,Responsable d'activité,False,synthetique
+850,2025-12-28,Caisse Ménage et cuisine,Fournitures,27500,Responsable d'activité,False,synthetique
+851,2025-12-30,Caisse Ménage et cuisine,Transport,22000,Responsable d'activité,False,synthetique
+852,2026-01-07,Caisse Ménage et cuisine,Transport,13500,Responsable d'activité,False,synthetique
+853,2026-01-09,Caisse Ménage et cuisine,Transport,19500,Responsable d'activité,False,synthetique
+854,2026-01-10,Caisse Ménage et cuisine,Fournitures,19000,Responsable d'activité,False,synthetique
+855,2026-01-10,Caisse Ménage et cuisine,Petit achat urgent,18000,Responsable d'activité,False,synthetique
+856,2026-01-11,Caisse Ménage et cuisine,Fournitures,11000,Responsable d'activité,False,synthetique
+857,2026-01-15,Caisse Ménage et cuisine,Transport,7500,Responsable d'activité,False,synthetique
+858,2026-01-16,Caisse Ménage et cuisine,Monnaie,13000,Responsable d'activité,False,synthetique
+859,2026-01-17,Caisse Ménage et cuisine,Petit achat urgent,28500,Responsable d'activité,False,synthetique
+860,2026-01-17,Caisse Ménage et cuisine,Fournitures,18500,Responsable d'activité,False,synthetique
+861,2026-01-18,Caisse Ménage et cuisine,Fournitures,28500,Responsable d'activité,False,synthetique
+862,2026-01-21,Caisse Ménage et cuisine,Transport,12000,Responsable d'activité,False,synthetique
+863,2026-01-21,Caisse Ménage et cuisine,Fournitures,5500,Responsable d'activité,False,synthetique
+864,2026-01-21,Caisse Ménage et cuisine,Transport,32500,Responsable d'activité,False,synthetique
+865,2026-01-22,Caisse Ménage et cuisine,Transport,18500,Responsable d'activité,False,synthetique
+866,2026-01-22,Caisse Ménage et cuisine,Transport,20000,Responsable d'activité,False,synthetique
+867,2026-01-23,Caisse Ménage et cuisine,Transport,14000,Responsable d'activité,False,synthetique
+868,2026-02-05,Caisse Ménage et cuisine,Petit achat urgent,34000,Responsable d'activité,False,synthetique
+869,2026-02-06,Caisse Ménage et cuisine,Monnaie,30000,Responsable d'activité,False,synthetique
+870,2026-02-07,Caisse Ménage et cuisine,Petit achat urgent,24000,Responsable d'activité,False,synthetique
+871,2026-02-10,Caisse Ménage et cuisine,Petit achat urgent,6000,Responsable d'activité,False,synthetique
+872,2026-02-10,Caisse Ménage et cuisine,Transport,5000,Responsable d'activité,False,synthetique
+873,2026-02-11,Caisse Ménage et cuisine,Transport,34500,Responsable d'activité,False,synthetique
+874,2026-02-12,Caisse Ménage et cuisine,Transport,15000,Responsable d'activité,False,synthetique
+875,2026-02-13,Caisse Ménage et cuisine,Petit achat urgent,11500,Responsable d'activité,False,synthetique
+876,2026-02-13,Caisse Ménage et cuisine,Monnaie,3500,Responsable d'activité,False,synthetique
+877,2026-02-15,Caisse Ménage et cuisine,Monnaie,8000,Responsable d'activité,False,synthetique
+878,2026-02-17,Caisse Ménage et cuisine,Transport,7000,Responsable d'activité,False,synthetique
+879,2026-02-17,Caisse Ménage et cuisine,Petit achat urgent,23250,Responsable d'activité,False,synthetique
+880,2026-02-18,Caisse Ménage et cuisine,Transport,24500,Responsable d'activité,False,synthetique
+881,2026-02-20,Caisse Ménage et cuisine,Transport,18000,Responsable d'activité,False,synthetique
+882,2026-02-25,Caisse Ménage et cuisine,Transport,11500,Responsable d'activité,False,synthetique
+883,2026-03-03,Caisse Ménage et cuisine,Fournitures,19000,Responsable d'activité,False,synthetique
+884,2026-03-05,Caisse Ménage et cuisine,Transport,25000,Responsable d'activité,False,synthetique
+885,2026-03-10,Caisse Ménage et cuisine,Petit achat urgent,27000,Responsable d'activité,False,synthetique
+886,2026-03-15,Caisse Ménage et cuisine,Petit achat urgent,24000,Responsable d'activité,False,synthetique
+887,2026-03-17,Caisse Ménage et cuisine,Petit achat urgent,32000,Responsable d'activité,False,synthetique
+888,2026-03-17,Caisse Ménage et cuisine,Petit achat urgent,14500,Responsable d'activité,False,synthetique
+889,2026-03-18,Caisse Ménage et cuisine,Transport,22000,Responsable d'activité,False,synthetique
+890,2026-04-01,Caisse Ménage et cuisine,Monnaie,6000,Responsable d'activité,False,synthetique
+891,2026-04-03,Caisse Ménage et cuisine,Monnaie,30500,Responsable d'activité,False,synthetique
+892,2026-04-04,Caisse Ménage et cuisine,Fournitures,10000,Responsable d'activité,False,synthetique
+893,2026-04-06,Caisse Ménage et cuisine,Monnaie,22250,Responsable d'activité,False,synthetique
+894,2026-04-08,Caisse Ménage et cuisine,Monnaie,8000,Responsable d'activité,False,synthetique
+895,2026-04-10,Caisse Ménage et cuisine,Petit achat urgent,19000,Responsable d'activité,False,synthetique
+896,2026-04-12,Caisse Ménage et cuisine,Petit achat urgent,18500,Responsable d'activité,False,synthetique
+897,2026-04-12,Caisse Ménage et cuisine,Transport,11500,Responsable d'activité,False,synthetique
+898,2026-04-15,Caisse Ménage et cuisine,Petit achat urgent,11500,Responsable d'activité,False,synthetique
+899,2026-04-16,Caisse Ménage et cuisine,Fournitures,6000,Responsable d'activité,False,synthetique
+900,2026-04-18,Caisse Ménage et cuisine,Monnaie,9500,Responsable d'activité,False,synthetique
+901,2026-04-22,Caisse Ménage et cuisine,Petit achat urgent,22500,Responsable d'activité,False,synthetique
+902,2026-04-23,Caisse Ménage et cuisine,Fournitures,16500,Responsable d'activité,False,synthetique
+903,2026-04-26,Caisse Ménage et cuisine,Transport,19500,Responsable d'activité,False,synthetique
+904,2026-04-28,Caisse Ménage et cuisine,Fournitures,22500,Responsable d'activité,False,synthetique
+905,2026-04-30,Caisse Ménage et cuisine,Monnaie,4500,Responsable d'activité,False,synthetique
+906,2026-04-30,Caisse Ménage et cuisine,Transport,4000,Responsable d'activité,False,synthetique
+907,2026-04-30,Caisse Ménage et cuisine,Transport,23000,Responsable d'activité,False,synthetique
+908,2026-05-03,Caisse Ménage et cuisine,Fournitures,11500,Responsable d'activité,False,synthetique
+909,2026-05-07,Caisse Ménage et cuisine,Fournitures,5000,Responsable d'activité,False,synthetique
+910,2026-05-07,Caisse Ménage et cuisine,Petit achat urgent,8000,Responsable d'activité,False,synthetique
+911,2026-05-08,Caisse Ménage et cuisine,Fournitures,6000,Responsable d'activité,False,synthetique
+912,2026-05-13,Caisse Ménage et cuisine,Transport,6500,Responsable d'activité,False,synthetique
+913,2026-05-14,Caisse Ménage et cuisine,Petit achat urgent,10500,Responsable d'activité,False,synthetique
+914,2026-05-14,Caisse Ménage et cuisine,Monnaie,5000,Responsable d'activité,False,synthetique
+915,2026-05-15,Caisse Ménage et cuisine,Fournitures,17000,Responsable d'activité,False,synthetique
+916,2026-05-17,Caisse Ménage et cuisine,Transport,22000,Responsable d'activité,False,synthetique
+917,2026-05-20,Caisse Ménage et cuisine,Monnaie,23500,Responsable d'activité,False,synthetique
+918,2026-05-26,Caisse Ménage et cuisine,Monnaie,12000,Responsable d'activité,False,synthetique
+919,2026-05-27,Caisse Ménage et cuisine,Transport,29500,Responsable d'activité,False,synthetique
+920,2026-05-28,Caisse Ménage et cuisine,Petit achat urgent,5000,Responsable d'activité,False,synthetique
+921,2026-05-28,Caisse Ménage et cuisine,Monnaie,16000,Responsable d'activité,False,synthetique
+922,2026-05-29,Caisse Ménage et cuisine,Monnaie,5000,Responsable d'activité,False,synthetique
+923,2026-05-30,Caisse Ménage et cuisine,Fournitures,29500,Responsable d'activité,False,synthetique
+924,2026-06-02,Caisse Ménage et cuisine,Fournitures,29000,Responsable d'activité,False,synthetique
+925,2026-06-05,Caisse Ménage et cuisine,Fournitures,19000,Responsable d'activité,False,synthetique
+926,2026-06-09,Caisse Ménage et cuisine,Fournitures,14000,Responsable d'activité,False,synthetique
+927,2026-06-12,Caisse Ménage et cuisine,Petit achat urgent,23500,Responsable d'activité,False,synthetique
+928,2026-06-14,Caisse Ménage et cuisine,Fournitures,26000,Responsable d'activité,False,synthetique
+929,2026-06-16,Caisse Ménage et cuisine,Transport,9500,Responsable d'activité,False,synthetique
+930,2026-06-18,Caisse Ménage et cuisine,Petit achat urgent,18000,Responsable d'activité,False,synthetique
+931,2026-06-20,Caisse Ménage et cuisine,Transport,13000,Responsable d'activité,False,synthetique
+932,2026-06-21,Caisse Ménage et cuisine,Fournitures,17000,Responsable d'activité,False,synthetique
+933,2026-06-21,Caisse Ménage et cuisine,Monnaie,29000,Responsable d'activité,False,synthetique
+934,2026-06-26,Caisse Ménage et cuisine,Monnaie,30000,Responsable d'activité,False,synthetique
+935,2026-06-27,Caisse Ménage et cuisine,Petit achat urgent,5500,Responsable d'activité,False,synthetique
+936,2026-06-27,Caisse Ménage et cuisine,Transport,13000,Responsable d'activité,False,synthetique
+937,2026-06-28,Caisse Ménage et cuisine,Transport,27500,Responsable d'activité,False,synthetique
+938,2026-06-28,Caisse Ménage et cuisine,Monnaie,19500,Responsable d'activité,False,synthetique
+939,2026-07-02,Caisse Ménage et cuisine,Fournitures,3000,Responsable d'activité,False,synthetique
+940,2026-07-02,Caisse Ménage et cuisine,Petit achat urgent,16000,Responsable d'activité,False,synthetique
+941,2026-07-03,Caisse Ménage et cuisine,Monnaie,12000,Responsable d'activité,False,synthetique
+942,2026-07-03,Caisse Ménage et cuisine,Monnaie,13500,Responsable d'activité,False,synthetique
+943,2026-07-05,Caisse Ménage et cuisine,Monnaie,14000,Responsable d'activité,False,synthetique
+944,2026-07-10,Caisse Ménage et cuisine,Fournitures,23500,Responsable d'activité,False,synthetique
+945,2026-07-14,Caisse Ménage et cuisine,Transport,22000,Responsable d'activité,False,synthetique
+946,2026-07-18,Caisse Ménage et cuisine,Transport,31500,Responsable d'activité,False,synthetique
+947,2026-07-18,Caisse Ménage et cuisine,Petit achat urgent,7000,Responsable d'activité,False,synthetique
+948,2026-07-23,Caisse Ménage et cuisine,Monnaie,19500,Responsable d'activité,False,synthetique
+949,2026-07-25,Caisse Ménage et cuisine,Transport,9000,Responsable d'activité,False,synthetique
+950,2026-07-26,Caisse Ménage et cuisine,Petit achat urgent,4000,Responsable d'activité,False,synthetique
+951,2026-07-26,Caisse Ménage et cuisine,Petit achat urgent,18000,Responsable d'activité,False,synthetique
+952,2026-07-29,Caisse Ménage et cuisine,Transport,19500,Responsable d'activité,False,synthetique
+953,2026-07-30,Caisse Ménage et cuisine,Petit achat urgent,5500,Responsable d'activité,False,synthetique
+954,2026-08-02,Caisse Ménage et cuisine,Transport,24000,Responsable d'activité,False,synthetique
+955,2026-08-04,Caisse Ménage et cuisine,Monnaie,17500,Responsable d'activité,False,synthetique
+956,2026-08-06,Caisse Ménage et cuisine,Monnaie,18500,Responsable d'activité,False,synthetique
+957,2026-08-06,Caisse Ménage et cuisine,Transport,18500,Responsable d'activité,False,synthetique
+958,2026-08-07,Caisse Ménage et cuisine,Petit achat urgent,19500,Responsable d'activité,False,synthetique
+959,2026-08-07,Caisse Ménage et cuisine,Transport,21500,Responsable d'activité,False,synthetique
+960,2026-08-07,Caisse Ménage et cuisine,Monnaie,33000,Responsable d'activité,False,synthetique
+961,2026-08-08,Caisse Ménage et cuisine,Petit achat urgent,14000,Responsable d'activité,False,synthetique
+962,2026-08-13,Caisse Ménage et cuisine,Fournitures,17500,Responsable d'activité,False,synthetique
+963,2026-08-20,Caisse Ménage et cuisine,Transport,15500,Responsable d'activité,False,synthetique
+964,2026-08-20,Caisse Ménage et cuisine,Petit achat urgent,14000,Responsable d'activité,False,synthetique
+965,2026-08-21,Caisse Ménage et cuisine,Monnaie,18000,Responsable d'activité,False,synthetique
+966,2026-08-27,Caisse Ménage et cuisine,Monnaie,6000,Responsable d'activité,False,synthetique
+967,2026-08-29,Caisse Ménage et cuisine,Fournitures,3500,Responsable d'activité,False,synthetique
+968,2026-08-29,Caisse Ménage et cuisine,Monnaie,25500,Responsable d'activité,False,synthetique
+969,2026-09-01,Caisse Ménage et cuisine,Petit achat urgent,16500,Responsable d'activité,False,synthetique
+970,2026-09-01,Caisse Ménage et cuisine,Monnaie,10000,Responsable d'activité,False,synthetique
+971,2026-09-02,Caisse Ménage et cuisine,Transport,4500,Responsable d'activité,False,synthetique
+972,2026-09-04,Caisse Ménage et cuisine,Petit achat urgent,13000,Responsable d'activité,False,synthetique
+973,2026-09-04,Caisse Ménage et cuisine,Fournitures,19500,Responsable d'activité,False,synthetique
+974,2026-09-05,Caisse Ménage et cuisine,Fournitures,9000,Responsable d'activité,False,synthetique
+975,2026-09-06,Caisse Ménage et cuisine,Transport,3000,Responsable d'activité,False,synthetique
+976,2026-09-08,Caisse Ménage et cuisine,Monnaie,17500,Responsable d'activité,False,synthetique
+977,2026-09-10,Caisse Ménage et cuisine,Fournitures,34000,Responsable d'activité,False,synthetique
+978,2026-09-11,Caisse Ménage et cuisine,Transport,6000,Responsable d'activité,False,synthetique
+979,2026-09-12,Caisse Ménage et cuisine,Fournitures,8500,Responsable d'activité,False,synthetique
+980,2026-09-12,Caisse Ménage et cuisine,Fournitures,17000,Responsable d'activité,False,synthetique
+981,2026-09-17,Caisse Ménage et cuisine,Petit achat urgent,35000,Responsable d'activité,False,synthetique
+982,2026-09-20,Caisse Ménage et cuisine,Monnaie,15000,Responsable d'activité,False,synthetique
+983,2026-09-23,Caisse Ménage et cuisine,Monnaie,21500,Responsable d'activité,False,synthetique
+984,2026-09-23,Caisse Ménage et cuisine,Petit achat urgent,16500,Responsable d'activité,False,synthetique
+985,2026-09-25,Caisse Ménage et cuisine,Petit achat urgent,8000,Responsable d'activité,False,synthetique
+986,2026-10-04,Caisse Ménage et cuisine,Fournitures,6500,Responsable d'activité,False,synthetique
+987,2026-10-04,Caisse Ménage et cuisine,Transport,10500,Responsable d'activité,False,synthetique
+988,2026-10-04,Caisse Ménage et cuisine,Petit achat urgent,21500,Responsable d'activité,False,synthetique
+989,2026-10-06,Caisse Ménage et cuisine,Transport,20500,Responsable d'activité,False,synthetique
+990,2026-10-06,Caisse Ménage et cuisine,Transport,26750,Responsable d'activité,False,synthetique
+991,2026-10-07,Caisse Ménage et cuisine,Fournitures,3500,Responsable d'activité,False,synthetique
+992,2026-10-07,Caisse Ménage et cuisine,Fournitures,14000,Responsable d'activité,False,synthetique
+993,2026-10-09,Caisse Ménage et cuisine,Transport,18000,Responsable d'activité,False,synthetique
+994,2026-10-10,Caisse Ménage et cuisine,Monnaie,6000,Responsable d'activité,False,synthetique
+995,2026-10-10,Caisse Ménage et cuisine,Petit achat urgent,34500,Responsable d'activité,False,synthetique
+996,2026-10-14,Caisse Ménage et cuisine,Fournitures,10000,Responsable d'activité,False,synthetique
+997,2026-10-14,Caisse Ménage et cuisine,Monnaie,25000,Responsable d'activité,False,synthetique
+998,2026-10-15,Caisse Ménage et cuisine,Transport,3500,Responsable d'activité,False,synthetique
+999,2026-10-15,Caisse Ménage et cuisine,Transport,27000,Responsable d'activité,False,synthetique
+1000,2026-10-15,Caisse Ménage et cuisine,Monnaie,30000,Responsable d'activité,False,synthetique
+1001,2026-10-17,Caisse Ménage et cuisine,Petit achat urgent,13000,Responsable d'activité,False,synthetique
+1002,2026-10-17,Caisse Ménage et cuisine,Fournitures,24000,Responsable d'activité,False,synthetique
+1003,2026-10-18,Caisse Ménage et cuisine,Transport,14500,Responsable d'activité,False,synthetique
+1004,2026-10-21,Caisse Ménage et cuisine,Monnaie,31000,Responsable d'activité,False,synthetique
+1005,2026-10-21,Caisse Ménage et cuisine,Monnaie,22000,Responsable d'activité,False,synthetique
+1006,2026-10-24,Caisse Ménage et cuisine,Transport,15500,Responsable d'activité,False,synthetique
+1007,2026-10-27,Caisse Ménage et cuisine,Monnaie,13000,Responsable d'activité,False,synthetique
+1008,2026-10-28,Caisse Ménage et cuisine,Fournitures,23000,Responsable d'activité,False,synthetique
+1009,2026-10-30,Caisse Ménage et cuisine,Fournitures,29500,Responsable d'activité,False,synthetique
+1010,2026-10-31,Caisse Ménage et cuisine,Monnaie,27500,Responsable d'activité,False,synthetique
+1011,2026-11-03,Caisse Ménage et cuisine,Petit achat urgent,14500,Responsable d'activité,False,synthetique
+1012,2026-11-03,Caisse Ménage et cuisine,Fournitures,8000,Responsable d'activité,False,synthetique
+1013,2026-11-05,Caisse Ménage et cuisine,Transport,8000,Responsable d'activité,False,synthetique
+1014,2026-11-06,Caisse Ménage et cuisine,Transport,32500,Responsable d'activité,False,synthetique
+1015,2026-11-15,Caisse Ménage et cuisine,Transport,21000,Responsable d'activité,False,synthetique

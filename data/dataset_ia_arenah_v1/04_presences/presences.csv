@@ -1,0 +1,1143 @@
+presence_id,date,employe_id,employe,unite,heure_prevue,heure_arrivee,heure_depart,statut,absence_justifiee,source_saisie,source
+1,2026-09-01,10,Aina,Accueil,08:00,2026-09-01 08:16,2026-09-01 17:15,retard,,QR,synthetique
+2,2026-09-01,2,Amboara,Direction générale,08:00,2026-09-01 07:58,2026-09-01 17:18,présent,,QR,synthetique
+3,2026-09-01,11,Dada Jean,Sécurité et entretien,06:00,2026-09-01 05:58,2026-09-01 18:27,présent,,QR,synthetique
+4,2026-09-01,6,Faneva,Restaurant,09:00,2026-09-01 09:00,2026-09-01 18:00,présent,,QR,synthetique
+5,2026-09-01,12,Faustin,Sécurité et entretien,18:00,2026-09-01 17:54,2026-09-02 05:47,présent,,QR,synthetique
+6,2026-09-01,15,Iris,Ménage et cuisine,08:00,2026-09-01 08:05,2026-09-01 16:56,présent,,QR,synthetique
+7,2026-09-01,17,Luanah,Coiffure,08:00,2026-09-01 08:07,2026-09-01 16:58,présent,,QR,synthetique
+8,2026-09-01,9,Mampionona,Piscine,08:00,2026-09-01 07:58,2026-09-01 17:26,présent,,QR,synthetique
+9,2026-09-01,7,Mi,Restaurant,10:00,2026-09-01 09:53,2026-09-01 18:51,présent,,QR,synthetique
+10,2026-09-01,3,Mireille,Achats et logistique,08:00,2026-09-01 07:56,2026-09-01 16:57,présent,,QR,synthetique
+11,2026-09-01,1,Narindra,Direction générale,08:00,,,absent,True,QR,synthetique
+12,2026-09-01,5,Nirina,Restaurant,08:00,2026-09-01 07:55,2026-09-01 17:08,présent,,QR,synthetique
+13,2026-09-01,4,Njaka,Restaurant,08:30,2026-09-01 08:36,2026-09-01 17:58,présent,,QR,synthetique
+14,2026-09-01,8,Nomace,Hôtel,08:00,2026-09-01 08:06,2026-09-01 17:18,présent,,manuel,synthetique
+15,2026-09-01,16,Nondy,Cyber,08:00,2026-09-01 08:00,2026-09-01 17:19,présent,,QR,synthetique
+16,2026-09-01,14,Tahiry,Ménage et cuisine,08:00,2026-09-01 07:56,2026-09-01 16:47,présent,,QR,synthetique
+17,2026-09-01,13,Tsiory,Ménage et cuisine,08:00,2026-09-01 07:53,2026-09-01 17:01,présent,,QR,synthetique
+18,2026-09-02,10,Aina,Accueil,08:00,2026-09-02 07:55,2026-09-02 17:21,présent,,QR,synthetique
+19,2026-09-02,2,Amboara,Direction générale,08:00,2026-09-02 07:56,2026-09-02 17:12,présent,,QR,synthetique
+20,2026-09-02,11,Dada Jean,Sécurité et entretien,06:00,2026-09-02 06:02,2026-09-02 18:02,présent,,QR,synthetique
+21,2026-09-02,6,Faneva,Restaurant,09:00,2026-09-02 08:54,2026-09-02 18:01,présent,,QR,synthetique
+22,2026-09-02,12,Faustin,Sécurité et entretien,18:00,2026-09-02 17:54,2026-09-03 06:22,présent,,QR,synthetique
+23,2026-09-02,15,Iris,Ménage et cuisine,08:00,2026-09-02 08:01,2026-09-02 17:07,présent,,QR,synthetique
+24,2026-09-02,17,Luanah,Coiffure,08:00,2026-09-02 08:04,2026-09-02 17:02,présent,,QR,synthetique
+25,2026-09-02,9,Mampionona,Piscine,08:00,2026-09-02 07:54,2026-09-02 16:55,présent,,QR,synthetique
+26,2026-09-02,7,Mi,Restaurant,10:00,2026-09-02 10:01,2026-09-02 19:06,présent,,QR,synthetique
+27,2026-09-02,3,Mireille,Achats et logistique,08:00,2026-09-02 07:54,2026-09-02 17:11,présent,,QR,synthetique
+28,2026-09-02,1,Narindra,Direction générale,08:00,2026-09-02 07:55,2026-09-02 17:11,présent,,QR,synthetique
+29,2026-09-02,5,Nirina,Restaurant,08:00,2026-09-02 07:55,2026-09-02 17:11,présent,,QR,synthetique
+30,2026-09-02,4,Njaka,Restaurant,08:30,2026-09-02 08:28,2026-09-02 17:28,présent,,QR,synthetique
+31,2026-09-02,8,Nomace,Hôtel,08:00,2026-09-02 08:01,2026-09-02 17:26,présent,,manuel,synthetique
+32,2026-09-02,16,Nondy,Cyber,08:00,2026-09-02 07:54,2026-09-02 17:24,présent,,QR,synthetique
+33,2026-09-02,14,Tahiry,Ménage et cuisine,08:00,2026-09-02 07:52,2026-09-02 17:29,présent,,QR,synthetique
+34,2026-09-02,13,Tsiory,Ménage et cuisine,08:00,2026-09-02 07:55,2026-09-02 17:08,présent,,QR,synthetique
+35,2026-09-03,10,Aina,Accueil,08:00,2026-09-03 08:03,2026-09-03 16:45,présent,,QR,synthetique
+36,2026-09-03,2,Amboara,Direction générale,08:00,2026-09-03 08:04,2026-09-03 17:10,présent,,manuel,synthetique
+37,2026-09-03,11,Dada Jean,Sécurité et entretien,06:00,2026-09-03 05:56,2026-09-03 18:22,présent,,QR,synthetique
+38,2026-09-03,6,Faneva,Restaurant,09:00,2026-09-03 09:01,2026-09-03 17:54,présent,,QR,synthetique
+39,2026-09-03,12,Faustin,Sécurité et entretien,18:00,2026-09-03 17:52,2026-09-04 06:28,présent,,manuel,synthetique
+40,2026-09-03,15,Iris,Ménage et cuisine,08:00,2026-09-03 07:56,2026-09-03 17:27,présent,,QR,synthetique
+41,2026-09-03,17,Luanah,Coiffure,08:00,2026-09-03 08:07,2026-09-03 17:13,présent,,QR,synthetique
+42,2026-09-03,9,Mampionona,Piscine,08:00,2026-09-03 07:54,2026-09-03 17:04,présent,,QR,synthetique
+43,2026-09-03,7,Mi,Restaurant,10:00,2026-09-03 10:46,2026-09-03 19:11,retard,,QR,synthetique
+44,2026-09-03,3,Mireille,Achats et logistique,08:00,2026-09-03 08:01,2026-09-03 17:21,présent,,QR,synthetique
+45,2026-09-03,1,Narindra,Direction générale,08:00,2026-09-03 07:57,2026-09-03 17:18,présent,,QR,synthetique
+46,2026-09-03,5,Nirina,Restaurant,08:00,2026-09-03 07:54,2026-09-03 17:19,présent,,QR,synthetique
+47,2026-09-03,4,Njaka,Restaurant,08:30,2026-09-03 08:33,2026-09-03 17:54,présent,,QR,synthetique
+48,2026-09-03,8,Nomace,Hôtel,08:00,2026-09-03 08:04,2026-09-03 17:22,présent,,QR,synthetique
+49,2026-09-03,16,Nondy,Cyber,08:00,2026-09-03 08:37,2026-09-03 16:58,retard,,QR,synthetique
+50,2026-09-03,14,Tahiry,Ménage et cuisine,08:00,2026-09-03 07:59,2026-09-03 17:22,présent,,QR,synthetique
+51,2026-09-03,13,Tsiory,Ménage et cuisine,08:00,2026-09-03 07:57,2026-09-03 17:11,présent,,QR,synthetique
+52,2026-09-04,10,Aina,Accueil,08:00,,,absent,True,QR,synthetique
+53,2026-09-04,2,Amboara,Direction générale,08:00,2026-09-04 07:59,2026-09-04 17:16,présent,,manuel,synthetique
+54,2026-09-04,11,Dada Jean,Sécurité et entretien,06:00,2026-09-04 05:56,2026-09-04 18:14,présent,,QR,synthetique
+55,2026-09-04,6,Faneva,Restaurant,09:00,2026-09-04 09:09,2026-09-04 17:48,présent,,QR,synthetique
+56,2026-09-04,12,Faustin,Sécurité et entretien,18:00,2026-09-04 18:00,2026-09-05 05:47,présent,,QR,synthetique
+57,2026-09-04,15,Iris,Ménage et cuisine,08:00,2026-09-04 07:57,2026-09-04 17:15,présent,,QR,synthetique
+58,2026-09-04,17,Luanah,Coiffure,08:00,2026-09-04 07:58,2026-09-04 16:59,présent,,QR,synthetique
+59,2026-09-04,9,Mampionona,Piscine,08:00,2026-09-04 07:57,2026-09-04 17:08,présent,,QR,synthetique
+60,2026-09-04,7,Mi,Restaurant,10:00,2026-09-04 09:55,2026-09-04 18:50,présent,,QR,synthetique
+61,2026-09-04,3,Mireille,Achats et logistique,08:00,2026-09-04 07:54,2026-09-04 16:45,présent,,QR,synthetique
+62,2026-09-04,1,Narindra,Direction générale,08:00,2026-09-04 08:00,2026-09-04 17:02,présent,,QR,synthetique
+63,2026-09-04,5,Nirina,Restaurant,08:00,2026-09-04 08:01,2026-09-04 17:05,présent,,QR,synthetique
+64,2026-09-04,4,Njaka,Restaurant,08:30,2026-09-04 08:25,2026-09-04 17:21,présent,,QR,synthetique
+65,2026-09-04,8,Nomace,Hôtel,08:00,,,absent,True,QR,synthetique
+66,2026-09-04,16,Nondy,Cyber,08:00,2026-09-04 08:37,2026-09-04 16:56,retard,,QR,synthetique
+67,2026-09-04,14,Tahiry,Ménage et cuisine,08:00,2026-09-04 07:56,2026-09-04 16:50,présent,,QR,synthetique
+68,2026-09-04,13,Tsiory,Ménage et cuisine,08:00,2026-09-04 07:58,2026-09-04 17:21,présent,,QR,synthetique
+69,2026-09-05,10,Aina,Accueil,08:00,2026-09-05 07:54,2026-09-05 16:58,présent,,QR,synthetique
+70,2026-09-05,2,Amboara,Direction générale,08:00,2026-09-05 07:53,2026-09-05 16:56,présent,,QR,synthetique
+71,2026-09-05,11,Dada Jean,Sécurité et entretien,06:00,2026-09-05 06:12,2026-09-05 17:50,retard,,QR,synthetique
+72,2026-09-05,6,Faneva,Restaurant,09:00,2026-09-05 09:16,2026-09-05 17:58,retard,,QR,synthetique
+73,2026-09-05,12,Faustin,Sécurité et entretien,18:00,2026-09-05 18:07,2026-09-06 05:50,présent,,QR,synthetique
+74,2026-09-05,15,Iris,Ménage et cuisine,08:00,2026-09-05 08:00,2026-09-05 16:59,présent,,QR,synthetique
+75,2026-09-05,17,Luanah,Coiffure,08:00,2026-09-05 08:05,2026-09-05 17:06,présent,,QR,synthetique
+76,2026-09-05,9,Mampionona,Piscine,08:00,2026-09-05 07:59,2026-09-05 16:57,présent,,QR,synthetique
+77,2026-09-05,7,Mi,Restaurant,10:00,2026-09-05 09:57,2026-09-05 19:27,présent,,QR,synthetique
+78,2026-09-05,3,Mireille,Achats et logistique,08:00,2026-09-05 07:58,2026-09-05 17:28,présent,,QR,synthetique
+79,2026-09-05,1,Narindra,Direction générale,08:00,2026-09-05 08:03,2026-09-05 17:02,présent,,QR,synthetique
+80,2026-09-05,5,Nirina,Restaurant,08:00,2026-09-05 07:59,2026-09-05 16:49,présent,,QR,synthetique
+81,2026-09-05,4,Njaka,Restaurant,08:30,2026-09-05 08:35,2026-09-05 17:40,présent,,QR,synthetique
+82,2026-09-05,8,Nomace,Hôtel,08:00,2026-09-05 07:52,2026-09-05 16:58,présent,,QR,synthetique
+83,2026-09-05,16,Nondy,Cyber,08:00,2026-09-05 07:52,2026-09-05 16:50,présent,,manuel,synthetique
+84,2026-09-05,14,Tahiry,Ménage et cuisine,08:00,2026-09-05 07:56,2026-09-05 17:13,présent,,QR,synthetique
+85,2026-09-05,13,Tsiory,Ménage et cuisine,08:00,2026-09-05 07:53,2026-09-05 16:52,présent,,QR,synthetique
+86,2026-09-06,10,Aina,Accueil,08:00,2026-09-06 08:02,2026-09-06 17:14,présent,,QR,synthetique
+87,2026-09-06,2,Amboara,Direction générale,08:00,2026-09-06 08:00,2026-09-06 16:55,présent,,QR,synthetique
+88,2026-09-06,11,Dada Jean,Sécurité et entretien,06:00,2026-09-06 05:58,2026-09-06 18:02,présent,,QR,synthetique
+89,2026-09-06,6,Faneva,Restaurant,09:00,2026-09-06 08:53,2026-09-06 17:53,présent,,QR,synthetique
+90,2026-09-06,12,Faustin,Sécurité et entretien,18:00,2026-09-06 17:55,2026-09-07 06:14,présent,,manuel,synthetique
+91,2026-09-06,15,Iris,Ménage et cuisine,08:00,2026-09-06 07:59,2026-09-06 16:46,présent,,QR,synthetique
+92,2026-09-06,17,Luanah,Coiffure,08:00,2026-09-06 08:01,2026-09-06 16:51,présent,,manuel,synthetique
+93,2026-09-06,9,Mampionona,Piscine,08:00,2026-09-06 07:59,2026-09-06 16:53,présent,,QR,synthetique
+94,2026-09-06,7,Mi,Restaurant,10:00,2026-09-06 10:00,2026-09-06 18:54,présent,,QR,synthetique
+95,2026-09-06,3,Mireille,Achats et logistique,08:00,2026-09-06 07:57,2026-09-06 16:56,présent,,QR,synthetique
+96,2026-09-06,1,Narindra,Direction générale,08:00,2026-09-06 08:00,2026-09-06 17:05,présent,,QR,synthetique
+97,2026-09-06,5,Nirina,Restaurant,08:00,2026-09-06 08:07,2026-09-06 17:29,présent,,QR,synthetique
+98,2026-09-06,4,Njaka,Restaurant,08:30,2026-09-06 08:28,2026-09-06 17:26,présent,,QR,synthetique
+99,2026-09-06,8,Nomace,Hôtel,08:00,2026-09-06 07:57,2026-09-06 17:13,présent,,QR,synthetique
+100,2026-09-06,16,Nondy,Cyber,08:00,2026-09-06 08:24,2026-09-06 16:52,retard,,manuel,synthetique
+101,2026-09-06,14,Tahiry,Ménage et cuisine,08:00,2026-09-06 08:01,2026-09-06 16:58,présent,,QR,synthetique
+102,2026-09-06,13,Tsiory,Ménage et cuisine,08:00,2026-09-06 08:00,2026-09-06 17:21,présent,,QR,synthetique
+103,2026-09-07,11,Dada Jean,Sécurité et entretien,06:00,2026-09-07 06:05,2026-09-07 17:51,présent,,QR,synthetique
+104,2026-09-07,12,Faustin,Sécurité et entretien,18:00,2026-09-07 18:00,2026-09-08 06:24,présent,,QR,synthetique
+105,2026-09-08,10,Aina,Accueil,08:00,2026-09-08 08:04,2026-09-08 17:24,présent,,QR,synthetique
+106,2026-09-08,2,Amboara,Direction générale,08:00,2026-09-08 07:57,2026-09-08 17:26,présent,,QR,synthetique
+107,2026-09-08,11,Dada Jean,Sécurité et entretien,06:00,2026-09-08 05:53,2026-09-08 17:56,présent,,QR,synthetique
+108,2026-09-08,6,Faneva,Restaurant,09:00,2026-09-08 09:10,2026-09-08 18:03,présent,,QR,synthetique
+109,2026-09-08,12,Faustin,Sécurité et entretien,18:00,2026-09-08 18:33,2026-09-09 06:13,retard,,QR,synthetique
+110,2026-09-08,15,Iris,Ménage et cuisine,08:00,2026-09-08 08:00,2026-09-08 17:27,présent,,QR,synthetique
+111,2026-09-08,17,Luanah,Coiffure,08:00,2026-09-08 08:00,2026-09-08 17:04,présent,,QR,synthetique
+112,2026-09-08,9,Mampionona,Piscine,08:00,2026-09-08 08:09,2026-09-08 16:57,présent,,QR,synthetique
+113,2026-09-08,7,Mi,Restaurant,10:00,2026-09-08 09:59,2026-09-08 19:19,présent,,QR,synthetique
+114,2026-09-08,3,Mireille,Achats et logistique,08:00,2026-09-08 07:58,2026-09-08 17:11,présent,,QR,synthetique
+115,2026-09-08,1,Narindra,Direction générale,08:00,2026-09-08 08:01,2026-09-08 16:56,présent,,QR,synthetique
+116,2026-09-08,5,Nirina,Restaurant,08:00,2026-09-08 07:58,2026-09-08 17:18,présent,,QR,synthetique
+117,2026-09-08,4,Njaka,Restaurant,08:30,2026-09-08 08:24,2026-09-08 17:20,présent,,QR,synthetique
+118,2026-09-08,8,Nomace,Hôtel,08:00,2026-09-08 07:54,2026-09-08 16:50,présent,,QR,synthetique
+119,2026-09-08,16,Nondy,Cyber,08:00,2026-09-08 07:53,2026-09-08 17:14,présent,,QR,synthetique
+120,2026-09-08,14,Tahiry,Ménage et cuisine,08:00,2026-09-08 07:56,2026-09-08 16:47,présent,,QR,synthetique
+121,2026-09-08,13,Tsiory,Ménage et cuisine,08:00,2026-09-08 07:58,2026-09-08 16:57,présent,,QR,synthetique
+122,2026-09-09,10,Aina,Accueil,08:00,2026-09-09 08:02,2026-09-09 17:21,présent,,QR,synthetique
+123,2026-09-09,2,Amboara,Direction générale,08:00,2026-09-09 08:00,2026-09-09 17:06,présent,,QR,synthetique
+124,2026-09-09,11,Dada Jean,Sécurité et entretien,06:00,2026-09-09 06:30,2026-09-09 18:23,retard,,QR,synthetique
+125,2026-09-09,6,Faneva,Restaurant,09:00,2026-09-09 09:02,2026-09-09 18:01,présent,,QR,synthetique
+126,2026-09-09,12,Faustin,Sécurité et entretien,18:00,2026-09-09 18:07,2026-09-10 05:47,présent,,QR,synthetique
+127,2026-09-09,15,Iris,Ménage et cuisine,08:00,2026-09-09 08:43,2026-09-09 16:56,retard,,QR,synthetique
+128,2026-09-09,17,Luanah,Coiffure,08:00,2026-09-09 08:00,2026-09-09 16:50,présent,,manuel,synthetique
+129,2026-09-09,9,Mampionona,Piscine,08:00,,,absent,False,QR,synthetique
+130,2026-09-09,7,Mi,Restaurant,10:00,2026-09-09 10:02,2026-09-09 18:47,présent,,QR,synthetique
+131,2026-09-09,3,Mireille,Achats et logistique,08:00,2026-09-09 07:56,2026-09-09 17:00,présent,,QR,synthetique
+132,2026-09-09,1,Narindra,Direction générale,08:00,,,absent,True,QR,synthetique
+133,2026-09-09,5,Nirina,Restaurant,08:00,2026-09-09 08:03,2026-09-09 17:21,présent,,QR,synthetique
+134,2026-09-09,4,Njaka,Restaurant,08:30,,,absent,True,QR,synthetique
+135,2026-09-09,8,Nomace,Hôtel,08:00,2026-09-09 07:56,2026-09-09 16:54,présent,,QR,synthetique
+136,2026-09-09,16,Nondy,Cyber,08:00,2026-09-09 07:59,2026-09-09 17:25,présent,,manuel,synthetique
+137,2026-09-09,14,Tahiry,Ménage et cuisine,08:00,2026-09-09 07:53,2026-09-09 16:57,présent,,QR,synthetique
+138,2026-09-09,13,Tsiory,Ménage et cuisine,08:00,2026-09-09 07:56,2026-09-09 16:50,présent,,QR,synthetique
+139,2026-09-10,10,Aina,Accueil,08:00,2026-09-10 07:54,2026-09-10 17:16,présent,,QR,synthetique
+140,2026-09-10,2,Amboara,Direction générale,08:00,2026-09-10 08:00,2026-09-10 16:52,présent,,QR,synthetique
+141,2026-09-10,11,Dada Jean,Sécurité et entretien,06:00,2026-09-10 06:03,2026-09-10 17:48,présent,,QR,synthetique
+142,2026-09-10,6,Faneva,Restaurant,09:00,2026-09-10 09:02,2026-09-10 18:25,présent,,QR,synthetique
+143,2026-09-10,12,Faustin,Sécurité et entretien,18:00,2026-09-10 18:00,2026-09-11 05:52,présent,,QR,synthetique
+144,2026-09-10,15,Iris,Ménage et cuisine,08:00,2026-09-10 07:58,2026-09-10 17:08,présent,,QR,synthetique
+145,2026-09-10,17,Luanah,Coiffure,08:00,2026-09-10 07:53,2026-09-10 17:27,présent,,QR,synthetique
+146,2026-09-10,9,Mampionona,Piscine,08:00,2026-09-10 07:58,2026-09-10 16:50,présent,,QR,synthetique
+147,2026-09-10,7,Mi,Restaurant,10:00,2026-09-10 10:43,2026-09-10 18:58,retard,,QR,synthetique
+148,2026-09-10,3,Mireille,Achats et logistique,08:00,2026-09-10 08:08,2026-09-10 16:50,présent,,QR,synthetique
+149,2026-09-10,1,Narindra,Direction générale,08:00,2026-09-10 08:03,2026-09-10 17:07,présent,,QR,synthetique
+150,2026-09-10,5,Nirina,Restaurant,08:00,2026-09-10 08:12,2026-09-10 16:50,retard,,QR,synthetique
+151,2026-09-10,4,Njaka,Restaurant,08:30,,,absent,True,QR,synthetique
+152,2026-09-10,8,Nomace,Hôtel,08:00,2026-09-10 07:55,2026-09-10 16:51,présent,,QR,synthetique
+153,2026-09-10,16,Nondy,Cyber,08:00,2026-09-10 07:52,2026-09-10 17:09,présent,,QR,synthetique
+154,2026-09-10,14,Tahiry,Ménage et cuisine,08:00,2026-09-10 07:54,2026-09-10 16:54,présent,,manuel,synthetique
+155,2026-09-10,13,Tsiory,Ménage et cuisine,08:00,2026-09-10 08:02,2026-09-10 16:52,présent,,QR,synthetique
+156,2026-09-11,10,Aina,Accueil,08:00,2026-09-11 08:01,2026-09-11 17:18,présent,,QR,synthetique
+157,2026-09-11,2,Amboara,Direction générale,08:00,2026-09-11 08:04,2026-09-11 16:45,présent,,QR,synthetique
+158,2026-09-11,11,Dada Jean,Sécurité et entretien,06:00,2026-09-11 06:00,2026-09-11 17:47,présent,,manuel,synthetique
+159,2026-09-11,6,Faneva,Restaurant,09:00,2026-09-11 09:00,2026-09-11 18:07,présent,,QR,synthetique
+160,2026-09-11,12,Faustin,Sécurité et entretien,18:00,2026-09-11 18:03,2026-09-12 06:17,présent,,QR,synthetique
+161,2026-09-11,15,Iris,Ménage et cuisine,08:00,2026-09-11 07:53,2026-09-11 17:21,présent,,QR,synthetique
+162,2026-09-11,17,Luanah,Coiffure,08:00,2026-09-11 08:09,2026-09-11 17:15,présent,,QR,synthetique
+163,2026-09-11,9,Mampionona,Piscine,08:00,2026-09-11 07:55,2026-09-11 17:29,présent,,QR,synthetique
+164,2026-09-11,7,Mi,Restaurant,10:00,2026-09-11 10:00,2026-09-11 19:19,présent,,QR,synthetique
+165,2026-09-11,3,Mireille,Achats et logistique,08:00,2026-09-11 07:54,2026-09-11 16:58,présent,,manuel,synthetique
+166,2026-09-11,1,Narindra,Direction générale,08:00,2026-09-11 07:59,2026-09-11 17:11,présent,,QR,synthetique
+167,2026-09-11,5,Nirina,Restaurant,08:00,2026-09-11 08:00,2026-09-11 17:23,présent,,manuel,synthetique
+168,2026-09-11,4,Njaka,Restaurant,08:30,2026-09-11 08:30,2026-09-11 17:34,présent,,QR,synthetique
+169,2026-09-11,8,Nomace,Hôtel,08:00,2026-09-11 08:01,2026-09-11 16:50,présent,,QR,synthetique
+170,2026-09-11,16,Nondy,Cyber,08:00,2026-09-11 08:03,2026-09-11 16:56,présent,,QR,synthetique
+171,2026-09-11,14,Tahiry,Ménage et cuisine,08:00,2026-09-11 08:06,2026-09-11 17:06,présent,,QR,synthetique
+172,2026-09-11,13,Tsiory,Ménage et cuisine,08:00,2026-09-11 08:02,2026-09-11 17:09,présent,,QR,synthetique
+173,2026-09-12,10,Aina,Accueil,08:00,2026-09-12 07:59,2026-09-12 16:58,présent,,QR,synthetique
+174,2026-09-12,2,Amboara,Direction générale,08:00,2026-09-12 08:02,2026-09-12 16:47,présent,,QR,synthetique
+175,2026-09-12,11,Dada Jean,Sécurité et entretien,06:00,2026-09-12 05:58,2026-09-12 18:29,présent,,QR,synthetique
+176,2026-09-12,6,Faneva,Restaurant,09:00,2026-09-12 09:42,2026-09-12 17:58,retard,,QR,synthetique
+177,2026-09-12,12,Faustin,Sécurité et entretien,18:00,2026-09-12 18:31,2026-09-13 06:10,retard,,QR,synthetique
+178,2026-09-12,15,Iris,Ménage et cuisine,08:00,2026-09-12 08:02,2026-09-12 17:03,présent,,QR,synthetique
+179,2026-09-12,17,Luanah,Coiffure,08:00,2026-09-12 08:04,2026-09-12 16:53,présent,,QR,synthetique
+180,2026-09-12,9,Mampionona,Piscine,08:00,2026-09-12 07:56,2026-09-12 17:06,présent,,manuel,synthetique
+181,2026-09-12,7,Mi,Restaurant,10:00,2026-09-12 10:19,2026-09-12 19:10,retard,,QR,synthetique
+182,2026-09-12,3,Mireille,Achats et logistique,08:00,2026-09-12 08:02,2026-09-12 16:50,présent,,QR,synthetique
+183,2026-09-12,1,Narindra,Direction générale,08:00,2026-09-12 08:00,2026-09-12 17:05,présent,,QR,synthetique
+184,2026-09-12,5,Nirina,Restaurant,08:00,2026-09-12 08:03,2026-09-12 17:20,présent,,QR,synthetique
+185,2026-09-12,4,Njaka,Restaurant,08:30,2026-09-12 08:23,2026-09-12 17:26,présent,,QR,synthetique
+186,2026-09-12,8,Nomace,Hôtel,08:00,2026-09-12 08:00,2026-09-12 16:46,présent,,manuel,synthetique
+187,2026-09-12,16,Nondy,Cyber,08:00,2026-09-12 08:11,2026-09-12 17:03,retard,,QR,synthetique
+188,2026-09-12,14,Tahiry,Ménage et cuisine,08:00,2026-09-12 07:54,2026-09-12 17:03,présent,,QR,synthetique
+189,2026-09-12,13,Tsiory,Ménage et cuisine,08:00,2026-09-12 08:02,2026-09-12 16:45,présent,,QR,synthetique
+190,2026-09-13,10,Aina,Accueil,08:00,2026-09-13 08:45,2026-09-13 16:49,retard,,QR,synthetique
+191,2026-09-13,2,Amboara,Direction générale,08:00,2026-09-13 08:27,2026-09-13 17:21,retard,,QR,synthetique
+192,2026-09-13,11,Dada Jean,Sécurité et entretien,06:00,2026-09-13 06:00,2026-09-13 18:04,présent,,QR,synthetique
+193,2026-09-13,6,Faneva,Restaurant,09:00,2026-09-13 09:04,2026-09-13 18:08,présent,,QR,synthetique
+194,2026-09-13,12,Faustin,Sécurité et entretien,18:00,2026-09-13 18:03,2026-09-14 06:17,présent,,QR,synthetique
+195,2026-09-13,15,Iris,Ménage et cuisine,08:00,2026-09-13 08:02,2026-09-13 17:19,présent,,QR,synthetique
+196,2026-09-13,17,Luanah,Coiffure,08:00,2026-09-13 07:54,2026-09-13 16:45,présent,,QR,synthetique
+197,2026-09-13,9,Mampionona,Piscine,08:00,,,absent,False,QR,synthetique
+198,2026-09-13,7,Mi,Restaurant,10:00,2026-09-13 09:52,2026-09-13 19:15,présent,,QR,synthetique
+199,2026-09-13,3,Mireille,Achats et logistique,08:00,2026-09-13 07:58,2026-09-13 17:25,présent,,QR,synthetique
+200,2026-09-13,1,Narindra,Direction générale,08:00,2026-09-13 08:27,2026-09-13 16:59,retard,,QR,synthetique
+201,2026-09-13,5,Nirina,Restaurant,08:00,2026-09-13 08:01,2026-09-13 17:08,présent,,QR,synthetique
+202,2026-09-13,4,Njaka,Restaurant,08:30,2026-09-13 08:59,2026-09-13 17:30,retard,,QR,synthetique
+203,2026-09-13,8,Nomace,Hôtel,08:00,2026-09-13 07:53,2026-09-13 17:07,présent,,QR,synthetique
+204,2026-09-13,16,Nondy,Cyber,08:00,2026-09-13 07:58,2026-09-13 17:08,présent,,QR,synthetique
+205,2026-09-13,14,Tahiry,Ménage et cuisine,08:00,2026-09-13 08:05,2026-09-13 17:19,présent,,QR,synthetique
+206,2026-09-13,13,Tsiory,Ménage et cuisine,08:00,2026-09-13 07:56,2026-09-13 16:48,présent,,QR,synthetique
+207,2026-09-14,11,Dada Jean,Sécurité et entretien,06:00,2026-09-14 05:51,2026-09-14 17:45,présent,,QR,synthetique
+208,2026-09-14,12,Faustin,Sécurité et entretien,18:00,2026-09-14 17:57,2026-09-15 05:53,présent,,QR,synthetique
+209,2026-09-15,10,Aina,Accueil,08:00,2026-09-15 07:58,2026-09-15 17:22,présent,,QR,synthetique
+210,2026-09-15,2,Amboara,Direction générale,08:00,2026-09-15 08:59,2026-09-15 16:49,retard,,QR,synthetique
+211,2026-09-15,11,Dada Jean,Sécurité et entretien,06:00,2026-09-15 06:09,2026-09-15 17:53,présent,,QR,synthetique
+212,2026-09-15,6,Faneva,Restaurant,09:00,2026-09-15 09:54,2026-09-15 18:04,retard,,QR,synthetique
+213,2026-09-15,12,Faustin,Sécurité et entretien,18:00,2026-09-15 18:00,2026-09-16 06:21,présent,,manuel,synthetique
+214,2026-09-15,15,Iris,Ménage et cuisine,08:00,2026-09-15 08:01,2026-09-15 16:55,présent,,QR,synthetique
+215,2026-09-15,17,Luanah,Coiffure,08:00,2026-09-15 08:09,2026-09-15 16:50,présent,,QR,synthetique
+216,2026-09-15,9,Mampionona,Piscine,08:00,2026-09-15 08:12,2026-09-15 17:02,retard,,QR,synthetique
+217,2026-09-15,7,Mi,Restaurant,10:00,2026-09-15 09:56,2026-09-15 18:58,présent,,QR,synthetique
+218,2026-09-15,3,Mireille,Achats et logistique,08:00,,,absent,False,QR,synthetique
+219,2026-09-15,1,Narindra,Direction générale,08:00,2026-09-15 07:57,2026-09-15 16:58,présent,,QR,synthetique
+220,2026-09-15,5,Nirina,Restaurant,08:00,2026-09-15 08:58,2026-09-15 16:45,retard,,QR,synthetique
+221,2026-09-15,4,Njaka,Restaurant,08:30,2026-09-15 08:24,2026-09-15 17:44,présent,,QR,synthetique
+222,2026-09-15,8,Nomace,Hôtel,08:00,2026-09-15 08:03,2026-09-15 16:49,présent,,QR,synthetique
+223,2026-09-15,16,Nondy,Cyber,08:00,2026-09-15 07:53,2026-09-15 16:45,présent,,QR,synthetique
+224,2026-09-15,14,Tahiry,Ménage et cuisine,08:00,2026-09-15 08:02,2026-09-15 17:21,présent,,QR,synthetique
+225,2026-09-15,13,Tsiory,Ménage et cuisine,08:00,2026-09-15 07:56,2026-09-15 17:22,présent,,manuel,synthetique
+226,2026-09-16,10,Aina,Accueil,08:00,2026-09-16 07:54,2026-09-16 17:17,présent,,QR,synthetique
+227,2026-09-16,2,Amboara,Direction générale,08:00,2026-09-16 08:09,2026-09-16 16:49,présent,,QR,synthetique
+228,2026-09-16,11,Dada Jean,Sécurité et entretien,06:00,2026-09-16 06:02,2026-09-16 17:55,présent,,QR,synthetique
+229,2026-09-16,6,Faneva,Restaurant,09:00,2026-09-16 08:56,2026-09-16 17:49,présent,,QR,synthetique
+230,2026-09-16,12,Faustin,Sécurité et entretien,18:00,2026-09-16 18:08,2026-09-17 05:54,présent,,QR,synthetique
+231,2026-09-16,15,Iris,Ménage et cuisine,08:00,2026-09-16 07:58,2026-09-16 17:00,présent,,QR,synthetique
+232,2026-09-16,17,Luanah,Coiffure,08:00,2026-09-16 08:19,2026-09-16 17:23,retard,,QR,synthetique
+233,2026-09-16,9,Mampionona,Piscine,08:00,2026-09-16 08:06,2026-09-16 17:29,présent,,QR,synthetique
+234,2026-09-16,7,Mi,Restaurant,10:00,2026-09-16 09:54,2026-09-16 19:07,présent,,QR,synthetique
+235,2026-09-16,3,Mireille,Achats et logistique,08:00,2026-09-16 08:01,2026-09-16 17:13,présent,,QR,synthetique
+236,2026-09-16,1,Narindra,Direction générale,08:00,2026-09-16 07:59,2026-09-16 16:45,présent,,QR,synthetique
+237,2026-09-16,5,Nirina,Restaurant,08:00,2026-09-16 08:33,2026-09-16 17:02,retard,,QR,synthetique
+238,2026-09-16,4,Njaka,Restaurant,08:30,,,absent,True,QR,synthetique
+239,2026-09-16,8,Nomace,Hôtel,08:00,2026-09-16 07:59,2026-09-16 16:47,présent,,QR,synthetique
+240,2026-09-16,16,Nondy,Cyber,08:00,2026-09-16 08:10,2026-09-16 17:15,présent,,QR,synthetique
+241,2026-09-16,14,Tahiry,Ménage et cuisine,08:00,2026-09-16 08:08,2026-09-16 17:03,présent,,QR,synthetique
+242,2026-09-16,13,Tsiory,Ménage et cuisine,08:00,2026-09-16 07:59,2026-09-16 17:18,présent,,QR,synthetique
+243,2026-09-17,10,Aina,Accueil,08:00,2026-09-17 07:52,2026-09-17 16:50,présent,,QR,synthetique
+244,2026-09-17,2,Amboara,Direction générale,08:00,2026-09-17 07:58,2026-09-17 17:22,présent,,QR,synthetique
+245,2026-09-17,11,Dada Jean,Sécurité et entretien,06:00,2026-09-17 06:01,2026-09-17 17:47,présent,,QR,synthetique
+246,2026-09-17,6,Faneva,Restaurant,09:00,2026-09-17 08:53,2026-09-17 18:16,présent,,QR,synthetique
+247,2026-09-17,12,Faustin,Sécurité et entretien,18:00,2026-09-17 17:57,2026-09-18 06:22,présent,,manuel,synthetique
+248,2026-09-17,15,Iris,Ménage et cuisine,08:00,2026-09-17 08:03,2026-09-17 17:03,présent,,QR,synthetique
+249,2026-09-17,17,Luanah,Coiffure,08:00,2026-09-17 08:48,2026-09-17 16:53,retard,,QR,synthetique
+250,2026-09-17,9,Mampionona,Piscine,08:00,2026-09-17 08:00,2026-09-17 17:15,présent,,QR,synthetique
+251,2026-09-17,7,Mi,Restaurant,10:00,2026-09-17 09:52,2026-09-17 18:45,présent,,QR,synthetique
+252,2026-09-17,3,Mireille,Achats et logistique,08:00,2026-09-17 07:56,2026-09-17 17:05,présent,,QR,synthetique
+253,2026-09-17,1,Narindra,Direction générale,08:00,2026-09-17 08:07,2026-09-17 16:59,présent,,QR,synthetique
+254,2026-09-17,5,Nirina,Restaurant,08:00,2026-09-17 08:07,2026-09-17 17:01,présent,,QR,synthetique
+255,2026-09-17,4,Njaka,Restaurant,08:30,2026-09-17 08:25,2026-09-17 17:27,présent,,manuel,synthetique
+256,2026-09-17,8,Nomace,Hôtel,08:00,2026-09-17 07:54,2026-09-17 17:14,présent,,QR,synthetique
+257,2026-09-17,16,Nondy,Cyber,08:00,2026-09-17 07:57,2026-09-17 17:25,présent,,QR,synthetique
+258,2026-09-17,14,Tahiry,Ménage et cuisine,08:00,2026-09-17 08:04,2026-09-17 17:27,présent,,QR,synthetique
+259,2026-09-17,13,Tsiory,Ménage et cuisine,08:00,2026-09-17 08:04,2026-09-17 17:12,présent,,QR,synthetique
+260,2026-09-18,10,Aina,Accueil,08:00,2026-09-18 07:52,2026-09-18 17:13,présent,,QR,synthetique
+261,2026-09-18,2,Amboara,Direction générale,08:00,2026-09-18 07:53,2026-09-18 17:09,présent,,QR,synthetique
+262,2026-09-18,11,Dada Jean,Sécurité et entretien,06:00,2026-09-18 05:53,2026-09-18 17:45,présent,,QR,synthetique
+263,2026-09-18,6,Faneva,Restaurant,09:00,2026-09-18 09:05,2026-09-18 18:02,présent,,QR,synthetique
+264,2026-09-18,12,Faustin,Sécurité et entretien,18:00,2026-09-18 18:00,2026-09-19 06:12,présent,,QR,synthetique
+265,2026-09-18,15,Iris,Ménage et cuisine,08:00,2026-09-18 08:05,2026-09-18 17:21,présent,,QR,synthetique
+266,2026-09-18,17,Luanah,Coiffure,08:00,2026-09-18 08:02,2026-09-18 17:12,présent,,QR,synthetique
+267,2026-09-18,9,Mampionona,Piscine,08:00,2026-09-18 08:03,2026-09-18 17:00,présent,,QR,synthetique
+268,2026-09-18,7,Mi,Restaurant,10:00,2026-09-18 10:02,2026-09-18 19:24,présent,,QR,synthetique
+269,2026-09-18,3,Mireille,Achats et logistique,08:00,2026-09-18 07:58,2026-09-18 16:51,présent,,QR,synthetique
+270,2026-09-18,1,Narindra,Direction générale,08:00,2026-09-18 07:58,2026-09-18 16:52,présent,,manuel,synthetique
+271,2026-09-18,5,Nirina,Restaurant,08:00,,,absent,True,QR,synthetique
+272,2026-09-18,4,Njaka,Restaurant,08:30,2026-09-18 08:26,2026-09-18 17:15,présent,,QR,synthetique
+273,2026-09-18,8,Nomace,Hôtel,08:00,2026-09-18 07:54,2026-09-18 17:27,présent,,QR,synthetique
+274,2026-09-18,16,Nondy,Cyber,08:00,2026-09-18 08:01,2026-09-18 17:27,présent,,QR,synthetique
+275,2026-09-18,14,Tahiry,Ménage et cuisine,08:00,2026-09-18 08:11,2026-09-18 17:09,retard,,QR,synthetique
+276,2026-09-18,13,Tsiory,Ménage et cuisine,08:00,2026-09-18 07:59,2026-09-18 17:15,présent,,QR,synthetique
+277,2026-09-19,10,Aina,Accueil,08:00,2026-09-19 07:54,2026-09-19 17:09,présent,,QR,synthetique
+278,2026-09-19,2,Amboara,Direction générale,08:00,2026-09-19 07:56,2026-09-19 17:04,présent,,QR,synthetique
+279,2026-09-19,11,Dada Jean,Sécurité et entretien,06:00,2026-09-19 05:52,2026-09-19 18:01,présent,,QR,synthetique
+280,2026-09-19,6,Faneva,Restaurant,09:00,2026-09-19 09:15,2026-09-19 18:26,retard,,QR,synthetique
+281,2026-09-19,12,Faustin,Sécurité et entretien,18:00,2026-09-19 17:57,2026-09-20 06:16,présent,,QR,synthetique
+282,2026-09-19,15,Iris,Ménage et cuisine,08:00,2026-09-19 07:55,2026-09-19 16:52,présent,,QR,synthetique
+283,2026-09-19,17,Luanah,Coiffure,08:00,2026-09-19 08:04,2026-09-19 17:24,présent,,QR,synthetique
+284,2026-09-19,9,Mampionona,Piscine,08:00,2026-09-19 07:58,2026-09-19 16:55,présent,,QR,synthetique
+285,2026-09-19,7,Mi,Restaurant,10:00,2026-09-19 10:08,2026-09-19 19:08,présent,,QR,synthetique
+286,2026-09-19,3,Mireille,Achats et logistique,08:00,2026-09-19 07:53,2026-09-19 16:53,présent,,QR,synthetique
+287,2026-09-19,1,Narindra,Direction générale,08:00,,,absent,True,QR,synthetique
+288,2026-09-19,5,Nirina,Restaurant,08:00,2026-09-19 08:13,2026-09-19 16:49,retard,,QR,synthetique
+289,2026-09-19,4,Njaka,Restaurant,08:30,2026-09-19 08:30,2026-09-19 17:48,présent,,QR,synthetique
+290,2026-09-19,8,Nomace,Hôtel,08:00,2026-09-19 07:55,2026-09-19 17:18,présent,,QR,synthetique
+291,2026-09-19,16,Nondy,Cyber,08:00,2026-09-19 07:58,2026-09-19 17:07,présent,,QR,synthetique
+292,2026-09-19,14,Tahiry,Ménage et cuisine,08:00,2026-09-19 08:00,2026-09-19 17:12,présent,,QR,synthetique
+293,2026-09-19,13,Tsiory,Ménage et cuisine,08:00,2026-09-19 08:01,2026-09-19 17:18,présent,,manuel,synthetique
+294,2026-09-20,10,Aina,Accueil,08:00,2026-09-20 08:04,2026-09-20 17:05,présent,,QR,synthetique
+295,2026-09-20,2,Amboara,Direction générale,08:00,2026-09-20 08:00,2026-09-20 17:20,présent,,QR,synthetique
+296,2026-09-20,11,Dada Jean,Sécurité et entretien,06:00,2026-09-20 05:57,2026-09-20 18:13,présent,,QR,synthetique
+297,2026-09-20,6,Faneva,Restaurant,09:00,2026-09-20 08:57,2026-09-20 18:20,présent,,QR,synthetique
+298,2026-09-20,12,Faustin,Sécurité et entretien,18:00,2026-09-20 17:59,2026-09-21 05:46,présent,,QR,synthetique
+299,2026-09-20,15,Iris,Ménage et cuisine,08:00,2026-09-20 08:03,2026-09-20 16:50,présent,,QR,synthetique
+300,2026-09-20,17,Luanah,Coiffure,08:00,2026-09-20 07:55,2026-09-20 17:14,présent,,QR,synthetique
+301,2026-09-20,9,Mampionona,Piscine,08:00,2026-09-20 08:10,2026-09-20 16:49,présent,,QR,synthetique
+302,2026-09-20,7,Mi,Restaurant,10:00,2026-09-20 09:53,2026-09-20 19:09,présent,,QR,synthetique
+303,2026-09-20,3,Mireille,Achats et logistique,08:00,2026-09-20 07:57,2026-09-20 17:27,présent,,QR,synthetique
+304,2026-09-20,1,Narindra,Direction générale,08:00,2026-09-20 07:59,2026-09-20 16:45,présent,,QR,synthetique
+305,2026-09-20,5,Nirina,Restaurant,08:00,2026-09-20 08:08,2026-09-20 17:24,présent,,QR,synthetique
+306,2026-09-20,4,Njaka,Restaurant,08:30,2026-09-20 08:23,2026-09-20 17:28,présent,,QR,synthetique
+307,2026-09-20,8,Nomace,Hôtel,08:00,2026-09-20 07:58,2026-09-20 17:28,présent,,QR,synthetique
+308,2026-09-20,16,Nondy,Cyber,08:00,2026-09-20 08:02,2026-09-20 17:28,présent,,QR,synthetique
+309,2026-09-20,14,Tahiry,Ménage et cuisine,08:00,2026-09-20 08:03,2026-09-20 16:54,présent,,QR,synthetique
+310,2026-09-20,13,Tsiory,Ménage et cuisine,08:00,2026-09-20 08:03,2026-09-20 16:55,présent,,QR,synthetique
+311,2026-09-21,11,Dada Jean,Sécurité et entretien,06:00,2026-09-21 06:56,2026-09-21 18:08,retard,,QR,synthetique
+312,2026-09-21,12,Faustin,Sécurité et entretien,18:00,2026-09-21 17:54,2026-09-22 06:15,présent,,QR,synthetique
+313,2026-09-22,10,Aina,Accueil,08:00,2026-09-22 08:00,2026-09-22 17:09,présent,,QR,synthetique
+314,2026-09-22,2,Amboara,Direction générale,08:00,2026-09-22 07:53,2026-09-22 16:45,présent,,QR,synthetique
+315,2026-09-22,11,Dada Jean,Sécurité et entretien,06:00,2026-09-22 06:05,2026-09-22 17:45,présent,,QR,synthetique
+316,2026-09-22,6,Faneva,Restaurant,09:00,2026-09-22 09:05,2026-09-22 18:26,présent,,QR,synthetique
+317,2026-09-22,12,Faustin,Sécurité et entretien,18:00,2026-09-22 18:00,2026-09-23 05:57,présent,,manuel,synthetique
+318,2026-09-22,15,Iris,Ménage et cuisine,08:00,2026-09-22 08:10,2026-09-22 16:52,présent,,QR,synthetique
+319,2026-09-22,17,Luanah,Coiffure,08:00,2026-09-22 07:54,2026-09-22 16:47,présent,,QR,synthetique
+320,2026-09-22,9,Mampionona,Piscine,08:00,2026-09-22 07:56,2026-09-22 17:18,présent,,QR,synthetique
+321,2026-09-22,7,Mi,Restaurant,10:00,2026-09-22 09:54,2026-09-22 18:50,présent,,QR,synthetique
+322,2026-09-22,3,Mireille,Achats et logistique,08:00,2026-09-22 07:59,2026-09-22 17:24,présent,,QR,synthetique
+323,2026-09-22,1,Narindra,Direction générale,08:00,2026-09-22 07:58,2026-09-22 16:45,présent,,manuel,synthetique
+324,2026-09-22,5,Nirina,Restaurant,08:00,2026-09-22 07:59,2026-09-22 16:46,présent,,QR,synthetique
+325,2026-09-22,4,Njaka,Restaurant,08:30,2026-09-22 08:30,2026-09-22 17:39,présent,,QR,synthetique
+326,2026-09-22,8,Nomace,Hôtel,08:00,2026-09-22 08:10,2026-09-22 17:09,présent,,QR,synthetique
+327,2026-09-22,16,Nondy,Cyber,08:00,2026-09-22 08:00,2026-09-22 17:13,présent,,QR,synthetique
+328,2026-09-22,14,Tahiry,Ménage et cuisine,08:00,2026-09-22 08:01,2026-09-22 17:05,présent,,QR,synthetique
+329,2026-09-22,13,Tsiory,Ménage et cuisine,08:00,2026-09-22 08:02,2026-09-22 16:53,présent,,QR,synthetique
+330,2026-09-23,10,Aina,Accueil,08:00,2026-09-23 07:56,2026-09-23 17:16,présent,,QR,synthetique
+331,2026-09-23,2,Amboara,Direction générale,08:00,2026-09-23 07:59,2026-09-23 16:57,présent,,QR,synthetique
+332,2026-09-23,11,Dada Jean,Sécurité et entretien,06:00,2026-09-23 05:55,2026-09-23 17:46,présent,,QR,synthetique
+333,2026-09-23,6,Faneva,Restaurant,09:00,2026-09-23 09:03,2026-09-23 18:08,présent,,manuel,synthetique
+334,2026-09-23,12,Faustin,Sécurité et entretien,18:00,2026-09-23 17:55,2026-09-24 06:03,présent,,QR,synthetique
+335,2026-09-23,15,Iris,Ménage et cuisine,08:00,2026-09-23 07:59,2026-09-23 17:07,présent,,QR,synthetique
+336,2026-09-23,17,Luanah,Coiffure,08:00,2026-09-23 08:30,2026-09-23 17:17,retard,,QR,synthetique
+337,2026-09-23,9,Mampionona,Piscine,08:00,2026-09-23 08:02,2026-09-23 17:01,présent,,QR,synthetique
+338,2026-09-23,7,Mi,Restaurant,10:00,2026-09-23 09:55,2026-09-23 19:27,présent,,QR,synthetique
+339,2026-09-23,3,Mireille,Achats et logistique,08:00,2026-09-23 07:56,2026-09-23 17:09,présent,,QR,synthetique
+340,2026-09-23,1,Narindra,Direction générale,08:00,2026-09-23 07:55,2026-09-23 17:29,présent,,QR,synthetique
+341,2026-09-23,5,Nirina,Restaurant,08:00,,,absent,True,manuel,synthetique
+342,2026-09-23,4,Njaka,Restaurant,08:30,2026-09-23 08:26,2026-09-23 17:37,présent,,QR,synthetique
+343,2026-09-23,8,Nomace,Hôtel,08:00,2026-09-23 07:56,2026-09-23 17:26,présent,,QR,synthetique
+344,2026-09-23,16,Nondy,Cyber,08:00,2026-09-23 07:56,2026-09-23 17:12,présent,,QR,synthetique
+345,2026-09-23,14,Tahiry,Ménage et cuisine,08:00,2026-09-23 08:00,2026-09-23 17:26,présent,,QR,synthetique
+346,2026-09-23,13,Tsiory,Ménage et cuisine,08:00,2026-09-23 07:58,2026-09-23 17:16,présent,,QR,synthetique
+347,2026-09-24,10,Aina,Accueil,08:00,2026-09-24 07:59,2026-09-24 16:48,présent,,QR,synthetique
+348,2026-09-24,2,Amboara,Direction générale,08:00,2026-09-24 08:03,2026-09-24 17:01,présent,,QR,synthetique
+349,2026-09-24,11,Dada Jean,Sécurité et entretien,06:00,2026-09-24 05:58,2026-09-24 18:29,présent,,QR,synthetique
+350,2026-09-24,6,Faneva,Restaurant,09:00,2026-09-24 08:59,2026-09-24 18:29,présent,,QR,synthetique
+351,2026-09-24,12,Faustin,Sécurité et entretien,18:00,2026-09-24 18:01,2026-09-25 06:06,présent,,QR,synthetique
+352,2026-09-24,15,Iris,Ménage et cuisine,08:00,2026-09-24 07:54,2026-09-24 17:00,présent,,QR,synthetique
+353,2026-09-24,17,Luanah,Coiffure,08:00,2026-09-24 07:54,2026-09-24 16:50,présent,,QR,synthetique
+354,2026-09-24,9,Mampionona,Piscine,08:00,2026-09-24 08:03,2026-09-24 17:19,présent,,QR,synthetique
+355,2026-09-24,7,Mi,Restaurant,10:00,2026-09-24 09:59,2026-09-24 19:25,présent,,QR,synthetique
+356,2026-09-24,3,Mireille,Achats et logistique,08:00,2026-09-24 07:59,2026-09-24 16:58,présent,,QR,synthetique
+357,2026-09-24,1,Narindra,Direction générale,08:00,2026-09-24 08:05,2026-09-24 16:51,présent,,manuel,synthetique
+358,2026-09-24,5,Nirina,Restaurant,08:00,2026-09-24 07:56,2026-09-24 17:15,présent,,manuel,synthetique
+359,2026-09-24,4,Njaka,Restaurant,08:30,2026-09-24 08:37,2026-09-24 17:15,présent,,QR,synthetique
+360,2026-09-24,8,Nomace,Hôtel,08:00,2026-09-24 08:03,2026-09-24 16:56,présent,,QR,synthetique
+361,2026-09-24,16,Nondy,Cyber,08:00,2026-09-24 07:53,2026-09-24 17:08,présent,,QR,synthetique
+362,2026-09-24,14,Tahiry,Ménage et cuisine,08:00,2026-09-24 07:57,2026-09-24 16:56,présent,,QR,synthetique
+363,2026-09-24,13,Tsiory,Ménage et cuisine,08:00,2026-09-24 07:55,2026-09-24 17:23,présent,,QR,synthetique
+364,2026-09-25,10,Aina,Accueil,08:00,2026-09-25 08:01,2026-09-25 16:55,présent,,QR,synthetique
+365,2026-09-25,2,Amboara,Direction générale,08:00,2026-09-25 08:43,2026-09-25 16:58,retard,,QR,synthetique
+366,2026-09-25,11,Dada Jean,Sécurité et entretien,06:00,2026-09-25 05:57,2026-09-25 18:05,présent,,QR,synthetique
+367,2026-09-25,6,Faneva,Restaurant,09:00,2026-09-25 08:58,2026-09-25 18:09,présent,,QR,synthetique
+368,2026-09-25,12,Faustin,Sécurité et entretien,18:00,2026-09-25 18:05,2026-09-26 06:15,présent,,QR,synthetique
+369,2026-09-25,15,Iris,Ménage et cuisine,08:00,2026-09-25 08:08,2026-09-25 16:55,présent,,QR,synthetique
+370,2026-09-25,17,Luanah,Coiffure,08:00,2026-09-25 08:03,2026-09-25 16:58,présent,,QR,synthetique
+371,2026-09-25,9,Mampionona,Piscine,08:00,2026-09-25 08:28,2026-09-25 17:23,retard,,QR,synthetique
+372,2026-09-25,7,Mi,Restaurant,10:00,2026-09-25 09:51,2026-09-25 19:00,présent,,QR,synthetique
+373,2026-09-25,3,Mireille,Achats et logistique,08:00,2026-09-25 08:04,2026-09-25 17:13,présent,,QR,synthetique
+374,2026-09-25,1,Narindra,Direction générale,08:00,2026-09-25 07:55,2026-09-25 16:58,présent,,QR,synthetique
+375,2026-09-25,5,Nirina,Restaurant,08:00,2026-09-25 08:00,2026-09-25 16:53,présent,,QR,synthetique
+376,2026-09-25,4,Njaka,Restaurant,08:30,2026-09-25 08:33,2026-09-25 17:41,présent,,QR,synthetique
+377,2026-09-25,8,Nomace,Hôtel,08:00,2026-09-25 08:03,2026-09-25 17:00,présent,,manuel,synthetique
+378,2026-09-25,16,Nondy,Cyber,08:00,2026-09-25 07:57,2026-09-25 16:46,présent,,QR,synthetique
+379,2026-09-25,14,Tahiry,Ménage et cuisine,08:00,2026-09-25 08:03,2026-09-25 17:11,présent,,QR,synthetique
+380,2026-09-25,13,Tsiory,Ménage et cuisine,08:00,2026-09-25 07:58,2026-09-25 17:26,présent,,QR,synthetique
+381,2026-09-26,10,Aina,Accueil,08:00,,,absent,True,QR,synthetique
+382,2026-09-26,2,Amboara,Direction générale,08:00,,,absent,False,QR,synthetique
+383,2026-09-26,11,Dada Jean,Sécurité et entretien,06:00,2026-09-26 05:59,2026-09-26 18:24,présent,,QR,synthetique
+384,2026-09-26,6,Faneva,Restaurant,09:00,2026-09-26 09:02,2026-09-26 17:52,présent,,QR,synthetique
+385,2026-09-26,12,Faustin,Sécurité et entretien,18:00,2026-09-26 17:59,2026-09-27 06:15,présent,,QR,synthetique
+386,2026-09-26,15,Iris,Ménage et cuisine,08:00,,,absent,False,QR,synthetique
+387,2026-09-26,17,Luanah,Coiffure,08:00,2026-09-26 08:01,2026-09-26 17:26,présent,,QR,synthetique
+388,2026-09-26,9,Mampionona,Piscine,08:00,2026-09-26 07:58,2026-09-26 17:24,présent,,QR,synthetique
+389,2026-09-26,7,Mi,Restaurant,10:00,2026-09-26 10:01,2026-09-26 19:18,présent,,QR,synthetique
+390,2026-09-26,3,Mireille,Achats et logistique,08:00,2026-09-26 07:58,2026-09-26 17:22,présent,,QR,synthetique
+391,2026-09-26,1,Narindra,Direction générale,08:00,2026-09-26 07:58,2026-09-26 17:11,présent,,QR,synthetique
+392,2026-09-26,5,Nirina,Restaurant,08:00,,,absent,True,QR,synthetique
+393,2026-09-26,4,Njaka,Restaurant,08:30,2026-09-26 08:59,2026-09-26 17:40,retard,,QR,synthetique
+394,2026-09-26,8,Nomace,Hôtel,08:00,2026-09-26 07:58,2026-09-26 16:58,présent,,QR,synthetique
+395,2026-09-26,16,Nondy,Cyber,08:00,2026-09-26 07:59,2026-09-26 17:06,présent,,QR,synthetique
+396,2026-09-26,14,Tahiry,Ménage et cuisine,08:00,2026-09-26 07:54,2026-09-26 17:27,présent,,QR,synthetique
+397,2026-09-26,13,Tsiory,Ménage et cuisine,08:00,2026-09-26 07:56,2026-09-26 17:06,présent,,QR,synthetique
+398,2026-09-27,10,Aina,Accueil,08:00,2026-09-27 07:58,2026-09-27 16:57,présent,,QR,synthetique
+399,2026-09-27,2,Amboara,Direction générale,08:00,2026-09-27 07:55,2026-09-27 16:56,présent,,QR,synthetique
+400,2026-09-27,11,Dada Jean,Sécurité et entretien,06:00,2026-09-27 06:01,2026-09-27 18:28,présent,,QR,synthetique
+401,2026-09-27,6,Faneva,Restaurant,09:00,2026-09-27 09:02,2026-09-27 18:06,présent,,QR,synthetique
+402,2026-09-27,12,Faustin,Sécurité et entretien,18:00,2026-09-27 18:03,2026-09-28 06:22,présent,,QR,synthetique
+403,2026-09-27,15,Iris,Ménage et cuisine,08:00,2026-09-27 08:00,2026-09-27 17:07,présent,,QR,synthetique
+404,2026-09-27,17,Luanah,Coiffure,08:00,2026-09-27 08:00,2026-09-27 16:51,présent,,QR,synthetique
+405,2026-09-27,9,Mampionona,Piscine,08:00,2026-09-27 07:53,2026-09-27 17:09,présent,,QR,synthetique
+406,2026-09-27,7,Mi,Restaurant,10:00,2026-09-27 09:59,2026-09-27 19:20,présent,,QR,synthetique
+407,2026-09-27,3,Mireille,Achats et logistique,08:00,2026-09-27 07:52,2026-09-27 16:52,présent,,QR,synthetique
+408,2026-09-27,1,Narindra,Direction générale,08:00,2026-09-27 08:04,2026-09-27 16:52,présent,,QR,synthetique
+409,2026-09-27,5,Nirina,Restaurant,08:00,2026-09-27 07:59,2026-09-27 17:01,présent,,manuel,synthetique
+410,2026-09-27,4,Njaka,Restaurant,08:30,2026-09-27 08:23,2026-09-27 17:35,présent,,manuel,synthetique
+411,2026-09-27,8,Nomace,Hôtel,08:00,2026-09-27 08:04,2026-09-27 17:14,présent,,QR,synthetique
+412,2026-09-27,16,Nondy,Cyber,08:00,2026-09-27 07:56,2026-09-27 17:18,présent,,QR,synthetique
+413,2026-09-27,14,Tahiry,Ménage et cuisine,08:00,2026-09-27 07:58,2026-09-27 17:09,présent,,manuel,synthetique
+414,2026-09-27,13,Tsiory,Ménage et cuisine,08:00,2026-09-27 08:05,2026-09-27 17:04,présent,,QR,synthetique
+415,2026-09-28,11,Dada Jean,Sécurité et entretien,06:00,2026-09-28 05:54,2026-09-28 18:26,présent,,QR,synthetique
+416,2026-09-28,12,Faustin,Sécurité et entretien,18:00,2026-09-28 18:00,2026-09-29 06:27,présent,,manuel,synthetique
+417,2026-09-29,10,Aina,Accueil,08:00,2026-09-29 07:54,2026-09-29 17:14,présent,,QR,synthetique
+418,2026-09-29,2,Amboara,Direction générale,08:00,2026-09-29 07:55,2026-09-29 17:00,présent,,QR,synthetique
+419,2026-09-29,11,Dada Jean,Sécurité et entretien,06:00,2026-09-29 05:54,2026-09-29 18:10,présent,,QR,synthetique
+420,2026-09-29,6,Faneva,Restaurant,09:00,2026-09-29 09:09,2026-09-29 18:23,présent,,QR,synthetique
+421,2026-09-29,12,Faustin,Sécurité et entretien,18:00,2026-09-29 17:51,2026-09-30 05:45,présent,,QR,synthetique
+422,2026-09-29,15,Iris,Ménage et cuisine,08:00,2026-09-29 08:24,2026-09-29 17:14,retard,,QR,synthetique
+423,2026-09-29,17,Luanah,Coiffure,08:00,2026-09-29 08:25,2026-09-29 16:46,retard,,QR,synthetique
+424,2026-09-29,9,Mampionona,Piscine,08:00,2026-09-29 07:56,2026-09-29 17:00,présent,,QR,synthetique
+425,2026-09-29,7,Mi,Restaurant,10:00,2026-09-29 09:57,2026-09-29 19:07,présent,,QR,synthetique
+426,2026-09-29,3,Mireille,Achats et logistique,08:00,2026-09-29 07:58,2026-09-29 17:20,présent,,QR,synthetique
+427,2026-09-29,1,Narindra,Direction générale,08:00,,,absent,True,QR,synthetique
+428,2026-09-29,5,Nirina,Restaurant,08:00,2026-09-29 07:56,2026-09-29 17:12,présent,,QR,synthetique
+429,2026-09-29,4,Njaka,Restaurant,08:30,2026-09-29 08:30,2026-09-29 17:49,présent,,QR,synthetique
+430,2026-09-29,8,Nomace,Hôtel,08:00,,,absent,False,manuel,synthetique
+431,2026-09-29,16,Nondy,Cyber,08:00,2026-09-29 07:53,2026-09-29 16:55,présent,,QR,synthetique
+432,2026-09-29,14,Tahiry,Ménage et cuisine,08:00,2026-09-29 07:51,2026-09-29 17:12,présent,,manuel,synthetique
+433,2026-09-29,13,Tsiory,Ménage et cuisine,08:00,2026-09-29 08:00,2026-09-29 17:06,présent,,manuel,synthetique
+434,2026-09-30,10,Aina,Accueil,08:00,2026-09-30 07:58,2026-09-30 17:19,présent,,QR,synthetique
+435,2026-09-30,2,Amboara,Direction générale,08:00,2026-09-30 08:00,2026-09-30 17:13,présent,,QR,synthetique
+436,2026-09-30,11,Dada Jean,Sécurité et entretien,06:00,2026-09-30 05:59,2026-09-30 18:15,présent,,QR,synthetique
+437,2026-09-30,6,Faneva,Restaurant,09:00,2026-09-30 09:01,2026-09-30 18:18,présent,,QR,synthetique
+438,2026-09-30,12,Faustin,Sécurité et entretien,18:00,2026-09-30 17:55,2026-10-01 06:09,présent,,QR,synthetique
+439,2026-09-30,15,Iris,Ménage et cuisine,08:00,2026-09-30 07:57,2026-09-30 17:00,présent,,QR,synthetique
+440,2026-09-30,17,Luanah,Coiffure,08:00,2026-09-30 08:02,2026-09-30 17:14,présent,,QR,synthetique
+441,2026-09-30,9,Mampionona,Piscine,08:00,2026-09-30 07:55,2026-09-30 17:29,présent,,QR,synthetique
+442,2026-09-30,7,Mi,Restaurant,10:00,2026-09-30 10:11,2026-09-30 18:57,retard,,QR,synthetique
+443,2026-09-30,3,Mireille,Achats et logistique,08:00,2026-09-30 07:51,2026-09-30 17:22,présent,,QR,synthetique
+444,2026-09-30,1,Narindra,Direction générale,08:00,2026-09-30 07:59,2026-09-30 16:59,présent,,manuel,synthetique
+445,2026-09-30,5,Nirina,Restaurant,08:00,2026-09-30 07:59,2026-09-30 17:11,présent,,QR,synthetique
+446,2026-09-30,4,Njaka,Restaurant,08:30,,,absent,False,QR,synthetique
+447,2026-09-30,8,Nomace,Hôtel,08:00,2026-09-30 07:51,2026-09-30 17:05,présent,,QR,synthetique
+448,2026-09-30,16,Nondy,Cyber,08:00,2026-09-30 07:57,2026-09-30 17:17,présent,,QR,synthetique
+449,2026-09-30,14,Tahiry,Ménage et cuisine,08:00,2026-09-30 07:57,2026-09-30 17:08,présent,,QR,synthetique
+450,2026-09-30,13,Tsiory,Ménage et cuisine,08:00,2026-09-30 08:06,2026-09-30 17:00,présent,,QR,synthetique
+451,2026-10-01,10,Aina,Accueil,08:00,2026-10-01 07:57,2026-10-01 17:03,présent,,QR,synthetique
+452,2026-10-01,2,Amboara,Direction générale,08:00,2026-10-01 08:11,2026-10-01 16:46,retard,,QR,synthetique
+453,2026-10-01,11,Dada Jean,Sécurité et entretien,06:00,2026-10-01 06:03,2026-10-01 17:51,présent,,QR,synthetique
+454,2026-10-01,6,Faneva,Restaurant,09:00,2026-10-01 08:56,2026-10-01 18:17,présent,,QR,synthetique
+455,2026-10-01,12,Faustin,Sécurité et entretien,18:00,2026-10-01 17:54,2026-10-02 06:24,présent,,QR,synthetique
+456,2026-10-01,15,Iris,Ménage et cuisine,08:00,2026-10-01 07:53,2026-10-01 17:08,présent,,QR,synthetique
+457,2026-10-01,17,Luanah,Coiffure,08:00,2026-10-01 07:56,2026-10-01 17:13,présent,,QR,synthetique
+458,2026-10-01,9,Mampionona,Piscine,08:00,2026-10-01 07:54,2026-10-01 16:52,présent,,QR,synthetique
+459,2026-10-01,7,Mi,Restaurant,10:00,2026-10-01 10:01,2026-10-01 19:10,présent,,QR,synthetique
+460,2026-10-01,3,Mireille,Achats et logistique,08:00,2026-10-01 07:57,2026-10-01 16:48,présent,,QR,synthetique
+461,2026-10-01,1,Narindra,Direction générale,08:00,2026-10-01 07:56,2026-10-01 17:09,présent,,QR,synthetique
+462,2026-10-01,5,Nirina,Restaurant,08:00,2026-10-01 07:57,2026-10-01 16:47,présent,,QR,synthetique
+463,2026-10-01,4,Njaka,Restaurant,08:30,2026-10-01 08:29,2026-10-01 17:47,présent,,QR,synthetique
+464,2026-10-01,8,Nomace,Hôtel,08:00,2026-10-01 07:58,2026-10-01 17:19,présent,,QR,synthetique
+465,2026-10-01,16,Nondy,Cyber,08:00,2026-10-01 07:59,2026-10-01 17:17,présent,,QR,synthetique
+466,2026-10-01,14,Tahiry,Ménage et cuisine,08:00,2026-10-01 07:57,2026-10-01 17:00,présent,,QR,synthetique
+467,2026-10-01,13,Tsiory,Ménage et cuisine,08:00,2026-10-01 08:01,2026-10-01 16:57,présent,,QR,synthetique
+468,2026-10-02,10,Aina,Accueil,08:00,2026-10-02 08:01,2026-10-02 16:51,présent,,QR,synthetique
+469,2026-10-02,2,Amboara,Direction générale,08:00,2026-10-02 08:05,2026-10-02 16:58,présent,,QR,synthetique
+470,2026-10-02,11,Dada Jean,Sécurité et entretien,06:00,2026-10-02 05:54,2026-10-02 18:09,présent,,QR,synthetique
+471,2026-10-02,6,Faneva,Restaurant,09:00,,,absent,True,QR,synthetique
+472,2026-10-02,12,Faustin,Sécurité et entretien,18:00,2026-10-02 18:04,2026-10-03 06:05,présent,,QR,synthetique
+473,2026-10-02,15,Iris,Ménage et cuisine,08:00,2026-10-02 08:01,2026-10-02 17:21,présent,,QR,synthetique
+474,2026-10-02,17,Luanah,Coiffure,08:00,2026-10-02 07:56,2026-10-02 16:45,présent,,QR,synthetique
+475,2026-10-02,9,Mampionona,Piscine,08:00,2026-10-02 08:01,2026-10-02 17:23,présent,,QR,synthetique
+476,2026-10-02,7,Mi,Restaurant,10:00,2026-10-02 10:03,2026-10-02 19:16,présent,,QR,synthetique
+477,2026-10-02,3,Mireille,Achats et logistique,08:00,2026-10-02 08:15,2026-10-02 17:19,retard,,QR,synthetique
+478,2026-10-02,1,Narindra,Direction générale,08:00,2026-10-02 08:43,2026-10-02 17:09,retard,,QR,synthetique
+479,2026-10-02,5,Nirina,Restaurant,08:00,2026-10-02 07:56,2026-10-02 17:10,présent,,QR,synthetique
+480,2026-10-02,4,Njaka,Restaurant,08:30,2026-10-02 08:26,2026-10-02 17:16,présent,,QR,synthetique
+481,2026-10-02,8,Nomace,Hôtel,08:00,2026-10-02 07:51,2026-10-02 17:27,présent,,QR,synthetique
+482,2026-10-02,16,Nondy,Cyber,08:00,,,absent,False,QR,synthetique
+483,2026-10-02,14,Tahiry,Ménage et cuisine,08:00,2026-10-02 08:02,2026-10-02 17:10,présent,,QR,synthetique
+484,2026-10-02,13,Tsiory,Ménage et cuisine,08:00,2026-10-02 08:00,2026-10-02 17:03,présent,,QR,synthetique
+485,2026-10-03,10,Aina,Accueil,08:00,,,absent,True,QR,synthetique
+486,2026-10-03,2,Amboara,Direction générale,08:00,2026-10-03 07:52,2026-10-03 17:27,présent,,QR,synthetique
+487,2026-10-03,11,Dada Jean,Sécurité et entretien,06:00,2026-10-03 05:55,2026-10-03 18:24,présent,,manuel,synthetique
+488,2026-10-03,6,Faneva,Restaurant,09:00,2026-10-03 09:02,2026-10-03 18:03,présent,,QR,synthetique
+489,2026-10-03,12,Faustin,Sécurité et entretien,18:00,2026-10-03 18:07,2026-10-04 06:00,présent,,manuel,synthetique
+490,2026-10-03,15,Iris,Ménage et cuisine,08:00,2026-10-03 07:56,2026-10-03 17:03,présent,,QR,synthetique
+491,2026-10-03,17,Luanah,Coiffure,08:00,,,absent,True,QR,synthetique
+492,2026-10-03,9,Mampionona,Piscine,08:00,2026-10-03 07:54,2026-10-03 16:52,présent,,QR,synthetique
+493,2026-10-03,7,Mi,Restaurant,10:00,2026-10-03 09:53,2026-10-03 19:00,présent,,QR,synthetique
+494,2026-10-03,3,Mireille,Achats et logistique,08:00,2026-10-03 07:52,2026-10-03 17:14,présent,,QR,synthetique
+495,2026-10-03,1,Narindra,Direction générale,08:00,,,absent,False,manuel,synthetique
+496,2026-10-03,5,Nirina,Restaurant,08:00,2026-10-03 07:54,2026-10-03 16:49,présent,,QR,synthetique
+497,2026-10-03,4,Njaka,Restaurant,08:30,2026-10-03 08:30,2026-10-03 17:58,présent,,QR,synthetique
+498,2026-10-03,8,Nomace,Hôtel,08:00,2026-10-03 07:57,2026-10-03 17:09,présent,,QR,synthetique
+499,2026-10-03,16,Nondy,Cyber,08:00,2026-10-03 08:00,2026-10-03 17:23,présent,,QR,synthetique
+500,2026-10-03,14,Tahiry,Ménage et cuisine,08:00,2026-10-03 07:58,2026-10-03 17:11,présent,,QR,synthetique
+501,2026-10-03,13,Tsiory,Ménage et cuisine,08:00,2026-10-03 07:56,2026-10-03 17:25,présent,,QR,synthetique
+502,2026-10-04,10,Aina,Accueil,08:00,2026-10-04 07:56,2026-10-04 16:52,présent,,QR,synthetique
+503,2026-10-04,2,Amboara,Direction générale,08:00,2026-10-04 08:00,2026-10-04 16:53,présent,,QR,synthetique
+504,2026-10-04,11,Dada Jean,Sécurité et entretien,06:00,2026-10-04 05:59,2026-10-04 17:51,présent,,QR,synthetique
+505,2026-10-04,6,Faneva,Restaurant,09:00,2026-10-04 09:02,2026-10-04 18:20,présent,,QR,synthetique
+506,2026-10-04,12,Faustin,Sécurité et entretien,18:00,2026-10-04 18:01,2026-10-05 06:04,présent,,QR,synthetique
+507,2026-10-04,15,Iris,Ménage et cuisine,08:00,2026-10-04 07:53,2026-10-04 17:29,présent,,QR,synthetique
+508,2026-10-04,17,Luanah,Coiffure,08:00,2026-10-04 08:05,2026-10-04 17:05,présent,,QR,synthetique
+509,2026-10-04,9,Mampionona,Piscine,08:00,2026-10-04 08:04,2026-10-04 16:53,présent,,QR,synthetique
+510,2026-10-04,7,Mi,Restaurant,10:00,2026-10-04 09:51,2026-10-04 19:26,présent,,QR,synthetique
+511,2026-10-04,3,Mireille,Achats et logistique,08:00,2026-10-04 08:03,2026-10-04 17:13,présent,,manuel,synthetique
+512,2026-10-04,1,Narindra,Direction générale,08:00,2026-10-04 08:03,2026-10-04 16:51,présent,,QR,synthetique
+513,2026-10-04,5,Nirina,Restaurant,08:00,2026-10-04 07:57,2026-10-04 17:11,présent,,QR,synthetique
+514,2026-10-04,4,Njaka,Restaurant,08:30,2026-10-04 08:23,2026-10-04 17:32,présent,,QR,synthetique
+515,2026-10-04,8,Nomace,Hôtel,08:00,,,absent,True,QR,synthetique
+516,2026-10-04,16,Nondy,Cyber,08:00,2026-10-04 07:59,2026-10-04 17:13,présent,,QR,synthetique
+517,2026-10-04,14,Tahiry,Ménage et cuisine,08:00,2026-10-04 08:26,2026-10-04 16:55,retard,,QR,synthetique
+518,2026-10-04,13,Tsiory,Ménage et cuisine,08:00,2026-10-04 07:56,2026-10-04 17:24,présent,,QR,synthetique
+519,2026-10-05,11,Dada Jean,Sécurité et entretien,06:00,2026-10-05 05:56,2026-10-05 18:02,présent,,QR,synthetique
+520,2026-10-05,12,Faustin,Sécurité et entretien,18:00,2026-10-05 17:57,2026-10-06 06:05,présent,,QR,synthetique
+521,2026-10-06,10,Aina,Accueil,08:00,2026-10-06 07:57,2026-10-06 17:19,présent,,QR,synthetique
+522,2026-10-06,2,Amboara,Direction générale,08:00,2026-10-06 08:37,2026-10-06 17:27,retard,,QR,synthetique
+523,2026-10-06,11,Dada Jean,Sécurité et entretien,06:00,2026-10-06 06:05,2026-10-06 18:13,présent,,QR,synthetique
+524,2026-10-06,6,Faneva,Restaurant,09:00,2026-10-06 09:00,2026-10-06 17:51,présent,,QR,synthetique
+525,2026-10-06,12,Faustin,Sécurité et entretien,18:00,2026-10-06 17:54,2026-10-07 06:16,présent,,QR,synthetique
+526,2026-10-06,15,Iris,Ménage et cuisine,08:00,2026-10-06 08:40,2026-10-06 17:27,retard,,QR,synthetique
+527,2026-10-06,17,Luanah,Coiffure,08:00,2026-10-06 08:06,2026-10-06 17:26,présent,,QR,synthetique
+528,2026-10-06,9,Mampionona,Piscine,08:00,2026-10-06 08:00,2026-10-06 16:57,présent,,QR,synthetique
+529,2026-10-06,7,Mi,Restaurant,10:00,2026-10-06 10:01,2026-10-06 19:10,présent,,QR,synthetique
+530,2026-10-06,3,Mireille,Achats et logistique,08:00,2026-10-06 08:49,2026-10-06 17:28,retard,,QR,synthetique
+531,2026-10-06,1,Narindra,Direction générale,08:00,2026-10-06 08:03,2026-10-06 17:25,présent,,QR,synthetique
+532,2026-10-06,5,Nirina,Restaurant,08:00,2026-10-06 07:59,2026-10-06 16:56,présent,,QR,synthetique
+533,2026-10-06,4,Njaka,Restaurant,08:30,2026-10-06 08:22,2026-10-06 17:29,présent,,QR,synthetique
+534,2026-10-06,8,Nomace,Hôtel,08:00,2026-10-06 08:00,2026-10-06 17:15,présent,,QR,synthetique
+535,2026-10-06,16,Nondy,Cyber,08:00,2026-10-06 07:53,2026-10-06 17:14,présent,,manuel,synthetique
+536,2026-10-06,14,Tahiry,Ménage et cuisine,08:00,2026-10-06 07:54,2026-10-06 17:24,présent,,QR,synthetique
+537,2026-10-06,13,Tsiory,Ménage et cuisine,08:00,2026-10-06 07:53,2026-10-06 17:05,présent,,QR,synthetique
+538,2026-10-07,10,Aina,Accueil,08:00,2026-10-07 07:55,2026-10-07 17:22,présent,,QR,synthetique
+539,2026-10-07,2,Amboara,Direction générale,08:00,2026-10-07 09:01,2026-10-07 17:00,retard,,QR,synthetique
+540,2026-10-07,11,Dada Jean,Sécurité et entretien,06:00,2026-10-07 05:55,2026-10-07 18:02,présent,,QR,synthetique
+541,2026-10-07,6,Faneva,Restaurant,09:00,2026-10-07 09:02,2026-10-07 17:59,présent,,QR,synthetique
+542,2026-10-07,12,Faustin,Sécurité et entretien,18:00,2026-10-07 17:51,2026-10-08 05:50,présent,,QR,synthetique
+543,2026-10-07,15,Iris,Ménage et cuisine,08:00,2026-10-07 07:58,2026-10-07 17:04,présent,,QR,synthetique
+544,2026-10-07,17,Luanah,Coiffure,08:00,2026-10-07 08:00,2026-10-07 17:28,présent,,QR,synthetique
+545,2026-10-07,9,Mampionona,Piscine,08:00,,,absent,True,QR,synthetique
+546,2026-10-07,7,Mi,Restaurant,10:00,2026-10-07 10:01,2026-10-07 19:21,présent,,QR,synthetique
+547,2026-10-07,3,Mireille,Achats et logistique,08:00,2026-10-07 07:53,2026-10-07 17:20,présent,,QR,synthetique
+548,2026-10-07,1,Narindra,Direction générale,08:00,,,absent,True,QR,synthetique
+549,2026-10-07,5,Nirina,Restaurant,08:00,2026-10-07 07:56,2026-10-07 17:26,présent,,QR,synthetique
+550,2026-10-07,4,Njaka,Restaurant,08:30,2026-10-07 08:31,2026-10-07 17:44,présent,,QR,synthetique
+551,2026-10-07,8,Nomace,Hôtel,08:00,2026-10-07 07:52,2026-10-07 17:03,présent,,QR,synthetique
+552,2026-10-07,16,Nondy,Cyber,08:00,2026-10-07 08:01,2026-10-07 16:52,présent,,manuel,synthetique
+553,2026-10-07,14,Tahiry,Ménage et cuisine,08:00,2026-10-07 07:58,2026-10-07 16:52,présent,,QR,synthetique
+554,2026-10-07,13,Tsiory,Ménage et cuisine,08:00,2026-10-07 08:39,2026-10-07 16:57,retard,,manuel,synthetique
+555,2026-10-08,10,Aina,Accueil,08:00,2026-10-08 07:59,2026-10-08 17:25,présent,,QR,synthetique
+556,2026-10-08,2,Amboara,Direction générale,08:00,2026-10-08 08:05,2026-10-08 17:13,présent,,QR,synthetique
+557,2026-10-08,11,Dada Jean,Sécurité et entretien,06:00,2026-10-08 05:58,2026-10-08 18:27,présent,,QR,synthetique
+558,2026-10-08,6,Faneva,Restaurant,09:00,2026-10-08 08:53,2026-10-08 18:04,présent,,QR,synthetique
+559,2026-10-08,12,Faustin,Sécurité et entretien,18:00,2026-10-08 18:03,2026-10-09 06:04,présent,,QR,synthetique
+560,2026-10-08,15,Iris,Ménage et cuisine,08:00,2026-10-08 08:16,2026-10-08 17:23,retard,,QR,synthetique
+561,2026-10-08,17,Luanah,Coiffure,08:00,2026-10-08 08:04,2026-10-08 16:48,présent,,manuel,synthetique
+562,2026-10-08,9,Mampionona,Piscine,08:00,2026-10-08 08:03,2026-10-08 16:48,présent,,QR,synthetique
+563,2026-10-08,7,Mi,Restaurant,10:00,2026-10-08 10:03,2026-10-08 19:26,présent,,QR,synthetique
+564,2026-10-08,3,Mireille,Achats et logistique,08:00,2026-10-08 07:55,2026-10-08 17:15,présent,,QR,synthetique
+565,2026-10-08,1,Narindra,Direction générale,08:00,2026-10-08 08:09,2026-10-08 17:17,présent,,QR,synthetique
+566,2026-10-08,5,Nirina,Restaurant,08:00,2026-10-08 07:51,2026-10-08 17:05,présent,,manuel,synthetique
+567,2026-10-08,4,Njaka,Restaurant,08:30,2026-10-08 08:24,2026-10-08 17:56,présent,,QR,synthetique
+568,2026-10-08,8,Nomace,Hôtel,08:00,2026-10-08 07:54,2026-10-08 17:28,présent,,QR,synthetique
+569,2026-10-08,16,Nondy,Cyber,08:00,2026-10-08 07:55,2026-10-08 16:51,présent,,QR,synthetique
+570,2026-10-08,14,Tahiry,Ménage et cuisine,08:00,2026-10-08 07:59,2026-10-08 17:07,présent,,QR,synthetique
+571,2026-10-08,13,Tsiory,Ménage et cuisine,08:00,2026-10-08 07:54,2026-10-08 16:48,présent,,QR,synthetique
+572,2026-10-09,10,Aina,Accueil,08:00,2026-10-09 07:57,2026-10-09 16:54,présent,,QR,synthetique
+573,2026-10-09,2,Amboara,Direction générale,08:00,,,absent,True,QR,synthetique
+574,2026-10-09,11,Dada Jean,Sécurité et entretien,06:00,2026-10-09 05:54,2026-10-09 18:22,présent,,QR,synthetique
+575,2026-10-09,6,Faneva,Restaurant,09:00,2026-10-09 09:48,2026-10-09 17:55,retard,,QR,synthetique
+576,2026-10-09,12,Faustin,Sécurité et entretien,18:00,2026-10-09 17:54,2026-10-10 06:13,présent,,QR,synthetique
+577,2026-10-09,15,Iris,Ménage et cuisine,08:00,2026-10-09 08:04,2026-10-09 17:10,présent,,QR,synthetique
+578,2026-10-09,17,Luanah,Coiffure,08:00,2026-10-09 07:57,2026-10-09 17:04,présent,,QR,synthetique
+579,2026-10-09,9,Mampionona,Piscine,08:00,2026-10-09 08:02,2026-10-09 17:29,présent,,QR,synthetique
+580,2026-10-09,7,Mi,Restaurant,10:00,2026-10-09 09:54,2026-10-09 18:57,présent,,manuel,synthetique
+581,2026-10-09,3,Mireille,Achats et logistique,08:00,2026-10-09 07:58,2026-10-09 16:59,présent,,QR,synthetique
+582,2026-10-09,1,Narindra,Direction générale,08:00,2026-10-09 08:02,2026-10-09 16:46,présent,,QR,synthetique
+583,2026-10-09,5,Nirina,Restaurant,08:00,2026-10-09 08:15,2026-10-09 16:46,retard,,QR,synthetique
+584,2026-10-09,4,Njaka,Restaurant,08:30,,,absent,True,QR,synthetique
+585,2026-10-09,8,Nomace,Hôtel,08:00,2026-10-09 07:54,2026-10-09 16:57,présent,,QR,synthetique
+586,2026-10-09,16,Nondy,Cyber,08:00,2026-10-09 08:36,2026-10-09 16:48,retard,,QR,synthetique
+587,2026-10-09,14,Tahiry,Ménage et cuisine,08:00,2026-10-09 08:04,2026-10-09 17:19,présent,,QR,synthetique
+588,2026-10-09,13,Tsiory,Ménage et cuisine,08:00,2026-10-09 08:00,2026-10-09 16:58,présent,,QR,synthetique
+589,2026-10-10,10,Aina,Accueil,08:00,2026-10-10 08:04,2026-10-10 17:25,présent,,QR,synthetique
+590,2026-10-10,2,Amboara,Direction générale,08:00,2026-10-10 08:04,2026-10-10 16:49,présent,,QR,synthetique
+591,2026-10-10,11,Dada Jean,Sécurité et entretien,06:00,2026-10-10 05:58,2026-10-10 17:51,présent,,QR,synthetique
+592,2026-10-10,6,Faneva,Restaurant,09:00,2026-10-10 09:40,2026-10-10 18:01,retard,,QR,synthetique
+593,2026-10-10,12,Faustin,Sécurité et entretien,18:00,2026-10-10 17:54,2026-10-11 05:55,présent,,QR,synthetique
+594,2026-10-10,15,Iris,Ménage et cuisine,08:00,2026-10-10 08:03,2026-10-10 17:08,présent,,QR,synthetique
+595,2026-10-10,17,Luanah,Coiffure,08:00,2026-10-10 07:57,2026-10-10 17:16,présent,,QR,synthetique
+596,2026-10-10,9,Mampionona,Piscine,08:00,2026-10-10 07:58,2026-10-10 17:07,présent,,QR,synthetique
+597,2026-10-10,7,Mi,Restaurant,10:00,2026-10-10 09:56,2026-10-10 19:21,présent,,QR,synthetique
+598,2026-10-10,3,Mireille,Achats et logistique,08:00,2026-10-10 07:53,2026-10-10 17:28,présent,,QR,synthetique
+599,2026-10-10,1,Narindra,Direction générale,08:00,2026-10-10 08:01,2026-10-10 17:18,présent,,QR,synthetique
+600,2026-10-10,5,Nirina,Restaurant,08:00,2026-10-10 08:01,2026-10-10 16:54,présent,,QR,synthetique
+601,2026-10-10,4,Njaka,Restaurant,08:30,2026-10-10 08:31,2026-10-10 17:38,présent,,QR,synthetique
+602,2026-10-10,8,Nomace,Hôtel,08:00,,,absent,True,QR,synthetique
+603,2026-10-10,16,Nondy,Cyber,08:00,2026-10-10 07:51,2026-10-10 17:17,présent,,QR,synthetique
+604,2026-10-10,14,Tahiry,Ménage et cuisine,08:00,2026-10-10 07:51,2026-10-10 16:45,présent,,QR,synthetique
+605,2026-10-10,13,Tsiory,Ménage et cuisine,08:00,2026-10-10 07:57,2026-10-10 16:53,présent,,QR,synthetique
+606,2026-10-11,10,Aina,Accueil,08:00,2026-10-11 07:59,2026-10-11 16:52,présent,,QR,synthetique
+607,2026-10-11,2,Amboara,Direction générale,08:00,2026-10-11 08:02,2026-10-11 16:58,présent,,QR,synthetique
+608,2026-10-11,11,Dada Jean,Sécurité et entretien,06:00,2026-10-11 05:52,2026-10-11 18:07,présent,,QR,synthetique
+609,2026-10-11,6,Faneva,Restaurant,09:00,2026-10-11 08:52,2026-10-11 18:24,présent,,QR,synthetique
+610,2026-10-11,12,Faustin,Sécurité et entretien,18:00,2026-10-11 17:58,2026-10-12 06:00,présent,,QR,synthetique
+611,2026-10-11,15,Iris,Ménage et cuisine,08:00,2026-10-11 08:06,2026-10-11 17:25,présent,,QR,synthetique
+612,2026-10-11,17,Luanah,Coiffure,08:00,2026-10-11 07:53,2026-10-11 16:57,présent,,QR,synthetique
+613,2026-10-11,9,Mampionona,Piscine,08:00,2026-10-11 08:25,2026-10-11 16:45,retard,,QR,synthetique
+614,2026-10-11,7,Mi,Restaurant,10:00,2026-10-11 09:59,2026-10-11 19:28,présent,,QR,synthetique
+615,2026-10-11,3,Mireille,Achats et logistique,08:00,2026-10-11 07:52,2026-10-11 17:05,présent,,QR,synthetique
+616,2026-10-11,1,Narindra,Direction générale,08:00,,,absent,True,QR,synthetique
+617,2026-10-11,5,Nirina,Restaurant,08:00,2026-10-11 07:58,2026-10-11 17:20,présent,,QR,synthetique
+618,2026-10-11,4,Njaka,Restaurant,08:30,2026-10-11 08:29,2026-10-11 17:24,présent,,QR,synthetique
+619,2026-10-11,8,Nomace,Hôtel,08:00,2026-10-11 07:53,2026-10-11 17:11,présent,,QR,synthetique
+620,2026-10-11,16,Nondy,Cyber,08:00,2026-10-11 07:54,2026-10-11 17:10,présent,,QR,synthetique
+621,2026-10-11,14,Tahiry,Ménage et cuisine,08:00,2026-10-11 08:00,2026-10-11 17:00,présent,,QR,synthetique
+622,2026-10-11,13,Tsiory,Ménage et cuisine,08:00,2026-10-11 08:05,2026-10-11 17:13,présent,,QR,synthetique
+623,2026-10-12,11,Dada Jean,Sécurité et entretien,06:00,2026-10-12 05:56,2026-10-12 18:29,présent,,QR,synthetique
+624,2026-10-12,12,Faustin,Sécurité et entretien,18:00,2026-10-12 18:24,2026-10-13 06:28,retard,,QR,synthetique
+625,2026-10-13,10,Aina,Accueil,08:00,2026-10-13 07:59,2026-10-13 17:02,présent,,QR,synthetique
+626,2026-10-13,2,Amboara,Direction générale,08:00,2026-10-13 07:55,2026-10-13 17:03,présent,,QR,synthetique
+627,2026-10-13,11,Dada Jean,Sécurité et entretien,06:00,2026-10-13 06:28,2026-10-13 18:19,retard,,QR,synthetique
+628,2026-10-13,6,Faneva,Restaurant,09:00,2026-10-13 09:04,2026-10-13 18:13,présent,,manuel,synthetique
+629,2026-10-13,12,Faustin,Sécurité et entretien,18:00,2026-10-13 17:56,2026-10-14 06:00,présent,,QR,synthetique
+630,2026-10-13,15,Iris,Ménage et cuisine,08:00,2026-10-13 08:01,2026-10-13 16:50,présent,,QR,synthetique
+631,2026-10-13,17,Luanah,Coiffure,08:00,2026-10-13 07:59,2026-10-13 16:56,présent,,QR,synthetique
+632,2026-10-13,9,Mampionona,Piscine,08:00,2026-10-13 08:05,2026-10-13 16:55,présent,,QR,synthetique
+633,2026-10-13,7,Mi,Restaurant,10:00,2026-10-13 09:58,2026-10-13 18:58,présent,,manuel,synthetique
+634,2026-10-13,3,Mireille,Achats et logistique,08:00,2026-10-13 08:47,2026-10-13 16:51,retard,,QR,synthetique
+635,2026-10-13,1,Narindra,Direction générale,08:00,2026-10-13 07:56,2026-10-13 17:08,présent,,QR,synthetique
+636,2026-10-13,5,Nirina,Restaurant,08:00,2026-10-13 07:59,2026-10-13 16:54,présent,,QR,synthetique
+637,2026-10-13,4,Njaka,Restaurant,08:30,2026-10-13 08:27,2026-10-13 17:55,présent,,QR,synthetique
+638,2026-10-13,8,Nomace,Hôtel,08:00,,,absent,True,QR,synthetique
+639,2026-10-13,16,Nondy,Cyber,08:00,2026-10-13 08:16,2026-10-13 17:10,retard,,QR,synthetique
+640,2026-10-13,14,Tahiry,Ménage et cuisine,08:00,2026-10-13 07:55,2026-10-13 17:11,présent,,QR,synthetique
+641,2026-10-13,13,Tsiory,Ménage et cuisine,08:00,2026-10-13 07:57,2026-10-13 16:47,présent,,QR,synthetique
+642,2026-10-14,10,Aina,Accueil,08:00,2026-10-14 07:57,2026-10-14 17:06,présent,,QR,synthetique
+643,2026-10-14,2,Amboara,Direction générale,08:00,2026-10-14 08:03,2026-10-14 16:54,présent,,QR,synthetique
+644,2026-10-14,11,Dada Jean,Sécurité et entretien,06:00,2026-10-14 05:55,2026-10-14 18:08,présent,,QR,synthetique
+645,2026-10-14,6,Faneva,Restaurant,09:00,2026-10-14 08:56,2026-10-14 18:16,présent,,QR,synthetique
+646,2026-10-14,12,Faustin,Sécurité et entretien,18:00,,,absent,True,QR,synthetique
+647,2026-10-14,15,Iris,Ménage et cuisine,08:00,2026-10-14 08:06,2026-10-14 17:11,présent,,QR,synthetique
+648,2026-10-14,17,Luanah,Coiffure,08:00,2026-10-14 08:00,2026-10-14 17:08,présent,,QR,synthetique
+649,2026-10-14,9,Mampionona,Piscine,08:00,2026-10-14 07:57,2026-10-14 17:01,présent,,QR,synthetique
+650,2026-10-14,7,Mi,Restaurant,10:00,,,absent,True,QR,synthetique
+651,2026-10-14,3,Mireille,Achats et logistique,08:00,2026-10-14 08:03,2026-10-14 17:09,présent,,QR,synthetique
+652,2026-10-14,1,Narindra,Direction générale,08:00,2026-10-14 07:55,2026-10-14 17:19,présent,,manuel,synthetique
+653,2026-10-14,5,Nirina,Restaurant,08:00,2026-10-14 07:53,2026-10-14 16:46,présent,,QR,synthetique
+654,2026-10-14,4,Njaka,Restaurant,08:30,2026-10-14 08:28,2026-10-14 17:18,présent,,QR,synthetique
+655,2026-10-14,8,Nomace,Hôtel,08:00,2026-10-14 07:57,2026-10-14 16:51,présent,,QR,synthetique
+656,2026-10-14,16,Nondy,Cyber,08:00,2026-10-14 07:59,2026-10-14 17:20,présent,,manuel,synthetique
+657,2026-10-14,14,Tahiry,Ménage et cuisine,08:00,2026-10-14 07:54,2026-10-14 16:50,présent,,QR,synthetique
+658,2026-10-14,13,Tsiory,Ménage et cuisine,08:00,2026-10-14 08:02,2026-10-14 17:04,présent,,QR,synthetique
+659,2026-10-15,10,Aina,Accueil,08:00,2026-10-15 07:58,2026-10-15 17:23,présent,,QR,synthetique
+660,2026-10-15,2,Amboara,Direction générale,08:00,2026-10-15 07:51,2026-10-15 17:04,présent,,manuel,synthetique
+661,2026-10-15,11,Dada Jean,Sécurité et entretien,06:00,2026-10-15 05:56,2026-10-15 18:12,présent,,QR,synthetique
+662,2026-10-15,6,Faneva,Restaurant,09:00,2026-10-15 08:54,2026-10-15 18:14,présent,,QR,synthetique
+663,2026-10-15,12,Faustin,Sécurité et entretien,18:00,2026-10-15 18:05,2026-10-16 06:03,présent,,QR,synthetique
+664,2026-10-15,15,Iris,Ménage et cuisine,08:00,2026-10-15 07:56,2026-10-15 17:00,présent,,QR,synthetique
+665,2026-10-15,17,Luanah,Coiffure,08:00,2026-10-15 07:55,2026-10-15 17:17,présent,,QR,synthetique
+666,2026-10-15,9,Mampionona,Piscine,08:00,2026-10-15 08:08,2026-10-15 17:11,présent,,QR,synthetique
+667,2026-10-15,7,Mi,Restaurant,10:00,2026-10-15 09:55,2026-10-15 19:19,présent,,QR,synthetique
+668,2026-10-15,3,Mireille,Achats et logistique,08:00,2026-10-15 08:02,2026-10-15 16:50,présent,,manuel,synthetique
+669,2026-10-15,1,Narindra,Direction générale,08:00,2026-10-15 07:54,2026-10-15 17:03,présent,,QR,synthetique
+670,2026-10-15,5,Nirina,Restaurant,08:00,2026-10-15 07:53,2026-10-15 17:12,présent,,QR,synthetique
+671,2026-10-15,4,Njaka,Restaurant,08:30,2026-10-15 08:38,2026-10-15 17:19,présent,,QR,synthetique
+672,2026-10-15,8,Nomace,Hôtel,08:00,2026-10-15 08:03,2026-10-15 17:03,présent,,QR,synthetique
+673,2026-10-15,16,Nondy,Cyber,08:00,2026-10-15 07:57,2026-10-15 17:08,présent,,manuel,synthetique
+674,2026-10-15,14,Tahiry,Ménage et cuisine,08:00,2026-10-15 08:01,2026-10-15 17:04,présent,,QR,synthetique
+675,2026-10-15,13,Tsiory,Ménage et cuisine,08:00,2026-10-15 07:53,2026-10-15 17:05,présent,,QR,synthetique
+676,2026-10-16,10,Aina,Accueil,08:00,2026-10-16 08:06,2026-10-16 16:53,présent,,QR,synthetique
+677,2026-10-16,2,Amboara,Direction générale,08:00,2026-10-16 07:54,2026-10-16 16:45,présent,,QR,synthetique
+678,2026-10-16,11,Dada Jean,Sécurité et entretien,06:00,2026-10-16 06:26,2026-10-16 17:49,retard,,QR,synthetique
+679,2026-10-16,6,Faneva,Restaurant,09:00,2026-10-16 09:00,2026-10-16 18:02,présent,,QR,synthetique
+680,2026-10-16,12,Faustin,Sécurité et entretien,18:00,2026-10-16 17:56,2026-10-17 05:51,présent,,QR,synthetique
+681,2026-10-16,15,Iris,Ménage et cuisine,08:00,2026-10-16 07:59,2026-10-16 16:49,présent,,QR,synthetique
+682,2026-10-16,17,Luanah,Coiffure,08:00,2026-10-16 08:00,2026-10-16 17:10,présent,,QR,synthetique
+683,2026-10-16,9,Mampionona,Piscine,08:00,2026-10-16 08:07,2026-10-16 17:21,présent,,QR,synthetique
+684,2026-10-16,7,Mi,Restaurant,10:00,2026-10-16 09:52,2026-10-16 19:10,présent,,QR,synthetique
+685,2026-10-16,3,Mireille,Achats et logistique,08:00,2026-10-16 07:53,2026-10-16 16:49,présent,,QR,synthetique
+686,2026-10-16,1,Narindra,Direction générale,08:00,2026-10-16 08:05,2026-10-16 17:04,présent,,QR,synthetique
+687,2026-10-16,5,Nirina,Restaurant,08:00,2026-10-16 07:55,2026-10-16 17:02,présent,,QR,synthetique
+688,2026-10-16,4,Njaka,Restaurant,08:30,2026-10-16 08:37,2026-10-16 17:32,présent,,QR,synthetique
+689,2026-10-16,8,Nomace,Hôtel,08:00,2026-10-16 07:57,2026-10-16 16:54,présent,,QR,synthetique
+690,2026-10-16,16,Nondy,Cyber,08:00,2026-10-16 07:57,2026-10-16 17:16,présent,,QR,synthetique
+691,2026-10-16,14,Tahiry,Ménage et cuisine,08:00,2026-10-16 08:10,2026-10-16 16:55,présent,,QR,synthetique
+692,2026-10-16,13,Tsiory,Ménage et cuisine,08:00,2026-10-16 08:03,2026-10-16 16:59,présent,,QR,synthetique
+693,2026-10-17,10,Aina,Accueil,08:00,2026-10-17 07:52,2026-10-17 16:47,présent,,QR,synthetique
+694,2026-10-17,2,Amboara,Direction générale,08:00,2026-10-17 08:13,2026-10-17 17:15,retard,,QR,synthetique
+695,2026-10-17,11,Dada Jean,Sécurité et entretien,06:00,,,absent,False,QR,synthetique
+696,2026-10-17,6,Faneva,Restaurant,09:00,2026-10-17 09:06,2026-10-17 17:50,présent,,QR,synthetique
+697,2026-10-17,12,Faustin,Sécurité et entretien,18:00,2026-10-17 17:59,2026-10-18 06:01,présent,,manuel,synthetique
+698,2026-10-17,15,Iris,Ménage et cuisine,08:00,2026-10-17 07:59,2026-10-17 17:04,présent,,QR,synthetique
+699,2026-10-17,17,Luanah,Coiffure,08:00,2026-10-17 07:57,2026-10-17 17:20,présent,,QR,synthetique
+700,2026-10-17,9,Mampionona,Piscine,08:00,,,absent,False,QR,synthetique
+701,2026-10-17,7,Mi,Restaurant,10:00,2026-10-17 09:55,2026-10-17 19:22,présent,,QR,synthetique
+702,2026-10-17,3,Mireille,Achats et logistique,08:00,2026-10-17 07:54,2026-10-17 17:10,présent,,QR,synthetique
+703,2026-10-17,1,Narindra,Direction générale,08:00,2026-10-17 08:05,2026-10-17 16:47,présent,,QR,synthetique
+704,2026-10-17,5,Nirina,Restaurant,08:00,2026-10-17 07:59,2026-10-17 17:23,présent,,QR,synthetique
+705,2026-10-17,4,Njaka,Restaurant,08:30,2026-10-17 09:19,2026-10-17 17:25,retard,,QR,synthetique
+706,2026-10-17,8,Nomace,Hôtel,08:00,2026-10-17 07:57,2026-10-17 17:16,présent,,QR,synthetique
+707,2026-10-17,16,Nondy,Cyber,08:00,2026-10-17 07:58,2026-10-17 16:55,présent,,QR,synthetique
+708,2026-10-17,14,Tahiry,Ménage et cuisine,08:00,2026-10-17 07:52,2026-10-17 17:00,présent,,QR,synthetique
+709,2026-10-17,13,Tsiory,Ménage et cuisine,08:00,2026-10-17 07:56,2026-10-17 17:01,présent,,manuel,synthetique
+710,2026-10-18,10,Aina,Accueil,08:00,2026-10-18 07:57,2026-10-18 16:58,présent,,QR,synthetique
+711,2026-10-18,2,Amboara,Direction générale,08:00,2026-10-18 08:01,2026-10-18 16:48,présent,,manuel,synthetique
+712,2026-10-18,11,Dada Jean,Sécurité et entretien,06:00,2026-10-18 05:51,2026-10-18 17:50,présent,,QR,synthetique
+713,2026-10-18,6,Faneva,Restaurant,09:00,2026-10-18 08:54,2026-10-18 18:28,présent,,QR,synthetique
+714,2026-10-18,12,Faustin,Sécurité et entretien,18:00,2026-10-18 18:03,2026-10-19 06:19,présent,,QR,synthetique
+715,2026-10-18,15,Iris,Ménage et cuisine,08:00,2026-10-18 08:30,2026-10-18 16:48,retard,,QR,synthetique
+716,2026-10-18,17,Luanah,Coiffure,08:00,2026-10-18 07:56,2026-10-18 17:15,présent,,QR,synthetique
+717,2026-10-18,9,Mampionona,Piscine,08:00,2026-10-18 08:04,2026-10-18 16:49,présent,,QR,synthetique
+718,2026-10-18,7,Mi,Restaurant,10:00,2026-10-18 09:56,2026-10-18 19:14,présent,,QR,synthetique
+719,2026-10-18,3,Mireille,Achats et logistique,08:00,,,absent,False,manuel,synthetique
+720,2026-10-18,1,Narindra,Direction générale,08:00,,,absent,True,QR,synthetique
+721,2026-10-18,5,Nirina,Restaurant,08:00,2026-10-18 07:59,2026-10-18 16:45,présent,,QR,synthetique
+722,2026-10-18,4,Njaka,Restaurant,08:30,2026-10-18 08:25,2026-10-18 17:54,présent,,QR,synthetique
+723,2026-10-18,8,Nomace,Hôtel,08:00,2026-10-18 07:58,2026-10-18 16:57,présent,,QR,synthetique
+724,2026-10-18,16,Nondy,Cyber,08:00,2026-10-18 07:54,2026-10-18 16:52,présent,,QR,synthetique
+725,2026-10-18,14,Tahiry,Ménage et cuisine,08:00,2026-10-18 07:56,2026-10-18 17:11,présent,,QR,synthetique
+726,2026-10-18,13,Tsiory,Ménage et cuisine,08:00,2026-10-18 08:03,2026-10-18 16:59,présent,,QR,synthetique
+727,2026-10-19,11,Dada Jean,Sécurité et entretien,06:00,2026-10-19 06:39,2026-10-19 17:59,retard,,QR,synthetique
+728,2026-10-19,12,Faustin,Sécurité et entretien,18:00,2026-10-19 17:57,2026-10-20 05:46,présent,,QR,synthetique
+729,2026-10-20,10,Aina,Accueil,08:00,2026-10-20 08:01,2026-10-20 16:59,présent,,QR,synthetique
+730,2026-10-20,2,Amboara,Direction générale,08:00,2026-10-20 08:00,2026-10-20 17:21,présent,,QR,synthetique
+731,2026-10-20,11,Dada Jean,Sécurité et entretien,06:00,2026-10-20 06:24,2026-10-20 17:48,retard,,QR,synthetique
+732,2026-10-20,6,Faneva,Restaurant,09:00,2026-10-20 09:03,2026-10-20 17:56,présent,,QR,synthetique
+733,2026-10-20,12,Faustin,Sécurité et entretien,18:00,2026-10-20 17:55,2026-10-21 05:45,présent,,QR,synthetique
+734,2026-10-20,15,Iris,Ménage et cuisine,08:00,2026-10-20 08:05,2026-10-20 17:06,présent,,QR,synthetique
+735,2026-10-20,17,Luanah,Coiffure,08:00,2026-10-20 08:00,2026-10-20 17:09,présent,,QR,synthetique
+736,2026-10-20,9,Mampionona,Piscine,08:00,2026-10-20 08:05,2026-10-20 17:13,présent,,manuel,synthetique
+737,2026-10-20,7,Mi,Restaurant,10:00,2026-10-20 09:56,2026-10-20 19:10,présent,,QR,synthetique
+738,2026-10-20,3,Mireille,Achats et logistique,08:00,2026-10-20 07:58,2026-10-20 17:17,présent,,QR,synthetique
+739,2026-10-20,1,Narindra,Direction générale,08:00,2026-10-20 08:00,2026-10-20 16:57,présent,,QR,synthetique
+740,2026-10-20,5,Nirina,Restaurant,08:00,,,absent,True,QR,synthetique
+741,2026-10-20,4,Njaka,Restaurant,08:30,2026-10-20 08:39,2026-10-20 17:58,présent,,QR,synthetique
+742,2026-10-20,8,Nomace,Hôtel,08:00,2026-10-20 07:58,2026-10-20 16:58,présent,,QR,synthetique
+743,2026-10-20,16,Nondy,Cyber,08:00,2026-10-20 07:59,2026-10-20 17:14,présent,,QR,synthetique
+744,2026-10-20,14,Tahiry,Ménage et cuisine,08:00,2026-10-20 07:55,2026-10-20 17:04,présent,,QR,synthetique
+745,2026-10-20,13,Tsiory,Ménage et cuisine,08:00,2026-10-20 08:08,2026-10-20 17:28,présent,,QR,synthetique
+746,2026-10-21,10,Aina,Accueil,08:00,2026-10-21 08:03,2026-10-21 17:26,présent,,QR,synthetique
+747,2026-10-21,2,Amboara,Direction générale,08:00,2026-10-21 08:53,2026-10-21 17:09,retard,,manuel,synthetique
+748,2026-10-21,11,Dada Jean,Sécurité et entretien,06:00,2026-10-21 05:58,2026-10-21 18:16,présent,,QR,synthetique
+749,2026-10-21,6,Faneva,Restaurant,09:00,2026-10-21 08:55,2026-10-21 18:14,présent,,QR,synthetique
+750,2026-10-21,12,Faustin,Sécurité et entretien,18:00,2026-10-21 18:01,2026-10-22 06:06,présent,,QR,synthetique
+751,2026-10-21,15,Iris,Ménage et cuisine,08:00,2026-10-21 08:01,2026-10-21 17:01,présent,,QR,synthetique
+752,2026-10-21,17,Luanah,Coiffure,08:00,2026-10-21 08:00,2026-10-21 17:13,présent,,manuel,synthetique
+753,2026-10-21,9,Mampionona,Piscine,08:00,2026-10-21 07:57,2026-10-21 17:11,présent,,QR,synthetique
+754,2026-10-21,7,Mi,Restaurant,10:00,2026-10-21 09:53,2026-10-21 18:55,présent,,QR,synthetique
+755,2026-10-21,3,Mireille,Achats et logistique,08:00,2026-10-21 07:51,2026-10-21 17:20,présent,,QR,synthetique
+756,2026-10-21,1,Narindra,Direction générale,08:00,2026-10-21 08:01,2026-10-21 17:04,présent,,QR,synthetique
+757,2026-10-21,5,Nirina,Restaurant,08:00,2026-10-21 07:58,2026-10-21 16:56,présent,,QR,synthetique
+758,2026-10-21,4,Njaka,Restaurant,08:30,2026-10-21 08:27,2026-10-21 17:38,présent,,QR,synthetique
+759,2026-10-21,8,Nomace,Hôtel,08:00,2026-10-21 08:04,2026-10-21 17:13,présent,,QR,synthetique
+760,2026-10-21,16,Nondy,Cyber,08:00,2026-10-21 07:52,2026-10-21 17:22,présent,,QR,synthetique
+761,2026-10-21,14,Tahiry,Ménage et cuisine,08:00,2026-10-21 08:39,2026-10-21 17:13,retard,,QR,synthetique
+762,2026-10-21,13,Tsiory,Ménage et cuisine,08:00,2026-10-21 08:01,2026-10-21 16:51,présent,,QR,synthetique
+763,2026-10-22,10,Aina,Accueil,08:00,2026-10-22 07:53,2026-10-22 16:47,présent,,QR,synthetique
+764,2026-10-22,2,Amboara,Direction générale,08:00,2026-10-22 07:52,2026-10-22 17:11,présent,,QR,synthetique
+765,2026-10-22,11,Dada Jean,Sécurité et entretien,06:00,2026-10-22 05:56,2026-10-22 18:10,présent,,QR,synthetique
+766,2026-10-22,6,Faneva,Restaurant,09:00,2026-10-22 09:12,2026-10-22 18:12,retard,,QR,synthetique
+767,2026-10-22,12,Faustin,Sécurité et entretien,18:00,,,absent,True,QR,synthetique
+768,2026-10-22,15,Iris,Ménage et cuisine,08:00,2026-10-22 08:10,2026-10-22 17:21,présent,,QR,synthetique
+769,2026-10-22,17,Luanah,Coiffure,08:00,2026-10-22 07:54,2026-10-22 16:55,présent,,QR,synthetique
+770,2026-10-22,9,Mampionona,Piscine,08:00,2026-10-22 07:57,2026-10-22 17:14,présent,,QR,synthetique
+771,2026-10-22,7,Mi,Restaurant,10:00,2026-10-22 10:06,2026-10-22 19:03,présent,,QR,synthetique
+772,2026-10-22,3,Mireille,Achats et logistique,08:00,2026-10-22 08:00,2026-10-22 17:25,présent,,manuel,synthetique
+773,2026-10-22,1,Narindra,Direction générale,08:00,2026-10-22 08:06,2026-10-22 16:46,présent,,QR,synthetique
+774,2026-10-22,5,Nirina,Restaurant,08:00,2026-10-22 07:53,2026-10-22 16:58,présent,,QR,synthetique
+775,2026-10-22,4,Njaka,Restaurant,08:30,2026-10-22 08:30,2026-10-22 17:18,présent,,QR,synthetique
+776,2026-10-22,8,Nomace,Hôtel,08:00,2026-10-22 08:00,2026-10-22 17:11,présent,,QR,synthetique
+777,2026-10-22,16,Nondy,Cyber,08:00,2026-10-22 08:00,2026-10-22 17:06,présent,,QR,synthetique
+778,2026-10-22,14,Tahiry,Ménage et cuisine,08:00,2026-10-22 08:04,2026-10-22 17:11,présent,,QR,synthetique
+779,2026-10-22,13,Tsiory,Ménage et cuisine,08:00,2026-10-22 07:59,2026-10-22 17:18,présent,,QR,synthetique
+780,2026-10-23,10,Aina,Accueil,08:00,2026-10-23 07:58,2026-10-23 17:25,présent,,QR,synthetique
+781,2026-10-23,2,Amboara,Direction générale,08:00,2026-10-23 07:56,2026-10-23 17:12,présent,,QR,synthetique
+782,2026-10-23,11,Dada Jean,Sécurité et entretien,06:00,2026-10-23 05:55,2026-10-23 17:57,présent,,QR,synthetique
+783,2026-10-23,6,Faneva,Restaurant,09:00,2026-10-23 08:57,2026-10-23 18:26,présent,,QR,synthetique
+784,2026-10-23,12,Faustin,Sécurité et entretien,18:00,2026-10-23 17:52,2026-10-24 06:08,présent,,QR,synthetique
+785,2026-10-23,15,Iris,Ménage et cuisine,08:00,,,absent,True,QR,synthetique
+786,2026-10-23,17,Luanah,Coiffure,08:00,2026-10-23 07:57,2026-10-23 17:05,présent,,QR,synthetique
+787,2026-10-23,9,Mampionona,Piscine,08:00,2026-10-23 08:02,2026-10-23 17:14,présent,,QR,synthetique
+788,2026-10-23,7,Mi,Restaurant,10:00,2026-10-23 10:04,2026-10-23 19:08,présent,,QR,synthetique
+789,2026-10-23,3,Mireille,Achats et logistique,08:00,2026-10-23 08:00,2026-10-23 17:29,présent,,QR,synthetique
+790,2026-10-23,1,Narindra,Direction générale,08:00,2026-10-23 08:01,2026-10-23 17:10,présent,,QR,synthetique
+791,2026-10-23,5,Nirina,Restaurant,08:00,2026-10-23 08:10,2026-10-23 17:20,présent,,QR,synthetique
+792,2026-10-23,4,Njaka,Restaurant,08:30,2026-10-23 09:25,2026-10-23 17:36,retard,,QR,synthetique
+793,2026-10-23,8,Nomace,Hôtel,08:00,2026-10-23 07:59,2026-10-23 17:29,présent,,QR,synthetique
+794,2026-10-23,16,Nondy,Cyber,08:00,2026-10-23 07:54,2026-10-23 17:01,présent,,QR,synthetique
+795,2026-10-23,14,Tahiry,Ménage et cuisine,08:00,2026-10-23 08:00,2026-10-23 17:27,présent,,QR,synthetique
+796,2026-10-23,13,Tsiory,Ménage et cuisine,08:00,2026-10-23 07:58,2026-10-23 17:20,présent,,QR,synthetique
+797,2026-10-24,10,Aina,Accueil,08:00,2026-10-24 07:56,2026-10-24 17:11,présent,,QR,synthetique
+798,2026-10-24,2,Amboara,Direction générale,08:00,2026-10-24 08:05,2026-10-24 16:58,présent,,QR,synthetique
+799,2026-10-24,11,Dada Jean,Sécurité et entretien,06:00,2026-10-24 05:57,2026-10-24 18:07,présent,,QR,synthetique
+800,2026-10-24,6,Faneva,Restaurant,09:00,2026-10-24 08:59,2026-10-24 18:01,présent,,QR,synthetique
+801,2026-10-24,12,Faustin,Sécurité et entretien,18:00,2026-10-24 18:07,2026-10-25 05:59,présent,,QR,synthetique
+802,2026-10-24,15,Iris,Ménage et cuisine,08:00,2026-10-24 08:02,2026-10-24 17:27,présent,,QR,synthetique
+803,2026-10-24,17,Luanah,Coiffure,08:00,2026-10-24 08:19,2026-10-24 16:56,retard,,QR,synthetique
+804,2026-10-24,9,Mampionona,Piscine,08:00,2026-10-24 07:53,2026-10-24 17:26,présent,,QR,synthetique
+805,2026-10-24,7,Mi,Restaurant,10:00,2026-10-24 09:53,2026-10-24 18:57,présent,,QR,synthetique
+806,2026-10-24,3,Mireille,Achats et logistique,08:00,2026-10-24 08:43,2026-10-24 16:59,retard,,QR,synthetique
+807,2026-10-24,1,Narindra,Direction générale,08:00,2026-10-24 08:14,2026-10-24 17:01,retard,,QR,synthetique
+808,2026-10-24,5,Nirina,Restaurant,08:00,2026-10-24 07:58,2026-10-24 17:17,présent,,QR,synthetique
+809,2026-10-24,4,Njaka,Restaurant,08:30,2026-10-24 08:45,2026-10-24 17:17,retard,,QR,synthetique
+810,2026-10-24,8,Nomace,Hôtel,08:00,2026-10-24 07:57,2026-10-24 16:45,présent,,QR,synthetique
+811,2026-10-24,16,Nondy,Cyber,08:00,2026-10-24 07:53,2026-10-24 17:19,présent,,QR,synthetique
+812,2026-10-24,14,Tahiry,Ménage et cuisine,08:00,2026-10-24 08:15,2026-10-24 17:18,retard,,QR,synthetique
+813,2026-10-24,13,Tsiory,Ménage et cuisine,08:00,2026-10-24 08:01,2026-10-24 17:02,présent,,QR,synthetique
+814,2026-10-25,10,Aina,Accueil,08:00,2026-10-25 07:56,2026-10-25 17:03,présent,,manuel,synthetique
+815,2026-10-25,2,Amboara,Direction générale,08:00,2026-10-25 08:04,2026-10-25 16:46,présent,,QR,synthetique
+816,2026-10-25,11,Dada Jean,Sécurité et entretien,06:00,2026-10-25 06:49,2026-10-25 18:29,retard,,QR,synthetique
+817,2026-10-25,6,Faneva,Restaurant,09:00,2026-10-25 09:01,2026-10-25 18:05,présent,,QR,synthetique
+818,2026-10-25,12,Faustin,Sécurité et entretien,18:00,2026-10-25 17:53,2026-10-26 05:57,présent,,QR,synthetique
+819,2026-10-25,15,Iris,Ménage et cuisine,08:00,2026-10-25 08:02,2026-10-25 17:15,présent,,QR,synthetique
+820,2026-10-25,17,Luanah,Coiffure,08:00,2026-10-25 07:54,2026-10-25 17:15,présent,,QR,synthetique
+821,2026-10-25,9,Mampionona,Piscine,08:00,,,absent,True,manuel,synthetique
+822,2026-10-25,7,Mi,Restaurant,10:00,2026-10-25 10:11,2026-10-25 19:11,retard,,QR,synthetique
+823,2026-10-25,3,Mireille,Achats et logistique,08:00,2026-10-25 08:08,2026-10-25 16:55,présent,,QR,synthetique
+824,2026-10-25,1,Narindra,Direction générale,08:00,2026-10-25 07:58,2026-10-25 17:29,présent,,QR,synthetique
+825,2026-10-25,5,Nirina,Restaurant,08:00,2026-10-25 08:07,2026-10-25 17:03,présent,,QR,synthetique
+826,2026-10-25,4,Njaka,Restaurant,08:30,2026-10-25 08:25,2026-10-25 17:42,présent,,QR,synthetique
+827,2026-10-25,8,Nomace,Hôtel,08:00,2026-10-25 07:58,2026-10-25 16:45,présent,,QR,synthetique
+828,2026-10-25,16,Nondy,Cyber,08:00,,,absent,True,QR,synthetique
+829,2026-10-25,14,Tahiry,Ménage et cuisine,08:00,2026-10-25 08:07,2026-10-25 16:58,présent,,QR,synthetique
+830,2026-10-25,13,Tsiory,Ménage et cuisine,08:00,2026-10-25 07:53,2026-10-25 17:08,présent,,QR,synthetique
+831,2026-10-26,11,Dada Jean,Sécurité et entretien,06:00,2026-10-26 05:53,2026-10-26 18:13,présent,,QR,synthetique
+832,2026-10-26,12,Faustin,Sécurité et entretien,18:00,2026-10-26 18:05,2026-10-27 06:17,présent,,QR,synthetique
+833,2026-10-27,10,Aina,Accueil,08:00,2026-10-27 08:03,2026-10-27 17:17,présent,,QR,synthetique
+834,2026-10-27,2,Amboara,Direction générale,08:00,2026-10-27 07:55,2026-10-27 16:54,présent,,manuel,synthetique
+835,2026-10-27,11,Dada Jean,Sécurité et entretien,06:00,2026-10-27 06:39,2026-10-27 18:20,retard,,QR,synthetique
+836,2026-10-27,6,Faneva,Restaurant,09:00,2026-10-27 08:54,2026-10-27 17:51,présent,,QR,synthetique
+837,2026-10-27,12,Faustin,Sécurité et entretien,18:00,2026-10-27 18:00,2026-10-28 06:29,présent,,QR,synthetique
+838,2026-10-27,15,Iris,Ménage et cuisine,08:00,2026-10-27 07:58,2026-10-27 17:28,présent,,QR,synthetique
+839,2026-10-27,17,Luanah,Coiffure,08:00,2026-10-27 07:55,2026-10-27 17:25,présent,,QR,synthetique
+840,2026-10-27,9,Mampionona,Piscine,08:00,2026-10-27 08:10,2026-10-27 17:06,présent,,QR,synthetique
+841,2026-10-27,7,Mi,Restaurant,10:00,2026-10-27 10:00,2026-10-27 19:07,présent,,QR,synthetique
+842,2026-10-27,3,Mireille,Achats et logistique,08:00,2026-10-27 08:04,2026-10-27 16:45,présent,,QR,synthetique
+843,2026-10-27,1,Narindra,Direction générale,08:00,2026-10-27 08:02,2026-10-27 17:17,présent,,QR,synthetique
+844,2026-10-27,5,Nirina,Restaurant,08:00,2026-10-27 07:54,2026-10-27 17:16,présent,,QR,synthetique
+845,2026-10-27,4,Njaka,Restaurant,08:30,2026-10-27 08:28,2026-10-27 17:18,présent,,QR,synthetique
+846,2026-10-27,8,Nomace,Hôtel,08:00,2026-10-27 07:57,2026-10-27 17:27,présent,,QR,synthetique
+847,2026-10-27,16,Nondy,Cyber,08:00,2026-10-27 07:57,2026-10-27 17:07,présent,,QR,synthetique
+848,2026-10-27,14,Tahiry,Ménage et cuisine,08:00,2026-10-27 07:58,2026-10-27 16:57,présent,,QR,synthetique
+849,2026-10-27,13,Tsiory,Ménage et cuisine,08:00,2026-10-27 08:03,2026-10-27 16:55,présent,,QR,synthetique
+850,2026-10-28,10,Aina,Accueil,08:00,2026-10-28 07:56,2026-10-28 16:46,présent,,QR,synthetique
+851,2026-10-28,2,Amboara,Direction générale,08:00,2026-10-28 07:58,2026-10-28 17:28,présent,,QR,synthetique
+852,2026-10-28,11,Dada Jean,Sécurité et entretien,06:00,2026-10-28 05:56,2026-10-28 18:13,présent,,QR,synthetique
+853,2026-10-28,6,Faneva,Restaurant,09:00,2026-10-28 08:52,2026-10-28 18:27,présent,,QR,synthetique
+854,2026-10-28,12,Faustin,Sécurité et entretien,18:00,2026-10-28 17:51,2026-10-29 06:28,présent,,QR,synthetique
+855,2026-10-28,15,Iris,Ménage et cuisine,08:00,2026-10-28 08:00,2026-10-28 17:27,présent,,QR,synthetique
+856,2026-10-28,17,Luanah,Coiffure,08:00,2026-10-28 07:52,2026-10-28 17:16,présent,,QR,synthetique
+857,2026-10-28,9,Mampionona,Piscine,08:00,2026-10-28 07:51,2026-10-28 17:21,présent,,QR,synthetique
+858,2026-10-28,7,Mi,Restaurant,10:00,2026-10-28 10:02,2026-10-28 19:23,présent,,QR,synthetique
+859,2026-10-28,3,Mireille,Achats et logistique,08:00,2026-10-28 08:03,2026-10-28 17:24,présent,,QR,synthetique
+860,2026-10-28,1,Narindra,Direction générale,08:00,2026-10-28 08:00,2026-10-28 16:51,présent,,QR,synthetique
+861,2026-10-28,5,Nirina,Restaurant,08:00,2026-10-28 07:51,2026-10-28 17:29,présent,,QR,synthetique
+862,2026-10-28,4,Njaka,Restaurant,08:30,2026-10-28 08:58,2026-10-28 17:30,retard,,QR,synthetique
+863,2026-10-28,8,Nomace,Hôtel,08:00,2026-10-28 07:57,2026-10-28 17:04,présent,,QR,synthetique
+864,2026-10-28,16,Nondy,Cyber,08:00,2026-10-28 08:12,2026-10-28 17:14,retard,,QR,synthetique
+865,2026-10-28,14,Tahiry,Ménage et cuisine,08:00,2026-10-28 07:59,2026-10-28 17:01,présent,,QR,synthetique
+866,2026-10-28,13,Tsiory,Ménage et cuisine,08:00,2026-10-28 08:01,2026-10-28 16:58,présent,,QR,synthetique
+867,2026-10-29,10,Aina,Accueil,08:00,2026-10-29 07:59,2026-10-29 17:00,présent,,QR,synthetique
+868,2026-10-29,2,Amboara,Direction générale,08:00,2026-10-29 07:58,2026-10-29 17:26,présent,,QR,synthetique
+869,2026-10-29,11,Dada Jean,Sécurité et entretien,06:00,2026-10-29 06:08,2026-10-29 18:02,présent,,QR,synthetique
+870,2026-10-29,6,Faneva,Restaurant,09:00,2026-10-29 08:59,2026-10-29 18:14,présent,,QR,synthetique
+871,2026-10-29,12,Faustin,Sécurité et entretien,18:00,2026-10-29 17:53,2026-10-30 06:13,présent,,QR,synthetique
+872,2026-10-29,15,Iris,Ménage et cuisine,08:00,2026-10-29 08:13,2026-10-29 16:50,retard,,QR,synthetique
+873,2026-10-29,17,Luanah,Coiffure,08:00,2026-10-29 08:06,2026-10-29 16:46,présent,,manuel,synthetique
+874,2026-10-29,9,Mampionona,Piscine,08:00,2026-10-29 07:58,2026-10-29 17:08,présent,,QR,synthetique
+875,2026-10-29,7,Mi,Restaurant,10:00,2026-10-29 10:00,2026-10-29 19:23,présent,,QR,synthetique
+876,2026-10-29,3,Mireille,Achats et logistique,08:00,2026-10-29 08:51,2026-10-29 16:52,retard,,QR,synthetique
+877,2026-10-29,1,Narindra,Direction générale,08:00,2026-10-29 08:04,2026-10-29 17:29,présent,,QR,synthetique
+878,2026-10-29,5,Nirina,Restaurant,08:00,2026-10-29 08:04,2026-10-29 17:21,présent,,QR,synthetique
+879,2026-10-29,4,Njaka,Restaurant,08:30,2026-10-29 08:21,2026-10-29 17:48,présent,,QR,synthetique
+880,2026-10-29,8,Nomace,Hôtel,08:00,,,absent,True,QR,synthetique
+881,2026-10-29,16,Nondy,Cyber,08:00,2026-10-29 08:00,2026-10-29 16:48,présent,,QR,synthetique
+882,2026-10-29,14,Tahiry,Ménage et cuisine,08:00,2026-10-29 08:06,2026-10-29 17:27,présent,,QR,synthetique
+883,2026-10-29,13,Tsiory,Ménage et cuisine,08:00,2026-10-29 08:01,2026-10-29 17:21,présent,,QR,synthetique
+884,2026-10-30,10,Aina,Accueil,08:00,2026-10-30 07:54,2026-10-30 16:56,présent,,QR,synthetique
+885,2026-10-30,2,Amboara,Direction générale,08:00,2026-10-30 08:01,2026-10-30 16:55,présent,,manuel,synthetique
+886,2026-10-30,11,Dada Jean,Sécurité et entretien,06:00,2026-10-30 05:57,2026-10-30 18:28,présent,,QR,synthetique
+887,2026-10-30,6,Faneva,Restaurant,09:00,2026-10-30 08:57,2026-10-30 18:13,présent,,QR,synthetique
+888,2026-10-30,12,Faustin,Sécurité et entretien,18:00,2026-10-30 18:00,2026-10-31 05:59,présent,,QR,synthetique
+889,2026-10-30,15,Iris,Ménage et cuisine,08:00,2026-10-30 07:51,2026-10-30 17:15,présent,,QR,synthetique
+890,2026-10-30,17,Luanah,Coiffure,08:00,2026-10-30 07:55,2026-10-30 17:17,présent,,QR,synthetique
+891,2026-10-30,9,Mampionona,Piscine,08:00,2026-10-30 07:57,2026-10-30 16:55,présent,,QR,synthetique
+892,2026-10-30,7,Mi,Restaurant,10:00,2026-10-30 09:51,2026-10-30 18:47,présent,,QR,synthetique
+893,2026-10-30,3,Mireille,Achats et logistique,08:00,2026-10-30 08:03,2026-10-30 17:24,présent,,QR,synthetique
+894,2026-10-30,1,Narindra,Direction générale,08:00,2026-10-30 07:57,2026-10-30 16:57,présent,,QR,synthetique
+895,2026-10-30,5,Nirina,Restaurant,08:00,2026-10-30 08:49,2026-10-30 17:08,retard,,QR,synthetique
+896,2026-10-30,4,Njaka,Restaurant,08:30,2026-10-30 08:30,2026-10-30 17:32,présent,,QR,synthetique
+897,2026-10-30,8,Nomace,Hôtel,08:00,2026-10-30 07:54,2026-10-30 17:20,présent,,manuel,synthetique
+898,2026-10-30,16,Nondy,Cyber,08:00,2026-10-30 07:59,2026-10-30 16:50,présent,,QR,synthetique
+899,2026-10-30,14,Tahiry,Ménage et cuisine,08:00,2026-10-30 07:56,2026-10-30 17:14,présent,,manuel,synthetique
+900,2026-10-30,13,Tsiory,Ménage et cuisine,08:00,2026-10-30 08:02,2026-10-30 16:53,présent,,QR,synthetique
+901,2026-10-31,10,Aina,Accueil,08:00,2026-10-31 08:00,2026-10-31 17:27,présent,,QR,synthetique
+902,2026-10-31,2,Amboara,Direction générale,08:00,2026-10-31 08:12,2026-10-31 16:48,retard,,QR,synthetique
+903,2026-10-31,11,Dada Jean,Sécurité et entretien,06:00,2026-10-31 05:56,2026-10-31 17:58,présent,,QR,synthetique
+904,2026-10-31,6,Faneva,Restaurant,09:00,,,absent,True,QR,synthetique
+905,2026-10-31,12,Faustin,Sécurité et entretien,18:00,2026-10-31 18:02,2026-11-01 05:51,présent,,QR,synthetique
+906,2026-10-31,15,Iris,Ménage et cuisine,08:00,2026-10-31 08:13,2026-10-31 17:08,retard,,QR,synthetique
+907,2026-10-31,17,Luanah,Coiffure,08:00,2026-10-31 08:56,2026-10-31 16:57,retard,,QR,synthetique
+908,2026-10-31,9,Mampionona,Piscine,08:00,2026-10-31 07:55,2026-10-31 17:17,présent,,QR,synthetique
+909,2026-10-31,7,Mi,Restaurant,10:00,2026-10-31 10:06,2026-10-31 18:48,présent,,QR,synthetique
+910,2026-10-31,3,Mireille,Achats et logistique,08:00,2026-10-31 07:58,2026-10-31 17:07,présent,,QR,synthetique
+911,2026-10-31,1,Narindra,Direction générale,08:00,2026-10-31 07:58,2026-10-31 17:25,présent,,QR,synthetique
+912,2026-10-31,5,Nirina,Restaurant,08:00,2026-10-31 07:57,2026-10-31 16:49,présent,,QR,synthetique
+913,2026-10-31,4,Njaka,Restaurant,08:30,2026-10-31 08:23,2026-10-31 17:33,présent,,QR,synthetique
+914,2026-10-31,8,Nomace,Hôtel,08:00,2026-10-31 08:15,2026-10-31 17:02,retard,,QR,synthetique
+915,2026-10-31,16,Nondy,Cyber,08:00,2026-10-31 07:57,2026-10-31 16:49,présent,,QR,synthetique
+916,2026-10-31,14,Tahiry,Ménage et cuisine,08:00,2026-10-31 08:01,2026-10-31 16:56,présent,,QR,synthetique
+917,2026-10-31,13,Tsiory,Ménage et cuisine,08:00,2026-10-31 07:55,2026-10-31 17:20,présent,,QR,synthetique
+918,2026-11-01,10,Aina,Accueil,08:00,,,absent,False,QR,synthetique
+919,2026-11-01,2,Amboara,Direction générale,08:00,2026-11-01 08:04,2026-11-01 17:21,présent,,QR,synthetique
+920,2026-11-01,11,Dada Jean,Sécurité et entretien,06:00,2026-11-01 05:59,2026-11-01 17:57,présent,,QR,synthetique
+921,2026-11-01,6,Faneva,Restaurant,09:00,2026-11-01 08:56,2026-11-01 18:06,présent,,QR,synthetique
+922,2026-11-01,12,Faustin,Sécurité et entretien,18:00,2026-11-01 18:04,2026-11-02 06:23,présent,,QR,synthetique
+923,2026-11-01,15,Iris,Ménage et cuisine,08:00,2026-11-01 08:00,2026-11-01 17:13,présent,,QR,synthetique
+924,2026-11-01,17,Luanah,Coiffure,08:00,,,absent,False,QR,synthetique
+925,2026-11-01,9,Mampionona,Piscine,08:00,2026-11-01 07:51,2026-11-01 17:09,présent,,QR,synthetique
+926,2026-11-01,7,Mi,Restaurant,10:00,2026-11-01 10:02,2026-11-01 19:02,présent,,QR,synthetique
+927,2026-11-01,3,Mireille,Achats et logistique,08:00,2026-11-01 08:01,2026-11-01 17:13,présent,,QR,synthetique
+928,2026-11-01,1,Narindra,Direction générale,08:00,,,absent,False,QR,synthetique
+929,2026-11-01,5,Nirina,Restaurant,08:00,2026-11-01 07:52,2026-11-01 16:47,présent,,QR,synthetique
+930,2026-11-01,4,Njaka,Restaurant,08:30,2026-11-01 08:29,2026-11-01 17:54,présent,,QR,synthetique
+931,2026-11-01,8,Nomace,Hôtel,08:00,2026-11-01 08:02,2026-11-01 17:02,présent,,QR,synthetique
+932,2026-11-01,16,Nondy,Cyber,08:00,2026-11-01 07:57,2026-11-01 17:14,présent,,QR,synthetique
+933,2026-11-01,14,Tahiry,Ménage et cuisine,08:00,2026-11-01 07:56,2026-11-01 16:46,présent,,manuel,synthetique
+934,2026-11-01,13,Tsiory,Ménage et cuisine,08:00,2026-11-01 07:52,2026-11-01 17:11,présent,,QR,synthetique
+935,2026-11-02,11,Dada Jean,Sécurité et entretien,06:00,2026-11-02 06:02,2026-11-02 17:55,présent,,QR,synthetique
+936,2026-11-02,12,Faustin,Sécurité et entretien,18:00,2026-11-02 18:10,2026-11-03 06:00,présent,,QR,synthetique
+937,2026-11-03,10,Aina,Accueil,08:00,2026-11-03 07:58,2026-11-03 17:01,présent,,QR,synthetique
+938,2026-11-03,2,Amboara,Direction générale,08:00,2026-11-03 07:57,2026-11-03 16:57,présent,,QR,synthetique
+939,2026-11-03,11,Dada Jean,Sécurité et entretien,06:00,2026-11-03 06:09,2026-11-03 18:26,présent,,QR,synthetique
+940,2026-11-03,6,Faneva,Restaurant,09:00,2026-11-03 09:20,2026-11-03 18:06,retard,,QR,synthetique
+941,2026-11-03,12,Faustin,Sécurité et entretien,18:00,2026-11-03 17:58,2026-11-04 06:22,présent,,manuel,synthetique
+942,2026-11-03,15,Iris,Ménage et cuisine,08:00,2026-11-03 08:53,2026-11-03 17:20,retard,,QR,synthetique
+943,2026-11-03,17,Luanah,Coiffure,08:00,2026-11-03 08:04,2026-11-03 17:26,présent,,manuel,synthetique
+944,2026-11-03,9,Mampionona,Piscine,08:00,2026-11-03 07:57,2026-11-03 16:56,présent,,QR,synthetique
+945,2026-11-03,7,Mi,Restaurant,10:00,2026-11-03 09:58,2026-11-03 18:49,présent,,QR,synthetique
+946,2026-11-03,3,Mireille,Achats et logistique,08:00,2026-11-03 08:09,2026-11-03 16:58,présent,,QR,synthetique
+947,2026-11-03,1,Narindra,Direction générale,08:00,2026-11-03 08:10,2026-11-03 16:50,présent,,QR,synthetique
+948,2026-11-03,5,Nirina,Restaurant,08:00,2026-11-03 07:56,2026-11-03 16:49,présent,,QR,synthetique
+949,2026-11-03,4,Njaka,Restaurant,08:30,2026-11-03 08:23,2026-11-03 17:49,présent,,manuel,synthetique
+950,2026-11-03,8,Nomace,Hôtel,08:00,2026-11-03 08:00,2026-11-03 16:57,présent,,QR,synthetique
+951,2026-11-03,16,Nondy,Cyber,08:00,,,absent,True,manuel,synthetique
+952,2026-11-03,14,Tahiry,Ménage et cuisine,08:00,2026-11-03 07:55,2026-11-03 16:52,présent,,QR,synthetique
+953,2026-11-03,13,Tsiory,Ménage et cuisine,08:00,2026-11-03 07:59,2026-11-03 17:23,présent,,QR,synthetique
+954,2026-11-04,10,Aina,Accueil,08:00,2026-11-04 07:55,2026-11-04 17:16,présent,,QR,synthetique
+955,2026-11-04,2,Amboara,Direction générale,08:00,2026-11-04 08:55,2026-11-04 17:02,retard,,QR,synthetique
+956,2026-11-04,11,Dada Jean,Sécurité et entretien,06:00,2026-11-04 05:56,2026-11-04 18:06,présent,,QR,synthetique
+957,2026-11-04,6,Faneva,Restaurant,09:00,2026-11-04 09:05,2026-11-04 18:11,présent,,QR,synthetique
+958,2026-11-04,12,Faustin,Sécurité et entretien,18:00,2026-11-04 17:54,2026-11-05 06:09,présent,,QR,synthetique
+959,2026-11-04,15,Iris,Ménage et cuisine,08:00,2026-11-04 07:56,2026-11-04 16:53,présent,,QR,synthetique
+960,2026-11-04,17,Luanah,Coiffure,08:00,2026-11-04 08:50,2026-11-04 17:12,retard,,QR,synthetique
+961,2026-11-04,9,Mampionona,Piscine,08:00,2026-11-04 07:55,2026-11-04 16:48,présent,,QR,synthetique
+962,2026-11-04,7,Mi,Restaurant,10:00,2026-11-04 09:58,2026-11-04 18:46,présent,,QR,synthetique
+963,2026-11-04,3,Mireille,Achats et logistique,08:00,2026-11-04 08:10,2026-11-04 17:19,présent,,QR,synthetique
+964,2026-11-04,1,Narindra,Direction générale,08:00,2026-11-04 07:56,2026-11-04 17:29,présent,,QR,synthetique
+965,2026-11-04,5,Nirina,Restaurant,08:00,2026-11-04 07:56,2026-11-04 17:20,présent,,QR,synthetique
+966,2026-11-04,4,Njaka,Restaurant,08:30,2026-11-04 08:33,2026-11-04 17:40,présent,,QR,synthetique
+967,2026-11-04,8,Nomace,Hôtel,08:00,2026-11-04 07:54,2026-11-04 16:51,présent,,QR,synthetique
+968,2026-11-04,16,Nondy,Cyber,08:00,2026-11-04 07:57,2026-11-04 17:06,présent,,QR,synthetique
+969,2026-11-04,14,Tahiry,Ménage et cuisine,08:00,2026-11-04 08:04,2026-11-04 16:53,présent,,QR,synthetique
+970,2026-11-04,13,Tsiory,Ménage et cuisine,08:00,2026-11-04 08:55,2026-11-04 16:45,retard,,QR,synthetique
+971,2026-11-05,10,Aina,Accueil,08:00,2026-11-05 08:02,2026-11-05 17:27,présent,,QR,synthetique
+972,2026-11-05,2,Amboara,Direction générale,08:00,2026-11-05 07:57,2026-11-05 17:21,présent,,QR,synthetique
+973,2026-11-05,11,Dada Jean,Sécurité et entretien,06:00,2026-11-05 06:00,2026-11-05 18:13,présent,,QR,synthetique
+974,2026-11-05,6,Faneva,Restaurant,09:00,2026-11-05 09:04,2026-11-05 18:12,présent,,QR,synthetique
+975,2026-11-05,12,Faustin,Sécurité et entretien,18:00,2026-11-05 18:17,2026-11-06 05:45,retard,,QR,synthetique
+976,2026-11-05,15,Iris,Ménage et cuisine,08:00,2026-11-05 07:53,2026-11-05 17:14,présent,,QR,synthetique
+977,2026-11-05,17,Luanah,Coiffure,08:00,2026-11-05 07:58,2026-11-05 17:06,présent,,QR,synthetique
+978,2026-11-05,9,Mampionona,Piscine,08:00,2026-11-05 08:05,2026-11-05 17:29,présent,,QR,synthetique
+979,2026-11-05,7,Mi,Restaurant,10:00,2026-11-05 10:04,2026-11-05 18:48,présent,,QR,synthetique
+980,2026-11-05,3,Mireille,Achats et logistique,08:00,2026-11-05 08:02,2026-11-05 17:08,présent,,QR,synthetique
+981,2026-11-05,1,Narindra,Direction générale,08:00,2026-11-05 07:55,2026-11-05 16:48,présent,,QR,synthetique
+982,2026-11-05,5,Nirina,Restaurant,08:00,2026-11-05 07:54,2026-11-05 17:17,présent,,QR,synthetique
+983,2026-11-05,4,Njaka,Restaurant,08:30,2026-11-05 09:30,2026-11-05 17:55,retard,,QR,synthetique
+984,2026-11-05,8,Nomace,Hôtel,08:00,2026-11-05 08:48,2026-11-05 17:19,retard,,QR,synthetique
+985,2026-11-05,16,Nondy,Cyber,08:00,2026-11-05 07:53,2026-11-05 17:06,présent,,QR,synthetique
+986,2026-11-05,14,Tahiry,Ménage et cuisine,08:00,2026-11-05 07:53,2026-11-05 17:03,présent,,QR,synthetique
+987,2026-11-05,13,Tsiory,Ménage et cuisine,08:00,,,absent,True,QR,synthetique
+988,2026-11-06,10,Aina,Accueil,08:00,2026-11-06 08:20,2026-11-06 17:26,retard,,QR,synthetique
+989,2026-11-06,2,Amboara,Direction générale,08:00,2026-11-06 07:59,2026-11-06 17:14,présent,,QR,synthetique
+990,2026-11-06,11,Dada Jean,Sécurité et entretien,06:00,2026-11-06 06:03,2026-11-06 18:03,présent,,QR,synthetique
+991,2026-11-06,6,Faneva,Restaurant,09:00,2026-11-06 09:25,2026-11-06 18:25,retard,,QR,synthetique
+992,2026-11-06,12,Faustin,Sécurité et entretien,18:00,2026-11-06 17:56,2026-11-07 05:51,présent,,QR,synthetique
+993,2026-11-06,15,Iris,Ménage et cuisine,08:00,2026-11-06 08:51,2026-11-06 17:21,retard,,QR,synthetique
+994,2026-11-06,17,Luanah,Coiffure,08:00,2026-11-06 07:59,2026-11-06 17:29,présent,,QR,synthetique
+995,2026-11-06,9,Mampionona,Piscine,08:00,2026-11-06 07:54,2026-11-06 17:01,présent,,QR,synthetique
+996,2026-11-06,7,Mi,Restaurant,10:00,2026-11-06 10:00,2026-11-06 19:21,présent,,QR,synthetique
+997,2026-11-06,3,Mireille,Achats et logistique,08:00,2026-11-06 07:51,2026-11-06 17:16,présent,,QR,synthetique
+998,2026-11-06,1,Narindra,Direction générale,08:00,,,absent,True,QR,synthetique
+999,2026-11-06,5,Nirina,Restaurant,08:00,2026-11-06 08:25,2026-11-06 17:18,retard,,QR,synthetique
+1000,2026-11-06,4,Njaka,Restaurant,08:30,2026-11-06 08:23,2026-11-06 17:57,présent,,QR,synthetique
+1001,2026-11-06,8,Nomace,Hôtel,08:00,,,absent,True,QR,synthetique
+1002,2026-11-06,16,Nondy,Cyber,08:00,2026-11-06 08:01,2026-11-06 17:29,présent,,QR,synthetique
+1003,2026-11-06,14,Tahiry,Ménage et cuisine,08:00,2026-11-06 08:00,2026-11-06 17:17,présent,,QR,synthetique
+1004,2026-11-06,13,Tsiory,Ménage et cuisine,08:00,2026-11-06 07:56,2026-11-06 16:52,présent,,QR,synthetique
+1005,2026-11-07,10,Aina,Accueil,08:00,2026-11-07 08:05,2026-11-07 17:22,présent,,QR,synthetique
+1006,2026-11-07,2,Amboara,Direction générale,08:00,,,absent,True,QR,synthetique
+1007,2026-11-07,11,Dada Jean,Sécurité et entretien,06:00,2026-11-07 06:00,2026-11-07 17:50,présent,,QR,synthetique
+1008,2026-11-07,6,Faneva,Restaurant,09:00,2026-11-07 09:01,2026-11-07 18:14,présent,,QR,synthetique
+1009,2026-11-07,12,Faustin,Sécurité et entretien,18:00,2026-11-07 18:06,2026-11-08 06:17,présent,,QR,synthetique
+1010,2026-11-07,15,Iris,Ménage et cuisine,08:00,,,absent,False,manuel,synthetique
+1011,2026-11-07,17,Luanah,Coiffure,08:00,2026-11-07 08:07,2026-11-07 17:27,présent,,QR,synthetique
+1012,2026-11-07,9,Mampionona,Piscine,08:00,2026-11-07 08:02,2026-11-07 16:49,présent,,QR,synthetique
+1013,2026-11-07,7,Mi,Restaurant,10:00,2026-11-07 10:39,2026-11-07 18:48,retard,,QR,synthetique
+1014,2026-11-07,3,Mireille,Achats et logistique,08:00,2026-11-07 07:54,2026-11-07 17:20,présent,,QR,synthetique
+1015,2026-11-07,1,Narindra,Direction générale,08:00,2026-11-07 07:56,2026-11-07 16:54,présent,,QR,synthetique
+1016,2026-11-07,5,Nirina,Restaurant,08:00,2026-11-07 07:59,2026-11-07 16:55,présent,,QR,synthetique
+1017,2026-11-07,4,Njaka,Restaurant,08:30,2026-11-07 08:44,2026-11-07 17:33,retard,,manuel,synthetique
+1018,2026-11-07,8,Nomace,Hôtel,08:00,2026-11-07 07:56,2026-11-07 16:48,présent,,manuel,synthetique
+1019,2026-11-07,16,Nondy,Cyber,08:00,2026-11-07 08:01,2026-11-07 16:56,présent,,QR,synthetique
+1020,2026-11-07,14,Tahiry,Ménage et cuisine,08:00,2026-11-07 07:59,2026-11-07 16:48,présent,,QR,synthetique
+1021,2026-11-07,13,Tsiory,Ménage et cuisine,08:00,2026-11-07 07:57,2026-11-07 17:12,présent,,manuel,synthetique
+1022,2026-11-08,10,Aina,Accueil,08:00,2026-11-08 07:51,2026-11-08 17:16,présent,,QR,synthetique
+1023,2026-11-08,2,Amboara,Direction générale,08:00,2026-11-08 07:54,2026-11-08 16:47,présent,,QR,synthetique
+1024,2026-11-08,11,Dada Jean,Sécurité et entretien,06:00,2026-11-08 06:02,2026-11-08 18:04,présent,,QR,synthetique
+1025,2026-11-08,6,Faneva,Restaurant,09:00,2026-11-08 08:58,2026-11-08 18:28,présent,,QR,synthetique
+1026,2026-11-08,12,Faustin,Sécurité et entretien,18:00,2026-11-08 17:53,2026-11-09 06:22,présent,,QR,synthetique
+1027,2026-11-08,15,Iris,Ménage et cuisine,08:00,2026-11-08 08:47,2026-11-08 16:51,retard,,manuel,synthetique
+1028,2026-11-08,17,Luanah,Coiffure,08:00,2026-11-08 07:57,2026-11-08 16:57,présent,,QR,synthetique
+1029,2026-11-08,9,Mampionona,Piscine,08:00,2026-11-08 08:01,2026-11-08 17:15,présent,,QR,synthetique
+1030,2026-11-08,7,Mi,Restaurant,10:00,2026-11-08 10:02,2026-11-08 19:09,présent,,QR,synthetique
+1031,2026-11-08,3,Mireille,Achats et logistique,08:00,2026-11-08 07:56,2026-11-08 16:52,présent,,QR,synthetique
+1032,2026-11-08,1,Narindra,Direction générale,08:00,2026-11-08 08:53,2026-11-08 16:53,retard,,QR,synthetique
+1033,2026-11-08,5,Nirina,Restaurant,08:00,2026-11-08 08:02,2026-11-08 17:05,présent,,manuel,synthetique
+1034,2026-11-08,4,Njaka,Restaurant,08:30,,,absent,False,QR,synthetique
+1035,2026-11-08,8,Nomace,Hôtel,08:00,2026-11-08 07:56,2026-11-08 17:10,présent,,QR,synthetique
+1036,2026-11-08,16,Nondy,Cyber,08:00,,,absent,True,QR,synthetique
+1037,2026-11-08,14,Tahiry,Ménage et cuisine,08:00,2026-11-08 08:04,2026-11-08 17:28,présent,,QR,synthetique
+1038,2026-11-08,13,Tsiory,Ménage et cuisine,08:00,2026-11-08 08:06,2026-11-08 16:58,présent,,QR,synthetique
+1039,2026-11-09,11,Dada Jean,Sécurité et entretien,06:00,2026-11-09 05:53,2026-11-09 18:19,présent,,QR,synthetique
+1040,2026-11-09,12,Faustin,Sécurité et entretien,18:00,2026-11-09 18:00,2026-11-10 05:50,présent,,QR,synthetique
+1041,2026-11-10,10,Aina,Accueil,08:00,2026-11-10 08:04,2026-11-10 17:08,présent,,QR,synthetique
+1042,2026-11-10,2,Amboara,Direction générale,08:00,2026-11-10 08:04,2026-11-10 16:45,présent,,QR,synthetique
+1043,2026-11-10,11,Dada Jean,Sécurité et entretien,06:00,2026-11-10 05:59,2026-11-10 17:50,présent,,QR,synthetique
+1044,2026-11-10,6,Faneva,Restaurant,09:00,2026-11-10 08:56,2026-11-10 18:23,présent,,QR,synthetique
+1045,2026-11-10,12,Faustin,Sécurité et entretien,18:00,2026-11-10 17:59,2026-11-11 05:55,présent,,QR,synthetique
+1046,2026-11-10,15,Iris,Ménage et cuisine,08:00,2026-11-10 08:07,2026-11-10 16:57,présent,,QR,synthetique
+1047,2026-11-10,17,Luanah,Coiffure,08:00,2026-11-10 08:01,2026-11-10 17:26,présent,,QR,synthetique
+1048,2026-11-10,9,Mampionona,Piscine,08:00,2026-11-10 07:56,2026-11-10 17:02,présent,,QR,synthetique
+1049,2026-11-10,7,Mi,Restaurant,10:00,2026-11-10 09:59,2026-11-10 18:52,présent,,QR,synthetique
+1050,2026-11-10,3,Mireille,Achats et logistique,08:00,2026-11-10 08:01,2026-11-10 17:16,présent,,QR,synthetique
+1051,2026-11-10,1,Narindra,Direction générale,08:00,2026-11-10 08:01,2026-11-10 17:01,présent,,QR,synthetique
+1052,2026-11-10,5,Nirina,Restaurant,08:00,2026-11-10 08:03,2026-11-10 16:50,présent,,QR,synthetique
+1053,2026-11-10,4,Njaka,Restaurant,08:30,2026-11-10 08:27,2026-11-10 17:56,présent,,QR,synthetique
+1054,2026-11-10,8,Nomace,Hôtel,08:00,2026-11-10 08:02,2026-11-10 17:10,présent,,QR,synthetique
+1055,2026-11-10,16,Nondy,Cyber,08:00,2026-11-10 07:55,2026-11-10 16:52,présent,,QR,synthetique
+1056,2026-11-10,14,Tahiry,Ménage et cuisine,08:00,2026-11-10 07:53,2026-11-10 17:03,présent,,QR,synthetique
+1057,2026-11-10,13,Tsiory,Ménage et cuisine,08:00,2026-11-10 07:59,2026-11-10 17:15,présent,,QR,synthetique
+1058,2026-11-11,10,Aina,Accueil,08:00,2026-11-11 08:03,2026-11-11 17:15,présent,,manuel,synthetique
+1059,2026-11-11,2,Amboara,Direction générale,08:00,,,absent,True,QR,synthetique
+1060,2026-11-11,11,Dada Jean,Sécurité et entretien,06:00,2026-11-11 05:53,2026-11-11 17:59,présent,,QR,synthetique
+1061,2026-11-11,6,Faneva,Restaurant,09:00,2026-11-11 08:57,2026-11-11 18:08,présent,,manuel,synthetique
+1062,2026-11-11,12,Faustin,Sécurité et entretien,18:00,2026-11-11 17:56,2026-11-12 06:04,présent,,QR,synthetique
+1063,2026-11-11,15,Iris,Ménage et cuisine,08:00,2026-11-11 07:52,2026-11-11 16:47,présent,,QR,synthetique
+1064,2026-11-11,17,Luanah,Coiffure,08:00,2026-11-11 07:59,2026-11-11 17:14,présent,,QR,synthetique
+1065,2026-11-11,9,Mampionona,Piscine,08:00,2026-11-11 07:59,2026-11-11 17:19,présent,,QR,synthetique
+1066,2026-11-11,7,Mi,Restaurant,10:00,2026-11-11 09:57,2026-11-11 19:18,présent,,QR,synthetique
+1067,2026-11-11,3,Mireille,Achats et logistique,08:00,2026-11-11 07:58,2026-11-11 17:19,présent,,QR,synthetique
+1068,2026-11-11,1,Narindra,Direction générale,08:00,2026-11-11 07:56,2026-11-11 16:55,présent,,QR,synthetique
+1069,2026-11-11,5,Nirina,Restaurant,08:00,2026-11-11 08:08,2026-11-11 16:54,présent,,QR,synthetique
+1070,2026-11-11,4,Njaka,Restaurant,08:30,2026-11-11 08:24,2026-11-11 17:19,présent,,manuel,synthetique
+1071,2026-11-11,8,Nomace,Hôtel,08:00,2026-11-11 08:00,2026-11-11 17:25,présent,,QR,synthetique
+1072,2026-11-11,16,Nondy,Cyber,08:00,,,absent,True,QR,synthetique
+1073,2026-11-11,14,Tahiry,Ménage et cuisine,08:00,2026-11-11 08:05,2026-11-11 16:59,présent,,QR,synthetique
+1074,2026-11-11,13,Tsiory,Ménage et cuisine,08:00,,,absent,True,QR,synthetique
+1075,2026-11-12,10,Aina,Accueil,08:00,2026-11-12 07:59,2026-11-12 17:13,présent,,QR,synthetique
+1076,2026-11-12,2,Amboara,Direction générale,08:00,2026-11-12 08:01,2026-11-12 17:11,présent,,QR,synthetique
+1077,2026-11-12,11,Dada Jean,Sécurité et entretien,06:00,2026-11-12 06:28,2026-11-12 18:19,retard,,QR,synthetique
+1078,2026-11-12,6,Faneva,Restaurant,09:00,2026-11-12 09:00,2026-11-12 17:51,présent,,QR,synthetique
+1079,2026-11-12,12,Faustin,Sécurité et entretien,18:00,2026-11-12 17:51,2026-11-13 05:57,présent,,QR,synthetique
+1080,2026-11-12,15,Iris,Ménage et cuisine,08:00,2026-11-12 08:08,2026-11-12 16:53,présent,,QR,synthetique
+1081,2026-11-12,17,Luanah,Coiffure,08:00,,,absent,True,QR,synthetique
+1082,2026-11-12,9,Mampionona,Piscine,08:00,2026-11-12 07:57,2026-11-12 17:20,présent,,QR,synthetique
+1083,2026-11-12,7,Mi,Restaurant,10:00,2026-11-12 09:55,2026-11-12 18:46,présent,,QR,synthetique
+1084,2026-11-12,3,Mireille,Achats et logistique,08:00,,,absent,False,QR,synthetique
+1085,2026-11-12,1,Narindra,Direction générale,08:00,2026-11-12 08:01,2026-11-12 16:54,présent,,QR,synthetique
+1086,2026-11-12,5,Nirina,Restaurant,08:00,2026-11-12 07:59,2026-11-12 17:18,présent,,QR,synthetique
+1087,2026-11-12,4,Njaka,Restaurant,08:30,2026-11-12 08:29,2026-11-12 17:54,présent,,QR,synthetique
+1088,2026-11-12,8,Nomace,Hôtel,08:00,2026-11-12 08:56,2026-11-12 16:50,retard,,QR,synthetique
+1089,2026-11-12,16,Nondy,Cyber,08:00,2026-11-12 07:59,2026-11-12 16:52,présent,,QR,synthetique
+1090,2026-11-12,14,Tahiry,Ménage et cuisine,08:00,2026-11-12 07:59,2026-11-12 16:55,présent,,QR,synthetique
+1091,2026-11-12,13,Tsiory,Ménage et cuisine,08:00,2026-11-12 08:08,2026-11-12 17:16,présent,,QR,synthetique
+1092,2026-11-13,10,Aina,Accueil,08:00,2026-11-13 07:55,2026-11-13 17:21,présent,,QR,synthetique
+1093,2026-11-13,2,Amboara,Direction générale,08:00,2026-11-13 08:06,2026-11-13 17:21,présent,,QR,synthetique
+1094,2026-11-13,11,Dada Jean,Sécurité et entretien,06:00,2026-11-13 06:01,2026-11-13 18:02,présent,,QR,synthetique
+1095,2026-11-13,6,Faneva,Restaurant,09:00,2026-11-13 09:01,2026-11-13 18:06,présent,,QR,synthetique
+1096,2026-11-13,12,Faustin,Sécurité et entretien,18:00,2026-11-13 18:00,2026-11-14 05:47,présent,,manuel,synthetique
+1097,2026-11-13,15,Iris,Ménage et cuisine,08:00,2026-11-13 08:53,2026-11-13 17:11,retard,,QR,synthetique
+1098,2026-11-13,17,Luanah,Coiffure,08:00,2026-11-13 07:52,2026-11-13 17:01,présent,,QR,synthetique
+1099,2026-11-13,9,Mampionona,Piscine,08:00,,,absent,False,QR,synthetique
+1100,2026-11-13,7,Mi,Restaurant,10:00,2026-11-13 09:57,2026-11-13 18:50,présent,,QR,synthetique
+1101,2026-11-13,3,Mireille,Achats et logistique,08:00,2026-11-13 07:56,2026-11-13 16:52,présent,,QR,synthetique
+1102,2026-11-13,1,Narindra,Direction générale,08:00,2026-11-13 07:57,2026-11-13 17:05,présent,,QR,synthetique
+1103,2026-11-13,5,Nirina,Restaurant,08:00,2026-11-13 08:02,2026-11-13 17:00,présent,,QR,synthetique
+1104,2026-11-13,4,Njaka,Restaurant,08:30,2026-11-13 08:33,2026-11-13 17:15,présent,,QR,synthetique
+1105,2026-11-13,8,Nomace,Hôtel,08:00,2026-11-13 07:56,2026-11-13 17:18,présent,,QR,synthetique
+1106,2026-11-13,16,Nondy,Cyber,08:00,2026-11-13 08:04,2026-11-13 17:11,présent,,QR,synthetique
+1107,2026-11-13,14,Tahiry,Ménage et cuisine,08:00,2026-11-13 08:00,2026-11-13 17:27,présent,,QR,synthetique
+1108,2026-11-13,13,Tsiory,Ménage et cuisine,08:00,2026-11-13 07:56,2026-11-13 17:19,présent,,QR,synthetique
+1109,2026-11-14,10,Aina,Accueil,08:00,,,absent,True,QR,synthetique
+1110,2026-11-14,2,Amboara,Direction générale,08:00,,,absent,True,QR,synthetique
+1111,2026-11-14,11,Dada Jean,Sécurité et entretien,06:00,2026-11-14 05:58,2026-11-14 18:25,présent,,QR,synthetique
+1112,2026-11-14,6,Faneva,Restaurant,09:00,2026-11-14 08:56,2026-11-14 18:08,présent,,QR,synthetique
+1113,2026-11-14,12,Faustin,Sécurité et entretien,18:00,2026-11-14 17:55,2026-11-15 05:48,présent,,QR,synthetique
+1114,2026-11-14,15,Iris,Ménage et cuisine,08:00,2026-11-14 08:48,2026-11-14 17:04,retard,,QR,synthetique
+1115,2026-11-14,17,Luanah,Coiffure,08:00,2026-11-14 08:20,2026-11-14 17:05,retard,,QR,synthetique
+1116,2026-11-14,9,Mampionona,Piscine,08:00,2026-11-14 08:01,2026-11-14 17:25,présent,,QR,synthetique
+1117,2026-11-14,7,Mi,Restaurant,10:00,2026-11-14 09:57,2026-11-14 19:09,présent,,QR,synthetique
+1118,2026-11-14,3,Mireille,Achats et logistique,08:00,2026-11-14 08:31,2026-11-14 16:49,retard,,QR,synthetique
+1119,2026-11-14,1,Narindra,Direction générale,08:00,2026-11-14 07:53,2026-11-14 17:01,présent,,QR,synthetique
+1120,2026-11-14,5,Nirina,Restaurant,08:00,,,absent,True,QR,synthetique
+1121,2026-11-14,4,Njaka,Restaurant,08:30,2026-11-14 08:36,2026-11-14 17:29,présent,,QR,synthetique
+1122,2026-11-14,8,Nomace,Hôtel,08:00,2026-11-14 07:53,2026-11-14 16:51,présent,,QR,synthetique
+1123,2026-11-14,16,Nondy,Cyber,08:00,2026-11-14 07:52,2026-11-14 16:49,présent,,QR,synthetique
+1124,2026-11-14,14,Tahiry,Ménage et cuisine,08:00,2026-11-14 08:00,2026-11-14 16:45,présent,,QR,synthetique
+1125,2026-11-14,13,Tsiory,Ménage et cuisine,08:00,2026-11-14 07:58,2026-11-14 16:45,présent,,QR,synthetique
+1126,2026-11-15,10,Aina,Accueil,08:00,2026-11-15 07:55,2026-11-15 16:46,présent,,QR,synthetique
+1127,2026-11-15,2,Amboara,Direction générale,08:00,2026-11-15 08:01,2026-11-15 17:18,présent,,QR,synthetique
+1128,2026-11-15,11,Dada Jean,Sécurité et entretien,06:00,2026-11-15 05:56,2026-11-15 17:48,présent,,QR,synthetique
+1129,2026-11-15,6,Faneva,Restaurant,09:00,2026-11-15 09:00,2026-11-15 17:54,présent,,QR,synthetique
+1130,2026-11-15,12,Faustin,Sécurité et entretien,18:00,2026-11-15 18:00,2026-11-16 05:47,présent,,QR,synthetique
+1131,2026-11-15,15,Iris,Ménage et cuisine,08:00,2026-11-15 08:06,2026-11-15 17:27,présent,,QR,synthetique
+1132,2026-11-15,17,Luanah,Coiffure,08:00,2026-11-15 08:06,2026-11-15 16:46,présent,,QR,synthetique
+1133,2026-11-15,9,Mampionona,Piscine,08:00,2026-11-15 08:01,2026-11-15 17:15,présent,,QR,synthetique
+1134,2026-11-15,7,Mi,Restaurant,10:00,2026-11-15 10:00,2026-11-15 19:24,présent,,QR,synthetique
+1135,2026-11-15,3,Mireille,Achats et logistique,08:00,2026-11-15 07:58,2026-11-15 17:17,présent,,QR,synthetique
+1136,2026-11-15,1,Narindra,Direction générale,08:00,,,absent,False,QR,synthetique
+1137,2026-11-15,5,Nirina,Restaurant,08:00,2026-11-15 08:03,2026-11-15 17:00,présent,,QR,synthetique
+1138,2026-11-15,4,Njaka,Restaurant,08:30,2026-11-15 08:31,2026-11-15 17:46,présent,,QR,synthetique
+1139,2026-11-15,8,Nomace,Hôtel,08:00,2026-11-15 08:03,2026-11-15 16:54,présent,,manuel,synthetique
+1140,2026-11-15,16,Nondy,Cyber,08:00,2026-11-15 07:59,2026-11-15 17:28,présent,,QR,synthetique
+1141,2026-11-15,14,Tahiry,Ménage et cuisine,08:00,2026-11-15 07:53,2026-11-15 17:22,présent,,QR,synthetique
+1142,2026-11-15,13,Tsiory,Ménage et cuisine,08:00,2026-11-15 07:56,2026-11-15 16:58,présent,,QR,synthetique

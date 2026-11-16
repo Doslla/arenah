@@ -1,0 +1,52 @@
+poste_id,unite,unite_id,intitule,role,est_responsable,vacant
+1,Direction générale,1,PDG,PDG,True,False
+2,Direction générale,1,Conseiller,EMPLOYE,False,False
+3,Direction générale,1,Secrétaire,EMPLOYE,False,True
+4,Direction de l'Administration Générale,2,Directeur,DIRECTEUR,True,False
+5,Ressources humaines,3,Directeur,RH,True,False
+6,Ressources humaines,3,Assistant,ASSISTANT_RH,False,True
+7,Finance et comptabilité,4,Directeur,COMPTABLE,True,False
+8,Finance et comptabilité,4,Comptable,COMPTABLE,False,True
+9,Finance et comptabilité,4,Assistant,ASSISTANT_COMPTABLE,False,True
+10,Commercial et marketing,5,Directeur,EMPLOYE,True,True
+11,Commercial et marketing,5,Assistant,EMPLOYE,False,True
+12,Commercial et marketing,5,Community Manager,EMPLOYE,False,True
+13,Achats et logistique,6,Directeur,RESP_ACHATS,True,False
+14,Achats et logistique,6,Assistant,EMPLOYE,False,True
+15,Achats et logistique,6,Responsable stock,EMPLOYE,False,True
+16,Informatique et technologie,7,Directeur,ADMIN_INFO,True,False
+17,Informatique et technologie,7,Assistant,EMPLOYE,False,True
+18,Secrétariat,8,Secrétaire,EMPLOYE,False,True
+19,Direction d'Exploitation,9,Directrice,DIRECTEUR,True,False
+20,Restaurant,11,Chef,RESPONSABLE_ACTIVITE,True,False
+21,Restaurant,11,Aide cuisinier,EMPLOYE,False,False
+22,Restaurant,11,Caissier,CAISSIER,False,False
+23,Restaurant,11,Serveur,EMPLOYE,False,False
+24,Hôtel,12,Gérant,RESPONSABLE_ACTIVITE,True,False
+25,Hôtel,12,Caissier,CAISSIER,False,True
+26,Hôtel,12,Femme de chambre,EMPLOYE,False,True
+27,Hôtel,12,Serveur,EMPLOYE,False,True
+28,Événementiel,14,Gérant,RESPONSABLE_ACTIVITE,True,False
+29,Événementiel,14,Assistant,EMPLOYE,False,True
+30,Événementiel,14,Logistique,EMPLOYE,False,False
+31,Piscine,15,Responsable,RESPONSABLE_ACTIVITE,True,False
+32,Aire de jeux,16,Responsable,RESPONSABLE_ACTIVITE,True,True
+33,Accueil,18,Responsable,RESPONSABLE_ACTIVITE,True,False
+34,Accueil,18,Assistant,EMPLOYE,False,False
+35,Accueil,18,Caissier,CAISSIER,False,False
+36,Sécurité et entretien,19,Gardien de jour,EMPLOYE,False,False
+37,Sécurité et entretien,19,Gardien de nuit,EMPLOYE,False,False
+38,Sécurité et entretien,19,Entretien,EMPLOYE,False,False
+39,Sécurité et entretien,19,Logistique,EMPLOYE,False,False
+40,Ménage et cuisine,20,Responsable,RESPONSABLE_ACTIVITE,True,False
+41,Ménage et cuisine,20,Ménagère,EMPLOYE,False,False
+42,Ménage et cuisine,20,Ménagère,EMPLOYE,False,False
+43,Cyber,22,Responsable,RESPONSABLE_ACTIVITE,True,False
+44,Cyber,22,Caissier,CAISSIER,False,False
+45,Coiffure,23,Responsable,RESPONSABLE_ACTIVITE,True,True
+46,Coiffure,23,Coiffeur,EMPLOYE,False,False
+47,Pharmacie,24,Pharmacien,EMPLOYE,False,True
+48,Pharmacie,24,Docteur,EMPLOYE,False,True
+49,Boutique,25,Responsable,RESPONSABLE_ACTIVITE,True,True
+50,Salle de sport / Basket / Foot / Volley,27,Responsable,RESPONSABLE_ACTIVITE,True,True
+51,Salle de sport / Basket / Foot / Volley,27,Coach,EMPLOYE,False,True

@@ -1,0 +1,27 @@
+debut,fin,type,libelle,fiabilite
+2025-11-01,2025-11-01,ferie,Toussaint,officiel
+2025-12-25,2025-12-25,ferie,Noël,officiel
+2026-01-01,2026-01-01,ferie,Jour de l'An,officiel
+2026-03-08,2026-03-08,ferie,Journée internationale de la femme,officiel
+2026-03-29,2026-03-29,ferie,Fête des Martyrs,officiel
+2026-04-05,2026-04-05,ferie,Pâques,officiel
+2026-04-06,2026-04-06,ferie,Lundi de Pâques,officiel
+2026-05-01,2026-05-01,ferie,Fête du Travail,officiel
+2026-05-14,2026-05-14,ferie,Ascension,officiel
+2026-05-24,2026-05-24,ferie,Pentecôte,officiel
+2026-05-25,2026-05-25,ferie,Lundi de Pentecôte,officiel
+2026-06-26,2026-06-26,ferie,Fête de l'Indépendance,officiel
+2026-08-15,2026-08-15,ferie,Assomption,officiel
+2026-11-01,2026-11-01,ferie,Toussaint,officiel
+2025-12-20,2026-01-03,grande_fete,Fêtes de fin d'année,à confirmer
+2026-02-14,2026-02-14,grande_fete,Saint-Valentin,à confirmer
+2026-04-04,2026-04-06,grande_fete,Week-end de Pâques,à confirmer
+2026-05-23,2026-05-25,grande_fete,Week-end de Pentecôte,à confirmer
+2026-05-31,2026-05-31,grande_fete,Fête des mères,à confirmer
+2026-06-21,2026-06-21,grande_fete,Fête des pères,à confirmer
+2026-06-24,2026-06-28,grande_fete,Fête de l'Indépendance (festivités),à confirmer
+2026-08-15,2026-08-16,grande_fete,Assomption,à confirmer
+2025-12-20,2026-01-04,vacances_scolaires,Vacances de Noël,approximatif
+2026-03-28,2026-04-12,vacances_scolaires,Vacances de Pâques,approximatif
+2026-07-04,2026-09-13,vacances_scolaires,Grandes vacances,approximatif
+2026-05-01,2026-05-01,fermeture,Fermeture générale (Fête du Travail),observé au Restaurant

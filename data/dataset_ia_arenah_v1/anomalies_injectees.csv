@@ -1,0 +1,75 @@
+anomalie_id,date,activite,table,type,description
+1,2025-11-02,Accueil,clotures,manque_important,écart de -83500 Ar à la clôture
+2,2025-11-07,Ménage et cuisine,encaissements_journaliers,pic_anormal,montant du jour multiplié par un facteur anormal
+3,2025-11-21,Cyber,clotures,manque_important,écart de -47500 Ar à la clôture
+4,2025-11-25,Accueil,clotures,manque_important,écart de -56500 Ar à la clôture
+5,2025-12-02,Accueil,depenses,prix_anormal,Produits d'entretien : 122500 Ar (3 à 5 fois le montant habituel)
+6,2025-12-05,Piscine,sorties_caisse,sortie_sans_justificatif,sortie de 169500 Ar sans autorisation
+7,2025-12-11,Coiffure,sorties_caisse,sortie_sans_justificatif,sortie de 216500 Ar sans autorisation
+8,2025-12-13,Accueil,encaissements_journaliers,pic_anormal,montant du jour multiplié par un facteur anormal
+9,2025-12-14,Ménage et cuisine,clotures,manque_important,écart de -36500 Ar à la clôture
+10,2025-12-14,Piscine,clotures,manque_important,écart de -469500 Ar à la clôture
+11,2025-12-20,Ménage et cuisine,clotures,manque_important,écart de -45500 Ar à la clôture
+12,2025-12-23,Cyber,clotures,manque_important,écart de -44500 Ar à la clôture
+13,2025-12-25,Coiffure,encaissements_journaliers,encaissement_sous_declare,montant du jour multiplié par un facteur anormal
+14,2025-12-25,Coiffure,depenses,prix_anormal,Électricité (quote-part) : 312500 Ar (3 à 5 fois le montant habituel)
+15,2026-01-10,Piscine,clotures,manque_important,écart de -649500 Ar à la clôture
+16,2026-01-31,Piscine,sorties_caisse,sortie_sans_justificatif,sortie de 160500 Ar sans autorisation
+17,2026-01-31,Piscine,clotures,manque_important,écart de -323000 Ar à la clôture
+18,2026-02-10,Piscine,sorties_caisse,sortie_sans_justificatif,sortie de 217500 Ar sans autorisation
+19,2026-02-11,Coiffure,clotures,manque_important,écart de -23500 Ar à la clôture
+20,2026-02-28,Accueil,encaissements_journaliers,encaissement_sous_declare,montant du jour multiplié par un facteur anormal
+21,2026-02-28,Cyber,clotures,manque_important,écart de -50500 Ar à la clôture
+22,2026-03-05,Accueil,sorties_caisse,sortie_sans_justificatif,sortie de 269000 Ar sans autorisation
+23,2026-03-05,Coiffure,clotures,manque_important,écart de -22000 Ar à la clôture
+24,2026-03-19,Ménage et cuisine,clotures,manque_important,écart de -35500 Ar à la clôture
+25,2026-03-29,Cyber,clotures,manque_important,écart de -24500 Ar à la clôture
+26,2026-03-29,Piscine,encaissements_journaliers,pic_anormal,montant du jour multiplié par un facteur anormal
+27,2026-04-08,Piscine,clotures,manque_important,écart de -174500 Ar à la clôture
+28,2026-04-11,Piscine,clotures,manque_important,écart de -259000 Ar à la clôture
+29,2026-04-17,Cyber,clotures,manque_important,écart de -32500 Ar à la clôture
+30,2026-04-24,Coiffure,depenses,prix_anormal,Produits capillaires : 390000 Ar (3 à 5 fois le montant habituel)
+31,2026-04-25,Cyber,sorties_caisse,sortie_sans_justificatif,sortie de 229000 Ar sans autorisation
+32,2026-05-05,Accueil,clotures,manque_important,écart de -67000 Ar à la clôture
+33,2026-05-09,Ménage et cuisine,clotures,manque_important,écart de -21500 Ar à la clôture
+34,2026-05-09,Piscine,clotures,manque_important,écart de -363500 Ar à la clôture
+35,2026-05-12,Piscine,clotures,manque_important,écart de -87500 Ar à la clôture
+36,2026-05-13,Piscine,clotures,manque_important,écart de -55500 Ar à la clôture
+37,2026-05-23,Cyber,encaissements_journaliers,pic_anormal,montant du jour multiplié par un facteur anormal
+38,2026-05-27,Coiffure,encaissements_journaliers,encaissement_sous_declare,montant du jour multiplié par un facteur anormal
+39,2026-05-27,Ménage et cuisine,clotures,manque_important,écart de -27500 Ar à la clôture
+40,2026-06-02,Cyber,depenses,prix_anormal,Papier et encre : 278500 Ar (3 à 5 fois le montant habituel)
+41,2026-06-16,Restaurant,clotures,manque_important,écart de -97000 Ar à la clôture
+42,2026-06-17,Accueil,clotures,manque_important,écart de -63000 Ar à la clôture
+43,2026-06-19,Piscine,clotures,manque_important,écart de -37500 Ar à la clôture
+44,2026-06-20,Ménage et cuisine,clotures,manque_important,écart de -43500 Ar à la clôture
+45,2026-07-03,Piscine,clotures,manque_important,écart de -49000 Ar à la clôture
+46,2026-07-04,Achats et logistique,depenses,prix_anormal,Carburant et transport : 329500 Ar (3 à 5 fois le montant habituel)
+47,2026-07-22,Restaurant,clotures,manque_important,écart de -68000 Ar à la clôture
+48,2026-07-26,Cyber,sorties_caisse,sortie_sans_justificatif,sortie de 245500 Ar sans autorisation
+49,2026-07-30,Ménage et cuisine,clotures,manque_important,écart de -27000 Ar à la clôture
+50,2026-07-31,Piscine,clotures,manque_important,écart de -54000 Ar à la clôture
+51,2026-08-01,Accueil,clotures,manque_important,écart de -170000 Ar à la clôture
+52,2026-08-01,Ménage et cuisine,encaissements_journaliers,pic_anormal,montant du jour multiplié par un facteur anormal
+53,2026-08-13,Cyber,clotures,manque_important,écart de -37000 Ar à la clôture
+54,2026-08-14,Accueil,clotures,manque_important,écart de -124000 Ar à la clôture
+55,2026-08-21,Cyber,encaissements_journaliers,pic_anormal,montant du jour multiplié par un facteur anormal
+56,2026-08-25,Cyber,clotures,manque_important,écart de -45500 Ar à la clôture
+57,2026-08-25,Ménage et cuisine,encaissements_journaliers,encaissement_sous_declare,montant du jour multiplié par un facteur anormal
+58,2026-08-25,Restaurant,clotures,manque_important,écart de -45500 Ar à la clôture
+59,2026-09-10,Coiffure,encaissements_journaliers,pic_anormal,montant du jour multiplié par un facteur anormal
+60,2026-09-11,Cyber,encaissements_journaliers,encaissement_sous_declare,montant du jour multiplié par un facteur anormal
+61,2026-09-18,Ménage et cuisine,encaissements_journaliers,pic_anormal,montant du jour multiplié par un facteur anormal
+62,2026-09-27,Coiffure,clotures,manque_important,écart de -42500 Ar à la clôture
+63,2026-10-01,Piscine,clotures,manque_important,écart de -75500 Ar à la clôture
+64,2026-10-08,Coiffure,encaissements_journaliers,pic_anormal,montant du jour multiplié par un facteur anormal
+65,2026-10-10,Accueil,clotures,manque_important,écart de -155000 Ar à la clôture
+66,2026-10-16,Coiffure,clotures,manque_important,écart de -24000 Ar à la clôture
+67,2026-10-20,Secrétariat,depenses,prix_anormal,Fournitures de bureau : 655000 Ar (3 à 5 fois le montant habituel)
+68,2026-10-23,Coiffure,encaissements_journaliers,encaissement_sous_declare,montant du jour multiplié par un facteur anormal
+69,2026-10-29,Accueil,clotures,manque_important,écart de -45000 Ar à la clôture
+70,2026-11-04,Accueil,sorties_caisse,sortie_sans_justificatif,sortie de 203500 Ar sans autorisation
+71,2026-11-04,Restaurant,clotures,manque_important,écart de -85000 Ar à la clôture
+72,2026-11-06,Accueil,clotures,manque_important,écart de -30500 Ar à la clôture
+73,2026-11-10,Ménage et cuisine,clotures,manque_important,écart de -19500 Ar à la clôture
+74,2026-11-11,Piscine,encaissements_journaliers,pic_anormal,montant du jour multiplié par un facteur anormal
